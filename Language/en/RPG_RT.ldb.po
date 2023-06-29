@@ -1,0 +1,7727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Valnar D."
+msgstr "Valnar"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Krieger"
+msgstr "Warrior"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "Asgar"
+msgstr ""
+
+#. ID 2
+#. ID 5
+#. ID 11
+#. ID 13
+msgctxt "actors.title"
+msgid "Vampir"
+msgstr "Vampire"
+
+#. ID 3
+msgctxt "actors.name"
+msgid "Ronak"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.title"
+msgid "Höllenbulle"
+msgstr "Hell bull"
+
+#. ID 4
+msgctxt "actors.name"
+msgid "Vincent"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.title"
+msgid "Priester"
+msgstr "Priest"
+
+#. ID 5
+msgctxt "actors.name"
+msgid "Aysha"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.name"
+msgid "Unsichtbar"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.name"
+msgid "Skelett"
+msgstr "Skeleton"
+
+#. ID 7
+#. ID 10
+#. ID 19
+#. ID 22
+msgctxt "actors.title"
+msgid "Kämpfer"
+msgstr "Fighter"
+
+#. ID 8
+msgctxt "actors.name"
+msgid "Dämon"
+msgstr "Demon"
+
+#. ID 8
+#. ID 21
+msgctxt "actors.title"
+msgid "Untoter"
+msgstr "Battlemage"
+
+#. ID 9
+msgctxt "actors.name"
+msgid "Magieskelett"
+msgstr "Skeleton"
+
+#. ID 9
+#. ID 20
+msgctxt "actors.title"
+msgid "Magier"
+msgstr "Mage"
+
+#. ID 10
+msgctxt "actors.name"
+msgid "Golem"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.name"
+msgid "Valnar"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.name"
+msgid "Junge"
+msgstr "Boy"
+
+#. ID 12
+msgctxt "actors.title"
+msgid "Junge"
+msgstr "Boy"
+
+#. ID 13
+msgctxt "actors.name"
+msgid "Alaine"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.name"
+msgid "Dieb"
+msgstr "Thief"
+
+#. ID 15
+msgctxt "actors.name"
+msgid "Drachenfee"
+msgstr "Dragon fairy"
+
+#. ID 15
+msgctxt "actors.title"
+msgid "Fabelwesen"
+msgstr "Mythical creature"
+
+#. ID 17
+msgctxt "actors.name"
+msgid "Opa"
+msgstr "Grandpa"
+
+#. ID 17
+msgctxt "actors.title"
+msgid "Opa"
+msgstr "Grandpa"
+
+#. ID 18
+msgctxt "actors.name"
+msgid "--Perma--"
+msgstr ""
+
+#. ID 19
+msgctxt "actors.name"
+msgid "P-Skelett"
+msgstr ""
+
+#. ID 20
+msgctxt "actors.name"
+msgid "P-MSkelett"
+msgstr ""
+
+#. ID 21
+msgctxt "actors.name"
+msgid "P-Dämon"
+msgstr ""
+
+#. ID 22
+msgctxt "actors.name"
+msgid "P-Golem"
+msgstr ""
+
+#. ID 23
+msgctxt "actors.name"
+msgid "--INPUT--"
+msgstr ""
+
+#. ID 23
+#. ID 24
+msgctxt "actors.title"
+msgid "(RESERVIERT)"
+msgstr ""
+
+#. ID 24
+msgctxt "actors.name"
+msgid "--INPUT2--"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.name"
+msgid "------Feuer-----"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Poisons the enemy"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "%S uses poison"
+msgstr ""
+
+#. ID 2
+#. ID 201
+msgctxt "skills.name"
+msgid "Feuerball"
+msgstr "Fireball"
+
+#. ID 2
+#. ID 201
+msgctxt "skills.description"
+msgid "Ein kleiner Feuerball verbrennt den Gegner"
+msgstr "A small fireball burns the enemy"
+
+#. ID 2
+#. ID 7
+#. ID 201
+msgctxt "skills.using_message1"
+msgid "%S zaubert einen Feuerball !"
+msgstr "%S casts a fireball!"
+
+#. ID 3
+#. ID 86
+msgctxt "skills.name"
+msgid "Feuerstrahl"
+msgstr "Fire Stream"
+
+#. ID 3
+msgctxt "skills.description"
+msgid "Ein heißer Strahl aus Feuer trifft einen Gegner"
+msgstr "A hot stream of fire hits one enemy"
+
+#. ID 3
+#. ID 86
+msgctxt "skills.using_message1"
+msgid "%S zaubert Feuerstrahl !"
+msgstr "%S casts Fire Stream!"
+
+#. ID 4
+msgctxt "skills.name"
+msgid "Feuerschild"
+msgstr "Fire Barrier"
+
+#. ID 4
+msgctxt "skills.description"
+msgid "Erhöht die Abwehr der Gruppe gegen Eiszauber"
+msgstr "Increases group protection against ice spells"
+
+#. ID 4
+msgctxt "skills.using_message1"
+msgid "%S erschafft ein Feuerschild !"
+msgstr "%S creates a fire shield!"
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Feuerregen"
+msgstr "Fire Rain"
+
+#. ID 5
+#. ID 361
+#. ID 362
+#. ID 363
+msgctxt "skills.description"
+msgid "Ein Feuerregen schadet allen Gegnern"
+msgstr "A fire rain damages all enemies"
+
+#. ID 5
+msgctxt "skills.using_message1"
+msgid "%S zaubert Feuerregen !"
+msgstr "%S casts Fire Rain!"
+
+#. ID 6
+#. ID 152
+msgctxt "skills.name"
+msgid "Explosion"
+msgstr "Explosion"
+
+#. ID 6
+msgctxt "skills.description"
+msgid "Eine Explosion schadet einem Gegner"
+msgstr "An explosion damages one enemy"
+
+#. ID 6
+#. ID 152
+msgctxt "skills.using_message1"
+msgid "%S zaubert Explosion !"
+msgstr "%S casts Explosion!"
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Großer Feuerball"
+msgstr "Great Fireball"
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Ein riesiger Feuerball verbrennt einen Gegner"
+msgstr "A giant fireball burns one enemy"
+
+#. ID 8
+msgctxt "skills.name"
+msgid "Flammenstrahl"
+msgstr "Flame Stream"
+
+#. ID 8
+msgctxt "skills.description"
+msgid "Ein großer Flammenstrahl trifft alle Gegner"
+msgstr "A huge flame stream hits all enemies"
+
+#. ID 8
+msgctxt "skills.using_message1"
+msgid "%S zaubert einen Flammenstrahl !"
+msgstr "%S casts a flame stream!"
+
+#. ID 9
+#. ID 195
+msgctxt "skills.name"
+msgid "Flammenmeer"
+msgstr "Flame Tide"
+
+#. ID 9
+msgctxt "skills.description"
+msgid "Ein Flammenmeer geht auf die Gegner nieder"
+msgstr "A flame tide floods all enemies"
+
+#. ID 9
+msgctxt "skills.using_message1"
+msgid "%S zaubert ein Flammenmeer !"
+msgstr "%S casts a flame tide!"
+
+#. ID 10
+msgctxt "skills.name"
+msgid "Meteorregen"
+msgstr "Meteor Shower"
+
+#. ID 10
+msgctxt "skills.description"
+msgid "Meteore regnen auf alle Gegner nieder"
+msgstr "Meteors crash on all enemies"
+
+#. ID 10
+msgctxt "skills.using_message1"
+msgid "%S zaubert Meteorregen !"
+msgstr "%S casts Meteor Shower!"
+
+#. ID 11
+msgctxt "skills.name"
+msgid "Apokalypse"
+msgstr "Apocalypse"
+
+#. ID 11
+msgctxt "skills.description"
+msgid "Sehr starker Zerstörungszauber trifft einen Gegner"
+msgstr "A very powerful destruction spell hits one enemy"
+
+#. ID 11
+msgctxt "skills.using_message1"
+msgid "%S zaubert Apokalypse !"
+msgstr "%S casts Apocalypse!"
+
+#. ID 17
+msgctxt "skills.name"
+msgid "-------Eis--------"
+msgstr ""
+
+#. ID 17
+#. ID 32
+#. ID 33
+#. ID 34
+#. ID 46
+#. ID 47
+#. ID 48
+#. ID 49
+#. ID 60
+#. ID 61
+#. ID 62
+#. ID 63
+#. ID 64
+#. ID 65
+#. ID 66
+#. ID 67
+#. ID 68
+#. ID 69
+#. ID 70
+#. ID 71
+#. ID 72
+#. ID 73
+#. ID 74
+#. ID 75
+#. ID 76
+#. ID 77
+#. ID 84
+#. ID 85
+#. ID 97
+#. ID 98
+#. ID 110
+#. ID 111
+#. ID 134
+#. ID 200
+#. ID 203
+#. ID 204
+#. ID 327
+#. ID 350
+#. ID 410
+#. ID 411
+#. ID 412
+msgctxt "skills.using_message1"
+msgid "%S"
+msgstr ""
+
+#. ID 18
+#. ID 202
+#. ID 339
+msgctxt "skills.name"
+msgid "Eisball"
+msgstr "Ice Bolt"
+
+#. ID 18
+#. ID 202
+#. ID 339
+msgctxt "skills.description"
+msgid "Ein Eisball, der den Gegner schädigt und lähmt"
+msgstr "An ice bolt damges and paralyzes one enemy"
+
+#. ID 18
+#. ID 202
+#. ID 339
+msgctxt "skills.using_message1"
+msgid "%S zaubert einen Eisball !"
+msgstr "%S casts an ice bolt!"
+
+#. ID 19
+#. ID 340
+msgctxt "skills.name"
+msgid "Kältehauch"
+msgstr "Chilling Touch"
+
+#. ID 19
+#. ID 340
+msgctxt "skills.description"
+msgid "Eiskristalle schädigen und lähmen alle Gegner"
+msgstr "Ice crystals damage and paralyze all enemies"
+
+#. ID 19
+#. ID 340
+msgctxt "skills.using_message1"
+msgid "%S zaubert Kältehauch !"
+msgstr "%S casts Chilling Touch!"
+
+#. ID 20
+msgctxt "skills.name"
+msgid "Eisschild"
+msgstr "Ice Barrier"
+
+#. ID 20
+msgctxt "skills.description"
+msgid "Erhöht die Abwehr gegen Feuerzauber"
+msgstr "Increases goup protection against fire spells"
+
+#. ID 20
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eisschild !"
+msgstr "%S casts Ice Barrier!"
+
+#. ID 21
+msgctxt "skills.name"
+msgid "Frostige Klingen"
+msgstr "Freezing Blades"
+
+#. ID 21
+msgctxt "skills.description"
+msgid "Erhöht die Angriffskraft der Gruppe"
+msgstr "Increases attack power of the group"
+
+#. ID 21
+msgctxt "skills.using_message1"
+msgid "%S zaubert Frostige Klingen !"
+msgstr "%S casts Freezing Blades!"
+
+#. ID 22
+#. ID 341
+msgctxt "skills.name"
+msgid "Eisregen"
+msgstr "Ice Rain"
+
+#. ID 22
+#. ID 341
+msgctxt "skills.description"
+msgid "Ein Hagelschauer prasselt auf alle Gegner"
+msgstr "Ice hails down on all enemies"
+
+#. ID 22
+#. ID 341
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eisregen !"
+msgstr "%S casts Ice Rain!"
+
+#. ID 23
+#. ID 342
+msgctxt "skills.name"
+msgid "Eisiger Meteorit"
+msgstr "Ice Meteor"
+
+#. ID 23
+#. ID 342
+msgctxt "skills.description"
+msgid "Ein kalter Meteor aus Eis trifft einen Gegner"
+msgstr "A cold ice meteor hits one enemy"
+
+#. ID 23
+#. ID 342
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eismeteorit !"
+msgstr "%S casts Ice Meteor!"
+
+#. ID 24
+#. ID 343
+msgctxt "skills.name"
+msgid "Verseuchter Eisregen"
+msgstr "Polluted Ice Rain"
+
+#. ID 24
+#. ID 343
+msgctxt "skills.description"
+msgid "Giftiger Eisregen fällt auf alle Gegner (Lähm+Gif)"
+msgstr "Poisonous ice rains down on all enemies"
+
+#. ID 24
+#. ID 343
+msgctxt "skills.using_message1"
+msgid "%S zaubert Verseuchter Eisregen !"
+msgstr "%S casts Polluted Ice Rain!"
+
+#. ID 25
+#. ID 89
+#. ID 143
+#. ID 185
+#. ID 197
+#. ID 344
+msgctxt "skills.name"
+msgid "Eissturm"
+msgstr "Ice Storm"
+
+#. ID 25
+#. ID 344
+msgctxt "skills.description"
+msgid "Hagel von Eissplittern treffen alle Gegner"
+msgstr "Hail of ice splinters hits all enemies"
+
+#. ID 25
+#. ID 89
+#. ID 143
+#. ID 185
+#. ID 197
+#. ID 344
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eissturm !"
+msgstr "%S casts Ice Storm!"
+
+#. ID 26
+msgctxt "skills.name"
+msgid "Eisige Rüstung"
+msgstr "Icy Armor"
+
+#. ID 26
+msgctxt "skills.description"
+msgid "Erhöht die Abwehr der ganzen Gruppe"
+msgstr "Increases defense of the group"
+
+#. ID 26
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eisige Rüstung !"
+msgstr "%S casts Icy Armor!"
+
+#. ID 27
+#. ID 198
+#. ID 345
+msgctxt "skills.name"
+msgid "Schockfrost"
+msgstr "Flash Freeze"
+
+#. ID 27
+#. ID 345
+msgctxt "skills.description"
+msgid "Schadet und lähmt einen Gegner"
+msgstr "Damages and paralyzes one enemy"
+
+#. ID 27
+#. ID 198
+#. ID 345
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schockfrost !"
+msgstr "%S casts Flash Freeze!"
+
+#. ID 33
+msgctxt "skills.name"
+msgid "-------Licht--------"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "Wetter kontrollieren"
+msgstr "Control Weather"
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Lässt ein Gewitter versiegen und stoppt Regen"
+msgstr "Stops rain and thunder storms"
+
+#. ID 35
+#. ID 330
+msgctxt "skills.name"
+msgid "Lichtstrahl"
+msgstr "Light Ray"
+
+#. ID 35
+#. ID 330
+msgctxt "skills.description"
+msgid "Ein gebündelter Lichtstrahl schadet einem Gegner"
+msgstr "A concentrated beam of light damages one enemy"
+
+#. ID 35
+#. ID 330
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lichtstrahl !"
+msgstr "%S casts Light Ray!"
+
+#. ID 36
+#. ID 158
+#. ID 177
+#. ID 331
+msgctxt "skills.name"
+msgid "Lichtblitz"
+msgstr "Light Flash"
+
+#. ID 36
+#. ID 331
+msgctxt "skills.description"
+msgid "Ein geller Blitz blendet alle Gegner"
+msgstr "A glaring flash blinds all enemies"
+
+#. ID 36
+#. ID 158
+#. ID 177
+#. ID 331
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lichtblitz !"
+msgstr "%S casts Light Flash!"
+
+#. ID 38
+#. ID 332
+msgctxt "skills.name"
+msgid "Lichtkugel"
+msgstr "Light Orb"
+
+#. ID 38
+#. ID 332
+msgctxt "skills.description"
+msgid "Schadet und blendet einen Gegner"
+msgstr "Damages and blinds one enemy"
+
+#. ID 38
+#. ID 332
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lichtkugel !"
+msgstr "%S casts Light Orb!"
+
+#. ID 39
+#. ID 333
+msgctxt "skills.name"
+msgid "Heiliger Sturm"
+msgstr "Holy Storm"
+
+#. ID 39
+#. ID 333
+msgctxt "skills.description"
+msgid "Grelles Licht schadet und verwirrt alle Gegner"
+msgstr "Glaring light damages and confuses all enemies"
+
+#. ID 39
+#. ID 333
+msgctxt "skills.using_message1"
+msgid "%S zaubert Heiliger Sturm !"
+msgstr "%S casts Holy Storm!"
+
+#. ID 40
+msgctxt "skills.name"
+msgid "Weiße Kraft"
+msgstr "White Strength"
+
+#. ID 40
+msgctxt "skills.description"
+msgid "Erhöht Geschick und Intelligenz der Gruppe"
+msgstr "Increases agility and mind of the group"
+
+#. ID 40
+msgctxt "skills.using_message1"
+msgid "%S zaubert Weiße Kraft !"
+msgstr "%S casts White Strength!"
+
+#. ID 41
+#. ID 334
+msgctxt "skills.name"
+msgid "Lebensentzug"
+msgstr "Life Drain"
+
+#. ID 41
+#. ID 334
+msgctxt "skills.description"
+msgid "Entzieht LP eines Gegners"
+msgstr "Drains HP of one enemy"
+
+#. ID 41
+#. ID 334
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lebensentzug !"
+msgstr "%S casts Life Drain!"
+
+#. ID 42
+#. ID 335
+msgctxt "skills.name"
+msgid "Lichtexplosion"
+msgstr "Light Explosion"
+
+#. ID 42
+#. ID 335
+msgctxt "skills.description"
+msgid "Schädliches Licht trifft alle Gegner"
+msgstr "Damaging light hits all enemies"
+
+#. ID 42
+#. ID 335
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lichtexplosion !"
+msgstr "%S casts Light Explosion!"
+
+#. ID 43
+#. ID 336
+msgctxt "skills.name"
+msgid "Heiliges Licht"
+msgstr "Holy Light"
+
+#. ID 43
+#. ID 336
+msgctxt "skills.description"
+msgid "Gesegnetes Licht trifft einen Gegner"
+msgstr "Blessed light hits one enemy"
+
+#. ID 43
+#. ID 336
+msgctxt "skills.using_message1"
+msgid "%S zaubert Heiliges Licht !"
+msgstr "%S casts Holy Light!"
+
+#. ID 44
+#. ID 45
+#. ID 82
+#. ID 83
+#. ID 95
+#. ID 96
+#. ID 219
+#. ID 220
+#. ID 221
+#. ID 222
+#. ID 223
+#. ID 224
+#. ID 225
+#. ID 226
+#. ID 227
+#. ID 228
+#. ID 229
+#. ID 230
+#. ID 231
+#. ID 232
+#. ID 233
+#. ID 234
+#. ID 235
+#. ID 236
+#. ID 237
+#. ID 238
+#. ID 239
+#. ID 240
+#. ID 241
+#. ID 242
+#. ID 243
+#. ID 244
+#. ID 245
+#. ID 246
+#. ID 247
+#. ID 248
+#. ID 249
+#. ID 250
+#. ID 251
+#. ID 252
+#. ID 253
+#. ID 254
+#. ID 255
+#. ID 256
+#. ID 257
+#. ID 258
+#. ID 259
+#. ID 260
+#. ID 261
+#. ID 262
+#. ID 263
+#. ID 264
+#. ID 265
+#. ID 266
+#. ID 267
+#. ID 268
+#. ID 269
+#. ID 270
+#. ID 271
+#. ID 272
+#. ID 273
+#. ID 274
+#. ID 275
+#. ID 276
+#. ID 277
+#. ID 278
+#. ID 279
+#. ID 280
+#. ID 281
+#. ID 282
+#. ID 283
+#. ID 284
+#. ID 285
+#. ID 286
+#. ID 287
+#. ID 288
+#. ID 289
+#. ID 290
+#. ID 291
+#. ID 292
+#. ID 293
+#. ID 294
+#. ID 295
+#. ID 296
+#. ID 297
+#. ID 298
+#. ID 299
+#. ID 300
+#. ID 301
+#. ID 302
+#. ID 303
+#. ID 304
+#. ID 305
+#. ID 306
+#. ID 307
+#. ID 308
+#. ID 309
+#. ID 310
+#. ID 311
+#. ID 312
+#. ID 313
+#. ID 314
+#. ID 315
+#. ID 316
+#. ID 317
+#. ID 318
+#. ID 319
+#. ID 320
+#. ID 321
+#. ID 322
+#. ID 323
+#. ID 324
+#. ID 325
+#. ID 326
+msgctxt "skills.name"
+msgid "!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.name"
+msgid "-----Schatten-------"
+msgstr ""
+
+#. ID 50
+#. ID 205
+msgctxt "skills.name"
+msgid "Düstere Wolke"
+msgstr "Dark Cloud"
+
+#. ID 50
+#. ID 205
+msgctxt "skills.description"
+msgid "Lässt einen Gegner erblinden, schadet"
+msgstr "Blinds one enemy"
+
+#. ID 50
+#. ID 205
+msgctxt "skills.using_message1"
+msgid "%S zaubert eine dunkle Wolke !"
+msgstr "%S casts a dark cloud!"
+
+#. ID 51
+#. ID 206
+msgctxt "skills.name"
+msgid "Schwarze Energie"
+msgstr "Black Energy"
+
+#. ID 51
+#. ID 92
+#. ID 206
+msgctxt "skills.description"
+msgid "Schwarze Energie schädigt alle Gegner"
+msgstr "Black energy damages all enemies"
+
+#. ID 51
+#. ID 206
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schwarze Energie !"
+msgstr "%S casts Black Energy!"
+
+#. ID 52
+msgctxt "skills.name"
+msgid "Dunkle Klingen"
+msgstr "Dark Blades"
+
+#. ID 52
+msgctxt "skills.description"
+msgid "Erhöht die Angriffsstärke der Gruppe"
+msgstr "Increases attack of the group"
+
+#. ID 52
+msgctxt "skills.using_message1"
+msgid "%S zaubert Dunkle Klingen !"
+msgstr "%S casts Dark Blades!"
+
+#. ID 53
+#. ID 207
+msgctxt "skills.name"
+msgid "Todeswolke"
+msgstr "Death Cloud"
+
+#. ID 53
+#. ID 207
+msgctxt "skills.description"
+msgid "Eine Wolke aus Todesmagie schädigt einen Gegner"
+msgstr "Cloud of Death Magic damages one enemy"
+
+#. ID 53
+#. ID 207
+msgctxt "skills.using_message1"
+msgid "%S zaubert Todeswolke !"
+msgstr "%S casts Death Cloud!"
+
+#. ID 54
+#. ID 208
+msgctxt "skills.name"
+msgid "Böses Omen"
+msgstr "Evil Omen"
+
+#. ID 54
+#. ID 208
+msgctxt "skills.description"
+msgid "Magie schädigt und verflucht alle Gegner"
+msgstr "Magic damages and curses all enemies"
+
+#. ID 54
+#. ID 208
+msgctxt "skills.using_message1"
+msgid "%S spricht ein böses Omen !"
+msgstr "%S calls an evil omen!"
+
+#. ID 55
+msgctxt "skills.name"
+msgid "Schwarze Aura"
+msgstr "Black Aura"
+
+#. ID 55
+msgctxt "skills.description"
+msgid "Erhöht Abwehr gegen Licht und Schatten der Gruppe"
+msgstr "Increases defense against light and shadow magic"
+
+#. ID 55
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schwarze Aura !"
+msgstr "%S casts Black Aura!"
+
+#. ID 56
+#. ID 148
+#. ID 196
+#. ID 209
+msgctxt "skills.name"
+msgid "Schattenstrahl"
+msgstr "Shadow Ray"
+
+#. ID 56
+#. ID 209
+msgctxt "skills.description"
+msgid "Ein Strahl schwarzer Magie trifft einen Gegner"
+msgstr "A ray of black energy hits one enemy"
+
+#. ID 56
+#. ID 148
+#. ID 196
+#. ID 209
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattenstrahl !"
+msgstr "%S casts Shadow Ray!"
+
+#. ID 57
+#. ID 210
+msgctxt "skills.name"
+msgid "Todesstrudel"
+msgstr "Death Vortex"
+
+#. ID 57
+#. ID 210
+msgctxt "skills.description"
+msgid "Ein Strudel schwarzer Magie schädigt einen Gegner"
+msgstr "A vortex of black energy damages one enemy"
+
+#. ID 57
+#. ID 210
+msgctxt "skills.using_message1"
+msgid "%S zaubert Todesstrudel"
+msgstr "%S casts Death Vortex!"
+
+#. ID 58
+#. ID 199
+#. ID 211
+msgctxt "skills.name"
+msgid "Dunkle Schatten"
+msgstr "Dark Shadows"
+
+#. ID 58
+#. ID 211
+msgctxt "skills.description"
+msgid "Schwarze Schatten schädigen alle Gegner"
+msgstr "Black shadows damage all enemies"
+
+#. ID 58
+#. ID 199
+#. ID 211
+msgctxt "skills.using_message1"
+msgid "%S zaubert Dunkle Schatten !"
+msgstr "%S casts Dark Shadows!"
+
+#. ID 59
+msgctxt "skills.name"
+msgid "Schwarze Macht"
+msgstr "Black Might"
+
+#. ID 59
+msgctxt "skills.description"
+msgid "Erhöht die Macht der ganzen Gruppe"
+msgstr "Increases all stats of the group"
+
+#. ID 59
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schwarze Macht !"
+msgstr "%S casts Black Might!"
+
+#. ID 65
+msgctxt "skills.name"
+msgid "-----Dämonologie----"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.name"
+msgid "Beschwörung lösen"
+msgstr "Release Summon"
+
+#. ID 66
+msgctxt "skills.description"
+msgid "Zerstört alle beschw. und erschaffenen Kreaturen"
+msgstr "Destroys all summoned creatures"
+
+#. ID 67
+msgctxt "skills.name"
+msgid "Skelett beschwören"
+msgstr "Summon Skeleton"
+
+#. ID 67
+msgctxt "skills.description"
+msgid "Beschwört ein Skelett"
+msgstr "Summons a skeleton"
+
+#. ID 68
+msgctxt "skills.name"
+msgid "Skelett beleben"
+msgstr "Summon Skeleton"
+
+#. ID 68
+msgctxt "skills.description"
+msgid "Belebt ein Skelett"
+msgstr "Summons a skeleton"
+
+#. ID 70
+msgctxt "skills.name"
+msgid "Skelettmagier besch."
+msgstr "Summon Skeleton Mage"
+
+#. ID 70
+msgctxt "skills.description"
+msgid "Beschwört einen Skelettmagier"
+msgstr "Summons a Skeleton Mage"
+
+#. ID 71
+msgctxt "skills.name"
+msgid "Skelettmagier beleb."
+msgstr "Summon Skeleton Mage"
+
+#. ID 71
+msgctxt "skills.description"
+msgid "Belebt einen Skelettmagier"
+msgstr "Summons a Skeleton Mage"
+
+#. ID 72
+msgctxt "skills.name"
+msgid "Zuflucht"
+msgstr "Retreat"
+
+#. ID 72
+#. ID 412
+msgctxt "skills.description"
+msgid "Teleportiert in Asgars Schloss und zurück !"
+msgstr "Teleports to Asgar's Castle and back"
+
+#. ID 73
+msgctxt "skills.name"
+msgid "Dämon beschwören"
+msgstr "Summon Demon"
+
+#. ID 73
+msgctxt "skills.description"
+msgid "Beschwört einen kontrollierbaren, starken Dämon"
+msgstr "Summons a controllable and powerful demon"
+
+#. ID 74
+msgctxt "skills.name"
+msgid "Golem beschwören"
+msgstr "Summon Golem"
+
+#. ID 74
+msgctxt "skills.description"
+msgid "Beschwört einen mächtigen Golem"
+msgstr "Summons a powerful golem"
+
+#. ID 75
+msgctxt "skills.name"
+msgid "Schatten des Wolfs"
+msgstr "Wolf Shadow"
+
+#. ID 75
+#. ID 98
+#. ID 411
+msgctxt "skills.description"
+msgid "Verwandlung in einen Wolf"
+msgstr "Transformation into a wolf"
+
+#. ID 76
+msgctxt "skills.name"
+msgid "Fledermausmantel"
+msgstr "Bat Cloak"
+
+#. ID 76
+#. ID 410
+msgctxt "skills.description"
+msgid "Verwandlung in eine Fledermaus"
+msgstr "Transformation into a bat"
+
+#. ID 77
+msgctxt "skills.name"
+msgid "Verwandlung beenden"
+msgstr "Retransform"
+
+#. ID 77
+msgctxt "skills.description"
+msgid "Beendet die Wolfs- oder Fledermausverwandlung"
+msgstr "Ends the wolf or bat transformation"
+
+#. ID 84
+msgctxt "skills.name"
+msgid " "
+msgstr ""
+
+#. ID 85
+msgctxt "skills.name"
+msgid "-------Beschwo-----"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.description"
+msgid "Ein Strahl aus Feuer trifft einen Gegner"
+msgstr "A stream of fire hits one enemy"
+
+#. ID 87
+msgctxt "skills.name"
+msgid "Inferno"
+msgstr "Inferno"
+
+#. ID 87
+msgctxt "skills.description"
+msgid "Feuerfunken treffen alle Gegner"
+msgstr "Fire sparks hit all enemies"
+
+#. ID 87
+msgctxt "skills.using_message1"
+msgid "%S zaubert Inferno !"
+msgstr "%S casts Inferno!"
+
+#. ID 88
+msgctxt "skills.name"
+msgid "Eiskristall"
+msgstr "Ice Crystal"
+
+#. ID 88
+msgctxt "skills.description"
+msgid "Ein scharfer Eiskristall schädigt einen Gegner"
+msgstr "A sharp ice crystal damages one enemy"
+
+#. ID 88
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eiskristall !"
+msgstr "%S casts Ice Crystal!"
+
+#. ID 89
+msgctxt "skills.description"
+msgid "Ein Regen aus Eiskristallen schädigt alle Gegner"
+msgstr "A rain of ice crystals damages all enemies"
+
+#. ID 90
+#. ID 113
+#. ID 212
+msgctxt "skills.name"
+msgid "Giftwolke"
+msgstr "Poison Cloud"
+
+#. ID 90
+msgctxt "skills.description"
+msgid "Eine giftige Wolke trifft einen Gegner"
+msgstr "A poisonous cloud damages one enemy"
+
+#. ID 90
+#. ID 113
+#. ID 212
+msgctxt "skills.using_message1"
+msgid "%S zaubert Giftwolke !"
+msgstr "%S casts Poison Cloud!"
+
+#. ID 91
+msgctxt "skills.name"
+msgid "Giftnebel"
+msgstr "Poison Fog"
+
+#. ID 91
+msgctxt "skills.description"
+msgid "Ein giftiger Nebel schädigt alle Gegner"
+msgstr "A poisonous fog damages all enemies"
+
+#. ID 91
+msgctxt "skills.using_message1"
+msgid "%S zaubert Giftnebel !"
+msgstr "%S casts Poison Fog!"
+
+#. ID 92
+msgctxt "skills.name"
+msgid "Schattenexplosion"
+msgstr "Shadow Explosion"
+
+#. ID 92
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattenexplosion !"
+msgstr "%S casts Shadow Explosion!"
+
+#. ID 93
+#. ID 351
+msgctxt "skills.name"
+msgid "Schattengeister"
+msgstr "Shadow Spirits"
+
+#. ID 93
+#. ID 351
+msgctxt "skills.description"
+msgid "Schwarze Geister töten alle Gegner"
+msgstr "Black spirits kill all enemies"
+
+#. ID 93
+#. ID 351
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattengeister !"
+msgstr "%S casts Shadow Spirits!"
+
+#. ID 94
+msgctxt "skills.name"
+msgid "Schattenherrschaft"
+msgstr "Reign of Shadows"
+
+#. ID 94
+msgctxt "skills.description"
+msgid "Schwarze Magie erhöht die Kampfkraft der Gruppe"
+msgstr "Black magic increases all stats of the group"
+
+#. ID 94
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattenherrschaft !"
+msgstr "%S casts Reign of Shadows!"
+
+#. ID 97
+msgctxt "skills.name"
+msgid "---Andere Skills----"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.name"
+msgid "Wolfswesen"
+msgstr "Nature of the Wolf"
+
+#. ID 99
+msgctxt "skills.name"
+msgid "Blutkonzentration"
+msgstr "Blood Concentration"
+
+#. ID 99
+msgctxt "skills.description"
+msgid "Erhöht Blut um 50, senkt LP dauerhaft um 5 !"
+msgstr "Gain 50 Blood but lose 5 HP permanently"
+
+#. ID 99
+msgctxt "skills.using_message1"
+msgid "%S zaubert Blutkonzentration !"
+msgstr "%S casts Blood Concentration !"
+
+#. ID 100
+#. ID 109
+#. ID 135
+#. ID 218
+#. ID 328
+msgctxt "skills.name"
+msgid "Blutsaugen"
+msgstr "Blood Sucking"
+
+#. ID 100
+#. ID 109
+#. ID 218
+#. ID 328
+msgctxt "skills.description"
+msgid "Saugt dem Gegner das Blut aus"
+msgstr "Drains the enemy's blood"
+
+#. ID 100
+#. ID 109
+#. ID 218
+#. ID 328
+msgctxt "skills.using_message1"
+msgid "%S fängt an zu trinken !"
+msgstr "%S sucks blood!"
+
+#. ID 101
+msgctxt "skills.name"
+msgid "Juckpulver"
+msgstr "Itching Powder"
+
+#. ID 101
+msgctxt "skills.description"
+msgid "Die Gegner werden blind und müde !"
+msgstr "The enemies become blind and tired !"
+
+#. ID 101
+msgctxt "skills.using_message1"
+msgid "%S wirft das Juckpulver !"
+msgstr "%S throws the Itching Powder!"
+
+#. ID 102
+#. ID 337
+msgctxt "skills.name"
+msgid "Zeitverzerrung"
+msgstr "Time Distortion"
+
+#. ID 102
+#. ID 337
+msgctxt "skills.description"
+msgid "Ruft den Tag oder die Nacht herbei"
+msgstr "Calls forth night or day"
+
+#. ID 102
+#. ID 337
+msgctxt "skills.using_message1"
+msgid "%S zaubert Zeitverzerrung !"
+msgstr "%S casts Time Distortion!"
+
+#. ID 103
+msgctxt "skills.name"
+msgid "Flammentrank"
+msgstr "Flame Potion"
+
+#. ID 103
+msgctxt "skills.description"
+msgid "Entfacht ein kleines Feuerinferno"
+msgstr "Calls forth a small inferno"
+
+#. ID 103
+msgctxt "skills.using_message1"
+msgid "%S wirft einen Flammentrank !"
+msgstr "%S throws a Flame Potion!"
+
+#. ID 104
+msgctxt "skills.name"
+msgid "Eisstaub"
+msgstr "Ice Dust"
+
+#. ID 104
+msgctxt "skills.description"
+msgid "Friert alle Gegner ein und schädigt sie"
+msgstr "Freezes and damages all enemies"
+
+#. ID 104
+msgctxt "skills.using_message1"
+msgid "%S wirft das Eisstaub !"
+msgstr "%S throws the Ice Dust!"
+
+#. ID 105
+msgctxt "skills.name"
+msgid "Heiliger Sand"
+msgstr "Holy Sand"
+
+#. ID 105
+msgctxt "skills.description"
+msgid "Verwirrt und schädigt alle Gegner"
+msgstr "Confuses and damages all enemies"
+
+#. ID 105
+msgctxt "skills.using_message1"
+msgid "%S wirft den heiligen Sand !"
+msgstr "%S throws the Holy Sand!"
+
+#. ID 106
+msgctxt "skills.name"
+msgid "Blick der Geister"
+msgstr "Eyes of the Ghosts"
+
+#. ID 106
+msgctxt "skills.description"
+msgid "Zeigt Geheimgänge für kurze Zeit"
+msgstr "Temporarily shows secret paths"
+
+#. ID 106
+msgctxt "skills.using_message1"
+msgid "%S zaubert Blick der Geister"
+msgstr "%S casts Eyes of the Ghosts"
+
+#. ID 107
+msgctxt "skills.name"
+msgid "Schwerer Hieb"
+msgstr "Heavy Blow"
+
+#. ID 107
+msgctxt "skills.description"
+msgid "Ein kräftiger Schlag auf einen Gegner"
+msgstr "A powerful blow on one enemy"
+
+#. ID 107
+msgctxt "skills.using_message1"
+msgid "%S schlägt mit voller Wucht zu !"
+msgstr "%S strikes with full force!"
+
+#. ID 108
+msgctxt "skills.name"
+msgid "Herzstich"
+msgstr "Heart Thrust"
+
+#. ID 108
+msgctxt "skills.description"
+msgid "Ein Treffer auf das Herz kann tödlich sein"
+msgstr "A strike to the heart can be deadly "
+
+#. ID 108
+#. ID 139
+msgctxt "skills.using_message1"
+msgid "%S zielt auf das Herz !"
+msgstr "%S aims for the heart!"
+
+#. ID 111
+msgctxt "skills.name"
+msgid "-----Heilung/Tod----"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.name"
+msgid "Blutheilung"
+msgstr "Blood Healing"
+
+#. ID 112
+msgctxt "skills.description"
+msgid "Heilt leichte Wunden einer Person"
+msgstr "Heals light wounds of one party member"
+
+#. ID 112
+msgctxt "skills.using_message1"
+msgid "%S zaubert Blutheilung !"
+msgstr "%S casts Blood Healing!"
+
+#. ID 113
+#. ID 212
+msgctxt "skills.description"
+msgid "Giftige Wolke schadet einem Gegner"
+msgstr "A poisonous cloud damages one enemy"
+
+#. ID 114
+#. ID 213
+msgctxt "skills.name"
+msgid "Schleichender Tod"
+msgstr "Lurking Death"
+
+#. ID 114
+#. ID 213
+msgctxt "skills.description"
+msgid "Ein giftiger Nebel schadet allen Gegnern"
+msgstr "A poisonous fog damages all enemies"
+
+#. ID 114
+#. ID 213
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schleichender Tod !"
+msgstr "%S casts Lurking Death!"
+
+#. ID 115
+msgctxt "skills.name"
+msgid "Lebensspender"
+msgstr "Life Gift"
+
+#. ID 115
+msgctxt "skills.description"
+msgid "Heilt eine Person"
+msgstr "Heals one party member"
+
+#. ID 115
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lebensspender !"
+msgstr "%S casts Life Gift!"
+
+#. ID 116
+#. ID 214
+msgctxt "skills.name"
+msgid "Schneller Tod"
+msgstr "Quick Death"
+
+#. ID 116
+#. ID 214
+msgctxt "skills.description"
+msgid "Tötet einen Gegner sofort !"
+msgstr "Immediately kills one enemy"
+
+#. ID 116
+#. ID 214
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schneller Tod !"
+msgstr "%S casts Quick Death!"
+
+#. ID 117
+#. ID 169
+#. ID 215
+msgctxt "skills.name"
+msgid "Giftregen"
+msgstr "Poison Rain"
+
+#. ID 117
+#. ID 215
+msgctxt "skills.description"
+msgid "Ein giftiger Regen schadet allen Gegnern"
+msgstr "A poisonous rain damages all enemies"
+
+#. ID 117
+#. ID 169
+#. ID 215
+msgctxt "skills.using_message1"
+msgid "%S zaubert Giftregen !"
+msgstr "%S casts Poison Rain!"
+
+#. ID 118
+#. ID 122
+#. ID 151
+#. ID 216
+msgctxt "skills.name"
+msgid "Schwäche"
+msgstr "Weakening"
+
+#. ID 118
+#. ID 122
+#. ID 216
+msgctxt "skills.description"
+msgid "Macht aus einem Riesen einen Schwächling"
+msgstr "Decreases all stats of one enemy"
+
+#. ID 118
+#. ID 122
+#. ID 151
+#. ID 216
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schwäche !"
+msgstr "%S casts Weakening!"
+
+#. ID 119
+#. ID 194
+msgctxt "skills.name"
+msgid "Heilaura"
+msgstr "Healing Aura"
+
+#. ID 119
+msgctxt "skills.description"
+msgid "Heilt die ganze Gruppe"
+msgstr "Heals the whole group"
+
+#. ID 119
+#. ID 194
+msgctxt "skills.using_message1"
+msgid "%S zaubert Heilaura !"
+msgstr "%S casts Healing Aura!"
+
+#. ID 120
+#. ID 217
+msgctxt "skills.name"
+msgid "Starker Tod"
+msgstr "Potent Death"
+
+#. ID 120
+#. ID 217
+msgctxt "skills.description"
+msgid "Versucht alle Gegner zu töten"
+msgstr "Tries to kill all enemies"
+
+#. ID 120
+#. ID 217
+msgctxt "skills.using_message1"
+msgid "%S zaubert Starker Tod !"
+msgstr "%S casts Potent Death!"
+
+#. ID 121
+msgctxt "skills.name"
+msgid "Vampirheilung"
+msgstr "Vampire Healing"
+
+#. ID 121
+msgctxt "skills.description"
+msgid "Heilt komplett die LP der ganzen Gruppe"
+msgstr "Heals HP of the group completely"
+
+#. ID 121
+msgctxt "skills.using_message1"
+msgid "%S zaubert Vampirheilung !"
+msgstr "%S casts Vampire Healing!"
+
+#. ID 123
+msgctxt "skills.name"
+msgid "Wecken"
+msgstr "Awaken"
+
+#. ID 123
+msgctxt "skills.description"
+msgid "Weckt alle Schlafenden"
+msgstr "Wakes up all sleeping party members"
+
+#. ID 123
+msgctxt "skills.using_message1"
+msgid "%S zaubert Wecken !"
+msgstr "%S casts Awaken!"
+
+#. ID 124
+msgctxt "skills.name"
+msgid "Klare Sicht"
+msgstr "Clear Sight"
+
+#. ID 124
+msgctxt "skills.description"
+msgid "Heilt die Blindheit der ganzen Gruppe"
+msgstr "Heals blindness of the group"
+
+#. ID 124
+msgctxt "skills.using_message1"
+msgid "%S zaubert Klare Sicht !"
+msgstr "%S casts Clear Sight!"
+
+#. ID 125
+msgctxt "skills.name"
+msgid "Redegewandheit"
+msgstr "Volubility"
+
+#. ID 125
+msgctxt "skills.description"
+msgid "Kuriert alle stummen Gruppenmitglieder"
+msgstr "Cures all silent party members"
+
+#. ID 125
+msgctxt "skills.using_message1"
+msgid "%S zaubert Redegewandtheit !"
+msgstr "%S casts Volubility!"
+
+#. ID 126
+msgctxt "skills.name"
+msgid "Segnung"
+msgstr "Blessing"
+
+#. ID 126
+msgctxt "skills.description"
+msgid "Heilt alle verfluchten Gruppenmitglieder"
+msgstr "Heals all cursed party members"
+
+#. ID 126
+msgctxt "skills.using_message1"
+msgid "%S zaubert Segnung !"
+msgstr "%S casts Blessing!"
+
+#. ID 127
+#. ID 347
+msgctxt "skills.name"
+msgid "Erstummen"
+msgstr "Silence"
+
+#. ID 127
+#. ID 347
+msgctxt "skills.description"
+msgid "Lässt alle Gegner erstummen"
+msgstr "Silences all enemies"
+
+#. ID 127
+#. ID 347
+msgctxt "skills.using_message1"
+msgid "%S zaubert Erstummen !"
+msgstr "%S casts Silence!"
+
+#. ID 128
+msgctxt "skills.name"
+msgid "Freie Bewegung"
+msgstr "Free Movement"
+
+#. ID 128
+msgctxt "skills.description"
+msgid "Heilt Lähmung aller Gruppenmitglieder"
+msgstr "Heals paralysis of all party members"
+
+#. ID 128
+msgctxt "skills.using_message1"
+msgid "%S zaubert Freie Bewegung !"
+msgstr "%S casts Free Movement!"
+
+#. ID 129
+#. ID 348
+msgctxt "skills.name"
+msgid "Lähmung"
+msgstr "Paralysis"
+
+#. ID 129
+#. ID 348
+msgctxt "skills.description"
+msgid "Lähmt alle Gegner"
+msgstr "Paralyzes all enemies"
+
+#. ID 129
+#. ID 348
+msgctxt "skills.using_message1"
+msgid "%S zaubert Lähmung !"
+msgstr "%S casts Paralysis!"
+
+#. ID 130
+msgctxt "skills.name"
+msgid "Klares Denken"
+msgstr "Clear Thoughts"
+
+#. ID 130
+msgctxt "skills.description"
+msgid "Heilt die Verwirrung aller Gruppenmitglieder"
+msgstr "Heals confusion of all party members"
+
+#. ID 130
+msgctxt "skills.using_message1"
+msgid "%S zaubert Klares Denken !"
+msgstr "%S casts Clear Thoughts!"
+
+#. ID 131
+msgctxt "skills.name"
+msgid "Völlige Reinigung"
+msgstr "Total Purification"
+
+#. ID 131
+msgctxt "skills.description"
+msgid "Kuriert alle negativen Zustände der Gruppe"
+msgstr "Cures all negative status effects of the group"
+
+#. ID 131
+msgctxt "skills.using_message1"
+msgid "%S zaubert völlige Reinigung !"
+msgstr "%S casts Total Purification!"
+
+#. ID 132
+#. ID 349
+msgctxt "skills.name"
+msgid "Chaos"
+msgstr "Chaos"
+
+#. ID 132
+#. ID 349
+msgctxt "skills.description"
+msgid "Zaubert auf alle Gegner viele schlechte Zustände"
+msgstr "Causes many negative status effects on all enemies"
+
+#. ID 132
+#. ID 349
+msgctxt "skills.using_message1"
+msgid "%S zaubert Chaos !"
+msgstr "%S casts Chaos!"
+
+#. ID 133
+msgctxt "skills.name"
+msgid "Totalabwehr"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.description"
+msgid "Stärkung aller Gruppenmitglieder"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.using_message1"
+msgid "%S zaubert Totalabwehr !"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.name"
+msgid "----Monsterskills---"
+msgstr ""
+
+#. ID 135
+msgctxt "skills.using_message1"
+msgid "%S beißt zu !"
+msgstr "%S bites!"
+
+#. ID 136
+msgctxt "skills.name"
+msgid "Waldwurmspucken"
+msgstr ""
+
+#. ID 136
+msgctxt "skills.using_message1"
+msgid "%S spuckt gelbe Flüssigkeit !"
+msgstr "%S spits yellow liquid!"
+
+#. ID 137
+msgctxt "skills.name"
+msgid "Korallenschlaf"
+msgstr ""
+
+#. ID 137
+msgctxt "skills.using_message1"
+msgid "%S verprüht weiße Pollen !"
+msgstr "%S releases white pollen!"
+
+#. ID 138
+msgctxt "skills.name"
+msgid "Ferkelgrunzen"
+msgstr ""
+
+#. ID 138
+msgctxt "skills.using_message1"
+msgid "%S fängt laut an zu grunzen !"
+msgstr "%S grunts loudly!"
+
+#. ID 139
+msgctxt "skills.name"
+msgid "Krallenkäferstich"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.name"
+msgid "Gezielter Schlag"
+msgstr ""
+
+#. ID 140
+#. ID 157
+msgctxt "skills.using_message1"
+msgid "%S holt weit aus !"
+msgstr "%S lunges forward!"
+
+#. ID 141
+msgctxt "skills.name"
+msgid "Ekelspucke"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.using_message1"
+msgid "%S spuckt grüne Flüssigkeit !"
+msgstr "%S spits green liquid!"
+
+#. ID 142
+msgctxt "skills.name"
+msgid "Eisstrudel"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.using_message1"
+msgid "%S zaubert Eisstrudel !"
+msgstr "%S casts Ice Vortex!"
+
+#. ID 144
+msgctxt "skills.name"
+msgid "Schallruf"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.using_message1"
+msgid "%S schreit schrill los !"
+msgstr "%S shouts jarringly!"
+
+#. ID 145
+msgctxt "skills.name"
+msgid "Hacken"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.using_message1"
+msgid "%S hackt auf die Augen !"
+msgstr "%S pecks on the eyes!"
+
+#. ID 146
+msgctxt "skills.name"
+msgid "Kankheitsspucke"
+msgstr ""
+
+#. ID 146
+msgctxt "skills.using_message1"
+msgid "%S spuckt magische Flüssigkeit !"
+msgstr "%S spits magical liquid!"
+
+#. ID 147
+msgctxt "skills.name"
+msgid "Blindsporen"
+msgstr ""
+
+#. ID 147
+msgctxt "skills.using_message1"
+msgid "%S versprüht schwarze Sporen !"
+msgstr "%S releases black spores!"
+
+#. ID 149
+msgctxt "skills.name"
+msgid "Rotationsschlag"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.using_message1"
+msgid "%S lässt sein Schwert rotieren !"
+msgstr "%S rotates his sword!"
+
+#. ID 150
+msgctxt "skills.name"
+msgid "Flammenregen"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.using_message1"
+msgid "%S zaubert einen Flammenregen !"
+msgstr "%S calls a fiery rain!"
+
+#. ID 153
+msgctxt "skills.name"
+msgid "Heilung"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.using_message1"
+msgid "%S heilt sich !"
+msgstr "%S is healing!"
+
+#. ID 154
+msgctxt "skills.name"
+msgid "Echsenblick"
+msgstr ""
+
+#. ID 154
+msgctxt "skills.using_message1"
+msgid "%S starrt mit großen Augen !"
+msgstr "%S stares with huge eyes!"
+
+#. ID 155
+msgctxt "skills.name"
+msgid "Echsenschweiß"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.using_message1"
+msgid "%S schwitzt grünen Schweiß !"
+msgstr "%S perspirates green sweat!"
+
+#. ID 156
+msgctxt "skills.name"
+msgid "Schlafstich"
+msgstr ""
+
+#. ID 156
+#. ID 176
+msgctxt "skills.using_message1"
+msgid "%S sticht zu !"
+msgstr "%S stings!"
+
+#. ID 157
+msgctxt "skills.name"
+msgid "Schwerer Schlag"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.name"
+msgid "Sonnenstrahl"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.using_message1"
+msgid "%S zaubert Sonnenstrahlen !"
+msgstr "%S casts Sun Ray!"
+
+#. ID 160
+msgctxt "skills.name"
+msgid "Schwarzer Tod"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schwarzer Tod !"
+msgstr "%S casts Black Death!"
+
+#. ID 161
+msgctxt "skills.name"
+msgid "Schlechter Atem"
+msgstr ""
+
+#. ID 161
+#. ID 180
+msgctxt "skills.using_message1"
+msgid "%S haucht widerlichen Gestank !"
+msgstr "%S breathes a repulsive stench!"
+
+#. ID 162
+msgctxt "skills.name"
+msgid "Große Heilung"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.using_message1"
+msgid "%S zaubert Große Heilung !"
+msgstr "%S casts Great Healing!"
+
+#. ID 163
+msgctxt "skills.name"
+msgid "Blutbiss"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.using_message1"
+msgid "%S beißt kräftig zu !"
+msgstr "%S bites viciously!"
+
+#. ID 164
+msgctxt "skills.name"
+msgid "Feueratem"
+msgstr ""
+
+#. ID 164
+#. ID 183
+msgctxt "skills.using_message1"
+msgid "%S spuckt Feuer !"
+msgstr "%S breathes fire!"
+
+#. ID 165
+msgctxt "skills.name"
+msgid "Pesthauch"
+msgstr ""
+
+#. ID 165
+msgctxt "skills.using_message1"
+msgid "%S haucht ekligen Gestank !"
+msgstr "%S breathes a disgusting stench!"
+
+#. ID 166
+#. ID 352
+msgctxt "skills.name"
+msgid "Schlaf"
+msgstr ""
+
+#. ID 166
+msgctxt "skills.using_message1"
+msgid "%S zaubert magischen Schlaf !"
+msgstr "%S casts Magical Sleep!"
+
+#. ID 167
+msgctxt "skills.name"
+msgid "Schattengeist"
+msgstr ""
+
+#. ID 167
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattengeist !"
+msgstr "%S casts Shadow Spirit!"
+
+#. ID 168
+msgctxt "skills.name"
+msgid "Konfusion"
+msgstr ""
+
+#. ID 168
+msgctxt "skills.using_message1"
+msgid "%S zaubert Konfusion !"
+msgstr "%S casts Confusion!"
+
+#. ID 170
+msgctxt "skills.name"
+msgid "Klingenregen"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.using_message1"
+msgid "%S zaubert Klingenregen !"
+msgstr "%S casts Blade Storm!"
+
+#. ID 171
+msgctxt "skills.name"
+msgid "Krankheitssporen"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.using_message1"
+msgid "%S versprüht grüne Sporen !"
+msgstr "%S releases green spores!"
+
+#. ID 172
+msgctxt "skills.name"
+msgid "Eishauch"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.using_message1"
+msgid "%S haucht eiskalten Atem !"
+msgstr "%S breathes cold ice!"
+
+#. ID 173
+msgctxt "skills.name"
+msgid "Fluch"
+msgstr "Curse"
+
+#. ID 173
+msgctxt "skills.using_message1"
+msgid "%S zaubert Fluch !"
+msgstr "%S inflicts a curse!"
+
+#. ID 174
+msgctxt "skills.name"
+msgid "Kaltes Feuer"
+msgstr ""
+
+#. ID 174
+msgctxt "skills.using_message1"
+msgid "%S spuckt kaltes Feuer !"
+msgstr "%S breathes cold fire!"
+
+#. ID 175
+msgctxt "skills.name"
+msgid "Netz"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.using_message1"
+msgid "%S spuckt ein Netz aus Fäden !"
+msgstr "%S spits threads!"
+
+#. ID 176
+msgctxt "skills.name"
+msgid "Giftstich"
+msgstr ""
+
+#. ID 178
+msgctxt "skills.name"
+msgid "Hauch des Todes"
+msgstr ""
+
+#. ID 178
+msgctxt "skills.using_message1"
+msgid "%S zaubert Hauch des Todes !"
+msgstr "%S casts Breath of Death!"
+
+#. ID 179
+msgctxt "skills.name"
+msgid "Schattenmauer"
+msgstr ""
+
+#. ID 179
+msgctxt "skills.using_message1"
+msgid "%S zaubert Schattenmauer !"
+msgstr "%S casts Shadow Wall!"
+
+#. ID 180
+msgctxt "skills.name"
+msgid "Pesthauch 2"
+msgstr ""
+
+#. ID 181
+msgctxt "skills.name"
+msgid "Liebesrausch"
+msgstr ""
+
+#. ID 181
+msgctxt "skills.using_message1"
+msgid "%S zaubert Liebesrausch !"
+msgstr "%S casts Love Frenzy!"
+
+#. ID 182
+msgctxt "skills.name"
+msgid "Giftspucke"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.using_message1"
+msgid "%S spuckt wild los !"
+msgstr "%S spits like crazy!"
+
+#. ID 183
+msgctxt "skills.name"
+msgid "Feuerspucke"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.name"
+msgid "Blutstarre"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.using_message1"
+msgid "%S zaubert Blutstarre !"
+msgstr "%S casts Blood Freeze!"
+
+#. ID 186
+msgctxt "skills.name"
+msgid "Feuersturm"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.using_message1"
+msgid "%S zaubert Feuersturm !"
+msgstr "%S casts Fire Storm!"
+
+#. ID 187
+msgctxt "skills.name"
+msgid "Kreischen"
+msgstr ""
+
+#. ID 187
+msgctxt "skills.using_message1"
+msgid "%S kreischt !"
+msgstr "%S screeches!"
+
+#. ID 188
+msgctxt "skills.name"
+msgid "Gemetzel"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.using_message1"
+msgid "%S metzelt wild los !"
+msgstr "%S butchers about!"
+
+#. ID 189
+msgctxt "skills.name"
+msgid "Kalter Griff"
+msgstr ""
+
+#. ID 189
+msgctxt "skills.using_message1"
+msgid "%S zaubert Kalter Griff !"
+msgstr "%S casts Cold Grip!"
+
+#. ID 190
+msgctxt "skills.name"
+msgid "Zielschlag"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.using_message1"
+msgid "%S schlägt gezielt zu !"
+msgstr "%S makes a precision strike!"
+
+#. ID 191
+msgctxt "skills.name"
+msgid "Glubschen"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.using_message1"
+msgid "%S starrt hypnotisch !"
+msgstr "%S stares mesmerizingly!"
+
+#. ID 192
+msgctxt "skills.name"
+msgid "Feuerinferno"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.using_message1"
+msgid "%S zaubert Feuerinferno !"
+msgstr "%S casts Fire Inferno!"
+
+#. ID 193
+msgctxt "skills.name"
+msgid "Ätherstaub"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.using_message1"
+msgid "%S versprüht Ätherstaub !"
+msgstr "%S sprays ethereal dust!%"
+
+#. ID 195
+msgctxt "skills.using_message1"
+msgid "%S zaubert Flammenmeer !"
+msgstr "%S casts Flame Tide!"
+
+#. ID 200
+msgctxt "skills.name"
+msgid "------Valnarzusatz--"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.name"
+msgid "------Asgar---------"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.name"
+msgid "--Aysha--"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.name"
+msgid "-----Licht-----"
+msgstr ""
+
+#. ID 338
+msgctxt "skills.name"
+msgid "-----Eis-----"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.name"
+msgid "-----Status-----"
+msgstr ""
+
+#. ID 350
+msgctxt "skills.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.description"
+msgid "Ein dunkler Nebel schläfert alle Gegner ein."
+msgstr "A dark fog causes enemies to fall asleep"
+
+#. ID 352
+msgctxt "skills.using_message1"
+msgid "%S schickt ins Land der Träume!"
+msgstr "%S casts Sleep!"
+
+#. ID 353
+msgctxt "skills.name"
+msgid "Goldener Segen"
+msgstr "Healing"
+
+#. ID 353
+msgctxt "skills.description"
+msgid "Heilt die HP eines Partymitgliedes."
+msgstr "Slightly restores HP of one party member"
+
+#. ID 353
+msgctxt "skills.using_message1"
+msgid "%S spricht goldenen Segen!"
+msgstr "%S casts Healing!"
+
+#. ID 355
+msgctxt "skills.name"
+msgid "-EverlastingReign-"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.name"
+msgid "Orkenparty"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.using_message1"
+msgid "%S fetzt richtig los!"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.name"
+msgid "Orkenklaue"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.using_message1"
+msgid "%S wetzt grüne Krallen!"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.name"
+msgid "Gletcherkracher"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.using_message1"
+msgid "%S lässt es gletchern!"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.name"
+msgid "Orkenheilung"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.using_message1"
+msgid "%S beschwört Orkengeister!"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.name"
+msgid "Gletcherregen"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.using_message1"
+msgid "%S ruft Gletcher herbei!"
+msgstr ""
+
+#. ID 361
+#. ID 380
+msgctxt "skills.name"
+msgid "Rundumschlag"
+msgstr ""
+
+#. ID 361
+msgctxt "skills.using_message1"
+msgid "%S holt mächtig aus!"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.name"
+msgid "Knochenknacker"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.using_message1"
+msgid "%S knackt alle Knochen!"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.name"
+msgid "Wirbelschwert"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.using_message1"
+msgid "%S wirbelt mit Wirbelsäule!"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.name"
+msgid "Schwertstoß"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.using_message1"
+msgid "%S bohrt mit Klinge!"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.name"
+msgid "Schwertrückhand"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.using_message1"
+msgid "%S dreht Schwertarm um!"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.name"
+msgid "Klingentanz"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.description"
+msgid "Tödlicher Tanz (700, HP+DEF, Verwirrt+Blutet)"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.using_message1"
+msgid "%S vollführt Klingentanz"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.name"
+msgid "Himmlische Hölle"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.description"
+msgid "Trifft alle Gegner (G-Schaden: 55)"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.using_message1"
+msgid "%S ruft himmlische Hölle"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.name"
+msgid "-- ER Items --"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.name"
+msgid "Giftsphäre"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.description"
+msgid "Giftschaden."
+msgstr ""
+
+#. ID 371
+msgctxt "skills.using_message1"
+msgid "%S wirft Giftsphäre!"
+msgstr ""
+
+#. ID 372
+msgctxt "skills.name"
+msgid "Eisessphäre"
+msgstr ""
+
+#. ID 372
+msgctxt "skills.description"
+msgid "Eisschaden."
+msgstr ""
+
+#. ID 372
+msgctxt "skills.using_message1"
+msgid "%S wirft Eisessphäre!"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.name"
+msgid "Feuersphäre"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.description"
+msgid "Feuerschaden. "
+msgstr ""
+
+#. ID 373
+msgctxt "skills.using_message1"
+msgid "%S wirft Feuersphäre!"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.name"
+msgid "Schattensphäre"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.description"
+msgid "Schattenschaden."
+msgstr ""
+
+#. ID 374
+msgctxt "skills.using_message1"
+msgid "%S wirft Schattensphäre!"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.name"
+msgid "Lichtsphäre"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.description"
+msgid "Lichtschaden."
+msgstr ""
+
+#. ID 375
+msgctxt "skills.using_message1"
+msgid "%S wirft Lichtsphäre."
+msgstr ""
+
+#. ID 376
+msgctxt "skills.name"
+msgid "Lutschzeh"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.description"
+msgid "Der salzige Zeh einer Orkenleiche. Mjam! "
+msgstr ""
+
+#. ID 376
+msgctxt "skills.using_message1"
+msgid "%S lutscht Leichenzeh!"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.name"
+msgid "Schweinsnasensalbe"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.using_message1"
+msgid "%S reibt Gruppe ein!"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.name"
+msgid "Stinkbombe"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.using_message1"
+msgid "%S wirft Unaussprechliches!"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.description"
+msgid "Valnar greift alle Gegner an. "
+msgstr ""
+
+#. ID 380
+msgctxt "skills.using_message1"
+msgid "%S fährt durch Gegnerreihen!"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.name"
+msgid "-- ER Cheats --"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.name"
+msgid "DuNarr"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.description"
+msgid "999, alle Zustände, Absorbiert, alle Werte runter)"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.using_message1"
+msgid "%S woah ey"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.name"
+msgid "AaronDerLappen"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.description"
+msgid "Heilt 999, alle Zustände, Starre, Werte hoch, wow!"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.using_message1"
+msgid "%S heilt alle"
+msgstr ""
+
+#. ID 388
+msgctxt "skills.name"
+msgid "KurzUndKnapp"
+msgstr ""
+
+#. ID 388
+msgctxt "skills.description"
+msgid "99999999999999999999999999999999999999999999999999"
+msgstr ""
+
+#. ID 388
+msgctxt "skills.using_message1"
+msgid "%S spektakulär"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.name"
+msgid "WasGeht"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.description"
+msgid "Serran, baby!"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.using_message1"
+msgid "%S frauenfeindlich"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.name"
+msgid "Frauenpauär"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.description"
+msgid "yeah"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.using_message1"
+msgid "%S Feminism"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.name"
+msgid "Staubwischen"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.description"
+msgid "Frauen, hab ich recht? Irgendwer? Hallo?"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.using_message1"
+msgid "%S putzt!"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.name"
+msgid "-- Ronak --"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.name"
+msgid "Hammertime!"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.description"
+msgid "Hammerhart! (55, alle Gegner)"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.using_message1"
+msgid "%S haut auf den Hammer!"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.name"
+msgid "Auf die Nuss!"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.description"
+msgid "Hammer trifft Kopf! (85, Lähmung)"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.using_message1"
+msgid "%S zermatscht Köpfe!"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.name"
+msgid "Stieratem "
+msgstr ""
+
+#. ID 395
+msgctxt "skills.description"
+msgid "Steh uns bei. (Zustände a. all. Gegn. + 100 Sch.)"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.using_message1"
+msgid "%S haucht verheerenden Gestank"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.name"
+msgid "Hammer-Breakdown"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.description"
+msgid "Die ultimative Hämmerung. "
+msgstr ""
+
+#. ID 396
+msgctxt "skills.using_message1"
+msgid "%S macht alles nieder!"
+msgstr ""
+
+#. ID 397
+msgctxt "skills.name"
+msgid "-- Drachenfee --"
+msgstr ""
+
+#. ID 398
+msgctxt "skills.name"
+msgid "Zorxplosion"
+msgstr ""
+
+#. ID 398
+msgctxt "skills.description"
+msgid "Wütender Drachen-Feuerpilz verbrennt einen Gegner."
+msgstr ""
+
+#. ID 398
+msgctxt "skills.using_message1"
+msgid "%S brüllt vor Wut!"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.name"
+msgid "Sengenfeuer"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.description"
+msgid "Feuersäulen verbrennen Gegner (+ Def+Agi-Schaden)"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.using_message1"
+msgid "%S röstet Beute!"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.name"
+msgid "Drachenhölle"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.description"
+msgid "Die Hölle ist hier. (Verbr., Verwirr, alle Gegner)"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.using_message1"
+msgid "%S verwandelt Welt in Hölle!"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.name"
+msgid "-- ER TMs --"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.name"
+msgid "Magische Kristalle"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.description"
+msgid "Trifft einen Gegner (Schaden: 200, Gelähmt)"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.using_message1"
+msgid "%S beschwört Elemente!"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.name"
+msgid "Kristallheilung"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.description"
+msgid "Heilt 200 LP + Zustände d. Gruppe"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.using_message1"
+msgid "%S zaubert Kristallheilung!"
+msgstr ""
+
+#. ID 405
+msgctxt "skills.name"
+msgid "Ultima"
+msgstr ""
+
+#. ID 405
+msgctxt "skills.description"
+msgid "Trifft alle Gegner (G-Schaden: 270), VERT. runter!"
+msgstr ""
+
+#. ID 405
+msgctxt "skills.using_message1"
+msgid "%S beschwört Erdkräfte!"
+msgstr ""
+
+#. ID 406
+msgctxt "skills.name"
+msgid "Göttliche Kristalle"
+msgstr ""
+
+#. ID 406
+msgctxt "skills.description"
+msgid "Trifft 1x Gegner (Schaden: 800,HPMP Geläh., Fluch)"
+msgstr ""
+
+#. ID 406
+msgctxt "skills.using_message1"
+msgid "%S setzt Gotteskraft ein!"
+msgstr ""
+
+#. ID 407
+msgctxt "skills.name"
+msgid "Hexenblut"
+msgstr ""
+
+#. ID 407
+msgctxt "skills.description"
+msgid "Trifft alle Gegner (666, Krank, Schatten)"
+msgstr ""
+
+#. ID 407
+msgctxt "skills.using_message1"
+msgid "%S fließt schwarzes HEXENBLUT"
+msgstr ""
+
+#. ID 409
+msgctxt "skills.name"
+msgid "-ER Special Skills-"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.name"
+msgid "$o Fledermausmantel"
+msgstr ""
+
+#. ID 411
+msgctxt "skills.name"
+msgid "$o Schatten d. Wolfs"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.name"
+msgid "$o Zuflucht"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.name"
+msgid "Feuerdrache1"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.using_message1"
+msgid "%S lässt Lava regnen !"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.name"
+msgid "Feuerdrache2"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.using_message1"
+msgid "%S zaubert Implosion !"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.name"
+msgid "Feuerdrache3"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.using_message1"
+msgid "%S haucht glühende Lava !"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.name"
+msgid "Feuerdrache4"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.using_message1"
+msgid "%S rammt mit seinen Hörnern !"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.name"
+msgid "Feuerdrache5"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.using_message1"
+msgid "%S schleudert glühende Steine !"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.name"
+msgid "Enthauptung 5"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.using_message1"
+msgid "%S setzt zur Enthauptung an !"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.name"
+msgid "Sonnenstrahl 5"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.using_message1"
+msgid "%S beschwört unheilige Sonnenstrahlen !"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.name"
+msgid "Völlige Dunkelheit"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.description"
+msgid "Völlige Dunkelheit schädigt alle Gegner"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.using_message1"
+msgid "%S zaubert Völlige Dunkelheit !"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "Schmerzmittel"
+msgstr "Painkiller"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Heilt den Körper etwas (+10 LP, anti Krankheit)"
+msgstr "Slightly heals the body (+10 HP, cures sickness)"
+
+#. ID 2
+msgctxt "items.name"
+msgid "Blutphiole"
+msgstr "Blood Phial"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Ein kleines Gefäß voll Blut (+20 Blut)"
+msgstr "A small phial with blood (+20 Blood)"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Blutflasche"
+msgstr "Blood Flask"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Eine Flasche voll Blut (+50 Blut)"
+msgstr "A flask full of blood (+ 50 Blood)"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Bluttrank"
+msgstr "Blood Potion"
+
+#. ID 4
+msgctxt "items.description"
+msgid "Eine große Flasche voll Blut (+100 Blut)"
+msgstr "A flask containing a lot of blood (+100 Blood)"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Blutelixier"
+msgstr "Blood Elixir"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Eine Flasche reinstem Menschenblut (maximal Blut)"
+msgstr "A flask full of pure human blood (max. Blood) "
+
+#. ID 6
+msgctxt "items.name"
+msgid "Wundverband"
+msgstr "Bandage"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Bandagen aus Stoff (+10 LP, kuriert Blutung)"
+msgstr "Cloth Bandages (+10 HP, cures bleeding)"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Heilphiole"
+msgstr "Healing Phial"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Eine Phiole mit einem Heiltrank (+50 LP)"
+msgstr "A phial with healing substance (+ 50 HP)"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Trank der Ewigkeit"
+msgstr "Eternity Potion"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Heilt Starre"
+msgstr "Heals rigor"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Heilflasche"
+msgstr "Healing Flask"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Ein starkes Heilmittel (+100 LP)"
+msgstr "A strong Remedy (+ 100 HP)"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Heilbalsam"
+msgstr "Healing Balsam"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Eine heilende Paste (+25 LP)"
+msgstr "A healing ointment (+ 25 HP)"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Heiltrank"
+msgstr "Healing Potion"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Ein lebensspendender Trank (+300 LP)"
+msgstr "Healing Potion"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Heilelixier"
+msgstr "Healing Elixir"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Regeneriert den Körper vollständig (max. LP)"
+msgstr "Completely heals the body (max. HP)"
+
+#. ID 13
+msgctxt "items.name"
+msgid "Vampirstein"
+msgstr "Vampire Stone"
+
+#. ID 13
+msgctxt "items.description"
+msgid "Ein mächtiges Relikt (komplette Heilung für alle)"
+msgstr "A powerful Relic (complete healing of the group)"
+
+#. ID 14
+msgctxt "items.name"
+msgid "Antikrankheitsserum"
+msgstr "Serum"
+
+#. ID 14
+msgctxt "items.description"
+msgid "Kuriert Blind/Stumm/Schläft/Krank/Gift"
+msgstr "Cures Blind/Silence/Sleeping/Sick"
+
+#. ID 15
+msgctxt "items.name"
+msgid "-----Schwerter------"
+msgstr ""
+
+#. ID 16
+msgctxt "items.name"
+msgid "Kyojin-Kurzschwert"
+msgstr "Kyojin-Shortsword"
+
+#. ID 16
+msgctxt "items.description"
+msgid "Ein kleines aber scharfes Schwert (+3 ANG)"
+msgstr "A small but sharp sword (+3 ATK)"
+
+#. ID 17
+msgctxt "items.name"
+msgid "Breitschwert"
+msgstr "Broadsword"
+
+#. ID 17
+msgctxt "items.description"
+msgid "Ein Schwert mit einer breiten Klinge (+6 ANG)"
+msgstr "A sword with a broad blade (+6 ATK)"
+
+#. ID 18
+msgctxt "items.name"
+msgid "Langschwert"
+msgstr "Longsword"
+
+#. ID 18
+msgctxt "items.description"
+msgid "Ein Schwert mit langer Klinge (+9 ANG, 2H)"
+msgstr "A sword with a long blade (+ 9 ATK, 2H)"
+
+#. ID 19
+msgctxt "items.name"
+msgid "Kristallschwert"
+msgstr "Crystal Sword"
+
+#. ID 19
+msgctxt "items.description"
+msgid "Ein Schwert aus scharfem Kristall (+18 ANG)"
+msgstr "A sword with a sharp blade (+18 ATK)"
+
+#. ID 20
+msgctxt "items.name"
+msgid "Riesenschwert"
+msgstr "Great Sword"
+
+#. ID 20
+msgctxt "items.description"
+msgid "Ein sehr schweres Schwert (+26 ANG, 2H)"
+msgstr "A very heavy sword (+ 26 ATK, 2H)"
+
+#. ID 21
+msgctxt "items.name"
+msgid "Bastardschwert"
+msgstr "Bastard Sword"
+
+#. ID 21
+msgctxt "items.description"
+msgid "Ein Schwert mit einem Widerhaken (+34 ANG)"
+msgstr "A sword with a barb (+ 34 ATK)"
+
+#. ID 22
+msgctxt "items.name"
+msgid "Schinderschwert"
+msgstr "Flayer Sword"
+
+#. ID 22
+msgctxt "items.description"
+msgid "Ein Schwert mit Giftkanüle (+44 ANG, Gift)"
+msgstr "A sword with a poison cannula (+44 ATK, Poison)"
+
+#. ID 23
+msgctxt "items.name"
+msgid "Teufelsklinge"
+msgstr "Devil's Blade"
+
+#. ID 23
+msgctxt "items.description"
+msgid "Eine bösartige Waffe (+56 ANG, verursacht Blutung)"
+msgstr "An evil weapon (+ 56 ATK, causes bleeding)"
+
+#. ID 24
+msgctxt "items.name"
+msgid "Schicksalsklinge"
+msgstr "Destiny Blade"
+
+#. ID 24
+msgctxt "items.description"
+msgid "Ein doppelschneidiges Schwert (+74 ANG)"
+msgstr "A double-edged sword (+ 74 ATK)"
+
+#. ID 25
+msgctxt "items.name"
+msgid "Giftiges Schwert"
+msgstr "Venomous Sword"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Ein Schwert mit Lähmgift (+97 ANG, Lähmung)"
+msgstr "A sword with paralyzing poison (+ 97 ATK, Prlz.)"
+
+#. ID 26
+msgctxt "items.name"
+msgid "Fleischreißer"
+msgstr "Flesh Ripper"
+
+#. ID 26
+msgctxt "items.description"
+msgid "Schwert mit Widerhaken (+121 ANG, Blutung, 2H)"
+msgstr "Sword with a barb (+ 121 ATK, Bleeding, 2H)"
+
+#. ID 27
+msgctxt "items.name"
+msgid "Ridakschwert"
+msgstr "Ridak Sword"
+
+#. ID 27
+msgctxt "items.description"
+msgid "Ein neuartiges Schwert (+142 ANG, Blutung)"
+msgstr "A new kind of sword (+142 ATK, Bleeding)"
+
+#. ID 28
+msgctxt "items.name"
+msgid "Todesklinge"
+msgstr "Death Blade"
+
+#. ID 28
+msgctxt "items.description"
+msgid "Tödliches Schwert (+166 ANG, Tod)"
+msgstr "A deadly sword (+166 ATK, Death)"
+
+#. ID 29
+msgctxt "items.name"
+msgid "Teufelsschwert"
+msgstr "Devil Sword"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Magische und sehr starke Klinge (+187 ANG)"
+msgstr "Magical and very powerful blade (+187 ATK)"
+
+#. ID 30
+msgctxt "items.name"
+msgid "Vampirschwert"
+msgstr "Vampire Sword"
+
+#. ID 30
+msgctxt "items.description"
+msgid "Valnars stärkste Waffe (+200 ANG, Blutung)"
+msgstr "Valnar's strongest weapon (+200 ATK, Bleeding)"
+
+#. ID 31
+msgctxt "items.name"
+msgid "-------Rüstung------"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "Lederrüstung"
+msgstr "Leather Armor"
+
+#. ID 32
+msgctxt "items.description"
+msgid "Eine leichte Lederrüstung (+3 VER)"
+msgstr "Light leather armor (+3 DEF)"
+
+#. ID 33
+msgctxt "items.name"
+msgid "Eisenrüstung"
+msgstr "Iron Armor"
+
+#. ID 33
+msgctxt "items.description"
+msgid "Eine Rüstung aus gutem Eisen (+6 VER, -2 GES)"
+msgstr "Armor made of strong iron (+6 DEF, - 2 AGI)"
+
+#. ID 34
+msgctxt "items.name"
+msgid "Stahlrüstung"
+msgstr "Steel Armor"
+
+#. ID 34
+msgctxt "items.description"
+msgid "Eine Rüstung aus hartem Stahl (+10 VER, Eisschutz)"
+msgstr "Armor made of hard steel (+10 DEF, Ice Protect)"
+
+#. ID 35
+msgctxt "items.name"
+msgid "Goldrüstung"
+msgstr "Golden Armor"
+
+#. ID 35
+msgctxt "items.description"
+msgid "Eine Rüstung aus unechtem Gold (+16 VER, -8 GES)"
+msgstr "Armor made of fake gold (+16 DEF, - 8 AGI)"
+
+#. ID 36
+msgctxt "items.name"
+msgid "Titanrüstung"
+msgstr "Titan Armor"
+
+#. ID 36
+msgctxt "items.description"
+msgid "Eine Rüstung aus verbessertem Stahl (+22 VER)"
+msgstr "Armor with improved steel (+25 DEF)"
+
+#. ID 37
+msgctxt "items.name"
+msgid "Kettenrüstung"
+msgstr "Chainmail"
+
+#. ID 37
+msgctxt "items.description"
+msgid "Eine sehr gute Rüstung aus Eisenringen (+36 VER)"
+msgstr "Very good armor with iron rings (+ 36 DEF)"
+
+#. ID 38
+msgctxt "items.name"
+msgid "Schwere Titanrüstung"
+msgstr "Heavy Titan Armor"
+
+#. ID 38
+msgctxt "items.description"
+msgid "Eine verbesserte Titanrüstung (+48 VER, -20 GES)"
+msgstr "Improved Titan Armor (+48 DEF, -20 AGI)"
+
+#. ID 39
+msgctxt "items.name"
+msgid "Plattenrüstung"
+msgstr "Platemail"
+
+#. ID 39
+msgctxt "items.description"
+msgid "Eine sehr stabile Rüstung (+59 VER, -25 GES)"
+msgstr "A very sturdy suit of armor (+59 DEF, - 25 AGI)"
+
+#. ID 40
+msgctxt "items.name"
+msgid "Odosrüstung"
+msgstr "Odos Armor"
+
+#. ID 40
+msgctxt "items.description"
+msgid "Eine magische Rüstung (+70 Ver, Feuerschutz)"
+msgstr "A magical suit of armor (+70 DEF, Fire Protection)"
+
+#. ID 41
+msgctxt "items.name"
+msgid "Estariorüstung"
+msgstr "Estario Armor"
+
+#. ID 41
+msgctxt "items.description"
+msgid "Eine schön verzierte Rüstung (+85 VER, Eisschutz)"
+msgstr "Prettily ornamented armor (+85 DEF, Ice Prot.)"
+
+#. ID 42
+msgctxt "items.name"
+msgid "Infinumrüstung"
+msgstr "Infinium Armor"
+
+#. ID 42
+msgctxt "items.description"
+msgid "Eine Rüstung aus seltenem Metall (+106 VER)"
+msgstr "Armor made of rare metal (+106 DEF)"
+
+#. ID 43
+msgctxt "items.name"
+msgid "Gargaschs Rüstung"
+msgstr "Gargasch's Armor"
+
+#. ID 43
+msgctxt "items.description"
+msgid "Eine mystische Rüstung (+128 VER, +20 GES)"
+msgstr "A mystic suit of armor (+128 DEF, + 20 AGI)"
+
+#. ID 44
+msgctxt "items.name"
+msgid "Dunkelrüstung"
+msgstr "Shadow Armor"
+
+#. ID 44
+msgctxt "items.description"
+msgid "Schwarze Rüstung (+155 VER, Schattenschutz)"
+msgstr "Black armor (+155 DEF, Shadow protection)"
+
+#. ID 45
+msgctxt "items.name"
+msgid "Schmerzrüstung"
+msgstr "Pain Armor"
+
+#. ID 45
+msgctxt "items.description"
+msgid "Starke Rüstung (+177 VER, Schutz vor Licht/bluten)"
+msgstr "Strong armor (+177 DEF, Light and bleeding prot.)"
+
+#. ID 46
+msgctxt "items.name"
+msgid "Vampirrüstung"
+msgstr "Vampire Armor"
+
+#. ID 46
+msgctxt "items.description"
+msgid "Die beste Rüstung (+200 VER)"
+msgstr "The true armor of the vampires (+200 DEF)"
+
+#. ID 47
+msgctxt "items.name"
+msgid "-------Helme------"
+msgstr ""
+
+#. ID 48
+msgctxt "items.name"
+msgid "Lederhelm"
+msgstr "Leather Helmet"
+
+#. ID 48
+msgctxt "items.description"
+msgid "Ein einfacher Helm aus Leder (+1 VER)"
+msgstr "A basic helmet made of leather (+1 DEF)"
+
+#. ID 49
+msgctxt "items.name"
+msgid "Eisenhelm"
+msgstr "Iron Helmet"
+
+#. ID 49
+msgctxt "items.description"
+msgid "Ein ziemlich schwerer Helm (+3 VER)"
+msgstr "A fairly heavy helmet (+3 DEF)"
+
+#. ID 50
+msgctxt "items.name"
+msgid "Stahlhelm"
+msgstr "Steel Helmet"
+
+#. ID 50
+msgctxt "items.description"
+msgid "Ein guter Helm aus Stahl (+6 VER)"
+msgstr "A good helmet made of steel (+6 DEF)"
+
+#. ID 51
+msgctxt "items.name"
+msgid "Goldhelm"
+msgstr "Golden Helmet"
+
+#. ID 51
+msgctxt "items.description"
+msgid "Ein goldener Helm (+10 VER)"
+msgstr "A golden helmet (+10 DEF)"
+
+#. ID 52
+msgctxt "items.name"
+msgid "Titanhelm"
+msgstr "Titan Helmet"
+
+#. ID 52
+msgctxt "items.description"
+msgid "Ein Helm aus verbessertem Stahl (+16 VER)"
+msgstr "A helmet made of improved steel (+16 DEF)"
+
+#. ID 53
+msgctxt "items.name"
+msgid "Kettenhaube"
+msgstr "Mail Hood"
+
+#. ID 53
+msgctxt "items.description"
+msgid "Eine Haube aus starken Eisenringen (+21 VER)"
+msgstr "A hood made of strong iron rings (+21 DEF)"
+
+#. ID 54
+msgctxt "items.name"
+msgid "Frosthelm"
+msgstr "Frost Helmet"
+
+#. ID 54
+msgctxt "items.description"
+msgid "Ein Helm aus speziellem Metall (+29 VER, Eisschutz)"
+msgstr "Helmet made of a special metal (+29 DEF,Ice prot.)"
+
+#. ID 55
+msgctxt "items.name"
+msgid "Kriegshelm"
+msgstr "War Helmet"
+
+#. ID 55
+msgctxt "items.description"
+msgid "Speziell präperierter Helm (+37 VER, +5 ANG)"
+msgstr "Specially primed helmet (+ 37 DEF, +5 ATK)"
+
+#. ID 56
+msgctxt "items.name"
+msgid "Odoshelm"
+msgstr "Odos Helmet"
+
+#. ID 56
+msgctxt "items.description"
+msgid "Ein schwerer Helm (+46 VER, Feuerschutz)"
+msgstr "A heavy helmet (+ 46 DEF, Fire protection)"
+
+#. ID 57
+msgctxt "items.name"
+msgid "Ritterhelm"
+msgstr "Knight Helmet"
+
+#. ID 57
+msgctxt "items.description"
+msgid "Ein Helm speziell für Ritter (+55 VER)"
+msgstr "A helmet specificly for knights (+55 DEF)"
+
+#. ID 58
+msgctxt "items.name"
+msgid "Infinumhelm"
+msgstr "Infinium Helmet"
+
+#. ID 58
+msgctxt "items.description"
+msgid "Ein Helm aus seltenem Metall (+64 VER)"
+msgstr "A helmet made of rare metal (+64 DEF)"
+
+#. ID 59
+msgctxt "items.name"
+msgid "Esperhelm"
+msgstr "Esper Helmet"
+
+#. ID 59
+msgctxt "items.description"
+msgid "Helm mit Magieschutz(+79 VER, Lichschutz)"
+msgstr "Helmet with magic protection (+79 DEF,Light prot.)"
+
+#. ID 60
+msgctxt "items.name"
+msgid "Schattenhelm"
+msgstr "Shadow Helmet"
+
+#. ID 60
+msgctxt "items.description"
+msgid "Ein tiefschwarzer Helm (+95 VER)"
+msgstr "A deep black helmet (+95 DEF)"
+
+#. ID 61
+msgctxt "items.name"
+msgid "Schmerzhelm"
+msgstr "Pain Helmet"
+
+#. ID 61
+msgctxt "items.description"
+msgid "Ein Helm mit scharfer Spitze (+103 VER, +10 ANG)"
+msgstr "A helmet with a sharp spiky top (+103 DEF,+10 ATK)"
+
+#. ID 62
+msgctxt "items.name"
+msgid "Vampirhelm"
+msgstr "Vampire Helmet"
+
+#. ID 62
+msgctxt "items.description"
+msgid "Der einzig wahre Helm der Vampire (+120 VER)"
+msgstr "The one and only helmet of the vampires (+120 DEF)"
+
+#. ID 63
+msgctxt "items.name"
+msgid "------Schilder------"
+msgstr ""
+
+#. ID 64
+msgctxt "items.name"
+msgid "Lederschild"
+msgstr "Leather Shield"
+
+#. ID 64
+msgctxt "items.description"
+msgid "Ein einfacher Lederschild (+2 VER)"
+msgstr "A simple leather shield (+2 DEF)"
+
+#. ID 65
+msgctxt "items.name"
+msgid "Dornenschild"
+msgstr "Thorn Shield"
+
+#. ID 65
+msgctxt "items.description"
+msgid "Schild mit Dornen gespickt (+5 VER, +2 ANG)"
+msgstr "Shield with spiky thorns (+5 DEF, +2 ATK)"
+
+#. ID 66
+msgctxt "items.name"
+msgid "Stahlschild"
+msgstr "Steel Shield"
+
+#. ID 66
+msgctxt "items.description"
+msgid "Ein guter Schild aus Stahl (+8 VER, -2 GES)"
+msgstr "A good shield made of steel (+ 8 DEF -2 AGI)"
+
+#. ID 67
+msgctxt "items.name"
+msgid "Kampfschild"
+msgstr "Battle Shield"
+
+#. ID 67
+msgctxt "items.description"
+msgid "Ein Schild mit Stoßdorn (+12 VER, +3 ANG)"
+msgstr "A shield with a thrust horn (+12 DEF,+3 ATK)"
+
+#. ID 68
+msgctxt "items.name"
+msgid "Titanschild"
+msgstr "Titanium Shield"
+
+#. ID 68
+msgctxt "items.description"
+msgid "Runder Schild aus Titan (+17 VER, -5 GES)"
+msgstr "Round shield made of titanium (+17 DEF, - 5 AGI)"
+
+#. ID 69
+msgctxt "items.name"
+msgid "Rondache"
+msgstr "Rondache"
+
+#. ID 69
+msgctxt "items.description"
+msgid "Kleiner runder Schild (+24 VER, Lichtschutz)"
+msgstr "Small, round shield (+24 DEF, Light protection)"
+
+#. ID 70
+msgctxt "items.name"
+msgid "Turmschild"
+msgstr "Tower Shield"
+
+#. ID 70
+msgctxt "items.description"
+msgid "Großer und eckiger Schild (+29 VER, -10 GES)"
+msgstr "Large Shield with angles (+29 DEF, - 10 AGI)"
+
+#. ID 71
+msgctxt "items.name"
+msgid "Harter Schild"
+msgstr "Hard Shield"
+
+#. ID 71
+msgctxt "items.description"
+msgid "Sehr dicker Schild (+35 VER, Feuerschutz)"
+msgstr "Very thick shield (+35 DEF, Fire protection)"
+
+#. ID 72
+msgctxt "items.name"
+msgid "Ritterschild"
+msgstr "Knight Shield"
+
+#. ID 72
+msgctxt "items.description"
+msgid "Großer und sperriger Schild (+41 VER, -10 GES)"
+msgstr "Big and bulky shield (+41 DEF, - 10 AGI)"
+
+#. ID 73
+msgctxt "items.name"
+msgid "Klingenschild"
+msgstr "Blade Shield"
+
+#. ID 73
+msgctxt "items.description"
+msgid "Schild mit harten Klingen (+55 VER, +10 ANG)"
+msgstr "Shield with attached blades (+55  DEF, +10 ATK)"
+
+#. ID 74
+msgctxt "items.name"
+msgid "Esperschild"
+msgstr "Esper Shield"
+
+#. ID 74
+msgctxt "items.description"
+msgid "Schild mit magischer Aura (+80 VER, +20 INT)"
+msgstr "Shield with a magical aura (+80 DEF, +20 INT)"
+
+#. ID 75
+msgctxt "items.name"
+msgid "Magierschild"
+msgstr "Mage Shield"
+
+#. ID 75
+msgctxt "items.description"
+msgid "Schild mit magischen Fähigkeiten (+98 VER)"
+msgstr "Shield with magical capabilities (+98 DEF)"
+
+#. ID 76
+msgctxt "items.name"
+msgid "Schattenschild"
+msgstr "Shadow Shield"
+
+#. ID 76
+msgctxt "items.description"
+msgid "Ein tiefschwarzer Schild (+107 VER, +20 ANG)"
+msgstr "A deep-black shield (+107 DEF, +20 ATK)"
+
+#. ID 77
+msgctxt "items.name"
+msgid "Schmerzschild"
+msgstr "Pain Shield"
+
+#. ID 77
+msgctxt "items.description"
+msgid "Todbringender Schild (+121 VER, +10 ANG, +10 GES)"
+msgstr "Death-bringing shield(+121 DEF, + 10 ATK,+ 10 AGI)"
+
+#. ID 78
+msgctxt "items.name"
+msgid "Vampirschild"
+msgstr "Vampire Shield"
+
+#. ID 78
+msgctxt "items.description"
+msgid "Ein wahrhaft mächtiger Schild (+140 VER)"
+msgstr "A truly powerful shield (+140 DEF)"
+
+#. ID 79
+msgctxt "items.name"
+msgid "-------Zusatz----"
+msgstr ""
+
+#. ID 80
+msgctxt "items.name"
+msgid "Schutzring"
+msgstr "Protective Ring"
+
+#. ID 80
+msgctxt "items.description"
+msgid "Schütz vor Blind, Stumm & Starrezauber"
+msgstr "Protects against blind, silence & rigor spells"
+
+#. ID 81
+msgctxt "items.name"
+msgid "Feuerring"
+msgstr "Fire Ring"
+
+#. ID 81
+msgctxt "items.description"
+msgid "Ein roter Ring (Feuerschutz, Schutz vor Brennen)"
+msgstr "A yellow ring (Fire protection)"
+
+#. ID 82
+msgctxt "items.name"
+msgid "Eisring"
+msgstr "Ice Ring"
+
+#. ID 82
+msgctxt "items.description"
+msgid "Ein blauer Ring (Eisschutz)"
+msgstr "A blue ring (Ice protection)"
+
+#. ID 83
+msgctxt "items.name"
+msgid "Blutring"
+msgstr "Blood Ring"
+
+#. ID 83
+msgctxt "items.description"
+msgid "Ein roter Ring (Schutz vor Verbluten 70 %)"
+msgstr "A red ring (70% Protection from bleeding)"
+
+#. ID 84
+msgctxt "items.name"
+msgid "Lichtring"
+msgstr "Light Ring"
+
+#. ID 84
+msgctxt "items.description"
+msgid "Ein weißer Ring (Lichtzauberschutz)"
+msgstr "A white ring (Light protection)"
+
+#. ID 85
+msgctxt "items.name"
+msgid "Schattenring"
+msgstr "Shadow Ring"
+
+#. ID 85
+msgctxt "items.description"
+msgid "Schwarzer Ring (Schattenschutz, Blindschutz)"
+msgstr "Black ring (Shadow and death protection)"
+
+#. ID 86
+msgctxt "items.name"
+msgid "Blutschutzring"
+msgstr "Protective Bloodring"
+
+#. ID 86
+msgctxt "items.description"
+msgid "Schützt vor dem Verbluten (100 %)"
+msgstr "Protection from bleeding (100 %)"
+
+#. ID 87
+msgctxt "items.name"
+msgid "Stachelring"
+msgstr "Spike Ring"
+
+#. ID 87
+msgctxt "items.description"
+msgid "Ein Ring für zusätzlichen Schaden (+5 ANG)"
+msgstr "A ring for aditional damage (+5 ATK)"
+
+#. ID 88
+msgctxt "items.name"
+msgid "Magiergürtel"
+msgstr "Mage Belt"
+
+#. ID 88
+msgctxt "items.description"
+msgid "Ein verzauberter Gürtel (+30 INT)"
+msgstr "An enchanted belt (+30 INT)"
+
+#. ID 89
+msgctxt "items.name"
+msgid "Kriegermantel"
+msgstr "Warrior Coat"
+
+#. ID 89
+msgctxt "items.description"
+msgid "Ein blutroter Umhang (+10 VER, +10 GES)"
+msgstr "A blood red boat (+ 10 DEF, + 10 AGI)"
+
+#. ID 90
+msgctxt "items.name"
+msgid "Magierring"
+msgstr "Mage Ring"
+
+#. ID 90
+msgctxt "items.description"
+msgid "Ein verzauberter Ring (+10 INT)"
+msgstr "An enchanted ring (+10 INT)"
+
+#. ID 91
+msgctxt "items.name"
+msgid "Sonnenschutzmantel"
+msgstr "Sunblock Cloak"
+
+#. ID 91
+msgctxt "items.description"
+msgid "Schützt vor direkten Sonnenstrahlen"
+msgstr "Protection from direct sunlight"
+
+#. ID 92
+msgctxt "items.name"
+msgid "Isdarschuhe"
+msgstr "Isdar Shoes"
+
+#. ID 92
+msgctxt "items.description"
+msgid "Magisches Schuhwerk (+5 ANG, VER, GES, INT)"
+msgstr "Magical footwear (+5 ATK, DEF, AGI, INT)"
+
+#. ID 93
+msgctxt "items.name"
+msgid "Vampirring"
+msgstr "Vampire Ring"
+
+#. ID 93
+msgctxt "items.description"
+msgid "Erhöht die Heilungsrate"
+msgstr "Increases healing rate"
+
+#. ID 94
+msgctxt "items.name"
+msgid "Antiker Vampirring"
+msgstr "Ancient Vampire Ring"
+
+#. ID 94
+msgctxt "items.description"
+msgid "Erhöht die Heilungsrate stark"
+msgstr "Strongly increases healing rate"
+
+#. ID 95
+msgctxt "items.name"
+msgid "Windring"
+msgstr "Wind Ring"
+
+#. ID 95
+msgctxt "items.description"
+msgid "Erhöht die Ausweichchance"
+msgstr "Increases evasion rate"
+
+#. ID 96
+msgctxt "items.name"
+msgid "Klingenschuhe"
+msgstr "Blade Shoes"
+
+#. ID 96
+msgctxt "items.description"
+msgid "Mit Klingen versehene Schuhe (+5 ANG)"
+msgstr "Shoes attached with blades (+5 ATK)"
+
+#. ID 97
+msgctxt "items.name"
+msgid "Mystischer Ring"
+msgstr "Mystic Ring"
+
+#. ID 97
+msgctxt "items.description"
+msgid "Erhöht Abwehr gegen alle Elemente"
+msgstr "Increases fire/ice/poison protection"
+
+#. ID 98
+msgctxt "items.name"
+msgid "Herzschutz"
+msgstr "Heart Protector"
+
+#. ID 98
+msgctxt "items.description"
+msgid "Schützt vor Lähmung"
+msgstr "Protects against paralysis and heart stabs"
+
+#. ID 99
+msgctxt "items.name"
+msgid "Talisman"
+msgstr "Talisman"
+
+#. ID 99
+msgctxt "items.description"
+msgid "Schützt vor Fluch (+3 INT)"
+msgstr "Protection against curse"
+
+#. ID 100
+msgctxt "items.name"
+msgid "Ring des Geschicks"
+msgstr "Ring of Agility"
+
+#. ID 100
+msgctxt "items.description"
+msgid "Erhöht Ausweichchance & Schutz vor kr. Treffern"
+msgstr "Incr. evaseion (+10 AGI, Crit. hits protection)"
+
+#. ID 101
+msgctxt "items.name"
+msgid "-------Seelen-------"
+msgstr ""
+
+#. ID 102
+msgctxt "items.name"
+msgid "Schwache Seele"
+msgstr "Weak Soul"
+
+#. ID 102
+msgctxt "items.description"
+msgid "Eine schwache Seele"
+msgstr "A weak soul"
+
+#. ID 103
+msgctxt "items.name"
+msgid "Normale Seele"
+msgstr "Normal Soul"
+
+#. ID 103
+msgctxt "items.description"
+msgid "Eine normalstarke Seele"
+msgstr "A moderatly strong soul"
+
+#. ID 104
+msgctxt "items.name"
+msgid "Starke Seele"
+msgstr "Strong Soul"
+
+#. ID 104
+msgctxt "items.description"
+msgid "Eine starke Seele"
+msgstr "A strong soul"
+
+#. ID 105
+msgctxt "items.name"
+msgid "Kleiner Seelenstein"
+msgstr "Small Soulstone"
+
+#. ID 105
+msgctxt "items.description"
+msgid "Ein Seelenstein aus einer schwachen Seele"
+msgstr "A soulstone made of weak souls"
+
+#. ID 106
+msgctxt "items.name"
+msgid "Normaler Seelenstein"
+msgstr "Normal Soulstone"
+
+#. ID 106
+msgctxt "items.description"
+msgid "Ein Seelenstein aus einer normalen Seele"
+msgstr "A soulstone made of normal souls"
+
+#. ID 107
+msgctxt "items.name"
+msgid "Großer Seelenstein"
+msgstr "Large Soulstone"
+
+#. ID 107
+msgctxt "items.description"
+msgid "Ein Seelenstein aus einer starken Seele"
+msgstr "A soulstone made of strong souls"
+
+#. ID 110
+msgctxt "items.name"
+msgid "------Sonstiges-----"
+msgstr ""
+
+#. ID 111
+msgctxt "items.name"
+msgid "Menü"
+msgstr "Menu"
+
+#. ID 111
+msgctxt "items.description"
+msgid "Öffnet das zusätzliche Spielmenü"
+msgstr "Opens an aditional game menu"
+
+#. ID 112
+msgctxt "items.name"
+msgid "Silberbarren"
+msgstr "Silver Bar"
+
+#. ID 112
+msgctxt "items.description"
+msgid "Ein Barren Silber aus deinen Silberminen"
+msgstr "A bar of silver from your silver mines"
+
+#. ID 113
+msgctxt "items.name"
+msgid "Speicherstein"
+msgstr "Savestone"
+
+#. ID 113
+msgctxt "items.description"
+msgid "Erlaubt einmaliges Speichern an jedem Ort"
+msgstr "Allows saving the game once at any place"
+
+#. ID 114
+msgctxt "items.name"
+msgid "Flammentrank"
+msgstr "Flame Potion"
+
+#. ID 114
+msgctxt "items.description"
+msgid "Verbrennt alle Gegner"
+msgstr "Burns the enemy"
+
+#. ID 115
+msgctxt "items.name"
+msgid "Speicherkristall"
+msgstr "Save Crystal"
+
+#. ID 115
+msgctxt "items.description"
+msgid "Ermöglich das Speichern (unendlich)"
+msgstr "Allows unlimited saving"
+
+#. ID 116
+msgctxt "items.name"
+msgid "Eisstaub"
+msgstr "Ice Dust"
+
+#. ID 116
+msgctxt "items.description"
+msgid "Entfacht einen Eissturm über dem Gegner"
+msgstr "Raises an ice storm upon the enemy"
+
+#. ID 117
+msgctxt "items.name"
+msgid "Juckpulver"
+msgstr "Itching Powder"
+
+#. ID 117
+msgctxt "items.description"
+msgid "Die Gegner werden blind und müde !"
+msgstr "The enemies become blind and tired !"
+
+#. ID 118
+msgctxt "items.name"
+msgid "Blutrune"
+msgstr "Blood Rune"
+
+#. ID 118
+msgctxt "items.description"
+msgid "Erhöht die maximale Blutkapazität (+5 max. Blut)"
+msgstr "Increases maximal blood capacitiy (+5 max. Blood)"
+
+#. ID 119
+msgctxt "items.name"
+msgid "Lebensrune"
+msgstr "Life Rune"
+
+#. ID 119
+msgctxt "items.description"
+msgid "Erhöht die maximale Lebenskapazität (+5 max. LP)"
+msgstr "Increases maximal life capacity (+5 max. HP)"
+
+#. ID 120
+msgctxt "items.name"
+msgid "Heiliger Sand"
+msgstr "Holy Sand"
+
+#. ID 120
+msgctxt "items.description"
+msgid "Starker heiliger Angriff"
+msgstr "Powerful holy attack"
+
+#. ID 121
+msgctxt "items.name"
+msgid "Blauer Stein"
+msgstr "Blue Stone"
+
+#. ID 121
+msgctxt "items.description"
+msgid "Ein runder, blauer Stein"
+msgstr "A round, blue stone"
+
+#. ID 122
+msgctxt "items.name"
+msgid "Brauner Stein"
+msgstr "Brown Stone"
+
+#. ID 122
+msgctxt "items.description"
+msgid "Ein runder, brauner Stein"
+msgstr "A round, brown stone"
+
+#. ID 123
+msgctxt "items.name"
+msgid "Weißer Stein"
+msgstr "White Stone"
+
+#. ID 123
+msgctxt "items.description"
+msgid "Ein runder, weißer Stein"
+msgstr "A round, white stone"
+
+#. ID 124
+msgctxt "items.name"
+msgid "Roter Stein"
+msgstr "Red Stone"
+
+#. ID 124
+msgctxt "items.description"
+msgid "Ein runder, roter Stein"
+msgstr "A round, red stone"
+
+#. ID 125
+msgctxt "items.name"
+msgid "Schwarzer Stein"
+msgstr "Black Stone"
+
+#. ID 125
+msgctxt "items.description"
+msgid "Ein runder, schwarzer Stein"
+msgstr "A round, black stone"
+
+#. ID 126
+msgctxt "items.name"
+msgid "Gelber Stein"
+msgstr "Yellow Stone"
+
+#. ID 126
+msgctxt "items.description"
+msgid "ein runder, gelber Stein"
+msgstr "A round, yellow stone"
+
+#. ID 127
+msgctxt "items.name"
+msgid "Heilstaub"
+msgstr "Healing Powder"
+
+#. ID 127
+msgctxt "items.description"
+msgid "Heilt 50 LP der ganzen Gruppe"
+msgstr "Heals 50 HP of the group"
+
+#. ID 128
+msgctxt "items.name"
+msgid "Antike Münze"
+msgstr "Ancient Coin"
+
+#. ID 128
+msgctxt "items.description"
+msgid "Eine alte Münze mit einem Schwertsymbol"
+msgstr "An old coin with a sword symbol"
+
+#. ID 129
+msgctxt "items.name"
+msgid "Blutnektar"
+msgstr "Blood Nectar"
+
+#. ID 129
+msgctxt "items.description"
+msgid "Erhöht die maximale Blutkapazität (+3 max. Blut)"
+msgstr "Increases maximal blood capacitiy (+1 max. Blood)"
+
+#. ID 130
+msgctxt "items.name"
+msgid "Lebensnektar"
+msgstr "Life Nectar"
+
+#. ID 130
+msgctxt "items.description"
+msgid "Erhöht die maximale Lebenskapazität (+3 max. LP)"
+msgstr "Increases maximal life capacity (+1 max. HP)"
+
+#. ID 131
+msgctxt "items.name"
+msgid "------Krallen-------"
+msgstr ""
+
+#. ID 132
+msgctxt "items.name"
+msgid "Kurze Krallen"
+msgstr "Short Claws"
+
+#. ID 132
+msgctxt "items.description"
+msgid "Eine einfache Waffe in Form einer Kralle (+2 ANG)"
+msgstr "A simple weapon in the form of claws (+2 ATK)"
+
+#. ID 133
+msgctxt "items.name"
+msgid "Krumme Krallen"
+msgstr "Crooked Claws"
+
+#. ID 133
+msgctxt "items.description"
+msgid "Gekrümmte Krallen (+5 ANG)"
+msgstr "Slightly crooked claws (+5 ATK)"
+
+#. ID 134
+msgctxt "items.name"
+msgid "Stahlkrallen"
+msgstr "Steel Claws"
+
+#. ID 134
+msgctxt "items.description"
+msgid "Krallen aus Stahl (+8 ANG)"
+msgstr "Claws made of steel (+8 ATK)"
+
+#. ID 135
+msgctxt "items.name"
+msgid "Eklar Krallen"
+msgstr "Eklar Claws"
+
+#. ID 135
+msgctxt "items.description"
+msgid "Schwere Krallen (+15 ANG)"
+msgstr "Heavy claws (+15 ATK)"
+
+#. ID 136
+msgctxt "items.name"
+msgid "Todeskrallen"
+msgstr "Death Claws"
+
+#. ID 136
+msgctxt "items.description"
+msgid "Krallen mit Todesgift(+23 ANG, Tod)"
+msgstr "Claws with deadly poison (+23 ATK, Death)"
+
+#. ID 137
+msgctxt "items.name"
+msgid "Kristallkrallen"
+msgstr "Crystal Claws"
+
+#. ID 137
+msgctxt "items.description"
+msgid "Krallen aus schärfsten Kristall (+30 ANG)"
+msgstr "Claws made of the sharpest crystals (+30 ATK)"
+
+#. ID 138
+msgctxt "items.name"
+msgid "Titankrallen"
+msgstr "Titanium Claws"
+
+#. ID 138
+msgctxt "items.description"
+msgid "Leichte und scharfe Krallen (+38 ANG, +6 GES)"
+msgstr "Light and sharp claws (+38 ATK, + 6 AGI)"
+
+#. ID 139
+msgctxt "items.name"
+msgid "Giftige Krallen"
+msgstr "Poisonous Claws"
+
+#. ID 139
+msgctxt "items.description"
+msgid "Krallen mit Giftbenetzung (+48 ANG, Krank)"
+msgstr "Claws covered with magical poison (+48 ATK, Sick)"
+
+#. ID 140
+msgctxt "items.name"
+msgid "Tri-Krallen"
+msgstr "Tri Claws"
+
+#. ID 140
+msgctxt "items.description"
+msgid "Krallen mit 3 Klingen (+66 ANG)"
+msgstr "Claws with three blades (+66 ATK)"
+
+#. ID 141
+msgctxt "items.name"
+msgid "Reißkrallen"
+msgstr "Rip Claws"
+
+#. ID 141
+msgctxt "items.description"
+msgid "Krallen mit Widerhacken (+80 ANG, Blutung)"
+msgstr "Claws with barbs (+80 ATK, Bleeding)"
+
+#. ID 142
+msgctxt "items.name"
+msgid "Zorneskrallen"
+msgstr "Wrath Claws"
+
+#. ID 142
+msgctxt "items.description"
+msgid "Krallen mit Aggressionsgift (+100 ANG, Rasend)"
+msgstr "Claws with enraging poison (+100 ATK, Rage)"
+
+#. ID 143
+msgctxt "items.name"
+msgid "Ridakkrallen"
+msgstr "Ridak Claws"
+
+#. ID 143
+msgctxt "items.description"
+msgid "Einzigartige Krallen (+124 ANG)"
+msgstr "Unique claws (+124 ATK)"
+
+#. ID 144
+msgctxt "items.name"
+msgid "Blutige Krallen"
+msgstr "Bloody Claws"
+
+#. ID 144
+msgctxt "items.description"
+msgid "Blutverschmierte Krallen (+145 ANG, Blut)"
+msgstr "Blood-covered claws (+145 ATK, Bleeding)"
+
+#. ID 145
+msgctxt "items.name"
+msgid "Teufelskrallen"
+msgstr "Devil Claws"
+
+#. ID 145
+msgctxt "items.description"
+msgid "Krallen aus magischen Metall (+160 ANG)"
+msgstr "Claws made of magical metal (+160 ATK)"
+
+#. ID 146
+msgctxt "items.name"
+msgid "Vampirkrallen"
+msgstr "Vampire Claws"
+
+#. ID 146
+msgctxt "items.description"
+msgid "Alaines stärkste Waffe (+180 ANG, Blutung)"
+msgstr "Alaine's strongest weapon (+180 ATK,  Bleeding)"
+
+#. ID 147
+msgctxt "items.name"
+msgid "--------Säbel------"
+msgstr ""
+
+#. ID 148
+msgctxt "items.name"
+msgid "Einfacher Säbel"
+msgstr "Basic Sabre"
+
+#. ID 148
+msgctxt "items.description"
+msgid "Ein einfacher, preiswerter Säbel (+4 ANG)"
+msgstr "A simple and inexpensive sabre (+4 ATK)"
+
+#. ID 149
+msgctxt "items.name"
+msgid "Eisensäbel"
+msgstr "Iron Sabre"
+
+#. ID 149
+msgctxt "items.description"
+msgid "Ein etwas schwererer Säbel (+7 ANG)"
+msgstr "A slightly heavier sabre (+7 ATK)"
+
+#. ID 150
+msgctxt "items.name"
+msgid "Stahlsäbel"
+msgstr "Steel Sabre"
+
+#. ID 150
+msgctxt "items.description"
+msgid "Ein feiner Säbel aus Stahl (+12 ANG)"
+msgstr "A fine sabre made of steel (+12 ATK)"
+
+#. ID 151
+msgctxt "items.name"
+msgid "Doppelseitiger Säbel"
+msgstr "Double-Edged Sabre"
+
+#. ID 151
+msgctxt "items.description"
+msgid "Säbel mit zwei Schneiden (+17 ANG)"
+msgstr "A sabre with two edges (+17 ATK)"
+
+#. ID 152
+msgctxt "items.name"
+msgid "Feuersäbel"
+msgstr "Fire Sabre"
+
+#. ID 152
+msgctxt "items.description"
+msgid "Ein Säbel mit Feueraura (+25 ANG, Feuer)"
+msgstr "A sabre with a fire aura (+25 ATK, Fire)"
+
+#. ID 153
+msgctxt "items.name"
+msgid "Roidrasäbel"
+msgstr "Roidra Sabre"
+
+#. ID 153
+msgctxt "items.description"
+msgid "Ein speziell gefertigter Säbel (+35 ANG)"
+msgstr "A custom-built sabre (+35 ATK)"
+
+#. ID 154
+msgctxt "items.name"
+msgid "Rachesäbel"
+msgstr "Vengeful Sabre"
+
+#. ID 154
+msgctxt "items.description"
+msgid "Säbel mit Widerhaken (+43 ANG, Blutung)"
+msgstr "A sabre with a barb (+43 ATK, Bleeding)"
+
+#. ID 155
+msgctxt "items.name"
+msgid "Kristallsäbel"
+msgstr "Crystal Sabre"
+
+#. ID 155
+msgctxt "items.description"
+msgid "Ein Säbel aus hartem Kristall (+52 ANG)"
+msgstr "A sabre made of a hard crystal (+52 ATK)"
+
+#. ID 156
+msgctxt "items.name"
+msgid "Giftsäbel"
+msgstr "Poison Sabre"
+
+#. ID 156
+msgctxt "items.description"
+msgid "Säbel mit Giftkanüle (+70 ANG, Krank)"
+msgstr "A sabre with poison cannula (+70 ATK, Sick)"
+
+#. ID 157
+msgctxt "items.name"
+msgid "Estharsäbel"
+msgstr "Esthar Sabre"
+
+#. ID 157
+msgctxt "items.description"
+msgid "Sehr scharfer Säbel (+96 ANG)"
+msgstr "Very sharp sabre (+96 ATK)"
+
+#. ID 158
+msgctxt "items.name"
+msgid "Todessäbel"
+msgstr "Death Sabre"
+
+#. ID 158
+msgctxt "items.description"
+msgid "Säbel mit tödlichem Gift (+118 ANG, Tod)"
+msgstr "Sabre with a deadly venom (+118 ATK, Death)"
+
+#. ID 159
+msgctxt "items.name"
+msgid "Mystischer Säbel"
+msgstr "Mystic Sabre"
+
+#. ID 159
+msgctxt "items.description"
+msgid "Ein verzauberter Säbel (+135 ANG, Licht)"
+msgstr "An enchanted sabre (+135 ATK, Light)"
+
+#. ID 160
+msgctxt "items.name"
+msgid "Höllensäbel"
+msgstr "Hell Sabre"
+
+#. ID 160
+msgctxt "items.description"
+msgid "Ein magisch brennender Säbel (+168 ANG, Blind)"
+msgstr "A magically burning sabre (+168 ATK, Blind)"
+
+#. ID 163
+msgctxt "items.name"
+msgid "Lodrasäbel"
+msgstr "Lodra Sabre"
+
+#. ID 163
+msgctxt "items.description"
+msgid "Antiker Säbel mit Runenaufschrift (+201 ANG, Lmg.)"
+msgstr "A sabre with a rune inscription (+201 ATK, Prlz.)"
+
+#. ID 164
+msgctxt "items.name"
+msgid "Vampirsäbel"
+msgstr "Vampire Sabre"
+
+#. ID 164
+msgctxt "items.description"
+msgid "Asgars stärkste Waffe (+220 ANG, Blutung)"
+msgstr "Asgar's strongest weapon (+220 ATK, Bleeding)"
+
+#. ID 165
+msgctxt "items.name"
+msgid "-------Questitems---"
+msgstr ""
+
+#. ID 166
+msgctxt "items.name"
+msgid "$o Buch"
+msgstr "$o Book"
+
+#. ID 166
+msgctxt "items.description"
+msgid "Ein Buch über die Geschichte des Silbers"
+msgstr "A book about the history of silver"
+
+#. ID 167
+msgctxt "items.name"
+msgid "$o Wertvolle Kette"
+msgstr "$o Precious Necklace"
+
+#. ID 167
+msgctxt "items.description"
+msgid "Maries Kette"
+msgstr "Marie's Necklace"
+
+#. ID 168
+msgctxt "items.name"
+msgid "$o Schöner Brief"
+msgstr "$o Lovely Letter"
+
+#. ID 168
+msgctxt "items.description"
+msgid "Brief von Marlene an ihren Onkel"
+msgstr "A letter from Marlene to her uncle"
+
+#. ID 169
+msgctxt "items.name"
+msgid "$o Golbars Kopf"
+msgstr "$o Golbar's Head"
+
+#. ID 169
+msgctxt "items.description"
+msgid "Der Kopf des Monsters Golbar"
+msgstr "The head of the monster Golbar"
+
+#. ID 170
+msgctxt "items.name"
+msgid "$o SephiMikes Bier"
+msgstr "$o SephiMike's Beer"
+
+#. ID 170
+msgctxt "items.description"
+msgid "Eine sehr gute Flasche Bier"
+msgstr "A very good bottle of beer"
+
+#. ID 171
+msgctxt "items.name"
+msgid "$o Schlüssel"
+msgstr "$o Key"
+
+#. ID 171
+msgctxt "items.description"
+msgid "Ein leuchtender, magischer Schlüssel"
+msgstr "A shining, magical key"
+
+#. ID 172
+msgctxt "items.name"
+msgid "$o Zellenschlüssel"
+msgstr "$o Jail Key"
+
+#. ID 172
+msgctxt "items.description"
+msgid "Schlüssel für die Kerkerzellen der Kinder der Apo."
+msgstr "Key for the jail cells of the Children of the Apo."
+
+#. ID 173
+msgctxt "items.name"
+msgid "$o Magisches Auge"
+msgstr "$o Magical Eye"
+
+#. ID 173
+msgctxt "items.description"
+msgid "Ein verzaubertes Auge, das den Turm sichtbar macht"
+msgstr "An enchanted eye that makes the tower visible"
+
+#. ID 174
+msgctxt "items.name"
+msgid "$o Eckiger Schlüssel"
+msgstr "$o Angular Key"
+
+#. ID 174
+msgctxt "items.description"
+msgid "Ein Schlüssel in Form einer Pyramide."
+msgstr "A key with a pyramid form"
+
+#. ID 175
+msgctxt "items.name"
+msgid "$o Wappen"
+msgstr "$o Crest"
+
+#. ID 175
+msgctxt "items.description"
+msgid "Ein unbekanntes Wappen"
+msgstr "An unknown crest"
+
+#. ID 176
+msgctxt "items.name"
+msgid "$o Kreuz"
+msgstr "$o Crucifix"
+
+#. ID 176
+msgctxt "items.description"
+msgid "Ein reichlich verziertes Kreuz"
+msgstr "A richly ornamented crucifix"
+
+#. ID 177
+msgctxt "items.name"
+msgid "$o Wachenschlüssel"
+msgstr "$o Guard's Key"
+
+#. ID 177
+msgctxt "items.description"
+msgid "Schlüssel für das Gefängnis in Schloss Tranak"
+msgstr "Key for the jail in Tranak Castle"
+
+#. ID 178
+msgctxt "items.name"
+msgid "$o Soldatenschlüssel"
+msgstr "$o Soldier's Key"
+
+#. ID 178
+msgctxt "items.description"
+msgid "Schlüssel für die Truhen der Soldaten"
+msgstr "Key for the soldiers' chests"
+
+#. ID 179
+msgctxt "items.name"
+msgid "$o Krone"
+msgstr "$o Crown"
+
+#. ID 179
+msgctxt "items.description"
+msgid "Die Krone von König Gerald"
+msgstr "The crown of King Gerald"
+
+#. ID 180
+msgctxt "items.name"
+msgid "$o Clownnase"
+msgstr "$o Red Nose"
+
+#. ID 180
+msgctxt "items.description"
+msgid "Eine rote Kunststoffnase für Clowns"
+msgstr "A red plastic nose for clowns"
+
+#. ID 181
+msgctxt "items.name"
+msgid "$o Punktekarte"
+msgstr "$o Points Chart"
+
+#. ID 181
+msgctxt "items.description"
+msgid "Die Punktekarte für den Jahrmarkt in Thessa"
+msgstr "The points chart for the funfair in Thessa"
+
+#. ID 182
+msgctxt "items.name"
+msgid "$o Weltkarte"
+msgstr "$o World Map"
+
+#. ID 182
+msgctxt "items.description"
+msgid "Zeigt die Weltkarte in detailierter Form"
+msgstr "Shows the world map in detail"
+
+#. ID 183
+msgctxt "items.name"
+msgid "$o Armband"
+msgstr "$o Bracelet"
+
+#. ID 183
+msgctxt "items.description"
+msgid "Ein altes und sehr seltenes Armband"
+msgstr "An old and very rare bracelet"
+
+#. ID 184
+msgctxt "items.name"
+msgid "$o Kräuter"
+msgstr "$o Herbs"
+
+#. ID 184
+msgctxt "items.description"
+msgid "Kräuter zur Essenszubereitung"
+msgstr "Herbs for cooking"
+
+#. ID 185
+msgctxt "items.name"
+msgid "$o Verp. Gegenstand"
+msgstr "$o Packed Item"
+
+#. ID 185
+msgctxt "items.description"
+msgid "Ein gut verpackter Gegenstand"
+msgstr "A well packed item"
+
+#. ID 186
+msgctxt "items.name"
+msgid "$o Schmetterling"
+msgstr "$o Butterfly"
+
+#. ID 186
+msgctxt "items.description"
+msgid "Ein blauer Schmetterling"
+msgstr "A blue butterfly"
+
+#. ID 187
+msgctxt "items.name"
+msgid "$o Rune"
+msgstr "$o Rune"
+
+#. ID 187
+msgctxt "items.description"
+msgid "Eine Rune der Kinder der Apokalypse"
+msgstr "A rune from the Children of the Apocalypse"
+
+#. ID 188
+msgctxt "items.name"
+msgid "$o Kristall"
+msgstr "$o Crystal"
+
+#. ID 188
+msgctxt "items.description"
+msgid "Ein blauer Kristall"
+msgstr "A blue crystal"
+
+#. ID 189
+msgctxt "items.name"
+msgid "$o Messgerät"
+msgstr "$o Measuring Device"
+
+#. ID 189
+msgctxt "items.description"
+msgid "Ein sehr sensibles Messgerät für Flüssigkeiten"
+msgstr "A very sensitive measuring device for liquids"
+
+#. ID 190
+msgctxt "items.name"
+msgid "$o Opferdolch"
+msgstr "$o Sacrificial Dagger"
+
+#. ID 190
+msgctxt "items.description"
+msgid "Ein uraltes Relikt"
+msgstr "An ancient relic"
+
+#. ID 191
+msgctxt "items.name"
+msgid "$o Kammerschlüssel"
+msgstr "$o Treasury Key"
+
+#. ID 191
+msgctxt "items.description"
+msgid "Schlüssel für die Schatzkammer der Kinder d. Apo."
+msgstr "Key for the treasury of the Children of the Apo."
+
+#. ID 196
+msgctxt "items.name"
+msgid "-------Vincent------"
+msgstr ""
+
+#. ID 197
+msgctxt "items.name"
+msgid "Heiliges Schwert"
+msgstr "Holy Sword"
+
+#. ID 197
+msgctxt "items.description"
+msgid "Ein heiliges Schwert mit Vincents Gravur"
+msgstr "A sacred sword with Vincent's engraving"
+
+#. ID 198
+msgctxt "items.name"
+msgid "Heiliges Schild"
+msgstr "Holy Shield"
+
+#. ID 198
+msgctxt "items.description"
+msgid "Das beste Schild was die Kirche je gemacht hat"
+msgstr "The best shield the church has ever made"
+
+#. ID 199
+msgctxt "items.name"
+msgid "Heilige Rüstung"
+msgstr "Holy Armor"
+
+#. ID 199
+msgctxt "items.description"
+msgid "Eine wirklich grandiose Rüstung"
+msgstr "A truly magnificent suit of armor"
+
+#. ID 200
+msgctxt "items.name"
+msgid "Heiliger Helm"
+msgstr "Holy Helmet"
+
+#. ID 200
+msgctxt "items.description"
+msgid "Ein Helm mit viel Verzierungen"
+msgstr "A helmet with many ornaments"
+
+#. ID 202
+msgctxt "items.name"
+msgid "Mantel des Vampirs"
+msgstr "Vampire Cloak"
+
+#. ID 202
+msgctxt "items.description"
+msgid "Schützt zu 60 % vor allen negativen Zuständen"
+msgstr "60% protection against all negative status effects"
+
+#. ID 204
+#. ID 205
+#. ID 206
+#. ID 207
+#. ID 208
+#. ID 209
+#. ID 210
+#. ID 211
+#. ID 212
+#. ID 213
+#. ID 214
+#. ID 215
+#. ID 216
+#. ID 217
+#. ID 218
+#. ID 219
+#. ID 220
+#. ID 221
+#. ID 222
+msgctxt "items.name"
+msgid "!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
+
+#. ID 223
+msgctxt "items.name"
+msgid "- Aysha Edition -"
+msgstr ""
+
+#. ID 224
+msgctxt "items.name"
+msgid "-- Peitschen --"
+msgstr ""
+
+#. ID 225
+msgctxt "items.name"
+msgid "Lederpeitsche"
+msgstr "Leather Whip"
+
+#. ID 225
+msgctxt "items.description"
+msgid "Direkt aus dem Nachtschrank. (+11 ATK)"
+msgstr "A simple whip made of leather (+11 ATK)"
+
+#. ID 226
+msgctxt "items.name"
+msgid "Eisenpeitsche"
+msgstr "Iron Whip"
+
+#. ID 226
+msgctxt "items.description"
+msgid "Eisenhart. (+19 ATK)"
+msgstr "A whip with an iron handle (+19 ATK)"
+
+#. ID 227
+msgctxt "items.name"
+msgid "Hakenpeitsche"
+msgstr "Spiked Whip"
+
+#. ID 227
+msgctxt "items.description"
+msgid "Gespickt mit Fleischerhaken (+27 ATK)"
+msgstr "A whip covered in spikes (+27 ATK)"
+
+#. ID 228
+msgctxt "items.name"
+msgid "Wolframpeitsche"
+msgstr "Steel Whip"
+
+#. ID 228
+msgctxt "items.description"
+msgid "Will man nicht im Gesicht. (+38 ATK)"
+msgstr "A whip enhanced with steel (+38 ATK)"
+
+#. ID 229
+msgctxt "items.name"
+msgid "Giftpeitsche"
+msgstr "Venom Whip"
+
+#. ID 229
+msgctxt "items.description"
+msgid "Enthält starkes Gift (+48 ATK, Gift)"
+msgstr "A whip covered in strong venom (+48 ATK, Poison)"
+
+#. ID 230
+msgctxt "items.name"
+msgid "Arkanapeitsche"
+msgstr "Magical Whip"
+
+#. ID 230
+msgctxt "items.description"
+msgid "Arkanisch geladene Peitsche (+60 ATK, +10 DEF)"
+msgstr "A magically enchanted whip (+60 ATK, +10 DEF)"
+
+#. ID 231
+msgctxt "items.name"
+msgid "Teufelspeitsche"
+msgstr "Devil's Whip"
+
+#. ID 231
+msgctxt "items.description"
+msgid "Die Peitsche des EINEN...(+76 ATK, Lähmung)"
+msgstr "A whip with an evil aura (+76 ATK, Paralysis)"
+
+#. ID 232
+msgctxt "items.name"
+msgid "Frühlingspeitsche"
+msgstr "Radiating Whip"
+
+#. ID 232
+msgctxt "items.description"
+msgid "Eine wunderschöne Peitsche(+94 ATK)"
+msgstr "A shining and powerful whip (+94 ATK)"
+
+#. ID 233
+msgctxt "items.name"
+msgid "Sommerpeitsche"
+msgstr "Calamity Whip"
+
+#. ID 233
+msgctxt "items.description"
+msgid "Lässt die Sonne herniederfahren (+115 ATK, Krank)"
+msgstr "A whip that brings misfortune (+115 ATK, Sick)"
+
+#. ID 234
+msgctxt "items.name"
+msgid "Herbstpeitsche"
+msgstr "Flail of Destruction"
+
+#. ID 234
+msgctxt "items.description"
+msgid "Lässt die Gegner fallen (+140 ATK, +40 AGI)"
+msgstr "A rare and very powerful whip (+140 ATK, +15 AGI)"
+
+#. ID 235
+msgctxt "items.name"
+msgid "Winterpeitsche"
+msgstr "Mythical Whip"
+
+#. ID 235
+msgctxt "items.description"
+msgid "Der Winter ihres Lebens (+168 ATK, +10 INT)"
+msgstr "A whip brimming with magic (+168 ATK, +10 INT)"
+
+#. ID 236
+msgctxt "items.name"
+msgid "Kreuzzugpeitsche"
+msgstr "Haunting Whip"
+
+#. ID 236
+msgctxt "items.description"
+msgid "Uralt. (+190 ATK, Rasend)"
+msgstr "A whip that attracts the damned (+190 ATK, Rage)"
+
+#. ID 237
+msgctxt "items.name"
+msgid "Vampirpeitsche"
+msgstr "Vampire Whip"
+
+#. ID 237
+msgctxt "items.description"
+msgid "Aysha's krazze Waffe (+210 ATK, Blutung)"
+msgstr "Aysha's strongest weapon (+210 ATK, Bleeding)"
+
+#. ID 238
+msgctxt "items.name"
+msgid "--QuestItems--"
+msgstr ""
+
+#. ID 239
+msgctxt "items.name"
+msgid "$o Brief für Frank."
+msgstr "$o Letter for Frank"
+
+#. ID 239
+msgctxt "items.description"
+msgid "Ein Brief für Frank auf Schloss Tradan."
+msgstr "A letter for a soldier in Tranak Castle"
+
+#. ID 240
+msgctxt "items.name"
+msgid "$o Brief für Zarah."
+msgstr "$o Letter for Zarah"
+
+#. ID 240
+msgctxt "items.description"
+msgid "Ein Brief für Zarah aus Tradan."
+msgstr "A letter for a girl waiting for her boyfriend"
+
+#. ID 241
+msgctxt "items.name"
+msgid "$o Dämonenstein"
+msgstr "$o Demonic Stone"
+
+#. ID 241
+msgctxt "items.description"
+msgid "Ein mysteriöser, mächtiger Stein. "
+msgstr "A mysterious stone filled with dark energy"
+
+#. ID 243
+msgctxt "items.name"
+msgid "Silberkrallen"
+msgstr "Silver Claws"
+
+#. ID 243
+msgctxt "items.description"
+msgid "Extrem scharf. (+20 ATK, +5  alle Stati)"
+msgstr "Very sharp claws (+20 ATK, +5 other stats)"
+
+#. ID 244
+msgctxt "items.name"
+msgid "Seelenschild"
+msgstr "Soul Guard"
+
+#. ID 244
+msgctxt "items.description"
+msgid "Warmherziger Schild (+20 INT, Anti-Starre)"
+msgstr "A one of-a-kind shield (+20 INT,Anti Rig.)"
+
+#. ID 245
+msgctxt "items.name"
+msgid "Lorius"
+msgstr "Lorius"
+
+#. ID 245
+msgctxt "items.description"
+msgid "Höchst-haltbare Rüs. (+65DF, Schutz. v. krit. Tr.)"
+msgstr "Highly durable armor (+65DEF, -100 AGI, Crit. Pr.)"
+
+#. ID 246
+msgctxt "items.name"
+msgid "Divinity"
+msgstr "Divinity"
+
+#. ID 246
+msgctxt "items.description"
+msgid "Ein wundervoller Helm. (+25 ATK + 50 AGI)"
+msgstr "A marvelous helmet (+25 ATK and 50 AGI)"
+
+#. ID 247
+msgctxt "items.name"
+msgid "Dämonenhorn"
+msgstr "Demon's Claw"
+
+#. ID 247
+msgctxt "items.description"
+msgid "Böses Schwert (+65 ATK, 2x, Erstschlag)"
+msgstr "Unique sword (+65 ATK,double attack, first strike)"
+
+#. ID 248
+msgctxt "items.name"
+msgid "Karnagar"
+msgstr "Karnagar"
+
+#. ID 248
+msgctxt "items.description"
+msgid "Höchst-gefährlicher Säbel (+100 ATK, 40 % krit.)"
+msgstr "A highly dangerous sabre (+100 ATK, 40 %Crit.)"
+
+#. ID 249
+msgctxt "items.name"
+msgid "Kalte Umarmung"
+msgstr "Cold Embrace"
+
+#. ID 249
+msgctxt "items.description"
+msgid "So kalt... (+50 ATK, 10% alle Stat-Effekte)"
+msgstr "An ice-cold whip (+50 ATK, 10% all status effects)"
+
+#. ID 250
+msgctxt "items.name"
+msgid "Seelenjuwel"
+msgstr "Spirit Gem"
+
+#. ID 250
+msgctxt "items.description"
+msgid "Sch. v. Starr., Stum, Ras., Verwi., Schlä., Geläh."
+msgstr "Prot. from Rigor, Sil., Rage, Conf., Sleep, Para."
+
+#. ID 251
+msgctxt "items.name"
+msgid "Pandemonium"
+msgstr "Pandemonium"
+
+#. ID 251
+msgctxt "items.description"
+msgid "Rüstung (50 % Blutkosten, erhöht Elementen-DEF)"
+msgstr "Armor (Halves Bl. Cost, Reduces all elem. damage)"
+
+#. ID 256
+msgctxt "items.name"
+msgid "- Everlasting Reign-"
+msgstr ""
+
+#. ID 257
+msgctxt "items.name"
+msgid "--- Heil-Items ---"
+msgstr ""
+
+#. ID 258
+msgctxt "items.name"
+msgid "Blutsucht"
+msgstr ""
+
+#. ID 258
+msgctxt "items.description"
+msgid "Ein blutiger Trank (Blut-Heilung ganze Party)"
+msgstr ""
+
+#. ID 259
+msgctxt "items.name"
+msgid "Engelstraum"
+msgstr ""
+
+#. ID 259
+msgctxt "items.description"
+msgid "Ein mächtiger Trank (HP-Heilung ganze Party)"
+msgstr ""
+
+#. ID 260
+msgctxt "items.name"
+msgid "Krankheitswasser"
+msgstr ""
+
+#. ID 260
+msgctxt "items.description"
+msgid "Dieser Sud heilt alle Zustände der Gruppe"
+msgstr ""
+
+#. ID 261
+msgctxt "items.name"
+msgid "Ewiges Wasser"
+msgstr ""
+
+#. ID 261
+msgctxt "items.description"
+msgid "Diese Phiole belebt alle wieder, +200 HP&Blut"
+msgstr ""
+
+#. ID 262
+msgctxt "items.name"
+msgid "Ewigwährender Trank"
+msgstr ""
+
+#. ID 262
+msgctxt "items.description"
+msgid "Komplette Heilung für ALLE. Wiederbelebung."
+msgstr ""
+
+#. ID 263
+msgctxt "items.name"
+msgid "Gekoch. Bluttrank"
+msgstr ""
+
+#. ID 263
+msgctxt "items.description"
+msgid "Frisch zubereitet. (+125 Blut)"
+msgstr ""
+
+#. ID 264
+msgctxt "items.name"
+msgid "-- Handelsware --"
+msgstr ""
+
+#. ID 265
+msgctxt "items.name"
+msgid "$r Saphir"
+msgstr ""
+
+#. ID 265
+#. ID 267
+msgctxt "items.description"
+msgid "Handelsware"
+msgstr ""
+
+#. ID 266
+msgctxt "items.name"
+msgid "$r Rubin"
+msgstr ""
+
+#. ID 266
+msgctxt "items.description"
+msgid "Handelsware."
+msgstr ""
+
+#. ID 267
+msgctxt "items.name"
+msgid "$r Smaragd"
+msgstr ""
+
+#. ID 268
+msgctxt "items.name"
+msgid "--Skillbücher--"
+msgstr ""
+
+#. ID 269
+msgctxt "items.name"
+msgid "Göttliche Kristalle"
+msgstr ""
+
+#. ID 269
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Göttliche Kristalle'. "
+msgstr ""
+
+#. ID 270
+msgctxt "items.name"
+msgid "Hexenblut"
+msgstr ""
+
+#. ID 270
+msgctxt "items.description"
+msgid "Liebe"
+msgstr ""
+
+#. ID 271
+msgctxt "items.name"
+msgid "Magische Kristalle"
+msgstr ""
+
+#. ID 271
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Magische Kristalle'. "
+msgstr ""
+
+#. ID 272
+msgctxt "items.name"
+msgid "Ultima"
+msgstr ""
+
+#. ID 272
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Ultima'. "
+msgstr ""
+
+#. ID 273
+msgctxt "items.name"
+msgid "Kristallheilung"
+msgstr ""
+
+#. ID 273
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Kristallheilung'."
+msgstr ""
+
+#. ID 274
+msgctxt "items.name"
+msgid "$o Dschinnbuch"
+msgstr ""
+
+#. ID 274
+msgctxt "items.description"
+msgid "Ein mysteriöses Zauberbuch"
+msgstr ""
+
+#. ID 276
+msgctxt "items.name"
+msgid "Schweinsnasensalbe"
+msgstr ""
+
+#. ID 276
+msgctxt "items.description"
+msgid "Salbe aus den Intimhaaren einer Orkengranny. "
+msgstr ""
+
+#. ID 277
+msgctxt "items.name"
+msgid "Stinkbombe"
+msgstr ""
+
+#. ID 277
+msgctxt "items.description"
+msgid "Gefüllt mit dem Leckersten aus dem Darm eines Orks"
+msgstr ""
+
+#. ID 278
+msgctxt "items.name"
+msgid "Lutschzeh"
+msgstr ""
+
+#. ID 278
+msgctxt "items.description"
+msgid "Der gammlige Zeh einer noch gammligeren Orkleiche"
+msgstr ""
+
+#. ID 279
+msgctxt "items.name"
+msgid "Feuersphäre"
+msgstr ""
+
+#. ID 279
+msgctxt "items.description"
+msgid "Feuerschaden, alle Gegner. "
+msgstr ""
+
+#. ID 280
+msgctxt "items.name"
+msgid "Lichtsphäre"
+msgstr ""
+
+#. ID 280
+msgctxt "items.description"
+msgid "Lichtschaden, alle Gegner. "
+msgstr ""
+
+#. ID 281
+msgctxt "items.name"
+msgid "Schattensphäre"
+msgstr ""
+
+#. ID 281
+msgctxt "items.description"
+msgid "Schattenschaden, alle Gegner. "
+msgstr ""
+
+#. ID 282
+msgctxt "items.name"
+msgid "Eisessphäre"
+msgstr ""
+
+#. ID 282
+msgctxt "items.description"
+msgid "Eisschaden, alle Gegner."
+msgstr ""
+
+#. ID 283
+msgctxt "items.name"
+msgid "Giftsphäre"
+msgstr ""
+
+#. ID 283
+msgctxt "items.description"
+msgid "Giftschaden, alle Gegner. "
+msgstr ""
+
+#. ID 285
+msgctxt "items.name"
+msgid "Orichalcus-Staub"
+msgstr ""
+
+#. ID 285
+msgctxt "items.description"
+msgid "Energiereicher Kristallstaub. "
+msgstr ""
+
+#. ID 286
+msgctxt "items.name"
+msgid "Blutharz"
+msgstr ""
+
+#. ID 286
+msgctxt "items.description"
+msgid "Erhöht die maximale Blutkapazität (+15 max. Blut)"
+msgstr ""
+
+#. ID 287
+msgctxt "items.name"
+msgid "Stein der Weisheit"
+msgstr ""
+
+#. ID 287
+msgctxt "items.description"
+msgid "Alle Werte +4"
+msgstr ""
+
+#. ID 289
+msgctxt "items.name"
+msgid "-- Switch Items --"
+msgstr ""
+
+#. ID 290
+msgctxt "items.name"
+msgid "Fluchttrank"
+msgstr ""
+
+#. ID 290
+msgctxt "items.description"
+msgid "Teleportiert in die Nähe von Asgars Schloss."
+msgstr ""
+
+#. ID 291
+msgctxt "items.name"
+msgid "Stein der Steigerung"
+msgstr ""
+
+#. ID 291
+msgctxt "items.description"
+msgid "250 EXP. "
+msgstr ""
+
+#. ID 292
+msgctxt "items.name"
+msgid "MONSTER-ESSENZ"
+msgstr ""
+
+#. ID 292
+msgctxt "items.description"
+msgid "Hält Monster auf der Welt für 60 Sekunden fern."
+msgstr ""
+
+#. ID 295
+msgctxt "items.name"
+msgid "-- Ausrüstung --"
+msgstr ""
+
+#. ID 296
+msgctxt "items.name"
+msgid "Tranak-Schwert"
+msgstr ""
+
+#. ID 296
+msgctxt "items.description"
+msgid "Aus Schloss Tranak (+60 ANG, Licht, evntl. gelä.)"
+msgstr ""
+
+#. ID 297
+msgctxt "items.name"
+msgid "Tranak-Rüstung"
+msgstr ""
+
+#. ID 297
+msgctxt "items.description"
+msgid "Für die Ritter des Königs (+69 VER, Lichtabwehr)"
+msgstr ""
+
+#. ID 298
+msgctxt "items.name"
+msgid "Tranak-Helm"
+msgstr ""
+
+#. ID 298
+msgctxt "items.description"
+msgid "Für die Köpfe starker Ritter (+59 VER, Lichtabweh)"
+msgstr ""
+
+#. ID 299
+msgctxt "items.name"
+msgid "Tranak-Schild"
+msgstr ""
+
+#. ID 299
+msgctxt "items.description"
+msgid "Pragmatisch. (+49 VER, Lichtabwehr)"
+msgstr ""
+
+#. ID 300
+msgctxt "items.name"
+msgid "Bernkastel"
+msgstr ""
+
+#. ID 300
+msgctxt "items.description"
+msgid "Hass (+333 ANG, 2x, Fluch)"
+msgstr ""
+
+#. ID 301
+msgctxt "items.name"
+msgid "Hexenkleid"
+msgstr ""
+
+#. ID 301
+msgctxt "items.description"
+msgid "Mama (50 % Blutkos., 100% Sch. v. Zust., +400 DEF)"
+msgstr ""
+
+#. ID 302
+msgctxt "items.name"
+msgid "Krone der Tanis "
+msgstr ""
+
+#. ID 302
+msgctxt "items.description"
+msgid "Düster (+110 GEI, Auswei., Sch. v. Schatt +Starr)"
+msgstr ""
+
+#. ID 303
+msgctxt "items.name"
+msgid "Umhang des Daar"
+msgstr ""
+
+#. ID 303
+msgctxt "items.description"
+msgid "Schick. (+50 Werte, 100 % Sch. v. Zustä. + Schatt)"
+msgstr ""
+
+#. ID 304
+msgctxt "items.name"
+msgid "Drachenfee-Krone"
+msgstr ""
+
+#. ID 304
+msgctxt "items.description"
+msgid "Heilig. (+30 Werte, Blut halb., Läh+Starr-Schutz)"
+msgstr ""
+
+#. ID 305
+msgctxt "items.name"
+msgid "Knochenknack-Ring"
+msgstr ""
+
+#. ID 305
+msgctxt "items.description"
+msgid "Knochig! (+30 DEF, Sch. v. Verw., Gelä., Schatten)"
+msgstr ""
+
+#. ID 306
+msgctxt "items.name"
+msgid "Siegel des Treja"
+msgstr ""
+
+#. ID 306
+msgctxt "items.description"
+msgid "Dämonisch. (+100 ANG+GEIS, Feuerschutz) "
+msgstr ""
+
+#. ID 307
+msgctxt "items.name"
+msgid "Schreckens-Ankh"
+msgstr ""
+
+#. ID 307
+msgctxt "items.description"
+msgid "Hält Monster der Weltkarte fern."
+msgstr ""
+
+#. ID 308
+msgctxt "items.name"
+msgid "Salz des Regenten"
+msgstr ""
+
+#. ID 308
+msgctxt "items.description"
+msgid "Schützt zu 85 % vor all. negat. Zustä., +10 Werte"
+msgstr ""
+
+#. ID 311
+msgctxt "items.name"
+msgid "Siegel der Zy'na"
+msgstr ""
+
+#. ID 311
+msgctxt "items.description"
+msgid "Unbegrenzte Heilung, immer. "
+msgstr ""
+
+#. ID 312
+msgctxt "items.name"
+msgid "$o Hexenschlüssel"
+msgstr ""
+
+#. ID 312
+msgctxt "items.description"
+msgid "Unheimlich"
+msgstr ""
+
+#. ID 313
+msgctxt "items.name"
+msgid "$o Pfadeschaffer"
+msgstr "$o Pathmaker"
+
+#. ID 313
+msgctxt "items.description"
+msgid "Erschafft neue Wege"
+msgstr ""
+
+#. ID 315
+msgctxt "items.name"
+msgid "-- Fixed Equip --"
+msgstr ""
+
+#. ID 316
+msgctxt "items.name"
+msgid "Halsband"
+msgstr ""
+
+#. ID 316
+msgctxt "items.description"
+msgid "Eingraviert: \"Meister Asgar <3\" (+100 AGI)"
+msgstr ""
+
+#. ID 317
+msgctxt "items.name"
+msgid "Explosionshammer"
+msgstr ""
+
+#. ID 317
+msgctxt "items.description"
+msgid "Besser als der Besen! (+80 ANG, 20 % krit.)"
+msgstr ""
+
+#. ID 318
+msgctxt "items.name"
+msgid "Flammeneisen"
+msgstr ""
+
+#. ID 318
+msgctxt "items.description"
+msgid "Ein antikes Stück. (+100 ANG, Feuerelement)"
+msgstr ""
+
+#. ID 320
+msgctxt "items.name"
+msgid "-CommunityEdition-"
+msgstr ""
+
+#. ID 321
+msgctxt "items.name"
+msgid "$o Seelenfragment"
+msgstr ""
+
+#. ID 321
+msgctxt "items.description"
+msgid "Ermöglicht das Tragen großer Mengen an Seelen."
+msgstr ""
+
+#. ID 1
+#. ID 372
+msgctxt "enemies.name"
+msgid "Hauptmann"
+msgstr "Captain"
+
+#. ID 2
+#. ID 373
+msgctxt "enemies.name"
+msgid "Wache"
+msgstr "Guard"
+
+#. ID 3
+#. ID 21
+#. ID 376
+msgctxt "enemies.name"
+msgid "Abraxas"
+msgstr ""
+
+#. ID 4
+#. ID 113
+msgctxt "enemies.name"
+msgid "Ritter"
+msgstr "Knight"
+
+#. ID 5
+#. ID 371
+msgctxt "enemies.name"
+msgid "Sir Esthir"
+msgstr ""
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "Golbar"
+msgstr ""
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "Riesenechse"
+msgstr "Giand Lizard"
+
+#. ID 8
+msgctxt "enemies.name"
+msgid "Korina Heldar"
+msgstr ""
+
+#. ID 9
+msgctxt "enemies.name"
+msgid "Starker Ritter"
+msgstr "Strong Knight"
+
+#. ID 10
+msgctxt "enemies.name"
+msgid "Minenarbeiter"
+msgstr "Mine Worker"
+
+#. ID 11
+#. ID 12
+#. ID 13
+#. ID 14
+msgctxt "enemies.name"
+msgid "Zombie"
+msgstr ""
+
+#. ID 15
+msgctxt "enemies.name"
+msgid "Skelett"
+msgstr "Skeleton"
+
+#. ID 16
+#. ID 17
+#. ID 18
+#. ID 381
+#. ID 382
+#. ID 383
+#. ID 428
+msgctxt "enemies.name"
+msgid "Aysha"
+msgstr ""
+
+#. ID 19
+#. ID 375
+#. ID 378
+msgctxt "enemies.name"
+msgid "Sukkubus"
+msgstr "Succubus"
+
+#. ID 20
+msgctxt "enemies.name"
+msgid "Riesenkäfer"
+msgstr "Giant Spider"
+
+#. ID 22
+msgctxt "enemies.name"
+msgid "Torwache"
+msgstr "Gate Guard"
+
+#. ID 23
+#. ID 391
+msgctxt "enemies.name"
+msgid "Schlosswache"
+msgstr "Castle Guard"
+
+#. ID 24
+#. ID 423
+msgctxt "enemies.name"
+msgid "Jagus Gorda"
+msgstr ""
+
+#. ID 25
+msgctxt "enemies.name"
+msgid "König Gerald"
+msgstr "King Gerald"
+
+#. ID 26
+msgctxt "enemies.name"
+msgid "Königin Clara"
+msgstr "Queen Clara"
+
+#. ID 27
+msgctxt "enemies.name"
+msgid "Berater"
+msgstr "Counselor"
+
+#. ID 28
+msgctxt "enemies.name"
+msgid "Hofmagier"
+msgstr "Court Mage"
+
+#. ID 29
+msgctxt "enemies.name"
+msgid "Johanna Aires"
+msgstr ""
+
+#. ID 30
+msgctxt "enemies.name"
+msgid "Melissa Iray"
+msgstr ""
+
+#. ID 31
+#. ID 32
+msgctxt "enemies.name"
+msgid "Vincent Weynard"
+msgstr ""
+
+#. ID 33
+msgctxt "enemies.name"
+msgid "Gargoyle"
+msgstr ""
+
+#. ID 34
+msgctxt "enemies.name"
+msgid "Alaine"
+msgstr ""
+
+#. ID 35
+#. ID 163
+#. ID 429
+msgctxt "enemies.name"
+msgid "Asgar"
+msgstr ""
+
+#. ID 36
+msgctxt "enemies.name"
+msgid "Willo"
+msgstr ""
+
+#. ID 37
+msgctxt "enemies.name"
+msgid "Karlos"
+msgstr ""
+
+#. ID 38
+msgctxt "enemies.name"
+msgid "Rikus"
+msgstr ""
+
+#. ID 39
+msgctxt "enemies.name"
+msgid "Zhara"
+msgstr ""
+
+#. ID 40
+msgctxt "enemies.name"
+msgid "Testmonster"
+msgstr ""
+
+#. ID 41
+#. ID 374
+msgctxt "enemies.name"
+msgid "Sandwurm"
+msgstr "Sandworm"
+
+#. ID 42
+msgctxt "enemies.name"
+msgid "Türsteher"
+msgstr "Bouncer"
+
+#. ID 43
+#. ID 54
+#. ID 393
+msgctxt "enemies.name"
+msgid "Hexe"
+msgstr "Witch"
+
+#. ID 44
+#. ID 52
+msgctxt "enemies.name"
+msgid "Sektenmitglied"
+msgstr "Cult Member"
+
+#. ID 45
+msgctxt "enemies.name"
+msgid "Sektenführerin"
+msgstr "Cult Leader"
+
+#. ID 46
+msgctxt "enemies.name"
+msgid "Schneeviper"
+msgstr "Snow Viper"
+
+#. ID 47
+#. ID 392
+msgctxt "enemies.name"
+msgid "Feuergeist"
+msgstr "Fire Spirit"
+
+#. ID 48
+msgctxt "enemies.name"
+msgid "Matrose"
+msgstr "Sailor"
+
+#. ID 49
+#. ID 50
+msgctxt "enemies.name"
+msgid "Kapitän"
+msgstr "Captain"
+
+#. ID 51
+msgctxt "enemies.name"
+msgid "Dieb"
+msgstr "Thief"
+
+#. ID 53
+msgctxt "enemies.name"
+msgid "Sektenführer"
+msgstr "Cult Leader"
+
+#. ID 55
+msgctxt "enemies.name"
+msgid "Höhlentiger"
+msgstr "Cave Tiger"
+
+#. ID 56
+#. ID 379
+msgctxt "enemies.name"
+msgid "Pharao Ustra"
+msgstr "Pharaoh Ustra"
+
+#. ID 57
+#. ID 370
+msgctxt "enemies.name"
+msgid "Henker"
+msgstr "Executioner"
+
+#. ID 58
+msgctxt "enemies.name"
+msgid "Fledermaus"
+msgstr "Bat"
+
+#. ID 59
+msgctxt "enemies.name"
+msgid "Höhlenmuck"
+msgstr "Cave Mook"
+
+#. ID 60
+msgctxt "enemies.name"
+msgid "Braunbär"
+msgstr "Brown Bear"
+
+#. ID 61
+msgctxt "enemies.name"
+msgid "Goblin"
+msgstr ""
+
+#. ID 62
+msgctxt "enemies.name"
+msgid "Rindenkäfer"
+msgstr "Bark Bug"
+
+#. ID 63
+msgctxt "enemies.name"
+msgid "Waldkoralle"
+msgstr "Forest Coral"
+
+#. ID 64
+msgctxt "enemies.name"
+msgid "Höhlenferkel"
+msgstr "Cave Piglet"
+
+#. ID 65
+msgctxt "enemies.name"
+msgid "Erdwurm"
+msgstr "Earthworm"
+
+#. ID 66
+msgctxt "enemies.name"
+msgid "Krallenkäfer"
+msgstr "Claw Bug"
+
+#. ID 67
+#. ID 152
+msgctxt "enemies.name"
+msgid "Greif"
+msgstr "Griffon"
+
+#. ID 68
+msgctxt "enemies.name"
+msgid "Lebendes Gras"
+msgstr "Living Grass"
+
+#. ID 69
+msgctxt "enemies.name"
+msgid "Killerkrabbe"
+msgstr "Deadly Crab"
+
+#. ID 70
+msgctxt "enemies.name"
+msgid "Piccolo"
+msgstr ""
+
+#. ID 71
+msgctxt "enemies.name"
+msgid "Werwolf"
+msgstr "Werewolf"
+
+#. ID 72
+msgctxt "enemies.name"
+msgid "Eismagier"
+msgstr "Ice Mage"
+
+#. ID 73
+msgctxt "enemies.name"
+msgid "Schneefliege"
+msgstr "Snow Fly"
+
+#. ID 74
+msgctxt "enemies.name"
+msgid "Weiße Fledermaus"
+msgstr "Blue Bat"
+
+#. ID 75
+msgctxt "enemies.name"
+msgid "Cockatrice"
+msgstr ""
+
+#. ID 76
+msgctxt "enemies.name"
+msgid "Eiself"
+msgstr "Ice Elf"
+
+#. ID 77
+msgctxt "enemies.name"
+msgid "Wolf"
+msgstr ""
+
+#. ID 78
+msgctxt "enemies.name"
+msgid "Riesenfrosch"
+msgstr "Giant Frog"
+
+#. ID 79
+msgctxt "enemies.name"
+msgid "Roter Frosch"
+msgstr "Red Frog"
+
+#. ID 80
+msgctxt "enemies.name"
+msgid "Giftkrabbe"
+msgstr "Poison Crab"
+
+#. ID 81
+#. ID 107
+msgctxt "enemies.name"
+msgid "Wüstenechse"
+msgstr "Desert Lizard"
+
+#. ID 82
+msgctxt "enemies.name"
+msgid "Echsenmann"
+msgstr "Lizardman"
+
+#. ID 83
+msgctxt "enemies.name"
+msgid "Lebender Pilz"
+msgstr "Living Mushroom"
+
+#. ID 84
+msgctxt "enemies.name"
+msgid "Monsterkrabbe"
+msgstr "Giant Crab"
+
+#. ID 85
+msgctxt "enemies.name"
+msgid "Zauberin"
+msgstr "Sorceress"
+
+#. ID 86
+msgctxt "enemies.name"
+msgid "Wilder Krieger"
+msgstr "Wild Warrior"
+
+#. ID 87
+msgctxt "enemies.name"
+msgid "Räuber"
+msgstr "Raider"
+
+#. ID 88
+msgctxt "enemies.name"
+msgid "Gruftzombie"
+msgstr "Crypt Zombie"
+
+#. ID 89
+msgctxt "enemies.name"
+msgid "Basiliskische Echse"
+msgstr "Basilisk"
+
+#. ID 90
+msgctxt "enemies.name"
+msgid "Riesenfliege"
+msgstr "Giant Fly"
+
+#. ID 91
+msgctxt "enemies.name"
+msgid "Reiter"
+msgstr "Rider"
+
+#. ID 92
+msgctxt "enemies.name"
+msgid "Alter Krieger"
+msgstr "Old Warrior"
+
+#. ID 93
+msgctxt "enemies.name"
+msgid "Riesenameise"
+msgstr "Giant Ant"
+
+#. ID 94
+msgctxt "enemies.name"
+msgid "Todesblume"
+msgstr "Death Flower"
+
+#. ID 95
+msgctxt "enemies.name"
+msgid "Teufelskäfer"
+msgstr "Devil Bug"
+
+#. ID 96
+msgctxt "enemies.name"
+msgid "Teufelshuhn"
+msgstr "Devil Chicken"
+
+#. ID 97
+msgctxt "enemies.name"
+msgid "Schattenwolf"
+msgstr "Shadow Wolf"
+
+#. ID 98
+msgctxt "enemies.name"
+msgid "Luftwächter"
+msgstr "Air Guardian"
+
+#. ID 99
+msgctxt "enemies.name"
+msgid "Feuerwächter"
+msgstr "Fire Guardian"
+
+#. ID 100
+msgctxt "enemies.name"
+msgid "Lichtwächter"
+msgstr "Light Guardian"
+
+#. ID 101
+msgctxt "enemies.name"
+msgid "Schattenwächter"
+msgstr "Shadow Guardian"
+
+#. ID 102
+msgctxt "enemies.name"
+msgid "Wasserwächter"
+msgstr "Water Guardian"
+
+#. ID 103
+msgctxt "enemies.name"
+msgid "Erdwächter"
+msgstr "Earth Guardian"
+
+#. ID 104
+msgctxt "enemies.name"
+msgid "Matrosenritter"
+msgstr "Sailor Knight"
+
+#. ID 105
+msgctxt "enemies.name"
+msgid "Wüstenriese"
+msgstr "Desert Giant"
+
+#. ID 106
+#. ID 380
+msgctxt "enemies.name"
+msgid "Wüstendämon"
+msgstr "Desert Demon"
+
+#. ID 108
+msgctxt "enemies.name"
+msgid "Priester"
+msgstr "Priest"
+
+#. ID 109
+msgctxt "enemies.name"
+msgid "Böser Krieger"
+msgstr "Evil Warrior"
+
+#. ID 110
+msgctxt "enemies.name"
+msgid "Erdelemtar"
+msgstr "Earth Elemental"
+
+#. ID 111
+msgctxt "enemies.name"
+msgid "Großer Wurm"
+msgstr "Great Worm"
+
+#. ID 112
+msgctxt "enemies.name"
+msgid "Anführer"
+msgstr "Leader"
+
+#. ID 114
+msgctxt "enemies.name"
+msgid "Drache"
+msgstr "Dragon"
+
+#. ID 115
+#. ID 138
+msgctxt "enemies.name"
+msgid "Drachenzombie"
+msgstr "Zombie Dragon"
+
+#. ID 116
+msgctxt "enemies.name"
+msgid "Rattenmensch"
+msgstr "Ratman"
+
+#. ID 117
+msgctxt "enemies.name"
+msgid "Troll"
+msgstr ""
+
+#. ID 118
+msgctxt "enemies.name"
+msgid "Riesentroll"
+msgstr "Giant Troll"
+
+#. ID 119
+msgctxt "enemies.name"
+msgid "Giftpilz"
+msgstr "Poisonous Mushroom"
+
+#. ID 120
+msgctxt "enemies.name"
+msgid "Todeswespe"
+msgstr "Deadly Wasp"
+
+#. ID 121
+msgctxt "enemies.name"
+msgid "Waldschwein"
+msgstr "Forest Pig"
+
+#. ID 122
+msgctxt "enemies.name"
+msgid "Fischmann"
+msgstr "Fishman"
+
+#. ID 123
+msgctxt "enemies.name"
+msgid "Fischfrau"
+msgstr "Fishwoman"
+
+#. ID 124
+#. ID 146
+msgctxt "enemies.name"
+msgid "Eisdämon"
+msgstr "Ice Demon"
+
+#. ID 125
+msgctxt "enemies.name"
+msgid "Kleiner Eisdrache"
+msgstr "Small Ice Dragon"
+
+#. ID 126
+msgctxt "enemies.name"
+msgid "Eisdrache"
+msgstr "Ice Dragon"
+
+#. ID 127
+msgctxt "enemies.name"
+msgid "Großer Adler"
+msgstr "Great Eagle"
+
+#. ID 128
+msgctxt "enemies.name"
+msgid "Giftwurm"
+msgstr "Poisonworm"
+
+#. ID 129
+msgctxt "enemies.name"
+msgid "Riesenspinne"
+msgstr "Giant Spider"
+
+#. ID 130
+msgctxt "enemies.name"
+msgid "Skorpion"
+msgstr "Scorpion"
+
+#. ID 131
+msgctxt "enemies.name"
+msgid "Mumie"
+msgstr "Mummy"
+
+#. ID 132
+msgctxt "enemies.name"
+msgid "Königsviper"
+msgstr "King Viper"
+
+#. ID 133
+msgctxt "enemies.name"
+msgid "Drachenechse"
+msgstr "Dragon Lizard"
+
+#. ID 134
+msgctxt "enemies.name"
+msgid "Baumfrau"
+msgstr "Sylvan Woman"
+
+#. ID 135
+msgctxt "enemies.name"
+msgid "Giftfliege"
+msgstr "Venom Fly"
+
+#. ID 136
+msgctxt "enemies.name"
+msgid "Buschkriecher"
+msgstr "Bush Crawler"
+
+#. ID 137
+#. ID 377
+msgctxt "enemies.name"
+msgid "Flugdrache"
+msgstr "Flying Dragon"
+
+#. ID 139
+msgctxt "enemies.name"
+msgid "Dunkler Lord"
+msgstr "Dark Lord"
+
+#. ID 140
+msgctxt "enemies.name"
+msgid "Schattenmagier"
+msgstr "Shadow Mage"
+
+#. ID 141
+msgctxt "enemies.name"
+msgid "Todesritter"
+msgstr "Death Knight"
+
+#. ID 142
+msgctxt "enemies.name"
+msgid "Höllenfürst"
+msgstr "Hell Prince"
+
+#. ID 143
+msgctxt "enemies.name"
+msgid "Höllenhund"
+msgstr "Hellhound"
+
+#. ID 144
+msgctxt "enemies.name"
+msgid "Horrorkoralle"
+msgstr "Horror Coral"
+
+#. ID 145
+msgctxt "enemies.name"
+msgid "Giftdryade"
+msgstr "Poison Dryad"
+
+#. ID 147
+msgctxt "enemies.name"
+msgid "Eiszombie"
+msgstr "Ice Zombie"
+
+#. ID 148
+msgctxt "enemies.name"
+msgid "Wüstenmagier"
+msgstr "Desert Mage"
+
+#. ID 149
+msgctxt "enemies.name"
+msgid "Waldgenie"
+msgstr "Forest Genie"
+
+#. ID 150
+msgctxt "enemies.name"
+msgid "Waldgeist"
+msgstr "Sylvan Ghost"
+
+#. ID 151
+msgctxt "enemies.name"
+msgid "Eishydra"
+msgstr "Ice Hydra"
+
+#. ID 153
+msgctxt "enemies.name"
+msgid "Klippenminotaurus"
+msgstr "Cliff Minotaur"
+
+#. ID 154
+msgctxt "enemies.name"
+msgid "Feuerwurm"
+msgstr "Fireworm"
+
+#. ID 155
+msgctxt "enemies.name"
+msgid "Bandenmitglied"
+msgstr "Gang Member"
+
+#. ID 156
+msgctxt "enemies.name"
+msgid "Beholder"
+msgstr ""
+
+#. ID 157
+msgctxt "enemies.name"
+msgid "Höllenkrieger"
+msgstr "Hell Warrior"
+
+#. ID 158
+msgctxt "enemies.name"
+msgid "Feuerdämon"
+msgstr "Fire Demon"
+
+#. ID 159
+msgctxt "enemies.name"
+msgid "Ätherwesen"
+msgstr "Ether Creature"
+
+#. ID 160
+msgctxt "enemies.name"
+msgid "Alptraumqualle"
+msgstr "Nightmare Jellyfish"
+
+#. ID 161
+msgctxt "enemies.name"
+msgid "Äthermutant"
+msgstr "Ether Mutant"
+
+#. ID 162
+msgctxt "enemies.name"
+msgid "Chimäre"
+msgstr "Chimera"
+
+#. ID 165
+#. ID 166
+#. ID 167
+#. ID 168
+#. ID 169
+#. ID 170
+#. ID 171
+#. ID 172
+#. ID 173
+#. ID 174
+#. ID 175
+#. ID 176
+#. ID 177
+#. ID 178
+#. ID 179
+#. ID 180
+#. ID 181
+#. ID 182
+#. ID 183
+#. ID 184
+#. ID 185
+#. ID 186
+#. ID 187
+#. ID 188
+#. ID 189
+#. ID 190
+#. ID 191
+#. ID 192
+#. ID 193
+#. ID 194
+#. ID 195
+#. ID 196
+#. ID 197
+#. ID 198
+#. ID 199
+#. ID 200
+#. ID 201
+#. ID 202
+#. ID 203
+#. ID 204
+#. ID 205
+#. ID 206
+#. ID 207
+#. ID 208
+#. ID 209
+#. ID 210
+#. ID 211
+#. ID 212
+#. ID 213
+#. ID 214
+#. ID 215
+#. ID 216
+#. ID 217
+#. ID 218
+#. ID 219
+#. ID 220
+#. ID 221
+#. ID 222
+#. ID 223
+#. ID 224
+#. ID 225
+#. ID 226
+#. ID 227
+#. ID 228
+#. ID 229
+#. ID 230
+#. ID 231
+#. ID 232
+#. ID 233
+#. ID 234
+#. ID 235
+#. ID 236
+#. ID 237
+#. ID 238
+#. ID 239
+#. ID 240
+#. ID 241
+#. ID 242
+#. ID 243
+#. ID 244
+#. ID 245
+#. ID 246
+#. ID 247
+#. ID 248
+#. ID 249
+#. ID 250
+#. ID 251
+#. ID 252
+#. ID 253
+#. ID 254
+#. ID 255
+#. ID 256
+#. ID 257
+#. ID 258
+#. ID 259
+#. ID 260
+#. ID 261
+#. ID 262
+#. ID 263
+#. ID 264
+#. ID 265
+#. ID 266
+#. ID 267
+#. ID 268
+#. ID 269
+#. ID 270
+#. ID 271
+#. ID 272
+#. ID 273
+#. ID 274
+#. ID 275
+#. ID 276
+#. ID 277
+#. ID 278
+#. ID 279
+#. ID 280
+#. ID 281
+#. ID 282
+#. ID 283
+#. ID 284
+#. ID 285
+#. ID 286
+#. ID 287
+#. ID 288
+#. ID 289
+#. ID 290
+#. ID 291
+#. ID 292
+#. ID 293
+#. ID 294
+#. ID 295
+#. ID 296
+#. ID 297
+#. ID 298
+#. ID 299
+#. ID 300
+#. ID 301
+#. ID 302
+#. ID 303
+#. ID 304
+#. ID 305
+#. ID 306
+#. ID 307
+#. ID 308
+#. ID 309
+#. ID 310
+#. ID 311
+#. ID 312
+#. ID 313
+#. ID 314
+#. ID 315
+#. ID 316
+#. ID 317
+#. ID 318
+#. ID 319
+#. ID 320
+#. ID 321
+#. ID 322
+#. ID 323
+#. ID 324
+#. ID 325
+#. ID 326
+#. ID 327
+#. ID 328
+#. ID 329
+#. ID 330
+#. ID 331
+#. ID 332
+#. ID 333
+#. ID 334
+#. ID 335
+#. ID 336
+#. ID 337
+#. ID 338
+#. ID 339
+#. ID 340
+#. ID 341
+#. ID 342
+#. ID 343
+#. ID 344
+#. ID 345
+#. ID 346
+#. ID 347
+#. ID 348
+#. ID 349
+#. ID 350
+#. ID 351
+#. ID 352
+#. ID 353
+#. ID 354
+#. ID 355
+#. ID 356
+#. ID 357
+#. ID 358
+#. ID 359
+#. ID 360
+#. ID 361
+#. ID 362
+#. ID 363
+#. ID 364
+#. ID 365
+#. ID 387
+#. ID 395
+#. ID 396
+msgctxt "enemies.name"
+msgid "!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
+
+#. ID 385
+msgctxt "enemies.name"
+msgid "-- Aysha Edition --"
+msgstr ""
+
+#. ID 386
+msgctxt "enemies.name"
+msgid "Wyvern"
+msgstr ""
+
+#. ID 390
+#. ID 394
+#. ID 397
+#. ID 398
+msgctxt "enemies.name"
+msgid "Drachenfee"
+msgstr "Dragon fairy"
+
+#. ID 399
+msgctxt "enemies.name"
+msgid "Ghoul-Krieger"
+msgstr ""
+
+#. ID 400
+msgctxt "enemies.name"
+msgid "Ghoul-Garde"
+msgstr ""
+
+#. ID 401
+msgctxt "enemies.name"
+msgid "Vampir Xelram"
+msgstr ""
+
+#. ID 402
+msgctxt "enemies.name"
+msgid "Ghoul-Elite"
+msgstr ""
+
+#. ID 403
+msgctxt "enemies.name"
+msgid "Hauptmann Däen"
+msgstr ""
+
+#. ID 404
+msgctxt "enemies.name"
+msgid "Elite-Skelett"
+msgstr ""
+
+#. ID 405
+msgctxt "enemies.name"
+msgid "Skelett-Garde"
+msgstr ""
+
+#. ID 406
+msgctxt "enemies.name"
+msgid "Skelettmagier"
+msgstr ""
+
+#. ID 407
+msgctxt "enemies.name"
+msgid "Waldschratzauberer"
+msgstr ""
+
+#. ID 408
+#. ID 409
+#. ID 410
+#. ID 412
+msgctxt "enemies.name"
+msgid "?"
+msgstr ""
+
+#. ID 411
+msgctxt "enemies.name"
+msgid "Bär"
+msgstr ""
+
+#. ID 413
+#. ID 414
+#. ID 415
+#. ID 416
+msgctxt "enemies.name"
+msgid "Zy'na"
+msgstr ""
+
+#. ID 417
+msgctxt "enemies.name"
+msgid "König der Skelette"
+msgstr ""
+
+#. ID 418
+msgctxt "enemies.name"
+msgid "König der Untoten"
+msgstr ""
+
+#. ID 419
+msgctxt "enemies.name"
+msgid "König der Ghoule "
+msgstr ""
+
+#. ID 420
+msgctxt "enemies.name"
+msgid "König der Orks"
+msgstr ""
+
+#. ID 422
+msgctxt "enemies.name"
+msgid "Salzregent"
+msgstr ""
+
+#. ID 424
+msgctxt "enemies.name"
+msgid "Gurke1"
+msgstr ""
+
+#. ID 425
+msgctxt "enemies.name"
+msgid "Gurke2"
+msgstr ""
+
+#. ID 426
+msgctxt "enemies.name"
+msgid "Gurke3"
+msgstr ""
+
+#. ID 427
+msgctxt "enemies.name"
+msgid "Gurke4"
+msgstr ""
+
+#. ID 430
+msgctxt "enemies.name"
+msgid "Fälschung"
+msgstr ""
+
+#. ID 431
+msgctxt "enemies.name"
+msgid "Orkenhauptmann"
+msgstr ""
+
+#. ID 432
+msgctxt "enemies.name"
+msgid "Brokkoliork"
+msgstr ""
+
+#. ID 433
+msgctxt "enemies.name"
+msgid "Gletcherork"
+msgstr ""
+
+#. ID 434
+msgctxt "enemies.name"
+msgid "Elite-Ork"
+msgstr ""
+
+#. ID 435
+msgctxt "enemies.name"
+msgid "General Nelvek "
+msgstr ""
+
+#. ID 436
+msgctxt "enemies.name"
+msgid "Untoter Barbar"
+msgstr ""
+
+#. ID 437
+msgctxt "enemies.name"
+msgid "Zombie-Krieger"
+msgstr ""
+
+#. ID 438
+msgctxt "enemies.name"
+msgid "Zombie-Elite"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "Starre"
+msgstr "Rigor"
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "%S fällt in Starre !"
+msgstr "%S falls into rigor!"
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "%S stirbt !"
+msgstr "%S dies!"
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "%S wurde belebt !"
+msgstr "%S has been revived!"
+
+#. ID 2
+msgctxt "states.name"
+msgid "Fluch"
+msgstr "Curse"
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "%S wurde verflucht !"
+msgstr "%S has been cursed!"
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "%S wurde verflucht !"
+msgstr "%S has been cursed!"
+
+#. ID 2
+msgctxt "states.message_already"
+msgid "%S ist bereits verflucht !"
+msgstr "%S is already cursed!"
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "%S ist nicht länger verflucht !"
+msgstr "%S is no longer cursed!"
+
+#. ID 3
+msgctxt "states.name"
+msgid "Blind"
+msgstr "Blind"
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid "%S kann nichts mehr sehen !"
+msgstr "%S can no longer see!"
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid "%S kann nichts mehr sehen !"
+msgstr "%S can no longer see!"
+
+#. ID 3
+msgctxt "states.message_already"
+msgid "%S ist bereits blind !"
+msgstr "%S is already blind!"
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid "%S kann wieder klar sehen !"
+msgstr "%S can see again!"
+
+#. ID 4
+msgctxt "states.name"
+msgid "Stumm"
+msgstr "Silence"
+
+#. ID 4
+msgctxt "states.message_actor"
+msgid "%S verstummt !"
+msgstr "%S has been silenced!"
+
+#. ID 4
+msgctxt "states.message_enemy"
+msgid "%S verstummt !"
+msgstr "%S has been silenced!"
+
+#. ID 4
+msgctxt "states.message_already"
+msgid "%S ist bereits stumm !"
+msgstr "%S is already silenced!"
+
+#. ID 4
+msgctxt "states.message_recovery"
+msgid "%S kann wieder sprechen !"
+msgstr "%S is no longer silenced!"
+
+#. ID 5
+msgctxt "states.name"
+msgid "Rasend"
+msgstr "Rage"
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid "%S wird wütend !"
+msgstr "%S became enraged!"
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid "%S wird wütend !"
+msgstr "%S became enraged!"
+
+#. ID 5
+msgctxt "states.message_already"
+msgid "%S ist bereits wütend !"
+msgstr "%S is already raging!"
+
+#. ID 5
+msgctxt "states.message_recovery"
+msgid "%S beruhigt sich wieder !"
+msgstr "%S calms down!"
+
+#. ID 6
+msgctxt "states.name"
+msgid "Verwirrt"
+msgstr "Confused"
+
+#. ID 6
+msgctxt "states.message_actor"
+msgid "%S kann nicht mehr klar denken !"
+msgstr "%S can no longer think straight!"
+
+#. ID 6
+msgctxt "states.message_enemy"
+msgid "%S kann nicht mehr klar denken !"
+msgstr "%S can no longer think straight!"
+
+#. ID 6
+msgctxt "states.message_already"
+msgid "%S ist bereits verwirrt !"
+msgstr "%S is already confused!"
+
+#. ID 6
+msgctxt "states.message_recovery"
+msgid "%S ist nicht länger verwirrt"
+msgstr "%S is no longer confused!"
+
+#. ID 7
+msgctxt "states.name"
+msgid "Schläft"
+msgstr "Sleeping"
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid "%S schläft ein !"
+msgstr "%S falls asleep!"
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid "%S schläft ein !"
+msgstr "%S falls asleep!"
+
+#. ID 7
+msgctxt "states.message_already"
+msgid "%S schläft bereits !"
+msgstr "%S is already asleep!"
+
+#. ID 7
+msgctxt "states.message_recovery"
+msgid "%S wacht auf !"
+msgstr "%S woke up!"
+
+#. ID 8
+msgctxt "states.name"
+msgid "Gelähmt"
+msgstr "Paralyze"
+
+#. ID 8
+msgctxt "states.message_actor"
+msgid "%S ist gelähmt !"
+msgstr "%S became paralyzed!"
+
+#. ID 8
+msgctxt "states.message_enemy"
+msgid "%S ist gelähmt !"
+msgstr "%S became paralyzed!"
+
+#. ID 8
+msgctxt "states.message_already"
+msgid "%S ist bereits gelähmt !"
+msgstr "%S is already paralyzed!"
+
+#. ID 8
+msgctxt "states.message_recovery"
+msgid "%S kann sich wieder bewegen !"
+msgstr "%S can move again!"
+
+#. ID 9
+msgctxt "states.name"
+msgid "Krank"
+msgstr "Sick"
+
+#. ID 9
+msgctxt "states.message_actor"
+msgid "%S wurde magisch krank !"
+msgstr "%S became magically sick!"
+
+#. ID 9
+msgctxt "states.message_enemy"
+msgid "%S wurde magisch krank !"
+msgstr "%S became magically sick!"
+
+#. ID 9
+msgctxt "states.message_already"
+msgid "%S ist bereits magisch krank !"
+msgstr "%S is already magically sick!"
+
+#. ID 9
+msgctxt "states.message_recovery"
+msgid "%S ist wieder gesund !"
+msgstr "%S has been cured!"
+
+#. ID 10
+msgctxt "states.name"
+msgid "blutet"
+msgstr "Bleeding"
+
+#. ID 10
+msgctxt "states.message_actor"
+msgid "%S fängt stark an zu bluten !"
+msgstr "%S bleeds heavily!"
+
+#. ID 10
+msgctxt "states.message_enemy"
+msgid "%S fängt stark an zu bluten !"
+msgstr "%S bleeds heavily!"
+
+#. ID 10
+msgctxt "states.message_already"
+msgid "%S blutet bereits !"
+msgstr "%S is already bleeding!"
+
+#. ID 10
+msgctxt "states.message_affected"
+msgid "%S blutet !"
+msgstr "%S is bleeding!"
+
+#. ID 10
+msgctxt "states.message_recovery"
+msgid "%S s Wunden schließen sich !"
+msgstr "%S 's wounds are healing!"
+
+#. ID 11
+msgctxt "states.name"
+msgid "blutmens"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_actor"
+msgid "%S FEHLER !!!!!!"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_enemy"
+msgid "%S fängt an zu bluten !"
+msgstr "%S starts bleeding!"
+
+#. ID 11
+msgctxt "states.message_already"
+msgid "%S verblutet bereits !"
+msgstr "%S is already bleeding!"
+
+#. ID 11
+msgctxt "states.message_recovery"
+msgid "%S hört auf zu verbluten !"
+msgstr "%S stops bleeding!"
+
+#. ID 12
+msgctxt "states.name"
+msgid "Gift"
+msgstr "Poisoned"
+
+#. ID 12
+msgctxt "states.message_actor"
+msgid "%S wurde vergiftet !"
+msgstr "%S has been poisoned!"
+
+#. ID 12
+msgctxt "states.message_enemy"
+msgid "%S wurde vergiftet !"
+msgstr "%S has been poisoned!"
+
+#. ID 12
+msgctxt "states.message_already"
+msgid "%S ist bereits vergiftet !"
+msgstr "%S is already poisoned!"
+
+#. ID 12
+msgctxt "states.message_recovery"
+msgid "%S ist nicht länger vergiftet !"
+msgstr "%S is no longer poisoned!"
+
+#. ID 13
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 17
+#. ID 18
+msgctxt "states.name"
+msgid "!!!!!!!!"
+msgstr ""
+
+msgctxt "terms.encounter"
+msgid "%S erscheint !"
+msgstr "%S appears!"
+
+msgctxt "terms.special_combat"
+msgid "Ihr überrascht den Gegner !"
+msgstr "You surprised the enemy!"
+
+msgctxt "terms.escape_success"
+msgid "Ihr flieht in Schande ..."
+msgstr "You run away shamefully..."
+
+msgctxt "terms.escape_failure"
+msgid "Ihr schafft es nicht zu fliehen !"
+msgstr "You failed to escape!"
+
+msgctxt "terms.victory"
+msgid "Das Blut eurer Gegner bedeckt den Boden !"
+msgstr "\\>The blood of your enemies covers the ground!"
+
+msgctxt "terms.defeat"
+msgid "Als Blutgeister erleidet ihr unendliche Qualen ..."
+msgstr "As Blood Spirits, you suffer never-ending pain..."
+
+msgctxt "terms.exp_received"
+msgid "%V Erfahrungspunkte erhalten !"
+msgstr "%V \\> Experience Points gained!"
+
+msgctxt "terms.gold_recieved_a"
+msgid "%V %U erhalten !"
+msgstr "You found %V %U  !"
+
+msgctxt "terms.item_recieved"
+msgid "%S erhalten !"
+msgstr "%S \\> acquired!"
+
+msgctxt "terms.attacking"
+msgid "%S greift den Gegner an !"
+msgstr "%S attacks the enemy!"
+
+msgctxt "terms.enemy_critical"
+msgid "%S landet einen kritischen Treffer auf %O !"
+msgstr "%S lands a critical Hit on %O!"
+
+msgctxt "terms.actor_critical"
+msgid "%S landet einen kritischen Treffer auf %O !"
+msgstr "%S lands a critical Hit on %O!"
+
+msgctxt "terms.defending"
+msgid "%S verteidigt sich !"
+msgstr "%S defends!"
+
+msgctxt "terms.observing"
+msgid "%S schaut dem Kampf zu !"
+msgstr "%S watches the battle!"
+
+msgctxt "terms.focus"
+msgid "%S stärkt sich !"
+msgstr "%S strengthens themselves!"
+
+msgctxt "terms.autodestruction"
+msgid "%S vernichtet sich selbst !"
+msgstr "%S selfdestructs!"
+
+msgctxt "terms.enemy_escape"
+msgid "%S flieht !"
+msgstr "%S runs away!"
+
+msgctxt "terms.enemy_transform"
+msgid "%S verwandelt sich !"
+msgstr "%S transforms!"
+
+msgctxt "terms.enemy_damaged"
+msgid "%S verliert %V %U !"
+msgstr "%S looses %V %U!"
+
+msgctxt "terms.enemy_undamaged"
+msgid "%S erleidet keinen Schaden !"
+msgstr "%S takes no damage!"
+
+msgctxt "terms.actor_damaged"
+msgid "%S verliert %V %U !"
+msgstr "%S looses %V %U!"
+
+msgctxt "terms.actor_undamaged"
+msgid "%S erhält keinen Schaden !"
+msgstr "%S takes no damage!"
+
+msgctxt "terms.skill_failure_a"
+msgid "%O hat kein Blut mehr zum Trinken !"
+msgstr "%O has no blood to suck!"
+
+msgctxt "terms.skill_failure_b"
+msgid "%O ist nicht betroffen !"
+msgstr "%O isn't affected!"
+
+msgctxt "terms.skill_failure_c"
+msgid "%O erleidet keinen Schaden !"
+msgstr "%O takes no damage!"
+
+msgctxt "terms.dodge"
+msgid "%O weicht aus !"
+msgstr "%O evades the attack!"
+
+msgctxt "terms.use_item"
+msgid "%S benutzt %O !"
+msgstr "%S uses %O!"
+
+msgctxt "terms.hp_recovery"
+msgid "%S erhält %V %U !"
+msgstr "%S restores %U %V!"
+
+msgctxt "terms.parameter_increase"
+msgid "%S's %U steigt um %V !"
+msgstr "%S's %U is increased by %V!"
+
+msgctxt "terms.parameter_decrease"
+msgid "%S's %U sinkt um %V !"
+msgstr "%S's %U is decreased by %V!"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "%S trinkt %V %U von %O !"
+msgstr "%S drains %V %U from %O!"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "%S trinkt %V %U von %O !"
+msgstr "%S drains %V %U from %O!"
+
+msgctxt "terms.resistance_increase"
+msgid "%S's %O-Abwehr steigt !"
+msgstr "%S's %O defense is increased!"
+
+msgctxt "terms.resistance_decrease"
+msgid "%S's %O-Abwehr sinkt !"
+msgstr "%S's %O defense is decrased!"
+
+msgctxt "terms.level_up"
+msgid "%S erreicht %U %V !"
+msgstr "%S reached %U %V!"
+
+msgctxt "terms.skill_learned"
+msgid "%S erlernt %O !"
+msgstr "%S learned %O!"
+
+msgctxt "terms.shop_greeting1"
+msgid "Wie kann ich euch helfen ?"
+msgstr "How can I help you?"
+
+msgctxt "terms.shop_regreeting1"
+msgid "Nun kauft bitte etwas !"
+msgstr "Please buy something now!"
+
+msgctxt "terms.shop_buy1"
+msgid "Kaufen"
+msgstr "Buy"
+
+msgctxt "terms.shop_sell1"
+msgid "Verkaufen"
+msgstr "Sell"
+
+msgctxt "terms.shop_leave1"
+msgid "Gehen"
+msgstr "Leave"
+
+msgctxt "terms.shop_buy_select1"
+msgid "Was möchtet ihr kaufen ?"
+msgstr "What would you like to buy?"
+
+msgctxt "terms.shop_buy_number1"
+msgid "Wie viele ?"
+msgstr "How many?"
+
+msgctxt "terms.shop_purchased1"
+msgid "OK"
+msgstr "Okay."
+
+msgctxt "terms.shop_sell_select1"
+msgid "Was möchtet ihr verkaufen ?"
+msgstr "What would you like to sell?"
+
+msgctxt "terms.shop_sell_number1"
+msgid "Wie viele ?"
+msgstr "How many?"
+
+msgctxt "terms.shop_sold1"
+msgid "Vielen Dank !"
+msgstr "Thank you very much!"
+
+msgctxt "terms.shop_greeting2"
+msgid "Hurry up would you please !"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "Hurry up already !!!"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Leave"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "Bought"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "How Many"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "Done"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "Sold"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "How many"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "Go now !"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "Good day !"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "I dont have all day you know !!!!"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "BUY"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "SELL"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "GO HOME"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "Bought"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How much ?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Done"
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "Sold"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many ?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thanx !"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "Nur %V%U pro Nacht !"
+msgstr "Only %V%U a night!"
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Möchtet ihr hier übernachten ?"
+msgstr "Would you like to rest here ?"
+
+msgctxt "terms.inn_a_accept"
+msgid "Ja"
+msgstr "Yes"
+
+msgctxt "terms.inn_a_cancel"
+msgid "Nein"
+msgstr "No"
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "Nur %V%U pro Nacht !"
+msgstr "Only %V%U a night!"
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "Wollt ihr hier übernachten ?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Ja"
+msgstr "Yes"
+
+msgctxt "terms.inn_b_cancel"
+msgid "Nein"
+msgstr "No"
+
+msgctxt "terms.possessed_items"
+msgid " Im Inventar"
+msgstr " In inventory"
+
+msgctxt "terms.equipped_items"
+msgid " Getragen"
+msgstr " Equipped"
+
+msgctxt "terms.gold"
+msgid " Filar"
+msgstr " Filar"
+
+msgctxt "terms.battle_fight"
+msgid "Kampf"
+msgstr "Fight"
+
+msgctxt "terms.battle_auto"
+msgid "Autokampf"
+msgstr "Auto"
+
+msgctxt "terms.battle_escape"
+msgid "Fliehen"
+msgstr "Escape"
+
+msgctxt "terms.command_attack"
+msgid "Angriff"
+msgstr "Attack"
+
+msgctxt "terms.command_defend"
+msgid "Abwehren"
+msgstr "Defend"
+
+msgctxt "terms.command_item"
+msgid "Gegenstand"
+msgstr "Item"
+
+msgctxt "terms.command_skill"
+msgid "Fähigkeit"
+msgstr "Skill"
+
+msgctxt "terms.menu_equipment"
+msgid "Ausrüstung"
+msgstr "Equipment"
+
+msgctxt "terms.menu_save"
+msgid "Speichern"
+msgstr "Save"
+
+msgctxt "terms.menu_quit"
+msgid "Spielende"
+msgstr "End Game"
+
+msgctxt "terms.new_game"
+msgid "Start"
+msgstr "New Game"
+
+msgctxt "terms.load_game"
+msgid "Laden"
+msgstr "Load Game"
+
+msgctxt "terms.exit_game"
+msgid "Ende"
+msgstr "End"
+
+msgctxt "terms.level"
+msgid "LEVEL"
+msgstr "LEVEL"
+
+msgctxt "terms.health_points"
+msgid "LP"
+msgstr "HP"
+
+msgctxt "terms.spirit_points"
+msgid "Blut"
+msgstr "Blood"
+
+msgctxt "terms.normal_status"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "terms.exp_short"
+msgid "Ef"
+msgstr "EP"
+
+msgctxt "terms.lvl_short"
+msgid "L"
+msgstr "HP"
+
+msgctxt "terms.hp_short"
+msgid "L"
+msgstr "HP"
+
+msgctxt "terms.sp_short"
+msgid "B"
+msgstr "B"
+
+msgctxt "terms.sp_cost"
+msgid "Kosten"
+msgstr "Cost"
+
+msgctxt "terms.attack"
+msgid "Angriff"
+msgstr "Attack"
+
+msgctxt "terms.defense"
+msgid "Abwehr"
+msgstr "Defense"
+
+msgctxt "terms.spirit"
+msgid "Mental"
+msgstr "Mind"
+
+msgctxt "terms.agility"
+msgid "Geschick"
+msgstr "Agility"
+
+msgctxt "terms.weapon"
+msgid "Waffe"
+msgstr "Weapon"
+
+msgctxt "terms.shield"
+msgid "Schild"
+msgstr "Shield"
+
+msgctxt "terms.armor"
+msgid "Rüstung"
+msgstr "Armor"
+
+msgctxt "terms.helmet"
+msgid "Helm"
+msgstr "Helmet"
+
+msgctxt "terms.accessory"
+msgid "Sonstiges"
+msgstr "Other"
+
+msgctxt "terms.save_game_message"
+msgid "Welchen Spielstand speichern ?"
+msgstr "Choose save file for saving"
+
+msgctxt "terms.load_game_message"
+msgid "Welchen Spielstand laden ?"
+msgstr "Choose save file for loading"
+
+msgctxt "terms.file"
+msgid "Spielstand"
+msgstr "File"
+
+msgctxt "terms.exit_game_message"
+msgid "Willst du wirklich ins Land der Sterblichen ?"
+msgstr "Return to the world of the mortals?"
+
+msgctxt "terms.yes"
+msgid "Ja"
+msgstr "Yes"
+
+msgctxt "terms.no"
+msgid "Nein"
+msgstr "No"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

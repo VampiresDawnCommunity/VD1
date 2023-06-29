@@ -1,0 +1,1 @@
+Player.exe --test-play --language en
