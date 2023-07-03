@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 2, Line 26
 #. Show String Picture
@@ -1294,13 +1294,13 @@ msgctxt "actors.name"
 msgid "Golem"
 msgstr "Golem"
 
-#. ID 7, Line 187
+#. ID 7, Line 188
 #. ChangeHeroTitle (Actor 3)
 msgctxt "actors.title"
 msgid "Höllenbulle"
 msgstr "Hell Bull"
 
-#. ID 7, Line 191
+#. ID 7, Line 192
 #. ChangeHeroTitle (Actor 3)
 msgctxt "actors.title"
 msgid "Herzstier"
@@ -3110,7 +3110,7 @@ msgstr "Chilling woods"
 
 #. ID 13, Line 112
 #. ChangeHeroName (Actor 23)
-#. ID 184, Line 386
+#. ID 184, Line 387
 #. Condition (Actor Name = Grab)
 msgctxt "actors.name"
 msgid "Grab"
@@ -4581,7 +4581,7 @@ msgstr ""
 "Hm...\n"
 "\\.\\.I can't open it!"
 
-#. ID 65, Line 63
+#. ID 65, Line 67
 msgid ""
 "\\>\\c[2]Käsekumpel:\\c[0]\n"
 "Fehler! Maximal 15 Loot Events pro\n"
@@ -7700,6 +7700,311 @@ msgstr ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "silver from the inner castle."
 
+#. ID 173, Line 271
+#. Condition (Actor Name = Fragment)
+msgctxt "actors.name"
+msgid "Fragment"
+msgstr ""
+
+#. ID 173, Line 275
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Was nun, etwa noch eines deiner\n"
+"makabren Spiele?"
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"What now, another one of your\n"
+"macabre games?"
+
+#. ID 173, Line 283
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Dieses Artefakt hilft dir dabei,\n"
+"die Seelen deiner getöteten Feinde\n"
+"auch in großen Mengen zu halten."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"This artefact will assist you in\n"
+"holding even larger amounts of\n"
+"your deafeated enemy's Souls."
+
+#. ID 173, Line 287
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Wir wollen doch, dass du auch als\n"
+"Vampir der dritten Generation dein\n"
+"Potenzial voll ausschöpfen kannst."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"After all, we are eager to have you\n"
+"max out your potential, even as a lowly\n"
+"vampire of the third Generation."
+
+#. ID 173, Line 292
+msgid ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Asgar und ich haben keine Verwendung\n"
+"dafür. Der Großteil seiner Energie\n"
+"scheint schon lange verblasst zu sein."
+msgstr ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Asgar and I don't have any use for it.\n"
+"Most of its energy has faded away\n"
+"a long time ago."
+
+#. ID 173, Line 297
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Und sonst würde es bloß in meinem\n"
+"Magierzimmer Staub ansammeln."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Also, it would just collect more dust\n"
+"in the corners of my magic chamber."
+
+#. ID 173, Line 300
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Da du dich aber heute so gut bewährt\n"
+"hast, möchte ich es dir schenken."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"But because you proved yourself\n"
+"so well today I want to give it to you."
+
+#. ID 173, Line 305
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Nun..."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Well..."
+
+#. ID 173, Line 307
+#. Choice (2 options, embedded in a message)
+msgid ""
+"(Annehmen)\n"
+"Behaltet es für euch!"
+msgstr ""
+"(Take it)\n"
+"Keep that for yourselves!"
+
+#. ID 173, Line 312
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Ich nehme das mal an mich.\n"
+"Denke aber nicht, dass das irgendetwas\n"
+"wettmachen würde."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"I'll take this then.\n"
+"\n"
+"But do not think this will make anything\n"
+"even between us."
+
+#. ID 173, Line 319
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Einst besaßen diese Steine die\n"
+"Macht, selbst die gewaltigsten\n"
+"Kräfte in sich zu bannen."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Once, these stones posessed the\n"
+"power to bind even the most\n"
+"gargantuan of forces."
+
+#. ID 173, Line 323
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Nun sind sie aber nicht viel mehr als\n"
+"eine kleine Hilfe für unerfahrene\n"
+"Magier und Vampire."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Now that most of the magic has faded,\n"
+"they aren't much more than a helpful\n"
+"tool for inexperienced mages."
+
+#. ID 173, Line 329
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Du schenkst mir eine Krücke?!"
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"You are giving me a crutch?"
+
+#. ID 173, Line 332
+msgid ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Ach Valnar..\n"
+"Sieh es als einen Nachteilsausgleich."
+msgstr ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Oh Valnar..\n"
+"Look at this way. This item will\n"
+"help reduce your handicap."
+
+#. ID 173, Line 335
+msgid ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Jedes untote Wesen benötigt Seelen,\n"
+"um seine Macht zu vermehren."
+msgstr ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Every undead being needs souls\n"
+"to increase their power."
+
+#. ID 173, Line 338
+msgid ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"Ob du diese Seelen von besiegten\n"
+"Monstern, oder von Menschen sammelst,\n"
+"ist ganz deine Wahl."
+msgstr ""
+"\\>\\c[4]Alaine:\\c[0]\n"
+"And it's your decision if you collect\n"
+"these souls from deafeated Monsters\n"
+"or from humans."
+
+#. ID 173, Line 343
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Würde ich dir etwas so wertvolles\n"
+"vermachen, wenn ich dich einfach als\n"
+"austauschbar sehen würde?"
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Would I give you something this\n"
+"valuable if I only saw you as some\n"
+"replacable goon?"
+
+#. ID 173, Line 349
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Ich sehe Potenzial in dir.\n"
+"Vergiss nicht, ich hätte dich auch\n"
+"einfach den Wölfen überlassen können,"
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"I can see potential in you.\n"
+"Don't forget. I could have just\n"
+"left you as fodder  for the"
+
+#. ID 173, Line 353
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"nachdem ich dir dein Blut für meinen\n"
+"Zauber abnahm."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"wolves, after I was done taking your\n"
+"blood for my spell."
+
+#. ID 173, Line 356
+#. Choice (2 options)
+msgid ""
+"Ich habe nicht darum gebeten!\n"
+"..."
+msgstr ""
+"I didn't ask for this!\n"
+"..."
+
+#. ID 173, Line 360
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Ich habe nicht darum gebeten,\n"
+"zu SO ETWAS zu werden."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"I didn't ask for this.\n"
+"To be turned THIS way."
+
+#. ID 173, Line 367
+#. ID 183, Line 152
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"..."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"..."
+
+#. ID 173, Line 372
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Mir ging es zu Beginn ebenfalls so.\n"
+"Du wirst mit der Zeit schon noch \n"
+"Gefallen an deiner neuen Kraft finden."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"I felt similar once.\n"
+"With time, you'll get pleasure from\n"
+"your new way of being."
+
+#. ID 173, Line 380
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Bist du dir wirklich sicher?"
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Are you really sure?"
+
+#. ID 173, Line 384
+#. Contains choice at line 3 (2 options)
+#. ID 183, Line 57
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Also..."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"..."
+
+#. ID 173, Line 386
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Na gut...\n"
+"Ich möchte nichts von dir!"
+msgstr ""
+"Fine...\n"
+"I don't want anything from you!"
+
+#. ID 173, Line 391
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Na gut.\n"
+"Denke aber nicht, dass das irgendetwas\n"
+"wettmachen würde."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Well, fine...\n"
+"But do not think this will make anything\n"
+"even between us."
+
+#. ID 173, Line 396
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Sehr schön!\n"
+"Ich freue mich, dass du es dir anders\n"
+"überlegt hast."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Very well!\n"
+"I'm glad you changed your mind."
+
+#. ID 173, Line 409
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Ich habe dich durchschaut!\n"
+"Denke nicht, dass du dir meine\n"
+"Loyalität einfach kaufen kannst."
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"I've seen you through!\n"
+"Don't think you can just buy\n"
+"my loyalty."
+
 #. ID 174, Line 4
 msgid ""
 "\\>\\c[2]Valnar:\\c[0]\n"
@@ -10089,15 +10394,6 @@ msgstr ""
 "\\>\\c[2]Valnar:\\c[0]\n"
 "Yes, tonight was a wonderful night.\""
 
-#. ID 183, Line 57
-#. Contains choice at line 3 (2 options)
-msgid ""
-"\\>\\c[2]Valnar:\\c[0]\n"
-"Also..."
-msgstr ""
-"\\>\\c[2]Valnar:\\c[0]\n"
-"..."
-
 #. ID 183, Line 59
 #. Choice (2 options, embedded in a message)
 msgid ""
@@ -10264,14 +10560,6 @@ msgid ""
 msgstr ""
 "\\>\\c[2]Aysha:\\c[0]\n"
 "It was an okay book, in my mind."
-
-#. ID 183, Line 152
-msgid ""
-"\\>\\c[2]Valnar:\\c[0]\n"
-"..."
-msgstr ""
-"\\>\\c[2]Valnar:\\c[0]\n"
-"..."
 
 #. ID 183, Line 156
 msgid ""
@@ -11721,7 +12009,7 @@ msgstr ""
 msgid "RNG wird neu initialisiert..."
 msgstr "RNG is reinitialized..."
 
-#. ID 184, Line 390
+#. ID 184, Line 391
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Hmmmmmmm...."
@@ -11729,7 +12017,7 @@ msgstr ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Hmmmmmmm...."
 
-#. ID 184, Line 392
+#. ID 184, Line 393
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Der süße Duft des Todes !"
@@ -11737,7 +12025,7 @@ msgstr ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "The sweet scent of death!"
 
-#. ID 184, Line 401
+#. ID 184, Line 402
 msgid ""
 "                    Hier liegt\n"
 "                   Avalon Feval\n"
@@ -11747,7 +12035,7 @@ msgstr ""
 "\\>                   Avalon Feval\n"
 "\\>          May your soul find final peace"
 
-#. ID 184, Line 410
+#. ID 184, Line 411
 msgid ""
 "                    Hier liegt\n"
 "                     Daniel11\n"
@@ -11759,7 +12047,7 @@ msgstr ""
 "\\>             \\_His name was a mystery,\n"
 "\\>              \\_but his soul was pure"
 
-#. ID 184, Line 416
+#. ID 184, Line 417
 msgid ""
 "                    Hier liegt\n"
 "                     Stan\n"
@@ -11771,7 +12059,7 @@ msgstr ""
 "\\>             \\_His name was a mystery,\n"
 "\\>              \\_but his soul was pure"
 
-#. ID 184, Line 427
+#. ID 184, Line 428
 msgid ""
 "                    Hier liegt\n"
 "                  Marline Serran\n"
@@ -11783,7 +12071,7 @@ msgstr ""
 "\\>             \\_May her beauty continue\n"
 "\\>              \\_to enthrall the earth"
 
-#. ID 184, Line 435
+#. ID 184, Line 436
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Mutter .\\..\\..\\..\\.\n"
@@ -11793,7 +12081,7 @@ msgstr ""
 "Mother\\..\\..\\..\\..\n"
 "I will never forget you!"
 
-#. ID 184, Line 444
+#. ID 184, Line 445
 msgid ""
 "                    Hier liegt\n"
 "                  Randolf Serran\n"
@@ -11805,7 +12093,7 @@ msgstr ""
 "\\>            \\_May his strength continue\n"
 "\\>            to bring good to the earth"
 
-#. ID 184, Line 452
+#. ID 184, Line 453
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Vater .\\..\\..\\..\\.\n"
@@ -11815,7 +12103,7 @@ msgstr ""
 "Father\\..\\..\\..\\..\n"
 "I will avenge you..."
 
-#. ID 184, Line 461
+#. ID 184, Line 462
 msgid ""
 "                    Hier liegt\n"
 "                   Gerald Tronar\n"
@@ -11827,7 +12115,7 @@ msgstr ""
 "\\>                 Born for the war,\n"
 "\\>                  \\_died for peace"
 
-#. ID 184, Line 470
+#. ID 184, Line 471
 msgid ""
 "                    Hier liegt\n"
 "                   Garnak Erdis\n"
@@ -11839,7 +12127,7 @@ msgstr ""
 "\\>               Battle was his life,\n"
 "\\>             \\_his honor was his death"
 
-#. ID 184, Line 478
+#. ID 184, Line 479
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Ach Garnak !\n"
@@ -11851,7 +12139,7 @@ msgstr ""
 "\\.\\.I wish, you had escaped that damn\n"
 "priest."
 
-#. ID 184, Line 489
+#. ID 184, Line 490
 msgid ""
 "                    Hier liegt\n"
 "                      ??? Aldaines\n"
@@ -11861,7 +12149,7 @@ msgstr ""
 "\\>                     \\_???????\n"
 "\\>              His castle is now mine"
 
-#. ID 184, Line 497
+#. ID 184, Line 498
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Tja, ich habe nie deinen Namen\n"
@@ -11872,7 +12160,7 @@ msgstr ""
 "Well, I never found out your name, but\n"
 "your castle is very lovely!"
 
-#. ID 184, Line 501
+#. ID 184, Line 502
 msgid ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Danke, dass du mich darin wohnen\n"
@@ -11881,7 +12169,7 @@ msgstr ""
 "\\>\\c[3]Asgar:\\c[0]\n"
 "Thank you for letting me live here!"
 
-#. ID 184, Line 511
+#. ID 184, Line 512
 msgid ""
 "                    Hier liegt\n"
 "                   Jeran Honris\n"
@@ -24014,13 +24302,13 @@ msgstr ""
 "Error! Unknown ActorId: \\v[808]\n"
 "(Typ: \\v[809])"
 
-#. ID 340, Line 3
+#. ID 340, Line 4
 #. Condition (Actor Name = TitleSmall)
 msgctxt "actors.name"
 msgid "TitleSmall"
 msgstr ""
 
-#. ID 340, Line 7
+#. ID 340, Line 8
 #. Condition (Actor Name = TitleMid)
 msgctxt "actors.name"
 msgid "TitleMid"
@@ -24407,7 +24695,9 @@ msgstr "      \\c[4]Page \\v[1027] / \\v[1023]\\c[0]"
 #. Condition (Actor Name = ---)
 #. ID 354, Line 47
 #. Condition (Actor Name = ---)
-#. ID 354, Line 78
+#. ID 354, Line 48
+#. Condition (Actor Name = ---)
+#. ID 354, Line 84
 #. Condition (Actor Name = ---)
 msgctxt "actors.name"
 msgid "---"
@@ -24431,13 +24721,13 @@ msgctxt "strpic"
 msgid " \\c[2]\\n[23]\\c[0]"
 msgstr ""
 
-#. ID 354, Line 50
+#. ID 354, Line 51
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\n[23]"
 msgstr ""
 
-#. ID 354, Line 55
+#. ID 354, Line 56
 #. Show String Picture
 msgctxt "strpic"
 msgid ""
@@ -24445,31 +24735,40 @@ msgid ""
 "\\n[24]"
 msgstr ""
 
-#. ID 354, Line 122
+#. ID 354, Line 61
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"\\n[23]\n"
+"\\n[24]\n"
+"\\n[25]"
+msgstr ""
+
+#. ID 354, Line 128
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\c[3][ \\n[23] ]\\c[0]"
 msgstr ""
 
-#. ID 354, Line 125
+#. ID 354, Line 131
 #. Show String Picture
 msgctxt "strpic"
 msgid "[ \\n[23] ]"
 msgstr ""
 
-#. ID 354, Line 137
+#. ID 354, Line 143
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\c[3][ \\v[1040] ]\\c[0]"
 msgstr ""
 
-#. ID 354, Line 140
+#. ID 354, Line 146
 #. Show String Picture
 msgctxt "strpic"
 msgid "[ \\v[1040] ]"
 msgstr ""
 
-#. ID 377, Line 66
+#. ID 377, Line 67
 msgid "Hash: \\v[893]"
 msgstr ""
 
@@ -24477,51 +24776,57 @@ msgstr ""
 msgid "OUT: \\v[896]"
 msgstr ""
 
-#. ID 408, Line 48
+#. ID 382, Line 10
 #. Show String Picture
-#. ID 408, Line 55
+msgctxt "strpic"
+msgid "Initialisiere RNG ... \\c[5]\\v[579]%\\c[0]"
+msgstr ""
+
+#. ID 408, Line 45
+#. Show String Picture
+#. ID 408, Line 52
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\n[23] (\\v[960]%)"
 msgstr ""
 
-#. ID 408, Line 50
+#. ID 408, Line 47
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\n[23] (Erledigt)"
 msgstr "\\n[23] (Completed)"
 
-#. ID 408, Line 60
+#. ID 408, Line 57
 #. Show String Picture
 msgctxt "strpic"
-msgid "Truhen: \\v[951] von \\v[950]"
-msgstr "Chests: \\v[951] of \\v[950]"
+msgid "Truhen: \\v[959] von \\v[958]"
+msgstr "Chests: \\v[959] of \\v[958]"
 
-#. ID 408, Line 66
+#. ID 408, Line 63
 #. Show String Picture
 msgctxt "strpic"
 msgid "Geheimnisse: \\v[953] von \\v[952]"
 msgstr "Secrets: \\v[953] of \\v[952]"
 
-#. ID 408, Line 72
+#. ID 408, Line 69
 #. Show String Picture
 msgctxt "strpic"
 msgid "Sonstige: \\v[957] von \\v[956]"
 msgstr "Other: \\v[957] of \\v[956]"
 
-#. ID 408, Line 78
+#. ID 408, Line 75
 #. Show String Picture
 msgctxt "strpic"
 msgid "\\n[23] (Unerforscht)"
 msgstr "\\n[23] (Unexplored)"
 
-#. ID 408, Line 81
+#. ID 408, Line 78
 #. Show String Picture
 msgctxt "strpic"
 msgid "Erforscht: \\v[955] / \\v[954]"
 msgstr "Explored: \\v[955] / \\v[954]"
 
-#. ID 408, Line 84
+#. ID 408, Line 81
 #. Show String Picture
 msgctxt "strpic"
 msgid "???"

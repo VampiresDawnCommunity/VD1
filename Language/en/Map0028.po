@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 240, Page 1, Line 1, Pos (35,64)
 #. ChangeHeroName (Actor 23)
@@ -78,6 +82,22 @@ msgstr ""
 #. ChangeHeroName (Actor 23)
 msgctxt "actors.name"
 msgid "Feuertaufe2"
+msgstr ""
+
+#. ID 301, Page 3, Line 22, Pos (52,139)
+msgid ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"Einen Moment noch. Ich habe dir das\n"
+"hier noch nicht gegeben."
+msgstr ""
+"\\>\\c[3]Asgar:\\c[0]\n"
+"One more thing. I still have something\n"
+"to give to you."
+
+#. ID 301, Page 3, Line 28, Pos (52,139)
+#. ChangeHeroName (Actor 23)
+msgctxt "actors.name"
+msgid "Fragment"
 msgstr ""
 
 #. ID 301, Page 4, Line 2, Pos (52,139)
@@ -634,4 +654,3 @@ msgstr ""
 msgctxt "actors.name"
 msgid "OrkHüne"
 msgstr ""
-

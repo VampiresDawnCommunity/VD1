@@ -2752,30 +2752,6 @@
         <parameters>0 0 111 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2347 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10320</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 0 321 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12120</code>
         <indent>1</indent>
         <string></string>
@@ -3187,150 +3163,6 @@
         <code>20110</code>
         <indent>0</indent>
         <string>ausprobieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2347 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 455 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2228 2228 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10320</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 0 321 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 456 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 330 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Dieses Artefakt hilft dir dabei,</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>die Seelen deiner getöteten Feinde</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>auch in großen Mengen zu halten.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Wir wollen doch, dass du auch als</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Vampir der dritten Generation dein</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Potenzial voll ausschöpfen kannst.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Einst besaßen diese Steine die</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Macht, selbst die gewaltigsten</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Kräfte in sich zu bannen.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Nun ist es nicht mehr als eine kleine</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Hilfe für unerfahrene Magier und</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Vampire.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -49050,6 +48882,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1109</save_count>
+  <save_count>1111</save_count>
  </Map>
 </LMU>
