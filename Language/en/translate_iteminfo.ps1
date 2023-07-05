@@ -1,6 +1,6 @@
 
 ./lcftrans.exe -u ../../
-
+	
 $htable = @{}
 $match = 0
 $currKey = ''
@@ -69,3 +69,5 @@ foreach($line in Get-Content RPG_RT.ldb.common.po -Encoding UTF8) {
 
 remove-item RPG_RT.ldb.common.po
 move-item -Path RPG_RT.ldb.common.po.tmp -Destination RPG_RT.ldb.common.po
+
+./update.ps1
