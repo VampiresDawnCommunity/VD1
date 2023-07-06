@@ -77,6 +77,5 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 	}
  }
  
+Write-Host "Converting LMU to EMU..."
 dev/l2e.ps1
-
-Write-Host "Converting EMU back to LMU..."
