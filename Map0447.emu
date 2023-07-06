@@ -434,7 +434,7 @@
     </pages>
    </Event>
    <Event id="0006">
-    <name>Troop-04</name>
+    <name>Troop-01</name>
     <x>7</x>
     <y>34</y>
     <pages>
@@ -464,7 +464,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
@@ -487,7 +487,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 423 0</parameters>
+        <parameters>0 420 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -507,7 +507,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>724</variable_id>
+        <variable_id>721</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -517,7 +517,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
@@ -1820,7 +1820,7 @@
     </pages>
    </Event>
    <Event id="0022">
-    <name>Troop-05</name>
+    <name>Troop-02</name>
     <x>37</x>
     <y>42</y>
     <pages>
@@ -1850,7 +1850,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -1873,7 +1873,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 424 0</parameters>
+        <parameters>0 421 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -1893,7 +1893,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>725</variable_id>
+        <variable_id>722</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -1903,7 +1903,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -1933,7 +1933,7 @@
     </pages>
    </Event>
    <Event id="0023">
-    <name>Troop-06</name>
+    <name>Troop-03</name>
     <x>38</x>
     <y>42</y>
     <pages>
@@ -1963,7 +1963,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
       <translucent>F</translucent>
@@ -1986,7 +1986,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 425 0</parameters>
+        <parameters>0 422 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -2006,7 +2006,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>726</variable_id>
+        <variable_id>723</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -2016,7 +2016,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
+      <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
       <translucent>F</translucent>
@@ -2046,7 +2046,7 @@
     </pages>
    </Event>
    <Event id="0024">
-    <name>Troop-07</name>
+    <name>Troop-04</name>
     <x>39</x>
     <y>42</y>
     <pages>
@@ -2076,7 +2076,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
@@ -2099,7 +2099,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 426 0</parameters>
+        <parameters>0 423 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -2119,7 +2119,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>727</variable_id>
+        <variable_id>724</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -2129,7 +2129,7 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
@@ -3469,7 +3469,7 @@
     </pages>
    </Event>
    <Event id="0034">
-    <name>Troop-01</name>
+    <name>Troop-05</name>
     <x>5</x>
     <y>44</y>
     <pages>
@@ -3499,9 +3499,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -3522,7 +3522,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 420 0</parameters>
+        <parameters>0 424 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -3542,7 +3542,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>721</variable_id>
+        <variable_id>725</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -3552,9 +3552,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>8</move_frequency>
@@ -3582,7 +3582,7 @@
     </pages>
    </Event>
    <Event id="0035">
-    <name>Troop-08</name>
+    <name>Troop-06</name>
     <x>40</x>
     <y>42</y>
     <pages>
@@ -3612,9 +3612,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -3635,7 +3635,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 427 0</parameters>
+        <parameters>0 425 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -3655,7 +3655,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>728</variable_id>
+        <variable_id>726</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -3665,9 +3665,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_index>1</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>8</move_frequency>
@@ -3881,7 +3881,7 @@
     </pages>
    </Event>
    <Event id="0037">
-    <name>Troop-09</name>
+    <name>Troop-07</name>
     <x>41</x>
     <y>42</y>
     <pages>
@@ -3913,7 +3913,7 @@
       <character_name>ER_Debug</character_name>
       <character_index>2</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>2</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -3934,7 +3934,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 428 0</parameters>
+        <parameters>0 426 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -3954,7 +3954,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>729</variable_id>
+        <variable_id>727</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -3966,7 +3966,7 @@
       <character_name>ER_Debug</character_name>
       <character_index>2</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>2</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>8</move_frequency>
@@ -5084,7 +5084,7 @@
     </pages>
    </Event>
    <Event id="0047">
-    <name>Troop-10</name>
+    <name>Troop-08</name>
     <x>42</x>
     <y>42</y>
     <pages>
@@ -5114,9 +5114,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
-      <character_direction>1</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_index>2</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -5137,7 +5137,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 429 0</parameters>
+        <parameters>0 427 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -5157,7 +5157,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>730</variable_id>
+        <variable_id>728</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -5167,9 +5167,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
-      <character_direction>1</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_index>2</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>8</move_frequency>
@@ -5197,7 +5197,7 @@
     </pages>
    </Event>
    <Event id="0048">
-    <name>Troop-02</name>
+    <name>Troop-09</name>
     <x>21</x>
     <y>41</y>
     <pages>
@@ -5227,9 +5227,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
+      <character_index>2</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -5250,7 +5250,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 421 0</parameters>
+        <parameters>0 428 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -5270,7 +5270,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>722</variable_id>
+        <variable_id>729</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -5280,9 +5280,9 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>0</character_index>
+      <character_index>2</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>8</move_frequency>
@@ -5466,7 +5466,7 @@
     </pages>
    </Event>
    <Event id="0050">
-    <name>Troop-11</name>
+    <name>Troop-10</name>
     <x>43</x>
     <y>42</y>
     <pages>
@@ -5498,7 +5498,7 @@
       <character_name>ER_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -5519,7 +5519,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 430 0</parameters>
+        <parameters>0 429 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -5539,7 +5539,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>731</variable_id>
+        <variable_id>730</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -6459,7 +6459,7 @@
     </pages>
    </Event>
    <Event id="0057">
-    <name>Troop-03</name>
+    <name>Troop-11</name>
     <x>11</x>
     <y>43</y>
     <pages>
@@ -6490,8 +6490,8 @@
       </condition>
       <character_name>ER_Debug</character_name>
       <character_index>0</character_index>
-      <character_direction>0</character_direction>
-      <character_pattern>2</character_pattern>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -6512,7 +6512,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 422 0</parameters>
+        <parameters>0 430 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6532,7 +6532,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>723</variable_id>
+        <variable_id>731</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -6543,7 +6543,7 @@
       </condition>
       <character_name>ER_Debug</character_name>
       <character_index>0</character_index>
-      <character_direction>0</character_direction>
+      <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -8293,7 +8293,7 @@
     </pages>
    </Event>
    <Event id="0082">
-    <name>Troop-Controller</name>
+    <name>Troop-19</name>
     <x>2</x>
     <y>27</y>
     <pages>
@@ -8313,7 +8313,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
+        <variable_id>739</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -8323,8 +8323,8 @@
        </EventPageCondition>
       </condition>
       <character_name>ER_Debug</character_name>
-      <character_index>1</character_index>
-      <character_direction>3</character_direction>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
