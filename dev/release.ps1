@@ -27,3 +27,32 @@ if (test-path easyrpg_log.txt) {
   remove-item easyrpg_log.txt
 }
 cp dev/ER_Release.png CharSet/ER_Debug.png
+
+mkdir build
+cp -R Backdrop build/
+cp -R Battle build/
+cp -R CharSet build/
+cp -R ChipSet build/
+cp -R FaceSet build/
+cp -R Font build/
+cp -R GameOver build/
+cp -R Language build/
+cp -R Monster build/
+cp -R Music build/
+cp -R Panorama build/
+cp -R Picture build/
+cp -R Sound build/
+cp -R System build/
+cp -R Title build/
+cp *.lmu build/
+cp RPG_RT.ldb build/
+cp RPG_RT.lmt build/
+cp RPG_RT.ini build/
+cp EasyRPG.ini build/
+cp Player.exe build/
+cp "_Start with English translation.bat" build/
+
+mv build "Vampires Dawn - Community Edition"
+Compress-Archive -Path "Vampires Dawn - Community Edition" -DestinationPath "Vampires Dawn - Community Edition (Build $($newBuild)).zip"
+
+rm "Vampires Dawn - Community Edition" -r -fo
