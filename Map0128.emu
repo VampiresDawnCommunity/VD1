@@ -2818,6 +2818,12 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2123 2123 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 2182 2182 0</parameters>
        </EventCommand>
        <EventCommand>
@@ -3221,6 +3227,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 265 265 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -3997,8 +4009,8 @@
    </Event>
    <Event id="0049">
     <name>Troop-04</name>
-    <x>59</x>
-    <y>38</y>
+    <x>60</x>
+    <y>29</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -9682,6 +9694,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>405</save_count>
+  <save_count>407</save_count>
  </Map>
 </LMU>
