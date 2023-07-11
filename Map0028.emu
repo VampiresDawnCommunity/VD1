@@ -80212,7 +80212,7 @@
    </Event>
    <Event id="1116">
     <name>FlederTeleport</name>
-    <x>1</x>
+    <x>2</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -80220,7 +80220,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -80229,7 +80229,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2072</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -80264,97 +80264,121 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2080 1 0 0 0</parameters>
+        <parameters>0 2124 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 29 0 0 0 0</parameters>
+        <parameters>0 2080 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>2</indent>
+        <string></string>
+        <parameters>0 29 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10820</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>782 784 785</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
         <string></string>
         <parameters>1 785 0 6 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>1 121 230</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>22011</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>1 784 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>1 121 230</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>22011</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>1 784 0 119 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>1 121 230</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>22011</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>1 785 0 159 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>1 121 230</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -85196,6 +85220,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>2084</save_count>
+  <save_count>2094</save_count>
  </Map>
 </LMU>
