@@ -15789,16 +15789,34 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10220</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 208 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 721 721 0 0 71 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 722 722 0 0 72 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -33561,6 +33579,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>871</save_count>
+  <save_count>873</save_count>
  </Map>
 </LMU>
