@@ -2168,6 +2168,12 @@
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2207 2207 0</parameters>
+       </EventCommand>
       </event_commands>
      </EventPage>
     </pages>
@@ -2233,6 +2239,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2207 2207 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -2300,6 +2312,12 @@
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2207 2207 0</parameters>
+       </EventCommand>
       </event_commands>
      </EventPage>
     </pages>
@@ -2365,6 +2383,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2207 2207 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13360,6 +13384,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>292</save_count>
+  <save_count>296</save_count>
  </Map>
 </LMU>
