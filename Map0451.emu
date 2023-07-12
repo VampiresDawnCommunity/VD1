@@ -317,6 +317,52 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>58</variable_id>
+        <variable_value>3</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>4</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
           <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>T</variable>
@@ -371,7 +417,7 @@
        </EventCommand>
       </event_commands>
      </EventPage>
-     <EventPage id="0004">
+     <EventPage id="0005">
       <condition>
        <EventPageCondition>
         <flags>
@@ -417,7 +463,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0005">
+     <EventPage id="0006">
       <condition>
        <EventPageCondition>
         <flags>
@@ -463,7 +509,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0006">
+     <EventPage id="0007">
       <condition>
        <EventPageCondition>
         <flags>
@@ -509,7 +555,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0007">
+     <EventPage id="0008">
       <condition>
        <EventPageCondition>
         <flags>
@@ -555,7 +601,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0008">
+     <EventPage id="0009">
       <condition>
        <EventPageCondition>
         <flags>
@@ -601,7 +647,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0009">
+     <EventPage id="0010">
       <condition>
        <EventPageCondition>
         <flags>
@@ -647,7 +693,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0010">
+     <EventPage id="0011">
       <condition>
        <EventPageCondition>
         <flags>
@@ -4775,6 +4821,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>500</save_count>
+  <save_count>502</save_count>
  </Map>
 </LMU>
