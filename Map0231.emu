@@ -18335,6 +18335,18 @@
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2075 2075 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2076 2076 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11410</code>
         <indent>0</indent>
         <string></string>
@@ -23093,70 +23105,88 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10220</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 705 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 721 721 0 0 338 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 722 722 0 0 339 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 723 723 0 0 340 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 724 724 0 0 341 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 725 725 0 0 342 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 726 726 0 0 343 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 727 727 0 0 344 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 728 728 0 0 345 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 729 729 0 0 346 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 730 730 0 0 347 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 731 731 0 0 348 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -23860,6 +23890,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>745</save_count>
+  <save_count>750</save_count>
  </Map>
 </LMU>
