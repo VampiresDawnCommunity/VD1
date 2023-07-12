@@ -32638,10 +32638,10 @@
         <parameters>0 335 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11330</code>
+        <code>10860</code>
         <indent>0</indent>
         <string></string>
-        <parameters>67 8 0 0 36 0 37</parameters>
+        <parameters>67 0 14 18</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -33913,7 +33913,7 @@
         <code>10810</code>
         <indent>0</indent>
         <string></string>
-        <parameters>455 11 10</parameters>
+        <parameters>16 11 10</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -33956,12 +33956,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 37 37 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11030</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>100 100 100 100 10 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -48983,6 +48977,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1115</save_count>
+  <save_count>1121</save_count>
  </Map>
 </LMU>
