@@ -623,46 +623,10 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string>sfigaroin</string>
         <parameters>0 45 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>1</indent>
-        <string>sfigaroin</string>
-        <parameters>0 586 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -1720,6 +1684,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>107</save_count>
+  <save_count>109</save_count>
  </Map>
 </LMU>

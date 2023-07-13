@@ -2553,7 +2553,7 @@
    </Event>
    <Event id="0012">
     <name>WacheAngegriffen</name>
-    <x>1</x>
+    <x>2</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -2848,46 +2848,10 @@
         <parameters>1 629 0 3 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>3</indent>
+        <indent>2</indent>
         <string>sfigaroout</string>
         <parameters>0 4 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>sfigaroout</string>
-        <parameters>0 545 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2902,46 +2866,10 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>3</indent>
+        <indent>2</indent>
         <string>sfigaroout</string>
         <parameters>0 3 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>sfigaroout</string>
-        <parameters>0 544 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2974,46 +2902,10 @@
         <parameters>1 629 0 3 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>3</indent>
+        <indent>2</indent>
         <string>sfigaroout</string>
         <parameters>0 5 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>sfigaroout</string>
-        <parameters>0 546 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3028,46 +2920,10 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>3</indent>
+        <indent>2</indent>
         <string>sfigaroout</string>
         <parameters>0 3 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>sfigaroout</string>
-        <parameters>0 544 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3549,6 +3405,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>129</save_count>
+  <save_count>131</save_count>
  </Map>
 </LMU>

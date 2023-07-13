@@ -3352,82 +3352,10 @@
         <parameters>0 0 100 100 50</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2312 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10710</code>
-        <indent>2</indent>
+        <indent>1</indent>
         <string>LavaCave2</string>
         <parameters>0 18 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 1890 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>LavaCave2</string>
-        <parameters>0 624 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10710</code>
-        <indent>3</indent>
-        <string>LavaCave2</string>
-        <parameters>0 559 1 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -9203,6 +9131,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>375</save_count>
+  <save_count>377</save_count>
  </Map>
 </LMU>
