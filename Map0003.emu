@@ -801,6 +801,36 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>         \c[5]- Hinweis zum Einstellungs-Menü -\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string> Um detaillierte Beschreibungen für die einzelnen   </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>   Spieleinstellungen zu erhalten, die $s-Taste</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>betätigen, während die oberste Zeile markiert ist.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>heart</string>
@@ -3772,6 +3802,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>630</save_count>
+  <save_count>632</save_count>
  </Map>
 </LMU>
