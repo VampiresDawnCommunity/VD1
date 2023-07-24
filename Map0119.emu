@@ -14064,6 +14064,12 @@
         <parameters>0 213 213 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>silverblack_m</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>0</indent>
         <string>\&gt;\c[9]Vincent Weynard\c[0]</string>
@@ -14708,7 +14714,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Es wurde veehrt und geachtet,</string>
+        <string>Es wurde verehrt und geachtet,</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -15495,6 +15501,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>309</save_count>
+  <save_count>312</save_count>
  </Map>
 </LMU>
