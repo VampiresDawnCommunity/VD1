@@ -2802,6 +2802,12 @@
         <parameters>496 15 29</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2200 2200 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12220</code>
         <indent>1</indent>
         <string></string>
@@ -2919,6 +2925,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>496 15 29</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2200 2200 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -3799,6 +3811,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>191</save_count>
+  <save_count>196</save_count>
  </Map>
 </LMU>
