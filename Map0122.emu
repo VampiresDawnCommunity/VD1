@@ -3175,6 +3175,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>Absorption2</string>
@@ -3401,12 +3407,6 @@
         <indent>0</indent>
         <string>Gute Nacht, Valnar !</string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2123 2123 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -4793,6 +4793,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>261</save_count>
+  <save_count>263</save_count>
  </Map>
 </LMU>
