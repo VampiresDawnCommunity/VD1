@@ -505,6 +505,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string></string>
@@ -671,6 +677,12 @@
         <indent>0</indent>
         <string>\.\.Und jetzt werdet ihr alle sterben !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -925,6 +937,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11330</code>
         <indent>0</indent>
         <string></string>
@@ -1045,6 +1063,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11330</code>
         <indent>0</indent>
         <string></string>
@@ -1085,6 +1109,12 @@
         <indent>0</indent>
         <string>ROAAAAAAR !!!!</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -1667,6 +1697,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>103</save_count>
+  <save_count>105</save_count>
  </Map>
 </LMU>
