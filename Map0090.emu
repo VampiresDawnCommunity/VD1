@@ -69,7 +69,7 @@
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
-      <layer>1</layer>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -122,7 +122,7 @@
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
-      <layer>1</layer>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -941,7 +941,25 @@
         <code>11410</code>
         <indent>1</indent>
         <string></string>
-        <parameters>30</parameters>
+        <parameters>20</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 308 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 140 140 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5296,6 +5314,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>257</save_count>
+  <save_count>263</save_count>
  </Map>
 </LMU>
