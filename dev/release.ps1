@@ -29,6 +29,7 @@ if (test-path easyrpg_log.txt) {
 cp dev/ER_Release.png CharSet/ER_Debug.png
 
 mkdir build
+cp -R _Extras build/
 cp -R Backdrop build/
 cp -R Battle build/
 cp -R CharSet build/
@@ -51,6 +52,9 @@ cp RPG_RT.ini build/
 cp EasyRPG.ini build/
 cp Player.exe build/
 cp "_Start with English translation.bat" build/
+
+cp debug.bat build/
+cp debug_en build/
 
 mv build "Vampires Dawn - Community Edition"
 Compress-Archive -Path "Vampires Dawn - Community Edition" -DestinationPath "Vampires Dawn - Community Edition (Build $($newBuild)).zip"

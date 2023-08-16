@@ -3913,12 +3913,6 @@
         <string></string>
         <parameters>172 26 49</parameters>
        </EventCommand>
-       <EventCommand>
-        <code>11510</code>
-        <indent>0</indent>
-        <string>Cemetary</string>
-        <parameters>0 100 100 50</parameters>
-       </EventCommand>
       </event_commands>
      </EventPage>
      <EventPage id="0002">
@@ -4085,12 +4079,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>172 26 49</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11510</code>
-        <indent>0</indent>
-        <string>Cemetary</string>
-        <parameters>0 100 100 50</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -4326,6 +4314,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Tradan</string>
+        <parameters>26</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
@@ -5008,6 +5002,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>185</save_count>
+  <save_count>190</save_count>
  </Map>
 </LMU>

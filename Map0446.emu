@@ -3063,10 +3063,16 @@
         <parameters>2</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>ADemon</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>VD2_Battle2</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10710</code>
@@ -3075,10 +3081,16 @@
         <parameters>0 676 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -4132,6 +4144,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>ER_Dungeon</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12410</code>
         <indent>0</indent>
         <string></string>
@@ -4286,6 +4304,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>398</save_count>
+  <save_count>404</save_count>
  </Map>
 </LMU>

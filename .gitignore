@@ -1,12 +1,20 @@
 /*.lmu
+/*.lsd
 /RPG_RT.ldb
 /RPG_RT.lmt
+/Player.exe
+/RPG_RT.exe
+/lcf2xml.exe
+/easyrpg_log.txt
+/screenshot_*.png
+/dev/betatest/
+/_Extras/
+/Language/en/*.mo
 /Backdrop/*.png
 /Battle/*.png
 /Panorama/*.png
 /Sound/*.wav
-/Music/*.mid
-/Music/*.mp3
+/Music/
 /GameOver/*.png
 /Monster/*.png
 /CharSet/!Raven Chara!.png
@@ -164,17 +172,6 @@
 /CharSet/zombie.png
 /CharSet/zombie2.png
 /CharSet/zxchar2.png
-/AyshaOfftakes/276042304_281561490818196_4655651812717820236_n.png
-/AyshaOfftakes/277077675_645482763207466_5955254814020387883_n.png
-/AyshaOfftakes/fire.png
-/AyshaOfftakes/nuss.png
-/AyshaOfftakes/screenshot_207.png
-/AyshaOfftakes/screenshot_213.png
-/AyshaOfftakes/screenshot_330.png
-/AyshaOfftakes/screenshot_331.png
-/AyshaOfftakes/screenshot_360.png
-/AyshaOfftakes/unknown.png
-/AyshaOfftakes/unknowndd.png
 /ChipSet/1.MacTown.png
 /ChipSet/17.MacRuins.png
 /ChipSet/18-Village-Poor.png
@@ -196,9 +193,6 @@
 /ChipSet/Dungeon4.png
 /ChipSet/DungeonChipset.png
 /ChipSet/dungeonx.png
-/_Endvariablen by Hambikatze.png
-/_WALnar by Hambikatze.png
-/_Wir sind Alaine by Hambikatze.png
 /ChipSet/forestbase.png
 /ChipSet/Friedhof2.png
 /ChipSet/Gebirge1.png
@@ -252,7 +246,6 @@
 /ChipSet/Vampire Welt.png
 /ChipSet/VDMagierzimmer.png
 /ChipSet/VDWald2.png
-/easyrpg_log.txt
 /FaceSet/1-Drachenfee.png
 /FaceSet/1-dream.png
 /FaceSet/1-dreamerGod.png
@@ -546,11 +539,4 @@
 /Picture/zuentnehmen.png
 /Picture/zusatzcredits.png
 /Picture/zwerg.png
-/Player.exe
-/RPG_RT.exe
-/screenshot_*.png
-/Music/*.wav
 /System/*.png
-/lcf2xml.exe
-/Language/en/*.mo
-*.lsd

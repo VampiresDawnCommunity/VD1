@@ -1981,16 +1981,28 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>2</indent>
-        <string>bof3myria</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossAbraxas</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10710</code>
         <indent>2</indent>
         <string>caves</string>
         <parameters>0 8 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12420</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2552,10 +2564,16 @@
         <parameters>0 328 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>1-00 reset</string>
-        <parameters>0 100 100 50</parameters>
+        <string>KlennarCave</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -4590,16 +4608,28 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>bof3myria</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossAbraxas</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10710</code>
         <indent>0</indent>
         <string>caves</string>
         <parameters>0 8 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12420</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6449,6 +6479,66 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 291 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>MagicMount</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 292 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>2</indent>
+        <string>MagicMount</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
@@ -7692,6 +7782,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>286</save_count>
+  <save_count>295</save_count>
  </Map>
 </LMU>

@@ -1956,10 +1956,46 @@
         <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>12010</code>
         <indent>0</indent>
-        <string>MW-Battle</string>
-        <parameters>0 100 60 40</parameters>
+        <string></string>
+        <parameters>0 2314 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>1</indent>
+        <string>MQ_TradanFlight</string>
+        <parameters>0 80 60 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>1</indent>
+        <string>MQ_TradanFlight_R</string>
+        <parameters>0 80 60 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -4595,6 +4631,30 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 375 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>TradanGruft</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
@@ -5564,6 +5624,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>211</save_count>
+  <save_count>217</save_count>
  </Map>
 </LMU>

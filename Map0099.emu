@@ -11377,6 +11377,18 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Melsan</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -11431,10 +11443,16 @@
         <parameters>20</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Laughter2</string>
-        <parameters>2000 100 100 50</parameters>
+        <string>ThemeRage</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -15789,6 +15807,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Melsan</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
@@ -16647,10 +16671,16 @@
         <parameters>0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>1</indent>
-        <string>VD2Kampf2</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>VD2_Battle1b</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10710</code>
@@ -16659,10 +16689,16 @@
         <parameters>0 674 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -30238,10 +30274,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>gothicintro</string>
-        <parameters>0 100 100 50</parameters>
+        <string>EndingEvil1</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -33579,6 +33621,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>873</save_count>
+  <save_count>886</save_count>
  </Map>
 </LMU>

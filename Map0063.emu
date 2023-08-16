@@ -5485,10 +5485,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>vamp838</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ThemeSad</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -5796,10 +5802,16 @@
         <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Angel</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Resurrection</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6240,10 +6252,16 @@
         <parameters>50</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Lands_25</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -9933,10 +9951,16 @@
         <parameters>0 2123 2123 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>vamp838</string>
-        <parameters>2000 100 100 50</parameters>
+        <string>ThemeSad</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10860</code>
@@ -11163,10 +11187,16 @@
         <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Lands_25</string>
-        <parameters>2000 100 100 50</parameters>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -17413,6 +17443,102 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 127 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1646 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>2</indent>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1649 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 526 0 2 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>4</indent>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 263 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
@@ -20054,6 +20180,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>718</save_count>
+  <save_count>727</save_count>
  </Map>
 </LMU>

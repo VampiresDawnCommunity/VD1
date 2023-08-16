@@ -8611,7 +8611,7 @@
    </Event>
    <Event id="0034">
     <name>ZufluchtCheck</name>
-    <x>20</x>
+    <x>17</x>
     <y>26</y>
     <pages>
      <EventPage id="0001">
@@ -9830,10 +9830,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>.X_boss06</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossVincent</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -12605,10 +12611,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>.X_boss06</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossVincent</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -13381,10 +13393,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -14214,10 +14232,16 @@
         <parameters>1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Laughter2</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>ThemeRage</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -19180,10 +19204,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -20026,10 +20056,16 @@
         <parameters>0 696 696 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Descent</string>
-        <parameters>0 100 100 50</parameters>
+        <string>FinalDescent</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -22892,7 +22928,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 705 1 0 0 0</parameters>
+        <parameters>0 705 1 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -22959,6 +22995,30 @@
         <indent>1</indent>
         <string></string>
         <parameters>0 731 731 0 0 348 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>ThemeCrusade</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>FinalDescent</string>
+        <parameters>26</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -23674,6 +23734,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>752</save_count>
+  <save_count>763</save_count>
  </Map>
 </LMU>

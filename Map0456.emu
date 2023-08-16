@@ -206,6 +206,18 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>EndingNeutra</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -1337,6 +1349,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>216</save_count>
+  <save_count>218</save_count>
  </Map>
 </LMU>

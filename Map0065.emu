@@ -27733,10 +27733,16 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>boss_battle</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossMinor1</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -27763,10 +27769,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -47019,6 +47031,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>MagesRoom</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -47863,10 +47881,16 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Laughter2</string>
-        <parameters>4000 100 100 50</parameters>
+        <string>ThemeRage</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -48264,7 +48288,7 @@
    </Event>
    <Event id="0112">
     <name>Bossgrafik</name>
-    <x>1</x>
+    <x>2</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -48815,6 +48839,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1130</save_count>
+  <save_count>1136</save_count>
  </Map>
 </LMU>

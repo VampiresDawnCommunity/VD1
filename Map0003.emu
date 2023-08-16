@@ -115,7 +115,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 562 562 0 0 83 0</parameters>
+        <parameters>0 562 562 0 0 84 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -128,12 +128,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 564 564 0 0 9 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11510</code>
-        <indent>0</indent>
-        <string>VDtitel2</string>
-        <parameters>0 100 100 50</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
@@ -152,6 +146,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>1 1 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>1</indent>
+        <string>VDTitle</string>
+        <parameters>0 100 100 50</parameters>
        </EventCommand>
        <EventCommand>
         <code>10120</code>
@@ -364,6 +364,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11510</code>
+        <indent>1</indent>
+        <string>VDTitle_R</string>
+        <parameters>0 100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>1</indent>
         <string></string>
@@ -549,10 +555,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>vamp9</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Mood</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -1646,10 +1658,16 @@
         <parameters>63 3 6</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>ForeverFree</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>ThemeHopeful</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -3814,6 +3832,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>643</save_count>
+  <save_count>648</save_count>
  </Map>
 </LMU>

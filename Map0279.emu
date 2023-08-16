@@ -2411,10 +2411,16 @@
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>2</indent>
-        <string>Manadomi</string>
-        <parameters>0 100 150 50</parameters>
+        <string>ER_Extra01</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7197,10 +7203,16 @@
         <parameters>1 574 0 1 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>3</indent>
-        <string>batvslblaze</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>Extra01</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7245,10 +7257,16 @@
         <parameters>1 574 0 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>3</indent>
-        <string>Blue Velvet</string>
-        <parameters>3000 100 110 50</parameters>
+        <string>Extra02</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7293,10 +7311,16 @@
         <parameters>1 574 0 3 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>3</indent>
-        <string>InTheAether</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>Aether2</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7341,10 +7365,16 @@
         <parameters>1 574 0 4 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>3</indent>
-        <string>Level02</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>Extra03</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7931,6 +7961,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Iranis-Pub</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -8509,6 +8545,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>197</save_count>
+  <save_count>201</save_count>
  </Map>
 </LMU>

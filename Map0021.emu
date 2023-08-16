@@ -1876,10 +1876,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Laughter2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ThemeRage</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -2788,10 +2794,16 @@
         <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>vamp9</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Mood</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4230,10 +4242,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>2</indent>
-        <string>vamp838</string>
-        <parameters>3000 100 100 50</parameters>
+        <string>ThemeSad</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5406,10 +5424,16 @@
         <parameters>0 332 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>2</indent>
-        <string>Angel</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Resurrection</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6120,10 +6144,16 @@
         <parameters>50</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Battle_Fierce2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Fierce</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -6276,10 +6306,16 @@
         <parameters>20</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Angel</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Resurrection</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6876,10 +6912,16 @@
         <parameters>23 31 0 0 31 10 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Laughter2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ThemeRage</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -7361,10 +7403,16 @@
         <parameters>40</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Casb2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Mystery1</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -12095,6 +12143,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>KlennarCave</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12410</code>
         <indent>0</indent>
         <string></string>
@@ -12249,6 +12303,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>326</save_count>
+  <save_count>340</save_count>
  </Map>
 </LMU>

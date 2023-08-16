@@ -82,6 +82,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string>People1</string>
@@ -686,6 +692,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -2024,6 +2036,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string>People1</string>
@@ -2238,6 +2256,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -4512,6 +4536,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11030</code>
         <indent>0</indent>
         <string></string>
@@ -4822,6 +4852,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -5968,6 +6004,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -6416,6 +6458,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11910</code>
         <indent>0</indent>
@@ -7057,6 +7105,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11330</code>
         <indent>0</indent>
@@ -8071,6 +8125,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11330</code>
         <indent>0</indent>
         <string></string>
@@ -8483,6 +8543,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11330</code>
         <indent>0</indent>
@@ -8914,6 +8980,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11330</code>
         <indent>0</indent>
@@ -10384,6 +10456,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string>People1</string>
@@ -10728,6 +10806,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11030</code>
         <indent>0</indent>
         <string></string>
@@ -10966,6 +11050,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -11543,10 +11633,16 @@
         <parameters>1 155 86</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>ForeverFree</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ThemeHopeful</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -12135,6 +12231,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -12777,6 +12879,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string>People1</string>
@@ -13033,6 +13141,18 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 305 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>EndingEvil1</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -13471,6 +13591,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -13938,6 +14064,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11030</code>
         <indent>0</indent>
         <string></string>
@@ -14194,6 +14326,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -14571,6 +14709,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -14996,6 +15140,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -15601,6 +15751,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -16423,6 +16579,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>0</indent>
         <string>People1</string>
@@ -16817,6 +16979,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11330</code>
         <indent>0</indent>
@@ -17480,6 +17648,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -19437,10 +19611,16 @@
         <parameters>132 11 56</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Dark_Star</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Intro</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -19495,6 +19675,72 @@
        </MoveRoute>
       </move_route>
       <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0009">
+    <name>MapBGM</name>
+    <x>1</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Mood</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+      </event_commands>
      </EventPage>
     </pages>
    </Event>
@@ -19667,6 +19913,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -20416,6 +20668,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -21345,6 +21603,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 9 1</parameters>
+       </EventCommand>
        <EventCommand>
         <code>11030</code>
         <indent>0</indent>
@@ -22309,6 +22573,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>834</save_count>
+  <save_count>843</save_count>
  </Map>
 </LMU>

@@ -18086,10 +18086,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>1</indent>
-        <string>Battle_Fierce2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Fierce</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -19568,10 +19574,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Battle_Fierce2</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Fierce</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -20498,10 +20510,16 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>bof3myria</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>BossAbraxas</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -20606,10 +20624,16 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11520</code>
@@ -20894,10 +20918,16 @@
         <parameters>3 0 6 3 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>vamp838</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ThemeSad</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -36563,6 +36593,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>AbraxasTower</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -36723,7 +36759,7 @@
    </Event>
    <Event id="0295">
     <name>Bossgrafik</name>
-    <x>1</x>
+    <x>2</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -40976,6 +41012,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>617</save_count>
+  <save_count>626</save_count>
  </Map>
 </LMU>

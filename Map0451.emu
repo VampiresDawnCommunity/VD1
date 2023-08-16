@@ -1792,10 +1792,16 @@
         <parameters>30</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10660</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>AKS-Dark</string>
-        <parameters>0 0 100 100 50</parameters>
+        <string>ER_Boss2</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10710</code>
@@ -1822,10 +1828,16 @@
         <parameters>0 1995 1995 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Default</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 30 0</parameters>
+        <parameters>0 34 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -4821,6 +4833,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>502</save_count>
+  <save_count>506</save_count>
  </Map>
 </LMU>

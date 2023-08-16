@@ -22849,6 +22849,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -85385,6 +85391,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>2113</save_count>
+  <save_count>2117</save_count>
  </Map>
 </LMU>

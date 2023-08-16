@@ -4963,7 +4963,7 @@
    <Event id="0073">
     <name>MapInit</name>
     <x>1</x>
-    <y>0</y>
+    <y>1</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -5010,6 +5010,12 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Beach</string>
+        <parameters>26</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
@@ -5778,6 +5784,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>51</save_count>
+  <save_count>54</save_count>
  </Map>
 </LMU>

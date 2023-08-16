@@ -1320,6 +1320,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Castle</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
@@ -1426,7 +1432,7 @@
    </Event>
    <Event id="0019">
     <name>Legacy Transfer</name>
-    <x>1</x>
+    <x>2</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -2311,6 +2317,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>185</save_count>
+  <save_count>188</save_count>
  </Map>
 </LMU>

@@ -10738,10 +10738,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>irgendwo_anders</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ER_Aether01</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -10750,10 +10756,16 @@
         <parameters>550</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>Dreamscape-suspicion</string>
-        <parameters>0 100 100 50</parameters>
+        <string>ER_Aether02</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -10762,10 +10774,16 @@
         <parameters>400</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>desce015</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Aether2</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -10774,10 +10792,16 @@
         <parameters>400</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>InTheAether</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Aether3</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -10786,10 +10810,16 @@
         <parameters>400</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>10610</code>
         <indent>0</indent>
-        <string>W2k</string>
-        <parameters>0 100 100 50</parameters>
+        <string>Aether4</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -17377,6 +17407,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>341</save_count>
+  <save_count>346</save_count>
  </Map>
 </LMU>
