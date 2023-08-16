@@ -22,4 +22,5 @@ This refactor of the game is based on the tools & player engine provided by the 
 
 ## Info for developers
 + **TODO**
-+ Resource Pack: [Download from external hoster](https://mega.nz/file/MEQSCAqS#HvevOOLVdH3VgiucgeAIlQ9WT3pp--zsqdiv8rOAjQo)
++ Resource Pack (up to Build #83): [Download from external hoster](https://mega.nz/file/MEQSCAqS#HvevOOLVdH3VgiucgeAIlQ9WT3pp--zsqdiv8rOAjQo)
++ Resource Pack (starting with Build #84): [Download from external hoster](https://mega.nz/file/sdBhXYqA#67eTjefIzUeF-RBTrvhPSIqLa_-D95ryh9Egk9BRGlo)
