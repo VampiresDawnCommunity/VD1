@@ -30,6 +30,7 @@ cp dev/ER_Release.png CharSet/ER_Debug.png
 
 mkdir build
 cp -R _Extras build/
+cp -R _Documentation build/
 cp -R Backdrop build/
 cp -R Battle build/
 cp -R CharSet build/
