@@ -3421,6 +3421,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 55 55 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11030</code>
         <indent>0</indent>
         <string></string>
@@ -4996,6 +5002,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>269</save_count>
+  <save_count>271</save_count>
  </Map>
 </LMU>
