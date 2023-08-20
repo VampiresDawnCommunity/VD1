@@ -52,6 +52,7 @@ cp RPG_RT.lmt build/
 cp RPG_RT.ini build/
 cp EasyRPG.ini build/
 cp Player.exe build/
+cp RPG_RT.exe build/
 cp "_Start with English translation.bat" build/
 
 cp debug.bat build/
