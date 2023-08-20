@@ -7283,31 +7283,19 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>\S[2]Das ist Annabelle, sie</string>
+        <string>\S[2]Das ist Annabelle, sie ist mir</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>ist mir vor dem Schloss</string>
+        <string>vor dem Schloss zugelaufen.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>zugelaufen. Wollt ihr sie </string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[7]Clare:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\S[2]streicheln?</string>
+        <string>Wollt ihr sie streicheln?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -20260,6 +20248,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>723</save_count>
+  <save_count>725</save_count>
  </Map>
 </LMU>
