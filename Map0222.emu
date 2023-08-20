@@ -6911,27 +6911,87 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10210</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 144 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 2186 2186 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[2]Valnar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
+        <indent>1</indent>
+        <string>Was ist denn das ?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 171 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2186 2186 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
         <string>Ein Geist !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -14438,6 +14498,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>368</save_count>
+  <save_count>370</save_count>
  </Map>
 </LMU>

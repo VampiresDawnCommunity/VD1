@@ -82,27 +82,81 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10210</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 144 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 2186 2186 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[2]Valnar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Was ist denn das ?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2186 2186 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ein Geist !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -124,34 +178,52 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10210</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 144 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 2182 2182 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[2]Valnar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Natürlich, würde ich sonst fragen ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 171 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>5 2 0 0 0 0</parameters>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -163,72 +235,24 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>Valnar, das ist ein Geist.</string>
+        <string>Natürlich, würde ich sonst mit dir</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>Der Geist eines Verstorbenen,</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>der keine Ruhe findet.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Du kennst diese Kindergeschichten...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>\.\.Sie sind wahr. \.\.Dieser Geist</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>muss auf dieser</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[3]Asgar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>menschenverseuchten Erde wandeln,</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>bis er seine Aufgabe erfüllt hat.</string>
+        <string>reden ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -242,12 +266,6 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -266,6 +284,12 @@
         <indent>0</indent>
         <string>Was machst du hier ?</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -2393,6 +2417,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>132</save_count>
+  <save_count>137</save_count>
  </Map>
 </LMU>
