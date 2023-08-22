@@ -675,12 +675,6 @@
         <parameters>0 710 710 2 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10450</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1 1 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -691,6 +685,18 @@
         <indent>0</indent>
         <string></string>
         <parameters>27 4 9</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Mood</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -2496,6 +2502,18 @@
         <indent>0</indent>
         <string></string>
         <parameters>27 4 9</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Mood</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -7064,6 +7082,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>277</save_count>
+  <save_count>284</save_count>
  </Map>
 </LMU>
