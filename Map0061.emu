@@ -2546,97 +2546,115 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2319 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
         <parameters>0 2306 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>19 8 0 0 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>0 330 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string>\&gt;\c[3]Asgar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string>Einen Moment noch. Ich habe dir das</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string>hier noch nicht gegeben.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>5</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>5 8 0 0 35 6 67 108 111 115 101 49 100 100 50 14 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10610</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string>Fragment</string>
         <parameters>23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>0 173 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>10001 8 0 0 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>5</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>5 8 0 0 35 5 79 112 101 110 50 100 100 50 13 23 12 23 15 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>1</indent>
+        <indent>2</indent>
         <string></string>
         <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3768,6 +3786,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>250</save_count>
+  <save_count>252</save_count>
  </Map>
 </LMU>
