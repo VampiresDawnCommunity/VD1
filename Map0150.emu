@@ -25526,6 +25526,12 @@
         <parameters>26</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2065 2065 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10</code>
         <indent>1</indent>
         <string></string>
@@ -25548,12 +25554,6 @@
         <indent>2</indent>
         <string>Shannar2</string>
         <parameters>26</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2065 2065 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -32157,6 +32157,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1093</save_count>
+  <save_count>1095</save_count>
  </Map>
 </LMU>
