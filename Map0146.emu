@@ -32,7 +32,73 @@
   <upper_layer>10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10049 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10054 10055 10056 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10060 10000 10062 10000 10000 10000 10000 10000 10000 10000 10000 10023 10000 10000 10000 10000 10000 10000 10000 10000 10066 10000 10068 10000 10000 10000 10000 10000 10000 10000 10000 10029 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10081 10082 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10096 10097 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10102 10103 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10057 10051 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10064 10064 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10053 10000 10000 10000 10000 10052 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10059 10000 10000 10000 10000 10058 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10053 10000 10000 10000 10000 10052 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10059 10000 10000 10000 10000 10058 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10075 10076 10076 10077 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10011 10023 10000 10000 10000 10000 10000 10071 10071 10000 10000 10000 10000 10000 10000 10023 10000 10000 10000 10000 10017 10029 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10029 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000</upper_layer>
   <events>
    <Event id="0001">
-    <name>EV0001</name>
+    <name>MapChangeTrigger</name>
+    <x>0</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>2121</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Debug</character_name>
+      <character_index>7</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12320</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0002">
+    <name>EV0002</name>
     <x>9</x>
     <y>2</y>
     <pages>
@@ -84,8 +150,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0002">
-    <name>EV0002</name>
+   <Event id="0003">
+    <name>EV0003</name>
     <x>10</x>
     <y>2</y>
     <pages>
@@ -137,8 +203,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0003">
-    <name>EV0003</name>
+   <Event id="0004">
+    <name>EV0004</name>
     <x>5</x>
     <y>3</y>
     <pages>
@@ -190,7 +256,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0004">
+   <Event id="0005">
     <name>GeheimVerstecktK</name>
     <x>2</x>
     <y>20</y>
@@ -339,8 +405,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0005">
-    <name>EV0005</name>
+   <Event id="0006">
+    <name>EV0006</name>
     <x>3</x>
     <y>2</y>
     <pages>
@@ -405,8 +471,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0006">
-    <name>EV0006</name>
+   <Event id="0007">
+    <name>EV0007</name>
     <x>9</x>
     <y>16</y>
     <pages>
@@ -458,8 +524,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0007">
-    <name>EV0007</name>
+   <Event id="0008">
+    <name>EV0008</name>
     <x>10</x>
     <y>15</y>
     <pages>
@@ -511,8 +577,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0008">
-    <name>EV0008</name>
+   <Event id="0009">
+    <name>EV0009</name>
     <x>9</x>
     <y>15</y>
     <pages>
@@ -564,8 +630,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0009">
-    <name>EV0009</name>
+   <Event id="0010">
+    <name>EV0010</name>
     <x>10</x>
     <y>16</y>
     <pages>
@@ -617,62 +683,9 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0010">
-    <name>EV0010</name>
-    <x>17</x>
-    <y>13</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>obj1</character_name>
-      <character_index>7</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>1</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands></event_commands>
-     </EventPage>
-    </pages>
-   </Event>
    <Event id="0011">
     <name>EV0011</name>
-    <x>2</x>
+    <x>17</x>
     <y>13</y>
     <pages>
      <EventPage id="0001">
@@ -725,7 +738,7 @@
    </Event>
    <Event id="0012">
     <name>EV0012</name>
-    <x>3</x>
+    <x>2</x>
     <y>13</y>
     <pages>
      <EventPage id="0001">
@@ -754,8 +767,8 @@
        </EventPageCondition>
       </condition>
       <character_name>obj1</character_name>
-      <character_index>1</character_index>
-      <character_direction>0</character_direction>
+      <character_index>7</character_index>
+      <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -778,7 +791,7 @@
    </Event>
    <Event id="0013">
     <name>EV0013</name>
-    <x>16</x>
+    <x>3</x>
     <y>13</y>
     <pages>
      <EventPage id="0001">
@@ -831,8 +844,8 @@
    </Event>
    <Event id="0014">
     <name>EV0014</name>
-    <x>15</x>
-    <y>11</y>
+    <x>16</x>
+    <y>13</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -884,7 +897,7 @@
    </Event>
    <Event id="0015">
     <name>EV0015</name>
-    <x>4</x>
+    <x>15</x>
     <y>11</y>
     <pages>
      <EventPage id="0001">
@@ -937,8 +950,8 @@
    </Event>
    <Event id="0016">
     <name>EV0016</name>
-    <x>16</x>
-    <y>20</y>
+    <x>4</x>
+    <y>11</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -990,8 +1003,8 @@
    </Event>
    <Event id="0017">
     <name>EV0017</name>
-    <x>9</x>
-    <y>18</y>
+    <x>16</x>
+    <y>20</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -1018,15 +1031,15 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name></character_name>
-      <character_index>65</character_index>
-      <character_direction>2</character_direction>
+      <character_name>obj1</character_name>
+      <character_index>1</character_index>
+      <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
-      <layer>2</layer>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -1043,7 +1056,7 @@
    </Event>
    <Event id="0018">
     <name>EV0018</name>
-    <x>10</x>
+    <x>9</x>
     <y>18</y>
     <pages>
      <EventPage id="0001">
@@ -1096,6 +1109,59 @@
    </Event>
    <Event id="0019">
     <name>EV0019</name>
+    <x>10</x>
+    <y>18</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>65</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>2</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0020">
+    <name>EV0020</name>
     <x>9</x>
     <y>8</y>
     <pages>
@@ -1147,8 +1213,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0020">
-    <name>EV0020</name>
+   <Event id="0021">
+    <name>EV0021</name>
     <x>10</x>
     <y>8</y>
     <pages>
@@ -1200,7 +1266,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0021">
+   <Event id="0022">
     <name>MapInit</name>
     <x>1</x>
     <y>0</y>
@@ -1343,8 +1409,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0022">
-    <name>EV0022</name>
+   <Event id="0023">
+    <name>EV0023</name>
     <x>10</x>
     <y>24</y>
     <pages>
@@ -1409,8 +1475,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0023">
-    <name>EV0023</name>
+   <Event id="0024">
+    <name>EV0024</name>
     <x>9</x>
     <y>24</y>
     <pages>
@@ -1475,76 +1541,10 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0024">
-    <name>EV0024</name>
-    <x>16</x>
-    <y>15</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10810</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>147 17 4</parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
    <Event id="0025">
     <name>EV0025</name>
     <x>16</x>
-    <y>16</y>
+    <y>15</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -1609,6 +1609,72 @@
    </Event>
    <Event id="0026">
     <name>EV0026</name>
+    <x>16</x>
+    <y>16</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>1</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 241 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>147 17 4</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0027">
+    <name>EV0027</name>
     <x>17</x>
     <y>15</y>
     <pages>
@@ -1673,8 +1739,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0027">
-    <name>EV0027</name>
+   <Event id="0028">
+    <name>EV0028</name>
     <x>17</x>
     <y>16</y>
     <pages>
@@ -1739,8 +1805,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0028">
-    <name>EV0028</name>
+   <Event id="0029">
+    <name>EV0029</name>
     <x>6</x>
     <y>11</y>
     <pages>
@@ -2270,8 +2336,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0029">
-    <name>EV0029</name>
+   <Event id="0030">
+    <name>EV0030</name>
     <x>13</x>
     <y>18</y>
     <pages>
@@ -2741,8 +2807,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0030">
-    <name>EV0030</name>
+   <Event id="0031">
+    <name>EV0031</name>
     <x>9</x>
     <y>23</y>
     <pages>
@@ -2843,8 +2909,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0031">
-    <name>EV0031</name>
+   <Event id="0032">
+    <name>EV0032</name>
     <x>10</x>
     <y>23</y>
     <pages>
@@ -3095,72 +3161,6 @@
         <code>20110</code>
         <indent>0</indent>
         <string>Nur ein paar unwichtige Bücher !</string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
-   <Event id="0035">
-    <name>MapChangeTrigger</name>
-    <x>0</x>
-    <y>0</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>2121</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>7</character_index>
-      <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>3</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>4</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12320</code>
-        <indent>0</indent>
-        <string></string>
         <parameters></parameters>
        </EventCommand>
       </event_commands>

@@ -32,7 +32,73 @@
   <upper_layer>10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10024 10025 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10128 10000 10000 10030 10031 10000 10000 10000 10000 10000 10000 10000 10000 10000 10096 10097 10096 10097 10086 10000 10134 10016 10017 10036 10037 10000 10000 10000 10000 10000 10000 10000 10000 10000 10102 10103 10102 10103 10092 10000 10140 10022 10023 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10058 10010 10034 10034 10034 10011 10087 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10064 10039 10040 10040 10040 10041 10093 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10026 10000 10026 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10098 10000 10000 10000 10000 10000 10000 10000 10000 10000 10098 10000 10000 10000 10000 10000 10000 10000 10000 10000 10104 10000 10000 10000 10000 10000 10000 10000 10000 10000 10104 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10113 10088 10089 10113 10000 10000 10000 10082 10127 10083 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10119 10096 10097 10119 10000 10000 10000 10000 10133 10000 10085 10000 10000 10000 10000 10000 10000 10084 10000 10000 10125 10102 10103 10125 10000 10000 10000 10000 10139 10000 10091 10000 10000 10000 10000 10000 10000 10090 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10090 10000 10000 10000 10000 10000 10000 10000 10010 10011 10010 10011 10000 10085 10000 10000 10000 10000 10000 10000 10091 10000 10000 10000 10000 10000 10000 10000 10040 10040 10040 10040 10000 10091 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000</upper_layer>
   <events>
    <Event id="0001">
-    <name>EV0001</name>
+    <name>MapChangeTrigger</name>
+    <x>0</x>
+    <y>0</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>2121</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Debug</character_name>
+      <character_index>7</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12320</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0002">
+    <name>EV0002</name>
     <x>3</x>
     <y>6</y>
     <pages>
@@ -97,8 +163,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0002">
-    <name>EV0002</name>
+   <Event id="0003">
+    <name>EV0003</name>
     <x>4</x>
     <y>6</y>
     <pages>
@@ -163,8 +229,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0003">
-    <name>EV0003</name>
+   <Event id="0004">
+    <name>EV0004</name>
     <x>3</x>
     <y>17</y>
     <pages>
@@ -216,8 +282,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0004">
-    <name>EV0004</name>
+   <Event id="0005">
+    <name>EV0005</name>
     <x>3</x>
     <y>16</y>
     <pages>
@@ -269,7 +335,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0005">
+   <Event id="0006">
     <name>GeheimVerstecktK</name>
     <x>9</x>
     <y>5</y>
@@ -418,8 +484,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0006">
-    <name>EV0006</name>
+   <Event id="0007">
+    <name>EV0007</name>
     <x>9</x>
     <y>19</y>
     <pages>
@@ -484,8 +550,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0007">
-    <name>EV0007</name>
+   <Event id="0008">
+    <name>EV0008</name>
     <x>10</x>
     <y>19</y>
     <pages>
@@ -550,8 +616,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0008">
-    <name>EV0008</name>
+   <Event id="0009">
+    <name>EV0009</name>
     <x>16</x>
     <y>5</y>
     <pages>
@@ -616,7 +682,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0009">
+   <Event id="0010">
     <name>Tante</name>
     <x>7</x>
     <y>8</y>
@@ -986,8 +1052,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0010">
-    <name>EV0010</name>
+   <Event id="0011">
+    <name>EV0011</name>
     <x>8</x>
     <y>5</y>
     <pages>
@@ -1040,13 +1106,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 5 2</parameters>
+        <parameters>1 6 2</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
     </pages>
    </Event>
-   <Event id="0011">
+   <Event id="0012">
     <name>MapInit</name>
     <x>1</x>
     <y>0</y>
@@ -1172,72 +1238,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 418 0</parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
-   <Event id="0012">
-    <name>MapChangeTrigger</name>
-    <x>0</x>
-    <y>0</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>2121</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>7</character_index>
-      <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>3</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>4</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12320</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
        </EventCommand>
       </event_commands>
      </EventPage>

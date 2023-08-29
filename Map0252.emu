@@ -32,16 +32,16 @@
   <upper_layer>10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10004 10000 10000 10004 10000 10000 10004 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10134 10134 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10017 10140 10140 10000 10000 10000 10000 10000 10000 10000 10017 10000 10000 10000 10000 10000 10000 10000 10000 10017 10023 10000 10000 10000 10000 10000 10000 10000 10000 10000 10023 10017 10000 10000 10000 10000 10000 10000 10017 10023 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10023 10017 10000 10000 10000 10000 10000 10023 10000 10000 10000 10000 10000 10142 10113 10143 10000 10000 10000 10000 10000 10023 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000 10000</upper_layer>
   <events>
    <Event id="0001">
-    <name>EV0001</name>
-    <x>6</x>
-    <y>11</y>
+    <name>MapChangeTrigger</name>
+    <x>0</x>
+    <y>0</y>
     <pages>
      <EventPage id="0001">
       <condition>
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -50,7 +50,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2121</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -61,17 +61,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>blacksmith</character_name>
+      <character_name>ER_Debug</character_name>
       <character_index>7</character_index>
-      <character_direction>1</character_direction>
+      <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>1</layer>
+      <trigger>3</trigger>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -80,13 +80,26 @@
         <skippable>F</skippable>
        </MoveRoute>
       </move_route>
-      <event_commands></event_commands>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12320</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
      </EventPage>
     </pages>
    </Event>
    <Event id="0002">
     <name>EV0002</name>
-    <x>5</x>
+    <x>6</x>
     <y>11</y>
     <pages>
      <EventPage id="0001">
@@ -139,7 +152,7 @@
    </Event>
    <Event id="0003">
     <name>EV0003</name>
-    <x>13</x>
+    <x>5</x>
     <y>11</y>
     <pages>
      <EventPage id="0001">
@@ -192,7 +205,7 @@
    </Event>
    <Event id="0004">
     <name>EV0004</name>
-    <x>12</x>
+    <x>13</x>
     <y>11</y>
     <pages>
      <EventPage id="0001">
@@ -245,8 +258,8 @@
    </Event>
    <Event id="0005">
     <name>EV0005</name>
-    <x>10</x>
-    <y>13</y>
+    <x>12</x>
+    <y>11</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -275,7 +288,7 @@
       </condition>
       <character_name>blacksmith</character_name>
       <character_index>7</character_index>
-      <character_direction>0</character_direction>
+      <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -298,7 +311,7 @@
    </Event>
    <Event id="0006">
     <name>EV0006</name>
-    <x>8</x>
+    <x>10</x>
     <y>13</y>
     <pages>
      <EventPage id="0001">
@@ -352,7 +365,7 @@
    <Event id="0007">
     <name>EV0007</name>
     <x>8</x>
-    <y>14</y>
+    <y>13</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -404,7 +417,7 @@
    </Event>
    <Event id="0008">
     <name>EV0008</name>
-    <x>10</x>
+    <x>8</x>
     <y>14</y>
     <pages>
      <EventPage id="0001">
@@ -457,8 +470,8 @@
    </Event>
    <Event id="0009">
     <name>EV0009</name>
-    <x>8</x>
-    <y>12</y>
+    <x>10</x>
+    <y>14</y>
     <pages>
      <EventPage id="0001">
       <condition>
@@ -510,7 +523,7 @@
    </Event>
    <Event id="0010">
     <name>EV0010</name>
-    <x>10</x>
+    <x>8</x>
     <y>12</y>
     <pages>
      <EventPage id="0001">
@@ -562,6 +575,59 @@
     </pages>
    </Event>
    <Event id="0011">
+    <name>EV0011</name>
+    <x>10</x>
+    <y>12</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>blacksmith</character_name>
+      <character_index>7</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>3</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0012">
     <name>GeheimVerstecktK</name>
     <x>5</x>
     <y>4</y>
@@ -710,7 +776,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0012">
+   <Event id="0013">
     <name>Willo</name>
     <x>8</x>
     <y>4</y>
@@ -1177,7 +1243,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0013">
+   <Event id="0014">
     <name>Zhara</name>
     <x>9</x>
     <y>9</y>
@@ -1759,7 +1825,7 @@
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>12 8 0 0 2</parameters>
+        <parameters>13 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -1795,13 +1861,13 @@
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>12 8 0 0 0 14</parameters>
+        <parameters>13 8 0 0 0 14</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>16 8 0 0 2</parameters>
+        <parameters>17 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -1861,7 +1927,7 @@
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>16 8 0 0 0 14</parameters>
+        <parameters>17 8 0 0 0 14</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1885,7 +1951,7 @@
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>17 8 0 0 2</parameters>
+        <parameters>18 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -1921,7 +1987,7 @@
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>17 8 0 0 0 14</parameters>
+        <parameters>18 8 0 0 0 14</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3015,8 +3081,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0014">
-    <name>EV0014</name>
+   <Event id="0015">
+    <name>EV0015</name>
     <x>9</x>
     <y>14</y>
     <pages>
@@ -3201,7 +3267,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0015">
+   <Event id="0016">
     <name>MapInit</name>
     <x>1</x>
     <y>0</y>
@@ -3332,7 +3398,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0016">
+   <Event id="0017">
     <name>Karlos</name>
     <x>9</x>
     <y>4</y>
@@ -3799,7 +3865,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0017">
+   <Event id="0018">
     <name>Rikus</name>
     <x>10</x>
     <y>4</y>
@@ -4272,8 +4338,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0018">
-    <name>EV0018</name>
+   <Event id="0019">
+    <name>EV0019</name>
     <x>8</x>
     <y>8</y>
     <pages>
@@ -4368,7 +4434,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>16 8 0 0 2 1 1 2 2 2 3 36 24 0 25 15 37</parameters>
+        <parameters>17 8 0 0 2 1 1 2 2 2 3 36 24 0 25 15 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4470,7 +4536,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>13 8 0 0 0</parameters>
+        <parameters>14 8 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4607,7 +4673,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>12 8 0 0 2 1 1 1 2 2 2 3 36 24 0 25 15 37</parameters>
+        <parameters>13 8 0 0 2 1 1 1 2 2 2 3 36 24 0 25 15 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4709,7 +4775,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>13 8 0 0 0</parameters>
+        <parameters>14 8 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4846,7 +4912,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>17 8 0 0 2 1 2 2 2 3 36 24 0 25 15 37</parameters>
+        <parameters>18 8 0 0 2 1 2 2 2 3 36 24 0 25 15 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4942,7 +5008,7 @@
         <code>11330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>13 8 0 0 0</parameters>
+        <parameters>14 8 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4990,8 +5056,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0019">
-    <name>EV0019</name>
+   <Event id="0020">
+    <name>EV0020</name>
     <x>8</x>
     <y>6</y>
     <pages>
@@ -5089,8 +5155,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0020">
-    <name>EV0020</name>
+   <Event id="0021">
+    <name>EV0021</name>
     <x>10</x>
     <y>6</y>
     <pages>
@@ -5188,8 +5254,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0021">
-    <name>EV0021</name>
+   <Event id="0022">
+    <name>EV0022</name>
     <x>17</x>
     <y>6</y>
     <pages>
@@ -5374,7 +5440,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>12 8 0 0 24 36 2 25 1 0 0 0 3 3 3 0 14 37</parameters>
+        <parameters>13 8 0 0 24 36 2 25 1 0 0 0 3 3 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -5386,7 +5452,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -5422,7 +5488,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -5596,7 +5662,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>12 8 0 0 24 36 2 25 1 0 0 0 3 3 3 0 14 37</parameters>
+        <parameters>13 8 0 0 24 36 2 25 1 0 0 0 3 3 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -5608,7 +5674,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -5632,7 +5698,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5859,7 +5925,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>16 8 0 0 24 36 2 25 1 0 0 0 3 3 0 14 37</parameters>
+        <parameters>17 8 0 0 24 36 2 25 1 0 0 0 3 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -5871,7 +5937,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -5907,7 +5973,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -6057,7 +6123,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>16 8 0 0 24 36 2 25 1 0 0 0 3 3 0 14 37</parameters>
+        <parameters>17 8 0 0 24 36 2 25 1 0 0 0 3 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -6069,7 +6135,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -6093,7 +6159,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6332,7 +6398,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>17 8 0 0 24 36 2 25 1 0 0 0 3 0 14 37</parameters>
+        <parameters>18 8 0 0 24 36 2 25 1 0 0 0 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -6344,7 +6410,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -6380,7 +6446,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -6536,7 +6602,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>17 8 0 0 24 36 2 25 1 0 0 0 3 0 14 37</parameters>
+        <parameters>18 8 0 0 24 36 2 25 1 0 0 0 3 0 14 37</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -6548,7 +6614,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 15</parameters>
+        <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -6572,7 +6638,7 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>13 8 0 0 2</parameters>
+        <parameters>14 8 0 0 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6626,8 +6692,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0022">
-    <name>EV0022</name>
+   <Event id="0023">
+    <name>EV0023</name>
     <x>17</x>
     <y>5</y>
     <pages>
@@ -7098,7 +7164,7 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0023">
+   <Event id="0024">
     <name>FacePic</name>
     <x>8</x>
     <y>0</y>
@@ -7186,72 +7252,6 @@
        </EventCommand>
        <EventCommand>
         <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
-   <Event id="0024">
-    <name>MapChangeTrigger</name>
-    <x>0</x>
-    <y>0</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>2121</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>7</character_index>
-      <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>3</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>4</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12320</code>
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
