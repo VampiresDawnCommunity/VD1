@@ -1258,6 +1258,18 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2123 2123 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 12 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 2182 2182 0</parameters>
        </EventCommand>
        <EventCommand>
@@ -1345,6 +1357,12 @@
         <parameters>2 3 6 4 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>12</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10120</code>
         <indent>0</indent>
         <string></string>
@@ -1385,6 +1403,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1439,6 +1463,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1535,6 +1565,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1663,6 +1699,12 @@
         <parameters>0 0 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>0</indent>
         <string>\&gt;\c[1]?????:\c[0]</string>
@@ -1733,6 +1775,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1817,6 +1865,12 @@
         <indent>0</indent>
         <string>durchtrennt !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>10120</code>
@@ -2047,6 +2101,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10610</code>
         <indent>2</indent>
         <string>BossAbraxas</string>
@@ -2219,6 +2279,12 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -2505,7 +2571,7 @@
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>4</trigger>
+      <trigger>0</trigger>
       <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
@@ -2523,12 +2589,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 328 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>100</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -2696,6 +2756,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>Absorption2</string>
@@ -2754,6 +2820,12 @@
         <indent>0</indent>
         <string>DER schon wieder !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -2918,6 +2990,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11410</code>
         <indent>0</indent>
         <string></string>
@@ -3078,6 +3156,12 @@
         <indent>0</indent>
         <string>sehr viel Reichtum bescheren !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -3548,6 +3632,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11410</code>
         <indent>0</indent>
         <string></string>
@@ -3876,6 +3966,12 @@
         <indent>0</indent>
         <string>\.\.Was für Schwächlinge !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -4482,6 +4578,12 @@
         <indent>0</indent>
         <string>\.\.Was für eine Szene !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>99</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -7782,6 +7884,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>295</save_count>
+  <save_count>309</save_count>
  </Map>
 </LMU>

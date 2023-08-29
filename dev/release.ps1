@@ -56,7 +56,7 @@ cp RPG_RT.exe build/
 cp "_Start with English translation.bat" build/
 
 cp debug.bat build/
-cp debug_en build/
+cp debug_en.bat build/
 
 mv build "Vampires Dawn - Community Edition"
 Compress-Archive -Path "Vampires Dawn - Community Edition" -DestinationPath "Vampires Dawn - Community Edition (Build $($newBuild)).zip"

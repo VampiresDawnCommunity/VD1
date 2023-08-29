@@ -202,18 +202,6 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 308 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 289 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -224,6 +212,18 @@
         <indent>0</indent>
         <string>Earthquake1</string>
         <parameters>100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 308 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 289 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11210</code>
@@ -259,13 +259,25 @@
         <code>11030</code>
         <indent>0</indent>
         <string></string>
-        <parameters>60 60 60 100 2 0</parameters>
+        <parameters>0 0 0 0 1 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
         <parameters>122 9 10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11030</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>60 60 60 100 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -378,6 +390,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>85</save_count>
+  <save_count>89</save_count>
  </Map>
 </LMU>
