@@ -10952,10 +10952,16 @@
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10860</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>10005 1 786 787</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>10005 8 0 1 36 28 28 28 9 9 9 9 9 9 9 9 10 21 37 29 29 29</parameters>
+        <parameters>10005 8 0 1 21</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -15494,6 +15500,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>385</save_count>
+  <save_count>387</save_count>
  </Map>
 </LMU>
