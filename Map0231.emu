@@ -20869,6 +20869,18 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>ThemeCrusade</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -21035,6 +21047,18 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>ThemeCrusade</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10210</code>
         <indent>0</indent>
@@ -24378,6 +24402,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>789</save_count>
+  <save_count>791</save_count>
  </Map>
 </LMU>
