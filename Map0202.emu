@@ -480,7 +480,7 @@
        <EventCommand>
         <code>12410</code>
         <indent>0</indent>
-        <string>3C2E11B87F404C87B9E07EFA107174AB</string>
+        <string>PATCH: 3C2E11B87F404C87B9E07EFA107174AB</string>
         <parameters></parameters>
        </EventCommand>
       </event_commands>
@@ -699,7 +699,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1869 0 0 0 1</parameters>
+        <parameters>0 1294 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -843,7 +843,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1869 0 0 0 1</parameters>
+        <parameters>0 1294 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -1904,6 +1904,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>284</save_count>
+  <save_count>288</save_count>
  </Map>
 </LMU>

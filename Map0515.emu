@@ -756,7 +756,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -765,7 +765,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>1060</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -776,17 +776,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_name>SE_Monster03</character_name>
+      <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
+      <move_frequency>7</move_frequency>
+      <trigger>2</trigger>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -795,7 +795,14 @@
         <skippable>F</skippable>
        </MoveRoute>
       </move_route>
-      <event_commands></event_commands>
+      <event_commands>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>TODO</string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
      </EventPage>
     </pages>
    </Event>
@@ -971,7 +978,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -980,7 +987,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>1060</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -991,17 +998,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_name>SE_Monster03</character_name>
+      <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
+      <move_frequency>7</move_frequency>
+      <trigger>2</trigger>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -1608,7 +1615,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -1617,7 +1624,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>607</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -1628,17 +1635,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>SE_Monster03</character_name>
       <character_index>2</character_index>
-      <character_direction>3</character_direction>
+      <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
+      <move_frequency>7</move_frequency>
+      <trigger>2</trigger>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -1647,12 +1654,19 @@
         <skippable>F</skippable>
        </MoveRoute>
       </move_route>
-      <event_commands></event_commands>
+      <event_commands>
+       <EventCommand>
+        <code>12410</code>
+        <indent>0</indent>
+        <string>TODO</string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
      </EventPage>
     </pages>
    </Event>
    <Event id="0013">
-    <name>EV0013</name>
+    <name>!!!!!!!!!!!!!!!!!!!!</name>
     <x>72</x>
     <y>55</y>
     <pages>
@@ -1661,7 +1675,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -1670,7 +1684,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2236</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -1688,7 +1702,7 @@
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
+      <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>3</animation_type>
@@ -1891,7 +1905,7 @@
     </pages>
    </Event>
    <Event id="0015">
-    <name>EV0015</name>
+    <name>!!!!!!!!!!!!!!!!!!!!</name>
     <x>74</x>
     <y>55</y>
     <pages>
@@ -1900,7 +1914,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -1909,7 +1923,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2236</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -1927,7 +1941,7 @@
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
+      <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>3</animation_type>
@@ -1953,7 +1967,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -1962,7 +1976,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>607</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -1973,17 +1987,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>SE_Monster03</character_name>
       <character_index>2</character_index>
-      <character_direction>3</character_direction>
+      <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
+      <move_frequency>7</move_frequency>
+      <trigger>2</trigger>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -2740,7 +2754,7 @@
     </pages>
    </Event>
    <Event id="0025">
-    <name>EV0025</name>
+    <name>!!!!!!!!!!!!!!!!!!!!</name>
     <x>29</x>
     <y>55</y>
     <pages>
@@ -2749,7 +2763,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -2758,7 +2772,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2236</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -2776,7 +2790,7 @@
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
+      <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>3</animation_type>
@@ -3005,7 +3019,7 @@
     </pages>
    </Event>
    <Event id="0030">
-    <name>EV0030</name>
+    <name>{3FEDAD6C}</name>
     <x>71</x>
     <y>55</y>
     <pages>
@@ -3034,9 +3048,9 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
-      <character_direction>3</character_direction>
+      <character_name>VD_Objects</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -3140,9 +3154,9 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
-      <character_direction>3</character_direction>
+      <character_name>VD_Objects</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -3226,7 +3240,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -3235,7 +3249,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>1060</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -3246,17 +3260,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
-      <character_index>2</character_index>
+      <character_name>SE_Monster03</character_name>
+      <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
-      <layer>0</layer>
+      <move_frequency>7</move_frequency>
+      <trigger>2</trigger>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -5931,7 +5945,7 @@
     </pages>
    </Event>
    <Event id="0056">
-    <name>EV0056</name>
+    <name>!!!!!!!!!!!!!!!!!!!!</name>
     <x>73</x>
     <y>55</y>
     <pages>
@@ -5940,7 +5954,7 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
+          <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
@@ -5949,7 +5963,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1</switch_a_id>
+        <switch_a_id>2236</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -5967,7 +5981,7 @@
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
-      <trigger>1</trigger>
+      <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>3</animation_type>
@@ -8976,6 +8990,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>400</save_count>
+  <save_count>410</save_count>
  </Map>
 </LMU>

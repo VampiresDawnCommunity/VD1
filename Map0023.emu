@@ -321,7 +321,7 @@
        <EventCommand>
         <code>12410</code>
         <indent>0</indent>
-        <string>AE6F8A91FD144C94BDE41940187B6742</string>
+        <string>PATCH: AE6F8A91FD144C94BDE41940187B6742</string>
         <parameters></parameters>
        </EventCommand>
       </event_commands>
@@ -340,7 +340,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1684</switch_a_id>
+        <switch_a_id>1202</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -5531,6 +5531,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>111</save_count>
+  <save_count>113</save_count>
  </Map>
 </LMU>

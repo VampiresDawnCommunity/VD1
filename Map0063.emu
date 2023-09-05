@@ -15357,7 +15357,7 @@
        <EventCommand>
         <code>12410</code>
         <indent>1</indent>
-        <string>12F1E07DFA0B4CA19CBB4D178E8FE944</string>
+        <string>PATCH: 12F1E07DFA0B4CA19CBB4D178E8FE944</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -15488,7 +15488,7 @@
        <EventCommand>
         <code>12410</code>
         <indent>0</indent>
-        <string>66D40C1C648B42A8B0A74420E1637AD8</string>
+        <string>PATCH: 66D40C1C648B42A8B0A74420E1637AD8</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -15657,7 +15657,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1891</switch_a_id>
+        <switch_a_id>1257</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>3</variable_value>
@@ -15691,7 +15691,7 @@
        <EventCommand>
         <code>12410</code>
         <indent>0</indent>
-        <string>F06FA7F39B064D2AADEDAA9036D8BACB</string>
+        <string>PATCH: F06FA7F39B064D2AADEDAA9036D8BACB</string>
         <parameters></parameters>
        </EventCommand>
       </event_commands>
@@ -22284,6 +22284,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>761</save_count>
+  <save_count>763</save_count>
  </Map>
 </LMU>
