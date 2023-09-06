@@ -96,6 +96,12 @@ foreach ($switch in $patchXml.LuciferPatch.Database.Switches.Switch) {
 	$switchEDB.name = $switch.name
 }
 
+foreach ($variable in $patchXml.LuciferPatch.Database.Variables.Variable) {
+	$variableEDB = $xmlEDB.LDB.Database.variables.Variable | where {$_.id -eq $variable.id }
+	
+	$variableEDB.name = $variable.name
+}
+
 remove-item $edbFile
 $writer = [System.Xml.XmlWriter]::Create($edbFile, $settings)
 Write-Host "Writing EDB $($edbFile)..."

@@ -27,7 +27,10 @@ $templatePatchXml=@"
     </CommonEvents>
     <Switches>
       <dummy dummy="" />
-    </Switches>  
+    </Switches>
+    <Variables>
+      <dummy dummy="" />
+    </Variables>
   </Database>
   <Maps>
     <dummy dummy="" />
@@ -346,12 +349,20 @@ foreach ($event in $xml.LDB.Database.commonevents.CommonEvent) {
 	}			
 }
 
-$switches = $xml.LDB.Database.switches.Switch | where { [int]($_.id.TrimStart('0')) -gt 1200 } | where { [int]($_.id.TrimStart('0')) -le 1300 }
+$switches = $xml.LDB.Database.switches.Switch | where { [int]($_.id.TrimStart('0')) -gt 1201 } | where { [int]($_.id.TrimStart('0')) -le 1300 }
 
 foreach ($switch in $switches) {		
 	$newNode = $patchXml.ImportNode($switch.Clone(), $true)
 	$patchXml.LuciferPatch.Database.Switches.AppendChild($newNode)
 	$switch.name = '!!!!!!!!!!!!!!!!!!!!'
+}
+
+$variables = $xml.LDB.Database.variables.Variable | where { [int]($_.id.TrimStart('0')) -gt 441 } | where { [int]($_.id.TrimStart('0')) -le 480 }
+
+foreach ($variable in $variables) {		
+	$newNode = $patchXml.ImportNode($variable.Clone(), $true)
+	$patchXml.LuciferPatch.Database.Variables.AppendChild($newNode)
+	$variable.name = '!!!!!!!!!!!!!!!!!!!!'
 }
 
 remove-item $file
@@ -411,6 +422,7 @@ $patchXml.LuciferPatch.MapEvents.RemoveChild($patchXml.LuciferPatch.MapEvents.du
 $patchXml.LuciferPatch.Maps.RemoveChild($patchXml.LuciferPatch.Maps.dummy)
 $patchXml.LuciferPatch.Database.CommonEvents.RemoveChild($patchXml.LuciferPatch.Database.CommonEvents.dummy)
 $patchXml.LuciferPatch.Database.Switches.RemoveChild($patchXml.LuciferPatch.Database.Switches.dummy)
+$patchXml.LuciferPatch.Database.Variables.RemoveChild($patchXml.LuciferPatch.Database.Variables.dummy)
  
 if (test-path $patchFileName) {
 	remove-item $patchFileName
