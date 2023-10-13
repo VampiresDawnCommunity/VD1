@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>76</chipset_id>
+  <chipset_id>64</chipset_id>
   <width>40</width>
   <height>40</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -127,7 +127,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -228,7 +228,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -1252,12 +1252,6 @@
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -1654,7 +1648,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2186 2186 0</parameters>
+        <parameters>0 2183 2183 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -1738,7 +1732,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1646 0 0 0 0</parameters>
+        <parameters>0 1702 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -1883,12 +1877,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -1948,12 +1936,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -2015,12 +1997,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -2080,12 +2056,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3084,7 +3054,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -3134,7 +3104,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -3143,7 +3113,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -3209,7 +3179,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>0</character_pattern>
@@ -3310,7 +3280,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>

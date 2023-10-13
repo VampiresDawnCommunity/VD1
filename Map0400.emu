@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>51</chipset_id>
+  <chipset_id>20</chipset_id>
   <width>30</width>
   <height>20</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -1452,17 +1452,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_name>CE_Debug</character_name>
+      <character_index>3</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>4</trigger>
-      <layer>0</layer>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -1592,12 +1592,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -1658,12 +1652,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -1703,7 +1691,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -1739,13 +1727,13 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 681 681 0 0 198 0</parameters>
+        <parameters>0 3001 3001 0 0 198 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 682 682 0 0 199 0</parameters>
+        <parameters>0 3002 3002 0 0 199 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -1795,7 +1783,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -1804,7 +1792,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -1971,13 +1959,13 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 623 623 0 0 198 0</parameters>
+        <parameters>0 722 722 0 0 198 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 624 624 0 0 200 0</parameters>
+        <parameters>0 723 723 0 0 200 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2082,6 +2070,174 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 18 0 40 4 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 15 0 50 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 2186 2186 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>4</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>Wie könnt Ihr es wagen, an uns zu</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>zweifeln!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>\.\.Sterbt!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>4</indent>
+        <string>\&gt;\c[7]Junge Frau:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>HIIIIIILFEEEE!!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11550</code>
+        <indent>4</indent>
+        <string>Kill8</string>
+        <parameters>100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>18 10005 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 392 392 0 0 4 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 1380 1380 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>4</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>Das hat sie verdient.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 330 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>4</indent>
+        <string>\&gt;\c[3]Asgar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>4</indent>
+        <string>Was können wir als Nächstes töten?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10</code>
         <indent>1</indent>
         <string></string>
@@ -2109,7 +2265,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2180,13 +2336,13 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 623 623 0 0 198 0</parameters>
+        <parameters>0 722 722 0 0 198 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 624 624 0 0 200 0</parameters>
+        <parameters>0 723 723 0 0 200 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2258,7 +2414,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2275,6 +2431,98 @@
       </event_commands>
      </EventPage>
      <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1380</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>Blutiges</character_name>
+      <character_index>0</character_index>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0005">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1380</switch_a_id>
+        <switch_b_id>2320</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>z_Blutiges</character_name>
+      <character_index>0</character_index>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0006">
       <condition>
        <EventPageCondition>
         <flags>
@@ -2453,13 +2701,13 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 623 623 0 0 199 0</parameters>
+        <parameters>0 722 722 0 0 199 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 624 624 0 0 50 0</parameters>
+        <parameters>0 723 723 0 0 50 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2651,7 +2899,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1646 0 0 0 0</parameters>
+        <parameters>0 1702 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -2717,7 +2965,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2841,13 +3089,13 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 623 623 0 0 199 0</parameters>
+        <parameters>0 722 722 0 0 199 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 624 624 0 0 50 0</parameters>
+        <parameters>0 723 723 0 0 50 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2943,7 +3191,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3037,7 +3285,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -3115,7 +3363,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -3165,6 +3413,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>103</save_count>
+  <save_count>109</save_count>
  </Map>
 </LMU>

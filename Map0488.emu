@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>48</chipset_id>
+  <chipset_id>65</chipset_id>
   <width>45</width>
   <height>54</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -233,17 +233,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Crown5</character_name>
-      <character_index>5</character_index>
+      <character_name>VD_Objects</character_name>
+      <character_index>6</character_index>
       <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>1</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -293,17 +293,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Crown5</character_name>
-      <character_index>5</character_index>
+      <character_name>VD_Objects</character_name>
+      <character_index>6</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -346,17 +346,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Crown5</character_name>
-      <character_index>5</character_index>
+      <character_name>VD_Objects</character_name>
+      <character_index>6</character_index>
       <character_direction>0</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -480,12 +480,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -580,12 +574,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>31 31 31 31 5 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -693,7 +681,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -852,7 +840,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -977,7 +965,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -3699,7 +3687,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -3749,7 +3737,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -3758,7 +3746,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -3796,6 +3784,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>158</save_count>
+  <save_count>160</save_count>
  </Map>
 </LMU>

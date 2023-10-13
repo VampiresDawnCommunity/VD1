@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>25</chipset_id>
+  <chipset_id>43</chipset_id>
   <width>30</width>
   <height>30</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -148,12 +148,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -193,7 +187,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -224,12 +218,6 @@
         <indent>1</indent>
         <string></string>
         <parameters>1 58 0 4 2 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -308,7 +296,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1946</switch_a_id>
+        <switch_a_id>1824</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -376,10 +364,16 @@
         <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12110</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10710</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 662 0 2 0 0</parameters>
+        <parameters>0 662 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>20710</code>
@@ -442,6 +436,30 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>20712</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 452 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>20713</code>
         <indent>0</indent>
         <string></string>
@@ -475,7 +493,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1997</switch_a_id>
+        <switch_a_id>1826</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -720,7 +738,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1945</switch_a_id>
+        <switch_a_id>1823</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -788,10 +806,16 @@
         <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12110</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10710</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 661 0 2 0 0</parameters>
+        <parameters>0 661 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>20710</code>
@@ -854,6 +878,30 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>20712</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 452 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>20713</code>
         <indent>0</indent>
         <string></string>
@@ -887,7 +935,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1997</switch_a_id>
+        <switch_a_id>1826</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -1286,12 +1334,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -1320,8 +1362,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1997</switch_a_id>
-        <switch_b_id>1646</switch_b_id>
+        <switch_a_id>1826</switch_a_id>
+        <switch_b_id>1702</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
         <item_id>1</item_id>
@@ -2320,7 +2362,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -2364,7 +2406,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -2373,7 +2415,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -2428,8 +2470,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1997</switch_a_id>
-        <switch_b_id>1646</switch_b_id>
+        <switch_a_id>1826</switch_a_id>
+        <switch_b_id>1702</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
         <item_id>1</item_id>
@@ -2631,7 +2673,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -2684,8 +2726,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
-        <switch_b_id>1997</switch_b_id>
+        <switch_a_id>1702</switch_a_id>
+        <switch_b_id>1826</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
         <item_id>1</item_id>
@@ -2785,13 +2827,13 @@
         <code>10210</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1647 1647 0</parameters>
+        <parameters>0 1703 1703 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1646 1646 1</parameters>
+        <parameters>0 1702 1702 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2851,8 +2893,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
-        <switch_b_id>1997</switch_b_id>
+        <switch_a_id>1702</switch_a_id>
+        <switch_b_id>1826</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>10</variable_value>
         <item_id>1</item_id>
@@ -2904,8 +2946,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1647</switch_a_id>
-        <switch_b_id>1997</switch_b_id>
+        <switch_a_id>1703</switch_a_id>
+        <switch_b_id>1826</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
         <item_id>1</item_id>
@@ -3011,13 +3053,13 @@
         <code>10210</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1647 1647 1</parameters>
+        <parameters>0 1703 1703 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1646 1646 0</parameters>
+        <parameters>0 1702 1702 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -3077,8 +3119,8 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1647</switch_a_id>
-        <switch_b_id>1997</switch_b_id>
+        <switch_a_id>1703</switch_a_id>
+        <switch_b_id>1826</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>10</variable_value>
         <item_id>1</item_id>
@@ -3120,6 +3162,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>296</save_count>
+  <save_count>304</save_count>
  </Map>
 </LMU>

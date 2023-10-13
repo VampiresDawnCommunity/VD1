@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>38</chipset_id>
+  <chipset_id>61</chipset_id>
   <width>30</width>
   <height>40</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -247,7 +247,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -271,7 +271,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2020 1 0 0 0</parameters>
+        <parameters>0 1929 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -331,7 +331,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -355,7 +355,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2020 1 0 0 0</parameters>
+        <parameters>0 1929 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -415,7 +415,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -439,7 +439,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2020 1 0 0 0</parameters>
+        <parameters>0 1929 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -499,7 +499,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>3</character_index>
       <character_direction>3</character_direction>
       <character_pattern>2</character_pattern>
@@ -651,12 +651,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -716,12 +710,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -897,10 +885,58 @@
         <parameters>0 34 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12110</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10710</code>
         <indent>0</indent>
         <string>caves</string>
-        <parameters>0 43 1 0 0 0</parameters>
+        <parameters>0 43 1 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20710</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20712</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 452 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>21</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20713</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10610</code>
@@ -925,6 +961,36 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2192 2192 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1108,7 +1174,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -1164,7 +1230,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -1173,7 +1239,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -1274,7 +1340,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1226</variable_id>
         <variable_value>1</variable_value>
@@ -1380,7 +1446,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1226</variable_id>
         <variable_value>2</variable_value>
@@ -1486,7 +1552,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1226</variable_id>
         <variable_value>3</variable_value>
@@ -1592,7 +1658,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1226</variable_id>
         <variable_value>4</variable_value>
@@ -1698,7 +1764,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1227</variable_id>
         <variable_value>1</variable_value>
@@ -1804,7 +1870,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1227</variable_id>
         <variable_value>2</variable_value>
@@ -1910,7 +1976,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1227</variable_id>
         <variable_value>3</variable_value>
@@ -2016,7 +2082,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1227</variable_id>
         <variable_value>4</variable_value>
@@ -2122,7 +2188,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1228</variable_id>
         <variable_value>1</variable_value>
@@ -2228,7 +2294,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1228</variable_id>
         <variable_value>2</variable_value>
@@ -2334,7 +2400,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1228</variable_id>
         <variable_value>3</variable_value>
@@ -2440,7 +2506,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1228</variable_id>
         <variable_value>4</variable_value>
@@ -2546,7 +2612,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1231</variable_id>
         <variable_value>1</variable_value>
@@ -2652,7 +2718,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1231</variable_id>
         <variable_value>2</variable_value>
@@ -2758,7 +2824,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1231</variable_id>
         <variable_value>3</variable_value>
@@ -2864,7 +2930,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1231</variable_id>
         <variable_value>4</variable_value>
@@ -2970,7 +3036,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1232</variable_id>
         <variable_value>1</variable_value>
@@ -3076,7 +3142,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1232</variable_id>
         <variable_value>2</variable_value>
@@ -3182,7 +3248,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1232</variable_id>
         <variable_value>3</variable_value>
@@ -3288,7 +3354,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1232</variable_id>
         <variable_value>4</variable_value>
@@ -3394,7 +3460,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1233</variable_id>
         <variable_value>1</variable_value>
@@ -3500,7 +3566,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1233</variable_id>
         <variable_value>2</variable_value>
@@ -3606,7 +3672,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1233</variable_id>
         <variable_value>3</variable_value>
@@ -3712,7 +3778,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1233</variable_id>
         <variable_value>4</variable_value>
@@ -3818,7 +3884,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1229</variable_id>
         <variable_value>1</variable_value>
@@ -3924,7 +3990,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1229</variable_id>
         <variable_value>2</variable_value>
@@ -4030,7 +4096,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1229</variable_id>
         <variable_value>3</variable_value>
@@ -4136,7 +4202,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1229</variable_id>
         <variable_value>4</variable_value>
@@ -4242,7 +4308,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1230</variable_id>
         <variable_value>1</variable_value>
@@ -4348,7 +4414,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1230</variable_id>
         <variable_value>2</variable_value>
@@ -4454,7 +4520,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1230</variable_id>
         <variable_value>3</variable_value>
@@ -4560,7 +4626,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1230</variable_id>
         <variable_value>4</variable_value>
@@ -4666,7 +4732,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1234</variable_id>
         <variable_value>1</variable_value>
@@ -4772,7 +4838,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1234</variable_id>
         <variable_value>2</variable_value>
@@ -4878,7 +4944,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1234</variable_id>
         <variable_value>3</variable_value>
@@ -4984,7 +5050,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1234</variable_id>
         <variable_value>4</variable_value>
@@ -5090,7 +5156,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1235</variable_id>
         <variable_value>1</variable_value>
@@ -5196,7 +5262,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1235</variable_id>
         <variable_value>2</variable_value>
@@ -5302,7 +5368,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1235</variable_id>
         <variable_value>3</variable_value>
@@ -5408,7 +5474,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1235</variable_id>
         <variable_value>4</variable_value>
@@ -5514,7 +5580,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1236</variable_id>
         <variable_value>1</variable_value>
@@ -5620,7 +5686,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1236</variable_id>
         <variable_value>2</variable_value>
@@ -5726,7 +5792,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1236</variable_id>
         <variable_value>3</variable_value>
@@ -5832,7 +5898,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1236</variable_id>
         <variable_value>4</variable_value>
@@ -5938,7 +6004,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1237</variable_id>
         <variable_value>1</variable_value>
@@ -6044,7 +6110,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1237</variable_id>
         <variable_value>2</variable_value>
@@ -6150,7 +6216,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1237</variable_id>
         <variable_value>3</variable_value>
@@ -6256,7 +6322,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1237</variable_id>
         <variable_value>4</variable_value>
@@ -6362,7 +6428,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1238</variable_id>
         <variable_value>1</variable_value>
@@ -6468,7 +6534,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1238</variable_id>
         <variable_value>2</variable_value>
@@ -6574,7 +6640,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1238</variable_id>
         <variable_value>3</variable_value>
@@ -6680,7 +6746,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1238</variable_id>
         <variable_value>4</variable_value>
@@ -6786,7 +6852,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1243</variable_id>
         <variable_value>1</variable_value>
@@ -6892,7 +6958,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1243</variable_id>
         <variable_value>2</variable_value>
@@ -6998,7 +7064,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1243</variable_id>
         <variable_value>3</variable_value>
@@ -7104,7 +7170,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1243</variable_id>
         <variable_value>4</variable_value>
@@ -7210,7 +7276,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1239</variable_id>
         <variable_value>1</variable_value>
@@ -7316,7 +7382,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1239</variable_id>
         <variable_value>2</variable_value>
@@ -7422,7 +7488,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1239</variable_id>
         <variable_value>3</variable_value>
@@ -7528,7 +7594,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1239</variable_id>
         <variable_value>4</variable_value>
@@ -7634,7 +7700,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1240</variable_id>
         <variable_value>1</variable_value>
@@ -7740,7 +7806,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1240</variable_id>
         <variable_value>2</variable_value>
@@ -7846,7 +7912,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1240</variable_id>
         <variable_value>3</variable_value>
@@ -7952,7 +8018,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1240</variable_id>
         <variable_value>4</variable_value>
@@ -8058,7 +8124,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1241</variable_id>
         <variable_value>1</variable_value>
@@ -8164,7 +8230,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1241</variable_id>
         <variable_value>2</variable_value>
@@ -8270,7 +8336,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1241</variable_id>
         <variable_value>3</variable_value>
@@ -8376,7 +8442,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1241</variable_id>
         <variable_value>4</variable_value>
@@ -8482,7 +8548,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1242</variable_id>
         <variable_value>1</variable_value>
@@ -8588,7 +8654,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1242</variable_id>
         <variable_value>2</variable_value>
@@ -8694,7 +8760,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1242</variable_id>
         <variable_value>3</variable_value>
@@ -8800,7 +8866,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1242</variable_id>
         <variable_value>4</variable_value>
@@ -8906,7 +8972,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1244</variable_id>
         <variable_value>1</variable_value>
@@ -9012,7 +9078,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1244</variable_id>
         <variable_value>2</variable_value>
@@ -9118,7 +9184,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1244</variable_id>
         <variable_value>3</variable_value>
@@ -9224,7 +9290,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1244</variable_id>
         <variable_value>4</variable_value>
@@ -9330,7 +9396,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1245</variable_id>
         <variable_value>1</variable_value>
@@ -9436,7 +9502,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1245</variable_id>
         <variable_value>2</variable_value>
@@ -9542,7 +9608,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1245</variable_id>
         <variable_value>3</variable_value>
@@ -9648,7 +9714,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2020</switch_a_id>
+        <switch_a_id>1929</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1245</variable_id>
         <variable_value>4</variable_value>
@@ -9691,6 +9757,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>133</save_count>
+  <save_count>137</save_count>
  </Map>
 </LMU>

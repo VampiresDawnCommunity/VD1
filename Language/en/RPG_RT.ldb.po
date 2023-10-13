@@ -105,6 +105,10 @@ msgid "Fabelwesen"
 msgstr "Mythical creature"
 
 msgctxt "actors.name"
+msgid "Mumie"
+msgstr "Mummy"
+
+msgctxt "actors.name"
 msgid "Opa"
 msgstr "Grandpa"
 
@@ -150,6 +154,10 @@ msgstr ""
 
 msgctxt "actors.name"
 msgid "--MUSIC--"
+msgstr ""
+
+msgctxt "actors.name"
+msgid "P-Mumie"
 msgstr ""
 
 msgctxt "skills.name"
@@ -617,7 +625,7 @@ msgid "Ein Strudel schwarzer Magie schädigt einen Gegner"
 msgstr "A vortex of black energy damages one enemy"
 
 msgctxt "skills.using_message1"
-msgid "%S zaubert Todesstrudel"
+msgid "%S zaubert Todesstrudel !"
 msgstr "%S casts Death Vortex!"
 
 msgctxt "skills.name"
@@ -735,6 +743,14 @@ msgstr "Retransform"
 msgctxt "skills.description"
 msgid "Beendet die Wolfs- oder Fledermausverwandlung"
 msgstr "Ends the wolf or bat transformation"
+
+msgctxt "skills.name"
+msgid "Mumie beschwören"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Beschwört eine Mumie"
+msgstr ""
 
 msgctxt "skills.name"
 msgid "-------Beschwo-----"
@@ -1177,7 +1193,7 @@ msgid "Kuriert alle negativen Zustände der Gruppe"
 msgstr "Cures all negative status effects of the group"
 
 msgctxt "skills.using_message1"
-msgid "%S zaubert völlige Reinigung !"
+msgid "%S zaubert Völlige Reinigung !"
 msgstr "%S casts Total Purification!"
 
 msgctxt "skills.name"
@@ -2170,6 +2186,30 @@ msgstr ""
 
 msgctxt "skills.using_message1"
 msgid "%S zaubert Völlige Dunkelheit !"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "--- Valaine ---"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Trifft alle Gegner."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid " metzelt alle Gegner nieder!"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Ein leichter Angriff, der Lähmung verursachen kann"
+msgstr "A light attack that can cause paraylze"
+
+msgctxt "skills.using_message1"
+msgid " holt weit aus!"
+msgstr " lunges forward!"
+
+msgctxt "skills.name"
+msgid "--Mumie--"
 msgstr ""
 
 msgctxt "items.name"
@@ -3673,7 +3713,11 @@ msgid "Schützt zu 60 % vor allen negativen Zuständen"
 msgstr "60% protection against all negative status effects"
 
 msgctxt "items.name"
-msgid "!!!!!!!!!!!!!!!!!!!!"
+msgid "- Special Edition -"
+msgstr ""
+
+msgctxt "items.name"
+msgid "--------------------"
 msgstr ""
 
 msgctxt "items.name"
@@ -4302,10 +4346,494 @@ msgstr ""
 
 msgctxt "items.name"
 msgid "$o Seelenfragment"
-msgstr ""
+msgstr "$o Soul Fragment"
 
 msgctxt "items.description"
 msgid "Ermöglicht das Tragen großer Mengen an Seelen."
+msgstr ""
+
+msgctxt "items.name"
+msgid "--- Valaine Mod ---"
+msgstr ""
+
+msgctxt "items.name"
+msgid "$o Perle"
+msgstr "$o Pearl"
+
+msgctxt "items.description"
+msgid "Die Oberfläche ist glatt und vollkommen weiß."
+msgstr "Its surface is smooth and completely white."
+
+msgctxt "items.name"
+msgid "$o Pinker Teddy"
+msgstr "$o Pink Teddy"
+
+msgctxt "items.description"
+msgid "Ein Auge fehlt, aber sonst ist er sehr niedlich."
+msgstr "Missing an eye, but otherwise very cute."
+
+msgctxt "items.name"
+msgid "$o Flöte"
+msgstr "$o Flute"
+
+msgctxt "items.description"
+msgid "Ein simples Instrument. Sieht so gut wie neu aus."
+msgstr "A simple instrument. Looks as good as new."
+
+msgctxt "items.name"
+msgid "$oSchmetterlingsring"
+msgstr "$o Butterfly Ring"
+
+msgctxt "items.description"
+msgid "Der perfekte Ring für eine Prinzessin."
+msgstr "A perfect ring for a princess."
+
+msgctxt "items.description"
+msgid "Exemplar von Dunkle Schatten. Echter Bestseller."
+msgstr "A copy of Dark Shadows. A true bestseller."
+
+msgctxt "items.name"
+msgid "$o Blaue Blume"
+msgstr "$o Blue Flower"
+
+msgctxt "items.name"
+msgid "$o Wasser"
+msgstr "$o Water"
+
+msgctxt "items.description"
+msgid "Kaltes Wasser aus den reinsten Quellen."
+msgstr "Cold water from the purest springs."
+
+msgctxt "items.name"
+msgid "$o Steintafel"
+msgstr "$o Stone Tablet"
+
+msgctxt "items.description"
+msgid "Ein Haufen unleserlicher Symbole stehen darauf."
+msgstr "There's a bunch of unreadable symbols."
+
+msgctxt "items.name"
+msgid "$o Kugel"
+msgstr "$o Orb"
+
+msgctxt "items.description"
+msgid "Eine weiß leuchtende Kugel."
+msgstr "A white glowing orb."
+
+msgctxt "items.name"
+msgid "$o Beutel"
+msgstr "$o Pouch"
+
+msgctxt "items.description"
+msgid "Ziemlich leicht."
+msgstr "Quite light"
+
+msgctxt "items.name"
+msgid "Billiges Bier"
+msgstr "Cheap Beer"
+
+msgctxt "items.description"
+msgid "Gut genug für durstige Piraten."
+msgstr "Good enough for thirsty pirates."
+
+msgctxt "items.name"
+msgid "Kapitänsschlüssel"
+msgstr "Captain's Key"
+
+msgctxt "items.description"
+msgid "Ein Ersatzschlüssel für die Tür in der Höhle."
+msgstr "A spare key for the door in the cave."
+
+msgctxt "items.name"
+msgid "Medaillon"
+msgstr "Medallion"
+
+msgctxt "items.description"
+msgid "\"In Liebe, Susi.\""
+msgstr "\"Love, Susi.\""
+
+msgctxt "items.name"
+msgid "Phönixfeder"
+msgstr "Phoenixfeather"
+
+msgctxt "items.description"
+msgid "Leuchtet orange-rot und fühlt sich warm an."
+msgstr "Glows orange-red and feels warm to the touch."
+
+msgctxt "items.name"
+msgid "--- Amulett ---"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Zerbrochenes Amulett"
+msgstr "Fragmented Amulet"
+
+msgctxt "items.description"
+msgid "Ein Kreis mit sechs leeren Kerben ist zu sehen."
+msgstr "There's a circle attached with six empty notches."
+
+msgctxt "items.name"
+msgid "Magischer Beutel"
+msgstr "Magic Pouch"
+
+msgctxt "items.description"
+msgid "Enthält alle Fragmente des Amuletts."
+msgstr "Contains all fragments of the amulet."
+
+msgctxt "items.name"
+msgid "Lichtfragment"
+msgstr "Light Fragment"
+
+msgctxt "items.description"
+msgid "Das Lichtstück des Amuletts."
+msgstr "The Light piece of the amulet."
+
+msgctxt "items.name"
+msgid "Feuerfragment"
+msgstr "Fire Fragment"
+
+msgctxt "items.description"
+msgid "Das Feuerstück des Amuletts."
+msgstr "The Fire piece of the amulet."
+
+msgctxt "items.name"
+msgid "Wasserfragment"
+msgstr "Water Fragment"
+
+msgctxt "items.description"
+msgid "Das Wasserstück des Amuletts."
+msgstr "The Water piece of the amulet."
+
+msgctxt "items.name"
+msgid "Schattenfragment"
+msgstr "Shadow Fragment"
+
+msgctxt "items.description"
+msgid "Das Schattenstück des Amuletts."
+msgstr "The Shadow piece of the amulet."
+
+msgctxt "items.name"
+msgid "Luftfragment"
+msgstr "Air Fragment"
+
+msgctxt "items.description"
+msgid "Das Luftstück des Amuletts."
+msgstr "The Air piece of the amulet."
+
+msgctxt "items.name"
+msgid "Erdfragment"
+msgstr "Earth Fragment"
+
+msgctxt "items.description"
+msgid "Das Erdstück des Amuletts."
+msgstr "The Earth piece of the amulet."
+
+msgctxt "items.name"
+msgid "Shynas Amulett"
+msgstr "Shyna's Amulet"
+
+msgctxt "items.description"
+msgid "Immun geg. jeden Status, +50 alle Stats, +Ausw."
+msgstr "Immune against all States, +50 all Stats, +Evasion"
+
+msgctxt "items.name"
+msgid "Blutrosensamen"
+msgstr "Blood Rose Seed"
+
+msgctxt "items.description"
+msgid "Es versucht an Euer Blut zu kommen."
+msgstr "Its trying to get to your blood."
+
+msgctxt "items.name"
+msgid "Wolfssalbeisamen"
+msgstr "Wolf's Sage Seed"
+
+msgctxt "items.description"
+msgid "Leuchtet im Dunkeln."
+msgstr "Glows in the dark."
+
+msgctxt "items.name"
+msgid "Weisheitsmoossamen"
+msgstr "Wisdom Moss Seed"
+
+msgctxt "items.description"
+msgid "Größer als die meisten Samen."
+msgstr "Bigger than most seeds."
+
+msgctxt "items.name"
+msgid "Phantomdistelsamen"
+msgstr "Phantom Thistle Seed"
+
+msgctxt "items.description"
+msgid "Man fühlt sich bei Berührung unwohl."
+msgstr "Touching it makes one feel uneasy."
+
+msgctxt "items.name"
+msgid "Löwenlavendelsamen"
+msgstr "Lion Lavender Seed"
+
+msgctxt "items.description"
+msgid "Seine goldene Oberfläche sieht sehr wertvoll aus."
+msgstr "Its golden surface looks very valuable."
+
+msgctxt "items.name"
+msgid "Blutkrautsamen"
+msgstr "Blood Weed Seed"
+
+msgctxt "items.description"
+msgid "Matschig und stinkt nach Tod."
+msgstr "Squishy and reeks of death."
+
+msgctxt "items.name"
+msgid "Mumienhaarsamen"
+msgstr "Mummy's Hair Seed"
+
+msgctxt "items.description"
+msgid "Ein winziges Haar einer Mumie."
+msgstr "A tiny hair of a mummy."
+
+msgctxt "items.name"
+msgid "Frostblumensamen"
+msgstr "Frost Flower Seed"
+
+msgctxt "items.description"
+msgid "Eiszapfen bedecken die Oberfläche."
+msgstr "It's covered by icicles that don't seem to melt."
+
+msgctxt "items.name"
+msgid "Vampirnesselsamen"
+msgstr "Vampire Nettle Seed"
+
+msgctxt "items.description"
+msgid "Blutrot mit kleinen, spitzen Dornen."
+msgstr "Blood red with small pointy thorns."
+
+msgctxt "items.name"
+msgid "Bluthaubensamen"
+msgstr "Blood Cowl Seed"
+
+msgctxt "items.description"
+msgid "Rot mit vielen schwarzen Venen"
+msgstr "Red with many black veins."
+
+msgctxt "items.name"
+msgid "-----Garden------"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Wolfssalbei"
+msgstr "Wolf's Sage"
+
+msgctxt "items.description"
+msgid "Die Spitzen der Pflanze leuchtet im Mondlicht."
+msgstr "The plants tips glow in the moonlight."
+
+msgctxt "items.name"
+msgid "Weisheitsmoos"
+msgstr "Wisdom Moss"
+
+msgctxt "items.description"
+msgid "Heller als die meisten Pflanzen."
+msgstr "Brighter than most plants."
+
+msgctxt "items.name"
+msgid "Phantomdistel"
+msgstr "Phantom Thistle"
+
+msgctxt "items.description"
+msgid "Sie ist durchsichtig und wirkt unheimlich."
+msgstr "It's see-through and feels eerie."
+
+msgctxt "items.name"
+msgid "Löwenlavendel"
+msgstr "Lion Lavender"
+
+msgctxt "items.description"
+msgid "Farbenprächtig und majestätisch."
+msgstr "Colorful and majestic."
+
+msgctxt "items.name"
+msgid "Blutkraut"
+msgstr "Blood Weed"
+
+msgctxt "items.description"
+msgid "Ihre Spitzen schmerzen menschliche Hände."
+msgstr "Its tips causes human hands to sting."
+
+msgctxt "items.name"
+msgid "Mumienhaar"
+msgstr "Mummy's Hair"
+
+msgctxt "items.description"
+msgid "Ein Wirrwarr von Mumienhaaren."
+msgstr "A tangled mess of a mummy's hair."
+
+msgctxt "items.name"
+msgid "Frostblume"
+msgstr "Frost Flower"
+
+msgctxt "items.description"
+msgid "Sie fühlt sich kalt an."
+msgstr "Cold to the touch."
+
+msgctxt "items.name"
+msgid "Magmalilie"
+msgstr "Magma Lily"
+
+msgctxt "items.description"
+msgid "Wunderschön. Sie strahlt unglaubliche Wärme aus."
+msgstr "Beautiful. It radiates incredible warmth."
+
+msgctxt "items.name"
+msgid "Mondsichel"
+msgstr "Crescent"
+
+msgctxt "items.description"
+msgid "Verringert Blutkosten und macht immun geg. Blutung"
+msgstr "Reduces Blood cost and makes immune to Bleeding"
+
+msgctxt "items.name"
+msgid "Zorn"
+msgstr "Wrath"
+
+msgctxt "items.description"
+msgid "Erstschlag, +45 ANG, +10 INT, verursacht Verwirrt"
+msgstr "First Strike, +45 ATK, +10 INT, causes Confusion"
+
+msgctxt "items.name"
+msgid "Erzfeind"
+msgstr "Nemesis"
+
+msgctxt "items.description"
+msgid "+65 ANG, +20 GES, verursacht Blind und Fluch."
+msgstr "+65 ATK, +20 AGI, causes Blind and Curse"
+
+msgctxt "items.name"
+msgid "Rache"
+msgstr "Vengeance"
+
+msgctxt "items.description"
+msgid "Doppelschlag, verursacht Lähmung, +110 ANG"
+msgstr "Double attack, causes Paraylze, +110 ATK"
+
+msgctxt "items.name"
+msgid "Mondlicht"
+msgstr "Moonlight"
+
+msgctxt "items.description"
+msgid "Schützt vor Lähmung+Verwirrung, +30 ANG"
+msgstr "Protects from Paralyze+Confusion, +30 AGI"
+
+msgctxt "items.name"
+msgid "Seelenfresser"
+msgstr "Soul Siphon"
+
+msgctxt "items.description"
+msgid "Immun gegen Blutung und Schutz vor Tod, +85 DEF"
+msgstr "Bleeding immunity and Death protection, +85 DEF"
+
+msgctxt "items.name"
+msgid "Schreckenspanzer"
+msgstr "Bond of Terror"
+
+msgctxt "items.description"
+msgid "Halbe Blutkosten, +Ausw., verh. Krits, +165 DEF"
+msgstr "Half Blood cost, +Evasion, prevent Crits, +165 DEF"
+
+msgctxt "items.name"
+msgid "Harnisch der Weisen"
+msgstr "Cuirass of the Wise"
+
+msgctxt "items.description"
+msgid "Immun geg. jeden Status, Ele. Schutz. +185 DEF"
+msgstr "Immune against all States, Element. Prot. +185 DEF"
+
+msgctxt "items.name"
+msgid "Reife Papaya"
+msgstr "Ripe Papaya"
+
+msgctxt "items.description"
+msgid "Die beliebteste Frucht aus Lombar."
+msgstr "Lombar's most popular fruit."
+
+msgctxt "items.name"
+msgid "Frische Walnüsse"
+msgstr "Fresh Walnuts"
+
+msgctxt "items.description"
+msgid "Aus Isthar. Größer als sonst."
+msgstr "From Isthar. Bigger than usual."
+
+msgctxt "items.name"
+msgid "Saftige Forelle"
+msgstr "Succulent Trout"
+
+msgctxt "items.description"
+msgid "Frisch aus dem eiskalten Wasser Iranis'."
+msgstr "Fresh from ice cold water of Iranis."
+
+msgctxt "items.name"
+msgid "Perfekter Koriander"
+msgstr "Perfect Coriander"
+
+msgctxt "items.description"
+msgid "Wird in fast allen Uruya-Gerichten verwendet."
+msgstr "Used in almost every Uruya dish."
+
+msgctxt "items.name"
+msgid "Alte Papaya"
+msgstr "Old Papaya"
+
+msgctxt "items.description"
+msgid "Nicht mehr so gut."
+msgstr "Not too good anymore."
+
+msgctxt "items.name"
+msgid "Schrumplige Walnüsse"
+msgstr "Shriveled Walnuts"
+
+msgctxt "items.description"
+msgid "Irgendwie klein."
+msgstr "Quite small."
+
+msgctxt "items.name"
+msgid "Stinkende Forelle"
+msgstr "Stinking Trout"
+
+msgctxt "items.description"
+msgid "Absolut widerwärtig."
+msgstr "Absolutely disgusting."
+
+msgctxt "items.name"
+msgid "Verwelkter Koriander"
+msgstr "Wilted Coriander"
+
+msgctxt "items.description"
+msgid "Ein ziemlich trauriger Anblick."
+msgstr "A pretty sad sight."
+
+msgctxt "items.name"
+msgid "Seelenkristall"
+msgstr "Soul Crystal"
+
+msgctxt "items.description"
+msgid "Blau mit gelben, spitzen Enden."
+msgstr "Blue with pointy bits."
+
+msgctxt "items.name"
+msgid "Nutzloser Stein"
+msgstr "Useless Rock"
+
+msgctxt "items.description"
+msgid "Irgendwie süß."
+msgstr "It's kind of cute."
+
+msgctxt "items.name"
+msgid "Valnars Rüstung"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Schutz vor gelähmt und verwirrt, +213 DEF"
 msgstr ""
 
 msgctxt "enemies.name"
@@ -4701,7 +5229,7 @@ msgid "Böser Krieger"
 msgstr "Evil Warrior"
 
 msgctxt "enemies.name"
-msgid "Erdelemtar"
+msgid "Erdelementar"
 msgstr "Earth Elemental"
 
 msgctxt "enemies.name"
@@ -4901,6 +5429,10 @@ msgid "!!!!!!!!!!!!!!!!!!!!"
 msgstr ""
 
 msgctxt "enemies.name"
+msgid "- SE Bosse -"
+msgstr ""
+
+msgctxt "enemies.name"
 msgid "-- Aysha Edition --"
 msgstr ""
 
@@ -5031,6 +5563,58 @@ msgstr ""
 msgctxt "enemies.name"
 msgid "Zombie-Elite"
 msgstr ""
+
+msgctxt "enemies.name"
+msgid "--- Valaine ---"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Guntra"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Lauernder Drache"
+msgstr "Lurking Dragon"
+
+msgctxt "enemies.name"
+msgid "Lianeia"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Mathilda die Weise"
+msgstr "Mathilda the Wise"
+
+msgctxt "enemies.name"
+msgid "Wächter"
+msgstr "Guardian"
+
+msgctxt "enemies.name"
+msgid "Malia Ustra"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Eisbehemoth"
+msgstr "Ice Behemoth"
+
+msgctxt "enemies.name"
+msgid "Erdfragment"
+msgstr "Earth Fragment"
+
+msgctxt "enemies.name"
+msgid "Golem"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Feuerelementar"
+msgstr "Fire Elemental"
+
+msgctxt "enemies.name"
+msgid "Inkubus"
+msgstr "Incubus"
+
+msgctxt "enemies.name"
+msgid "Phönix"
+msgstr "Phoenix"
 
 msgctxt "states.name"
 msgid "Starre"

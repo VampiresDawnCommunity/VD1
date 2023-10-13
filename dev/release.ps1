@@ -1,17 +1,17 @@
 
 ./lcf2xml.exe Map0003.lmu
 
-$introMap = ".\Map0003.emu"
-$contents = [System.IO.File]::ReadAllText($introMap)
+$contents = [System.IO.File]::ReadAllText("Map0003.emu")
 $versionString = [RegEx]::Match($contents, "<parameters>0 562 562 0 0 ([0-9]*) 0</parameters>").Groups[1].Value
 
 $newBuild = [int]$versionString + 1
 Write-Host ("Current Build: " + $newBuild)
 
 $contents = $contents.Replace("<parameters>0 562 562 0 0 " + $versionString + " 0</parameters>", "<parameters>0 562 562 0 0 " + $newBuild + " 0</parameters>")
-[System.IO.File]::WriteAllText($introMap, $contents)
+$contents = $contents.Replace("<parameters>0 2225 2225 0</parameters>", "<parameters>0 2225 2225 1</parameters>")
+[System.IO.File]::WriteAllText("Map0003.emu", $contents)
 
-./lcf2xml.exe Map0003.emu
+./lcf2xml.exe "Map0003.emu"
 
 rm *.emu
 if (test-path lcf2xml.exe) {
@@ -26,7 +26,7 @@ if (test-path RPG_RT.emt) {
 if (test-path easyrpg_log.txt) {
   remove-item easyrpg_log.txt
 }
-cp dev/ER_Release.png CharSet/ER_Debug.png
+cp dev/CE_Release.png CharSet/CE_Debug.png
 
 mkdir build
 cp -R _Extras build/

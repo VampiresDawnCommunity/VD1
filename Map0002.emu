@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>6</chipset_id>
+  <chipset_id>52</chipset_id>
   <width>20</width>
   <height>15</height>
   <scroll_type>0</scroll_type>
@@ -100,19 +100,19 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
+          <switch_a>F</switch_a>
           <switch_b>F</switch_b>
-          <variable>F</variable>
+          <variable>T</variable>
           <item>F</item>
           <actor>F</actor>
           <timer>F</timer>
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>47</switch_a_id>
+        <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
+        <variable_id>57</variable_id>
+        <variable_value>8</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
         <timer_sec>0</timer_sec>
@@ -287,25 +287,25 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[2]Seit vier Jahren leben sie nun gemeinsam in dieser</string>
+        <string>\&gt;\c[2]Seit vier Jahren leben sie nun gemeinsam</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Stadt. Sie ist eine hübsche junge Dame,</string>
+        <string>in \c[4]Klennar\c[2], einer Stadt südlich von Limm.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>allerdings ist sie ziemlich</string>
+        <string>Sie ist eine hübsche junge Dame, allerdings ist</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>abweisend anderen gegenüber.</string>
+        <string>sie ziemlich abweisend Fremden gegenüber.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -377,19 +377,13 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[2]Valnar ist ein junger Kämpfer aus \c[4]Limm\c[2],</string>
+        <string>\&gt;\c[2]Valnar ist ein junger Kämpfer aus Limm.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>einer Stadt nördlich von \c[4]Klennar.\c[2] Als</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>seine Eltern verstarben, war Valnar bereits</string>
+        <string>Als seine Eltern verstarben, war Valnar bereits</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -474,12 +468,6 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 3 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
         <parameters>0 2082 2082 0</parameters>
        </EventCommand>
        <EventCommand>
@@ -525,19 +513,19 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
+          <switch_a>F</switch_a>
           <switch_b>F</switch_b>
-          <variable>F</variable>
+          <variable>T</variable>
           <item>F</item>
           <actor>F</actor>
           <timer>F</timer>
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>47</switch_a_id>
+        <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
+        <variable_id>57</variable_id>
+        <variable_value>8</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
         <timer_sec>0</timer_sec>
@@ -1271,7 +1259,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 17 17 0</parameters>
+        <parameters>0 43 43 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -1285,6 +1273,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>135</save_count>
+  <save_count>144</save_count>
  </Map>
 </LMU>

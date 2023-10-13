@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>31</chipset_id>
+  <chipset_id>44</chipset_id>
   <width>20</width>
   <height>15</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -2764,12 +2764,6 @@
         <parameters>0 2348 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>1</indent>
         <string></string>
@@ -2786,12 +2780,6 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -2872,12 +2860,6 @@
         <parameters>0 2348 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>1</indent>
         <string></string>
@@ -2894,12 +2876,6 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -2973,12 +2949,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>0</indent>
@@ -3076,12 +3046,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
@@ -3157,7 +3121,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -3258,7 +3222,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3571,7 +3535,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -3672,7 +3636,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>0</variable_value>
@@ -3718,7 +3682,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>10</variable_value>
@@ -4082,6 +4046,105 @@
          </EventPageCondition_Flags>
         </flags>
         <switch_a_id>128</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1648</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>Actor_Alaine01</character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 326 0</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0005">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1651</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -4507,6 +4570,12 @@
         <parameters>0 0 13</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 100 100 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>1</indent>
         <string></string>
@@ -4854,6 +4923,30 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2319 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2395 2395 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -4923,7 +5016,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 455 0</parameters>
+        <parameters>0 20 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10440</code>
@@ -4941,7 +5034,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5831,7 +5924,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>3</indent>
-        <string>\c[4]wieder\c[0] zurückgehen und verliere</string>
+        <string>\&gt;\c[4]wieder\c[0] zurückgehen und verliere</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6443,7 +6536,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>3</indent>
-        <string>\c[1]"Jeder Mensch lernt anders.</string>
+        <string>\&gt;\c[1]"Jeder Mensch lernt anders.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6461,7 +6554,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>3</indent>
-        <string>\c[1]"eine feurige Limm´sche Knolle.\.\.</string>
+        <string>\&gt;\c[1]"eine feurige Limm´sche Knolle.\.\.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6485,7 +6578,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>3</indent>
-        <string>\c[1]"Potential voll auszuschöpfen.\.\.</string>
+        <string>\&gt;\c[1]"Potential voll auszuschöpfen.\.\.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6509,7 +6602,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>3</indent>
-        <string>\c[1]"Ohne kräftige Gewürze schlicht</string>
+        <string>\&gt;\c[1]"Ohne kräftige Gewürze schlicht</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -7961,7 +8054,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -8073,7 +8166,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -9086,7 +9179,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -9455,7 +9548,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -9594,12 +9687,6 @@
         <parameters>0 2348 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>1</indent>
         <string></string>
@@ -9616,12 +9703,6 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -9664,7 +9745,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -9802,7 +9883,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>709</variable_id>
         <variable_value>0</variable_value>
@@ -9848,7 +9929,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>709</variable_id>
         <variable_value>10</variable_value>
@@ -9901,7 +9982,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>709</variable_id>
         <variable_value>0</variable_value>
@@ -9947,7 +10028,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1654</switch_a_id>
+        <switch_a_id>1716</switch_a_id>
         <switch_b_id>316</switch_b_id>
         <variable_id>709</variable_id>
         <variable_value>10</variable_value>
@@ -10000,7 +10081,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>0</variable_value>
@@ -10046,7 +10127,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>1</variable_value>
@@ -10092,7 +10173,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>10</variable_value>
@@ -10138,7 +10219,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>712</variable_id>
         <variable_value>11</variable_value>
@@ -10184,7 +10265,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1649</switch_a_id>
+        <switch_a_id>1705</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -10217,6 +10298,52 @@
       <event_commands></event_commands>
      </EventPage>
      <EventPage id="0006">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1650</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0007">
       <condition>
        <EventPageCondition>
         <flags>
@@ -10283,7 +10410,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -10303,6 +10430,52 @@
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
       <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1650</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -10336,7 +10509,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1649</switch_a_id>
+        <switch_a_id>1705</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -10391,7 +10564,7 @@
         </flags>
         <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>530</variable_id>
+        <variable_id>650</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -10490,7 +10663,7 @@
         </flags>
         <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>529</variable_id>
+        <variable_id>649</variable_id>
         <variable_value>4</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -10552,7 +10725,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -10664,7 +10837,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -10776,7 +10949,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>2</character_direction>
       <character_pattern>2</character_pattern>
@@ -10888,7 +11061,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -10918,7 +11091,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 1646 1 0 0 1</parameters>
+        <parameters>0 1702 1 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10610</code>
@@ -10942,13 +11115,13 @@
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 1649 0 0 0 0</parameters>
+        <parameters>0 1705 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>1 526 0 2 5 0</parameters>
+        <parameters>1 646 0 2 5 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10610</code>
@@ -11014,13 +11187,13 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 721 721 0 0 58 0</parameters>
+        <parameters>0 3041 3041 0 0 58 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 722 722 0 0 59 0</parameters>
+        <parameters>0 3042 3042 0 0 59 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -11082,7 +11255,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -11091,7 +11264,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -11223,25 +11396,25 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 9</parameters>
+        <parameters>0 560 560 0 3 0 9</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 546 0 0 0 0</parameters>
+        <parameters>1 559 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>1 547 0 1 2 1</parameters>
+        <parameters>1 560 0 1 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 546 546 0 0 1 0</parameters>
+        <parameters>0 559 559 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11295,7 +11468,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 546 0 2 0 0</parameters>
+        <parameters>1 559 0 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11313,13 +11486,13 @@
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>1 547 0 1 2 1</parameters>
+        <parameters>1 560 0 1 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 546 546 0 0 1 0</parameters>
+        <parameters>0 559 559 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11417,7 +11590,7 @@
         </flags>
         <switch_a_id>2317</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>546</variable_id>
+        <variable_id>559</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -11470,7 +11643,7 @@
         </flags>
         <switch_a_id>2317</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>546</variable_id>
+        <variable_id>559</variable_id>
         <variable_value>2</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -11615,19 +11788,19 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 9</parameters>
+        <parameters>0 560 560 0 3 0 9</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 547 0 2 2 1</parameters>
+        <parameters>1 560 0 2 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 546 0 2 0 0</parameters>
+        <parameters>1 559 0 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11645,7 +11818,7 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 546 546 0 0 0 0</parameters>
+        <parameters>0 559 559 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -11663,7 +11836,7 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 546 546 0 0 1 0</parameters>
+        <parameters>0 559 559 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11681,13 +11854,13 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 10</parameters>
+        <parameters>0 560 560 0 3 0 10</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 547 0 2 2 1</parameters>
+        <parameters>1 560 0 2 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -11705,13 +11878,13 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 546 546 0 0 2 0</parameters>
+        <parameters>0 559 559 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>1 546 0 2 1 0</parameters>
+        <parameters>1 559 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -11723,7 +11896,7 @@
         <code>12010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>1 546 0 1 1 0</parameters>
+        <parameters>1 559 0 1 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -11735,7 +11908,7 @@
         <code>12010</code>
         <indent>4</indent>
         <string></string>
-        <parameters>1 546 0 2 1 0</parameters>
+        <parameters>1 559 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -11747,7 +11920,7 @@
         <code>12010</code>
         <indent>5</indent>
         <string></string>
-        <parameters>1 546 0 2 1 0</parameters>
+        <parameters>1 559 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -11759,7 +11932,7 @@
         <code>12010</code>
         <indent>6</indent>
         <string></string>
-        <parameters>1 546 0 2 1 0</parameters>
+        <parameters>1 559 0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -11843,7 +12016,7 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 546 546 0 0 0 0</parameters>
+        <parameters>0 559 559 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -11985,19 +12158,19 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 10</parameters>
+        <parameters>0 560 560 0 3 0 10</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 547 0 4 2 1</parameters>
+        <parameters>1 560 0 4 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 546 546 0 0 2 0</parameters>
+        <parameters>0 559 559 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -12015,25 +12188,25 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 546 546 0 0 0 0</parameters>
+        <parameters>0 559 559 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 9</parameters>
+        <parameters>0 560 560 0 3 0 9</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 547 0 5 2 1</parameters>
+        <parameters>1 560 0 5 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 546 546 0 0 1 0</parameters>
+        <parameters>0 559 559 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -12045,13 +12218,13 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 547 547 0 3 0 9</parameters>
+        <parameters>0 560 560 0 3 0 9</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>1 547 0 1 2 1</parameters>
+        <parameters>1 560 0 1 2 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -12069,7 +12242,7 @@
         <code>10220</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 546 546 0 0 2 0</parameters>
+        <parameters>0 559 559 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -12087,7 +12260,7 @@
         <code>10220</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 546 546 0 0 0 0</parameters>
+        <parameters>0 559 559 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -12411,7 +12584,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -12455,7 +12628,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>721</variable_id>
+        <variable_id>3041</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -12464,7 +12637,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -13442,7 +13615,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 515 515 0 0 15 0</parameters>
+        <parameters>0 635 635 0 0 15 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -13502,7 +13675,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -13546,7 +13719,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>722</variable_id>
+        <variable_id>3042</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -13555,7 +13728,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -13666,6 +13839,36 @@
         <parameters>0 329 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2183 2183 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>0</indent>
         <string>\&gt;\c[2]Valnar:\c[0]</string>
@@ -13693,6 +13896,36 @@
         <code>20110</code>
         <indent>0</indent>
         <string>\s[9]...........</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2184 2184 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -13825,7 +14058,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 639 639 0 0 11 0</parameters>
+        <parameters>0 752 752 0 0 11 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -14020,7 +14253,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 639 639 0 0 13 0</parameters>
+        <parameters>0 752 752 0 0 13 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -14303,6 +14536,36 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2183 2183 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -14608,7 +14871,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2186 2186 0</parameters>
+        <parameters>0 2183 2183 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -16205,7 +16468,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -16348,7 +16611,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 639 639 0 0 0 0</parameters>
+        <parameters>0 752 752 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -16396,7 +16659,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1648</switch_a_id>
+        <switch_a_id>1704</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -16887,7 +17150,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1649 1649 0</parameters>
+        <parameters>0 1705 1705 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -16992,6 +17255,12 @@
         <parameters>63 18 9</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>MDecay</string>
@@ -17061,7 +17330,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1649 1649 1</parameters>
+        <parameters>0 1705 1705 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -17085,7 +17354,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1649 1649 0</parameters>
+        <parameters>0 1705 1705 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -19725,7 +19994,7 @@
         <code>10210</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 2184 2184 0</parameters>
+        <parameters>0 2191 2191 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -20505,7 +20774,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 639 639 0 0 12 0</parameters>
+        <parameters>0 752 752 0 0 12 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -20529,7 +20798,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 530 530 1 0 1 0</parameters>
+        <parameters>0 650 650 1 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10860</code>
@@ -20619,7 +20888,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1649</switch_a_id>
+        <switch_a_id>1705</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -20658,6 +20927,638 @@
          <EventPageCondition_Flags>
           <switch_a>T</switch_a>
           <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1647</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 752 752 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2177 2177 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10860</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 0 19 9</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10001 8 0 0 29 29 3 3 3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2187 2187 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10001 8 0 0 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1648 1648 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 29 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 8 0 0 3 3 3 2 15</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2184 2184 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Valnar!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10001 8 0 0 13</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 8 0 0 2 2 3 3 3 3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Wo gehst du hin?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2184 2184 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ich ...\.\. muss nur meinen Kopf</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>freibekommen.\.\.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das ist alles.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 8 0 0 3 3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2185 2185 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Lass mich mit dir kommen.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 304 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 119 225</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0012">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1650</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10860</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 0 6 10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 29 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11030</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>40 40 100 100 30 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2185 2185 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Darf ich heute Nacht bei dir</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>bleiben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2185 2185 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ja.\.\. Natürlich.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2185 2185 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\s[3]...\s[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>29 8 0 0 29 29 3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11030</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0 0 100 30 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>30</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>People1</string>
+        <parameters>6 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1702 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Alter Mann\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Am nächsten Tag waren die drei bereit,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>weiterzumachen und das Geheimnis</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>zu lüften ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Alter Mann\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Am nächsten Tag waren die vier bereit,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>weiterzumachen und das Geheimnis</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>zu lüften ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Mittig</string>
+        <parameters>23</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 239 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 752 752 0 0 12 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2177 2177 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11030</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>100 100 100 100 30 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1650 1650 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1651 1651 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0013">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1651</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0014">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
           <variable>T</variable>
           <item>F</item>
           <actor>F</actor>
@@ -20665,9 +21566,9 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>526</variable_id>
+        <variable_id>646</variable_id>
         <variable_value>2</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -22020,7 +22921,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 526 526 1 0 1 0</parameters>
+        <parameters>0 646 646 1 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -22234,7 +23135,7 @@
        </EventCommand>
       </event_commands>
      </EventPage>
-     <EventPage id="0012">
+     <EventPage id="0015">
       <condition>
        <EventPageCondition>
         <flags>
@@ -22248,9 +23149,9 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>526</variable_id>
+        <variable_id>646</variable_id>
         <variable_value>3</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -22282,8 +23183,155 @@
      </EventPage>
     </pages>
    </Event>
+   <Event id="0062">
+    <name>EV0062</name>
+    <x>3</x>
+    <y>5</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>483</variable_id>
+        <variable_value>1</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>goji</character_name>
+      <character_index>4</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1308 1308 0</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1308</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>483</variable_id>
+        <variable_value>1</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>goji</character_name>
+      <character_index>4</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands>
+         <MoveCommand>
+          <command_id>12</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>23</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>13</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>23</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>12</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>23</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>13</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>23</command_id>
+         </MoveCommand>
+         <MoveCommand>
+          <command_id>14</command_id>
+         </MoveCommand>
+        </move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>11550</code>
+        <indent>0</indent>
+        <string>Cat</string>
+        <parameters>100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10005 8 0 0 12 23 13 23 12 23 13 23 14</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>763</save_count>
+  <save_count>813</save_count>
  </Map>
 </LMU>

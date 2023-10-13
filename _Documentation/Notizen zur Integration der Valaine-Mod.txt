@@ -1,0 +1,51 @@
+ 
+ 
+ 
+1. Konflikt mit Aysha-Mod
+ - Da einige Dialoge & Szenen inkompatibel zur Aysha-Mod sind, wurde hierzu ein Hinweis bei der Wiederbelebungs-Szene in der Höhle eingefügt, ob man den Aysha-Pfad tatsächlich begehen möchte (falls Aysha-Mod parallel zu Valaine-Mod aktiviert wurde).
+ - Falls der Aysha-Pfad gewählt wird, können keine der neuen Szenen mit Alaine freigeschaltet und ihre Amulet-Quest nicht mehr gestartet werden. (Neue Side-Quests sind weiterhin verfügbar)
+ - Wenn Aysha im Team ist, kann zwar das zerbrochene Amulett weiterhin in der Bibliothek in Asran entdeckt werden, allerdings wird die Quest sofort mit einem kurzen Dialog abgebrochen.
+ 
+2. Rebalancing
+ - Mumie:
+   Statt den Skelettmagier komplett zu ersetzen, ist die Mumie nun separat als eigener Skill für Alaine verfügbar.
+   Die Sprites wurden abgeändert, um sich vom Skelettmagier deutlicher abzuheben und mehr dem klassischen Bild einer Mumie zu entsprechen.
+   Da die Skills der Mumie 1:1 dem des Skelettmagiers entsprachen und Alaine bereits eine Affinität zu Feuer, wurden die Skills der Mumie angepasst & rebelanced, sodass sie jetzt statt den Magie-Typen "Feuer - Eis - Gift", die Typen "Eis - Gift - Licht" einsetzt.
+   Die Mumie ist nun außerdem auch wie alle anderen Beschwörungen als Permabeschwörung verfübar. (Everlasting Reign Mod)
+ - Alaines Stat-Boost:
+   Original-Balancing wurde beibehalten. Alaine's Stat-Boost wird stattdessen mit einem eigenen Algorithmus implementiert, der (bei aktivierter Valaine-Mod) bei jedem Levelaufstieg eingreift. Die Werte und Art der Verteilung orientieren sich dabei grob an den Wert-Änderungen der Mod.
+ - Golembeschwörung:
+   Wenn man die Zettelquest skipped, wird dem Spieler nicht wie in der Original-Mod, trotzdem die Golembeschwörung von Asgar gegeben, da er "gerade gut drauf" sei. Dies kreiert allerdings ein kleines Plot-Hole, da Valnar die Golembeschwörung in einer neuen optionalen Sequenz einsetzt.
+ - Diverse kleinere Änderungen am Balancing von bestehenden Skills & Beschwörungen wurden nicht übernommen. In einer zukünftigen Version der Community Edition soll es möglich sein, allgemein den Schwierigkeitsgrad anzupassen. Allerdings lässt sich das mit der aktuellen Engine-Version von EasyRPG noch nicht einfach bewerkstelligen.
+ - Änderungen an den Punktebelohnungen in Thessa sind derzeit auch nicht übernommen.
+   
+3. Dialoge
+ - NPCs, die das Dialog-System (Reden/Aussaugen/Umwandeln) bisher nicht nutzten, wurden entsprechend angepasst. Dort wo es Sinn macht, wird beim Versuch, einen NPC zu töten, Valnar daran mit einem neuen Dialog gehindert.
+   Betroffen sind:
+    - Die Stadt-NPCs in Linar während des ersten Besuchs (Abbruch durch Alaine)
+	- Die 2 mit Klauenwaffen trainierenden NPCs (wird immer durch Alaine abgebrochen)
+	- Kenji (Linar-Höhlenbereich)
+	- Susi (Iranis)
+	- Die 4 Zutaten-Händler
+	- Die NPCs am Piratenstrand (Abbruch, solange das Fragment an dem Ort noch nicht geborgen wurde)
+	- Die NPCs im Wüstentempel (Abbruch)
+	- Die Sklaventreiber (Abbruch, solange noch nicht alle Menschen gerettet wurden; weiters eine Option, sie trotzdem alle zu töten - ähnlich erstem Ansprechen von Olythia)
+  - Bei der Lailah/Milah-Quest wurden bei der Konfrontation am See die Facesets etwas angepasst, damit so visuell sichtbar ist, ob gerade Lailahs oder Milahs Seite am Zug ist.
+
+4. Sonstige angepasste Features
+ - Monster Encounters:
+   Wurden auf das verbesserte System der Community Edition umgestellt. Die in der Mod eingeführte Rettungskatze ist aber weiterhin verfügbar.
+ - Followers:
+   Wurden ebenfalls auf das System der CE umgestellt. (Original-Mod lässt nur Alaine&Asgar hinterherlaufen)
+ - Magieverlernsystem:
+   Magie-Skills können als Teil der CE bereits im Magielernsystem mithilfe einer neuen anwählbaren Option verlernt werden. Der in der Mod dazu vorgesehene Apparat wurde daher nicht übernommen.
+ - Das "Orte markieren"-Feature, das sich bei einem NPC in Linar freischalten lässt, verhält sich nun etwas anders, da ein ähnliches Feature bereits Teil der Community Edition war. (Spiel-Option "Blick der Geister markiert geheime Orte")
+   Mit dem NPC lässt sich diese Hervorhebung aber nun dauerhaft aktivieren. Gefundene Orte werden (wenn die entsprechende Spiel-Option aktiv ist), weiterhin mit Flaggen auf der Weltkarte gekennzeichnet und nicht mit den Orts-Grafiken der Valaine-Mod.
+ - KatzeHouse:
+   Um sich visuell ein wenig abzuheben wird hier nun das Chipset des RTP-Replacements des EasyRPG-Projekts verwendet.
+ - Das veränderte, böse Ende mit Alaine muss nun mit einer Zuneigung von min. 100 Punkten freigeschalten werden und ersetzt nun nicht mehr allgemein das Vanilla-Ending.
+ - Weltkarte: Verändertes Bild mit Markierung für die neue Stadt Linar wurde nicht mit übernommen. (Das Weltkarte-Item wird womöglich in zukünftiger
+ Version der Community Edition allgemein überarbeitet)
+5. Neu hinzugefügt
+ - Ingesamt 5 mit der Valaine-Mod verbundene Trophäen können in der CE freigeschalten werden.
+ - Alternative Charsets & Facesets (zB. VD2-Stil) wurden mit den neuen Posen & Emotionen erweitert.

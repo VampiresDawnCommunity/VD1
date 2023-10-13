@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LMU>
  <Map>
-  <chipset_id>8</chipset_id>
+  <chipset_id>41</chipset_id>
   <width>40</width>
   <height>40</height>
   <scroll_type>0</scroll_type>
@@ -61,7 +61,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -263,7 +263,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -293,61 +293,61 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1920 1 0 0 0</parameters>
+        <parameters>0 1885 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 721 721 0 0 288 0</parameters>
+        <parameters>0 3041 3041 0 0 288 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 722 722 0 0 289 0</parameters>
+        <parameters>0 3042 3042 0 0 289 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 723 723 0 0 291 0</parameters>
+        <parameters>0 3043 3043 0 0 291 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 724 724 0 0 292 0</parameters>
+        <parameters>0 3044 3044 0 0 292 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 725 725 0 0 294 0</parameters>
+        <parameters>0 3045 3045 0 0 294 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 726 726 0 0 295 0</parameters>
+        <parameters>0 3046 3046 0 0 295 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 727 727 0 0 297 0</parameters>
+        <parameters>0 3047 3047 0 0 297 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 728 728 0 0 298 0</parameters>
+        <parameters>0 3048 3048 0 0 298 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 729 729 0 0 299 0</parameters>
+        <parameters>0 3049 3049 0 0 299 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -397,7 +397,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>739</variable_id>
+        <variable_id>3059</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -406,7 +406,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -493,12 +493,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -582,12 +576,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -673,12 +661,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -742,17 +724,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_name>CE_Debug</character_name>
+      <character_index>3</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>4</trigger>
-      <layer>0</layer>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -1179,7 +1161,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -2528,12 +2510,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -2593,12 +2569,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -2660,12 +2630,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -2725,12 +2689,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -2792,12 +2750,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -2857,12 +2809,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -2924,12 +2870,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -2989,12 +2929,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3056,12 +2990,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -3121,12 +3049,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3188,12 +3110,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -3253,12 +3169,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3320,12 +3230,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -3385,12 +3289,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3452,12 +3350,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -3517,12 +3409,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -3676,7 +3562,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -3853,7 +3739,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -4030,7 +3916,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -4207,7 +4093,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1400</variable_value>
@@ -4384,7 +4270,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1200</variable_value>
@@ -4561,7 +4447,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2600</variable_value>
@@ -4738,7 +4624,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -5046,7 +4932,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -5223,7 +5109,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1400</variable_value>
@@ -5400,7 +5286,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1600</variable_value>
@@ -5577,7 +5463,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -5754,7 +5640,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2200</variable_value>
@@ -5931,7 +5817,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2000</variable_value>
@@ -6108,7 +5994,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3200</variable_value>
@@ -6285,7 +6171,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -6593,7 +6479,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1800</variable_value>
@@ -6693,7 +6579,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 455 0</parameters>
+        <parameters>0 20 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10310</code>
@@ -6705,7 +6591,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 456 0</parameters>
+        <parameters>0 21 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6906,7 +6792,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3200</variable_value>
@@ -7083,7 +6969,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2200</variable_value>
@@ -7260,7 +7146,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2800</variable_value>
@@ -7437,7 +7323,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -7614,7 +7500,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -7798,7 +7684,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -7882,7 +7768,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -7995,7 +7881,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2184 2184 0</parameters>
+        <parameters>0 2191 2191 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -8103,7 +7989,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 526 526 0 0 1 0</parameters>
+        <parameters>0 646 646 0 0 1 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -8121,9 +8007,9 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1646</switch_a_id>
+        <switch_a_id>1702</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>526</variable_id>
+        <variable_id>646</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -8185,7 +8071,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -8229,7 +8115,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>721</variable_id>
+        <variable_id>3041</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -8238,7 +8124,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -8298,7 +8184,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -8342,7 +8228,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>722</variable_id>
+        <variable_id>3042</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -8351,7 +8237,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -8411,7 +8297,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -8455,7 +8341,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>723</variable_id>
+        <variable_id>3043</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -8464,7 +8350,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -8650,7 +8536,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -8710,7 +8596,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1400</variable_value>
@@ -8763,7 +8649,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1400</variable_value>
@@ -8816,7 +8702,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1</variable_value>
@@ -8998,7 +8884,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -9083,12 +8969,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -9148,12 +9028,6 @@
        </MoveRoute>
       </move_route>
       <event_commands>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
        <EventCommand>
         <code>10810</code>
         <indent>0</indent>
@@ -9215,12 +9089,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -9281,12 +9149,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 241 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10810</code>
         <indent>0</indent>
         <string></string>
@@ -9315,7 +9177,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -9368,7 +9230,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -9421,7 +9283,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -9474,7 +9336,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -9527,7 +9389,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -9580,7 +9442,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3400</variable_value>
@@ -9633,7 +9495,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1600</variable_value>
@@ -9686,7 +9548,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3400</variable_value>
@@ -9739,7 +9601,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2200</variable_value>
@@ -9792,7 +9654,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1600</variable_value>
@@ -9845,7 +9707,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2200</variable_value>
@@ -9898,7 +9760,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2200</variable_value>
@@ -9951,7 +9813,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -10004,7 +9866,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>200</variable_value>
@@ -10057,7 +9919,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>200</variable_value>
@@ -10110,7 +9972,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2600</variable_value>
@@ -10163,7 +10025,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1</variable_value>
@@ -10216,7 +10078,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>200</variable_value>
@@ -10269,7 +10131,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10322,7 +10184,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10375,7 +10237,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10428,7 +10290,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10481,7 +10343,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1200</variable_value>
@@ -10534,7 +10396,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10587,7 +10449,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10640,7 +10502,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>800</variable_value>
@@ -10693,7 +10555,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>800</variable_value>
@@ -10746,7 +10608,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10799,7 +10661,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>600</variable_value>
@@ -10852,7 +10714,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1200</variable_value>
@@ -10905,7 +10767,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -10958,7 +10820,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>800</variable_value>
@@ -11011,7 +10873,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1400</variable_value>
@@ -11064,7 +10926,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3000</variable_value>
@@ -11117,7 +10979,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3400</variable_value>
@@ -11170,7 +11032,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>400</variable_value>
@@ -11223,7 +11085,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1200</variable_value>
@@ -11276,7 +11138,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1200</variable_value>
@@ -11329,7 +11191,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3400</variable_value>
@@ -11382,7 +11244,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3400</variable_value>
@@ -11435,7 +11297,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1000</variable_value>
@@ -11488,7 +11350,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3000</variable_value>
@@ -11541,7 +11403,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3200</variable_value>
@@ -11594,7 +11456,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1800</variable_value>
@@ -11647,7 +11509,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>1800</variable_value>
@@ -11700,7 +11562,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3000</variable_value>
@@ -11753,7 +11615,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3200</variable_value>
@@ -11806,7 +11668,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -11859,7 +11721,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2600</variable_value>
@@ -11912,7 +11774,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>3200</variable_value>
@@ -11965,7 +11827,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>1920</switch_a_id>
+        <switch_a_id>1885</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>32</variable_id>
         <variable_value>2400</variable_value>
@@ -12029,7 +11891,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -12073,7 +11935,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>724</variable_id>
+        <variable_id>3044</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -12082,7 +11944,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -12142,7 +12004,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -12186,7 +12048,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>725</variable_id>
+        <variable_id>3045</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -12195,7 +12057,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -12255,7 +12117,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -12299,7 +12161,7 @@
         </flags>
         <switch_a_id>2076</switch_a_id>
         <switch_b_id>1</switch_b_id>
-        <variable_id>726</variable_id>
+        <variable_id>3046</variable_id>
         <variable_value>1</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
@@ -12308,7 +12170,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>1</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -12340,6 +12202,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>221</save_count>
+  <save_count>223</save_count>
  </Map>
 </LMU>

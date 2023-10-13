@@ -111,7 +111,7 @@ $templateEmptyEventPage=@"
 	<compare_operator>1</compare_operator>
    </EventPageCondition>
   </condition>
-  <character_name>ER_Debug</character_name>
+  <character_name>CE_Debug</character_name>
   <character_index>2</character_index>
   <character_direction>3</character_direction>
   <character_pattern>1</character_pattern>

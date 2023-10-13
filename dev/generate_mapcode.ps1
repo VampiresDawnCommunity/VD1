@@ -1,5 +1,5 @@
 
-Write-Host "Converting LMU to EMU..."
+Write-Output "Converting LMU to EMU..."
 dev/l2e.ps1
 
 $utf8 = [System.Text.UTF8Encoding]::new($false)
@@ -39,7 +39,7 @@ $strMapChangeTrigger=@"
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Debug</character_name>
+      <character_name>CE_Debug</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -95,14 +95,38 @@ $ev_codes = @{
 	'12330' = 1 #CallEvent
 }
 
-$troopVarIdStart = 721
-$troopVarIdEnd = 750
+$strMapChangeTriggerCECall = @"
+<EventCommand>
+<code>12330</code>
+<indent>0</indent>
+<string></string>
+<parameters>0 3 0</parameters>
+</EventCommand>
+"@
+
+$ev_codes_halting = @{
+	'10110' = 'ShowMessage'
+	'10140' = 'ShowChoices'
+	'10150' = 'InputNumber'
+	'11410' = 'Wait'
+	'11340' = 'ProceedWithMovement'
+	
+	'10410' = 'ChangeExp' # (optional)
+	'10420' = 'ChangeLevel' # (optional)
+	'11030' = 'TintScreen' # (optional)
+	'11040' = 'FlashScreen' # (optional)
+	'11050' = 'ShakeScreen' #(optional)
+	'11120' = 'MovePicture' # (optional)
+}
+
+$troopVarIdStart = 3041
+$troopVarIdEnd = 3070
 
 $xmlMapTree = [xml](Get-Content -Path "RPG_RT.emt" -Encoding UTF8)
 
 Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
     $mapFile = $_.Name
-	Write-Host "Reading $($mapFile)..."
+	Write-Output "Reading $($mapFile)..."
 	 
 	$xml = [xml](Get-Content -Path $mapFile -Encoding UTF8)
 
@@ -119,7 +143,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		# If no Autorun event "MapChangeTrigger" has been found, then create it
 		# "MapChangeTrigger" should always be event id 0001 to ensure that it is called before any other Autorun event 
 		if ($autorunNode -eq $null) {
-			Write-Host "Creating AutoRunNode ..."
+			Write-Output "Creating AutoRunNode ..."
 			$rearrangeIds = $true
 			
 			$autorunNode = $xml.ImportNode(([xml]$strMapChangeTrigger).Event, $true)
@@ -130,7 +154,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		}
 		# If a "MapChangeTrigger" event has been found, but it isn't id 0001, then move it
 		elseif ($firstNode -ne $autorunNode) {
-			Write-Host "Moving AutoRunNode to ID 0001 ..."
+			Write-Output "Moving AutoRunNode to ID 0001 ..."
 			$rearrangeIds = $true
 			
 			$xml.LMU.Map.Events.InsertBefore($autorunNode, $firstNode)
@@ -145,7 +169,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		#  -> All event_ids are recalculated and any commands that reference an event on the map need to be adjusted with the new ids.
 		if ($rearrangeIds -eq $true) {
 			
-			Write-Host "Re-arranging Event IDs ..."
+			Write-Output "Re-arranging Event IDs ..."
 			
 			for ($i=$xml.LMU.Map.Events.Event.Count; $i -ge 2; $i--) {
 				$ev = $xml.LMU.Map.Events.Event[$i-1]
@@ -176,7 +200,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 							# 10220 (Control Variables)
 							
 							if ($params[$ev_code.Value] -eq $oldId.ToString()) {
-								Write-Host "Replace cmd: $($ev_code.Name.Trim())[$($ev_code.Value)]: $($oldId) -> $($newId)"
+								Write-Output "Replace cmd: $($ev_code.Name.Trim())[$($ev_code.Value)]: $($oldId) -> $($newId)"
 								$params[$ev_code.Value] = $newId.ToString()
 							}
 							$cmd.parameters = [string]::Join(' ', $params)							
@@ -190,7 +214,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		# that implements a safer way to achieve this behavior.
 		$cmds = $all_commands | where {$_.code.Equals('11340') }		
 		foreach ($cmd in $cmds) {
-			Write-Host "Replace WaitForAllMovement with CE 'SafeWaitForAllMovement'"
+			Write-Output "Replace WaitForAllMovement with CE 'SafeWaitForAllMovement'"
 			$cmd.code = '12330'
 			$cmd.parameters = '0 27 0'
 			
@@ -212,7 +236,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 			if ($troopNodes.length -gt 30) {
 				Write-Error "> $($mapFile): More than maximum of 30 troop slots defined on this map !!!!"
 			} else {
-				Write-Host "> $($mapFile): $($troopNodes.length) Troops Slots"
+				Write-Output "> $($mapFile): $($troopNodes.length) Troops Slots"
 				
 				foreach ($node in $troopNodes) {
 					$troopNo = $node.name.substring(6).trimstart("0")
@@ -279,15 +303,15 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 				
 				if ($encounters.Count -ne $cmds.Count) {
 					$recreateTroopTypeCode = $true
-					Write-Host "> MapInfo $($mapId): $($encounters.Count) Encounters"
-					Write-Host "> File $($mapFile): $($cmds.Count) Encounters"
+					Write-Output "> MapInfo $($mapId): $($encounters.Count) Encounters"
+					Write-Output "> File $($mapFile): $($cmds.Count) Encounters"
 				} else {
 					for ($i=0; $i -lt $encounters.Count; $i++) {
 						$troopId = $cmds[$i].parameters.Split(' ')[5]
 						if ($encounters[$i].troop_id -ne $troopId) {
 							$recreateTroopTypeCode = $true
 							
-							Write-Host "> $($encounters[$i].troop_id) != $($varId)"
+							Write-Output "> $($encounters[$i].troop_id) != $($varId)"
 						}
 					}
 				}
@@ -304,7 +328,7 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 					$insertAfterNode = $null
 					
 					foreach ($encounter in $encounters) {
-						Write-Host "> $($mapFile): Troop $($troopVarId) -> $($encounter.troop_id)"
+						Write-Output "> $($mapFile): Troop $($troopVarId) -> $($encounter.troop_id)"
 						
 						$newNode = $xml.ImportNode(([xml]$strTroopVar).EventCommand, $true)
 						$newNode.parameters = "0 $($troopVarId) $($troopVarId) 0 0 $($encounter.troop_id) 0"
@@ -326,11 +350,65 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		}
 		#End Troop encounter assignments
 		
+				
+		# Check all "Teleports" commands to see if any subsequent commands following it would
+		# block the game logic and thus prevent the MapChangeTrigger Autorun event from
+		# executing immediately after arriving on the map
+		$cmds = $all_commands | where {$_.code.Equals('10810') }		
+		foreach ($cmd in $cmds) {
+			$evtPage = $cmd.ParentNode.ParentNode
+			$evt = $evtPage.ParentNode.ParentNode
+			$evtCommands = $evtPage.event_commands.EventCommand
+			if ($evtCommands.Count -gt 0) {
+				$index = $evtCommands.IndexOf($cmd)
+				
+				if ($index + 1 -eq $evtCommands.Count) {
+					continue
+				}
+				$nextCmd = $evtCommands[$index+1]
+				if ($nextCmd.code -eq 12330) {
+					if ($nextCmd.parameters -eq '0 3 0') {
+						#
+						continue;
+					}
+				}
+				
+				$isBlocking = $false
+							
+				for ($i=$index + 1; $i -lt $evtCommands.Count; $i++) {
+					$otherCmd = $evtCommands[$i]
+					
+					if ($otherCmd.indent -ge $cmd.indent) {					
+						foreach ($ev_code in $ev_codes_halting.GetEnumerator()) {
+							if ($otherCmd.code -eq $ev_code.Name) {
+								if ($isBlocking -eq $false) {
+									Write-Output "EV$($evt.id).$($evtPage.id) (Original CMD: #$index / $($evtCommands.Count))"
+								}
+								Write-Output "-> $($ev_code.Value) (CMD #$i)"
+								$isBlocking = $true
+								break
+							}
+						}
+					}
+				}
+
+				if ($isBlocking -eq $true) {
+					Write-Output "EV$($evt.id).$($evtPage.id) (X: $($evt.x), Y: $($evt.y)) !! BLOCKING COMMAND !!"
+					
+					$newNode = $xml.ImportNode(([xml]$strMapChangeTriggerCECall).EventCommand, $true)
+					$newNode.indent = $cmd.indent					
+					$evtPage.event_commands.InsertAfter($newNode, $cmd)
+						
+					$changed = $true
+				}
+			}
+		}
+		
 		if ($changed -eq $true) {
 			remove-item $mapFile
 				
 			$writer = [System.Xml.XmlWriter]::Create($mapFile, $settings)
-			Write-Host "> $($mapFile): Writing file..."
+			Write-Output "> $($mapFile): Writing file..."
 
 			$xml.Save($writer)
 			$writer.Close()
@@ -340,5 +418,5 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 	}
  }
  
-Write-Host "Converting LMU to EMU..."
+Write-Output "Converting LMU to EMU..."
 dev/l2e.ps1
