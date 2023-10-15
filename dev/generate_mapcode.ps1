@@ -350,12 +350,17 @@ Get-ChildItem ./* -Include ('*.emu') | Foreach-Object {
 		}
 		#End Troop encounter assignments
 		
-				
+		
 		# Check all "Teleports" commands to see if any subsequent commands following it would
 		# block the game logic and thus prevent the MapChangeTrigger Autorun event from
 		# executing immediately after arriving on the map
 		$cmds = $all_commands | where {$_.code.Equals('10810') }		
 		foreach ($cmd in $cmds) {
+			$params = $cmd.parameters.Split(' ')			
+			if ($params[0] -eq '1') {
+				continue #Ignore teleports to world map
+			}
+							
 			$evtPage = $cmd.ParentNode.ParentNode
 			$evt = $evtPage.ParentNode.ParentNode
 			$evtCommands = $evtPage.event_commands.EventCommand
