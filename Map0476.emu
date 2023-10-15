@@ -4403,88 +4403,130 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10210</code>
+        <code>10110</code>
         <indent>0</indent>
-        <string></string>
-        <parameters>0 2252 2252 0</parameters>
+        <string>Cheat Items + Stats?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>0</indent>
+        <string>Ja/Nein</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Ja</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11550</code>
+        <indent>1</indent>
+        <string>chant3</string>
+        <parameters>100 100 50</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 164 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 146 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 62 0 3</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 78 0 3</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 94 0 3</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 46 0 3</parameters>
        </EventCommand>
        <EventCommand>
         <code>10320</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 30 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10430</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 0 0 0 999</parameters>
        </EventCommand>
        <EventCommand>
         <code>10430</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 0 1 0 999</parameters>
        </EventCommand>
        <EventCommand>
         <code>10430</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 0 3 0 999</parameters>
        </EventCommand>
        <EventCommand>
         <code>10430</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 0 4 0 999</parameters>
        </EventCommand>
        <EventCommand>
         <code>10430</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 0 0 5 0 999</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>5</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Nein</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -4877,16 +4919,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10150</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>4 618</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
         <parameters>0 244 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11550</code>
+        <indent>0</indent>
+        <string>chant4</string>
+        <parameters>100 100 50</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -7505,514 +7547,568 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10210</code>
+        <code>10110</code>
         <indent>0</indent>
+        <string>Alle Quest-Switches aktivieren?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>( Wird Bugs verursachen - Nicht speichern! )</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>0</indent>
+        <string>Ja/Nein</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Ja</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11550</code>
+        <indent>1</indent>
+        <string>chant2</string>
+        <parameters>100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 150 150 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 151 151 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 160 160 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 179 179 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 204 204 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 209 209 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 236 236 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 237 237 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 262 262 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 263 263 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 270 270 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 272 272 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 279 279 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 283 283 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 285 285 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 298 298 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 299 299 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 300 300 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 372 372 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 383 383 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 388 388 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 407 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 428 428 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 451 451 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 465 465 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 498 498 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 611 611 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 662 662 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 673 673 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 697 697 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 724 724 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 728 728 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 729 729 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1175 1175 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 769 769 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 790 790 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 807 807 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 809 809 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 820 820 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 826 826 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 833 833 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 843 843 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 848 848 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 851 851 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 891 891 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 897 897 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 928 928 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 930 930 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 934 934 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 946 946 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 948 948 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1068 1068 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1173 1173 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1174 1174 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 454 454 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 641 641 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1429 1429 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1439 1439 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1449 1449 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1460 1460 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1488 1488 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1525 1525 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1538 1538 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1359 1359 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1369 1369 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1365 1365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1366 1366 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1396 1396 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1398 1398 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1400 1400 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1402 1402 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1404 1404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1406 1406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1408 1408 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1410 1410 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1544 1544 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1560 1560 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1567 1567 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1569 1569 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1570 1570 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1590 1590 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1599 1599 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1625 1625 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1632 1632 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 1641 1641 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Nein</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13122,6 +13218,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1347</save_count>
+  <save_count>1350</save_count>
  </Map>
 </LMU>
