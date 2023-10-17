@@ -7,7 +7,7 @@ $node.RemoveChild($commands)
 
 $commands = $xml.CreateElement("event_commands")
 
-$newNode = [xml]"<EventCommand><code>10210</code><indent>0</indent><string></string><parameters>0 2228 2228 1</parameters></EventCommand>"
+$newNode = [xml]"<EventCommand><code>10210</code><indent>0</indent><string></string><parameters>0 2264 2264 1</parameters></EventCommand>"
 $commands.AppendChild($xml.ImportNode($newNode.EventCommand, $true))
 		
 foreach ($itemNode in $xml.LDB.Database.items.ChildNodes) {
@@ -23,7 +23,7 @@ foreach ($itemNode in $xml.LDB.Database.items.ChildNodes) {
 		if ($name.startswith("$")) {
 			$name = $name.substring(2).trim(" ")
 			
-			$newNode = [xml]"<EventCommand><code>10210</code><indent>1</indent><string></string><parameters>0 2228 2228 0</parameters></EventCommand>"
+			$newNode = [xml]"<EventCommand><code>10210</code><indent>1</indent><string></string><parameters>0 2264 2264 0</parameters></EventCommand>"
 			$commands.AppendChild($xml.ImportNode($newNode.EventCommand, $true))
 		}
 		$newNode = [xml]"<EventCommand><code>10610</code><indent>1</indent><string>$($name)</string><parameters>23</parameters></EventCommand>"
@@ -42,7 +42,7 @@ foreach ($itemNode in $xml.LDB.Database.items.ChildNodes) {
 	}
 }
 
-$newNode = [xml]"<EventCommand><code>10210</code><indent>0</indent><string></string><parameters>0 2228 2228 0</parameters></EventCommand>"
+$newNode = [xml]"<EventCommand><code>10210</code><indent>0</indent><string></string><parameters>0 2264 2264 0</parameters></EventCommand>"
 $commands.AppendChild($xml.ImportNode($newNode.EventCommand, $true))
 		
 $newNode = [xml]"<EventCommand><code>10610</code><indent>0</indent><string>Nichts</string><parameters>23</parameters></EventCommand>"
