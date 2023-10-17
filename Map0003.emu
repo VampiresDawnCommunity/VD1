@@ -3282,7 +3282,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 578 578 0 0 12 0</parameters>
+        <parameters>0 1003 1003 0 0 12 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12210</code>
@@ -3300,7 +3300,7 @@
         <code>3007</code>
         <indent>1</indent>
         <string>&#xe001;&#xe001;&#xe001;</string>
-        <parameters>65536 420 160 172 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 577 578 12</parameters>
+        <parameters>65536 420 160 172 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 1002 1003 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -3312,13 +3312,13 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 578 578 1 0 12 0</parameters>
+        <parameters>0 1003 1003 1 0 12 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 578 0 80 1 0</parameters>
+        <parameters>1 1003 0 80 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -3366,7 +3366,7 @@
         <code>3007</code>
         <indent>0</indent>
         <string>&#xe001;&#xe001;&#xe001;</string>
-        <parameters>65536 420 160 172 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 577 578 12</parameters>
+        <parameters>65536 420 160 172 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 1002 1003 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
@@ -3393,7 +3393,7 @@
  Laden
  Konfig
  Ende &#xe001;&#xe001;</string>
-        <parameters>33554432 431 128 212 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 0 0 12</parameters>
+        <parameters>33554448 431 1004 1005 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 0 0 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3420,7 +3420,7 @@
  \c[3]Laden \c[0]
  Konfig
  Ende &#xe001;&#xe001;</string>
-        <parameters>33554432 431 128 212 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 0 0 12</parameters>
+        <parameters>33554448 431 1004 1005 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 0 0 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3558,7 +3558,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2225 0 0 0 0</parameters>
+        <parameters>0 2225 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
@@ -3581,6 +3581,24 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>3007</code>
+        <indent>1</indent>
+        <string>&#xe001;\c[4]Version \v[563].\v[564]&#xe001;&#xe001;</string>
+        <parameters>117440512 424 3 228 100 0 100 100 100 100 0 0 0 4096 131073 7 0 97 0 0 12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>22011</code>
         <indent>0</indent>
         <string></string>
@@ -3590,7 +3608,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 577 0 68 4 1</parameters>
+        <parameters>1 1002 0 68 4 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -4058,7 +4076,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 1022 1022 0 0 10 0</parameters>
+        <parameters>0 1022 1022 0 0 11 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -4112,7 +4130,7 @@
         <code>3007</code>
         <indent>0</indent>
         <string>&#xe001;&#xe001;&#xe001;</string>
-        <parameters>16777216 420 32 32 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 256 176 12</parameters>
+        <parameters>16777216 420 32 32 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 256 192 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>3007</code>
@@ -4126,8 +4144,9 @@ Everlasting Reign
 Valaine-Mod
 TrunX' Mods
 MP3 Upgrade
-Grafische Überarbeitungen&#xe001;&#xe001;</string>
-        <parameters>16777216 431 32 32 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 256 176 12</parameters>
+Grafische Überarbeitungen
+Betatester&#xe001;&#xe001;</string>
+        <parameters>16777216 431 32 32 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 256 192 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -5231,8 +5250,24 @@ Ende und eine erweitertes kanonisches Ende.&#xe001;&#xe001;</string>
        <EventCommand>
         <code>12410</code>
         <indent>1</indent>
-        <string>TrunX´ Mods TODO</string>
+        <string>TrunX´ Mods</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>3007</code>
+        <indent>1</indent>
+        <string>&#xe001;\c[2]Mods von TrunX\c[0]
+Hier noch einmal ein herzliches Danke an \c[4]TrunX\c[0],
+der die Community immer wieder mit neuen Mods
+bereichert.
+
+Enthalten sind als Teil von \c[2]Everlasting Reign\c[0] :
+$r Speichern im Sarg
+$r Valnars Zimmerkatze (Fluchtcounter-Reset)
+$r Begehbare Speisekammer
+
+Weitere werden in zukünftigen Versionen folgen!&#xe001;&#xe001;</string>
+        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5287,8 +5322,64 @@ wurden von Zippo_The_Mad_Mechanic abgemischt.&#xe001;&#xe001;</string>
        <EventCommand>
         <code>12410</code>
         <indent>1</indent>
-        <string>Grafische Überarbeitungen TODO</string>
+        <string>Grafische Überarbeitungen</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>3007</code>
+        <indent>1</indent>
+        <string>&#xe001;\c[2]Grafische Überarbeitungen\c[0]
+Einige übearbeiteten Sprites wurden von
+\c[4]Makoto (Atavarias)\c[0] zur freien Verwendung im
+VD-Forum bereitgestellt.
+
+Weiters wurden einige Grafiken von \c[4]Käsekumpel\c[0]
+beigesteuert, von denen eine Vielzahl auf Edits
+verschiedenster Quellen basieren:
+$r Aus den Ressourcen von VD1 &amp; anderer VD-Teile
+$r Shirorajiya (http://hi79.web.fc2.com/)
+$r EasyRPG RTP (CC0 &amp; CC-By VictorSena)&#xe001;&#xe001;</string>
+        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1025 0 11 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>1</indent>
+        <string>Betatester</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>3007</code>
+        <indent>1</indent>
+        <string>&#xe001;\c[2]Betatester\c[0]
+ \c[1]Vampires Dawn - Reign of Blood\c[0] :
+  \c[4]Ranmaru\c[0] (als DarkSoul), \c[4]PhoenixFlame\c[0], \c[4]Strife\c[0],
+  \c[4]Raziel\c[0], \c[4]DarkKing\c[0], \c[4]Kynetic\c[0], \c[4]Square\c[0], \c[4]GSandSDS\c[0]
+
+ \c[1]"Special Mega Aysha Everlasting Reign Edition"\c[0] :
+  \c[4]Käsekumpel\c[0], \c[4]Hambikatze\c[0], \c[4]Salzregent\c[0]
+
+ \c[1]Community Edition\c[0] :
+  \c[4]Nictus\c[0], \c[4]Yoraiko\c[0], \c[4]ValnarsZimmerKatze\c[0], 
+  \c[4]DannyEightyFive\c[0], \c[4]Hambikatze\c[0]&#xe001;&#xe001;</string>
+        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5470,6 +5561,6 @@ wurden von Zippo_The_Mad_Mechanic abgemischt.&#xe001;&#xe001;</string>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>724</save_count>
+  <save_count>733</save_count>
  </Map>
 </LMU>

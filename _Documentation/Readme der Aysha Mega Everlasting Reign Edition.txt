@@ -1,4 +1,4 @@
-Moin!
+Moin! Diese Dok bezieht sich nur auf die Yoraiko-Inhalte. 
 
 
 Das Spiel wird NICHT wie andere RPGs über die RPG_RT Exe gestartet sondern über die Player-Exe. 
@@ -6,11 +6,6 @@ Ihr habt sonst KEINE Musik und zahlreiche Bugs.
 
 Betatester:
 Hambikatze, Käsekumpel, Salzregent, Yoraiko
-
-Special Edition von: 
-Plasquar
-https://www.vampiresdawn.org/forum/viewtopic.php?t=41416
-
 
 Englische Edition / Aysha-Content: 
 kj150
