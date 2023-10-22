@@ -6572,28 +6572,10 @@
         <parameters>0 1702 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22410</code>
-        <indent>1</indent>
-        <string>Geheimnis: Elras-Truhe</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 778 778 0 0 1 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1</parameters>
+        <parameters>0 1467 1467 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -6606,6 +6588,12 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6926,6 +6914,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>97</save_count>
+  <save_count>99</save_count>
  </Map>
 </LMU>

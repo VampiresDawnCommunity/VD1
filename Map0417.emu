@@ -646,9 +646,9 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>CE_Debug</character_name>
-      <character_index>7</character_index>
-      <character_direction>1</character_direction>
+      <character_name>CE_Loot01</character_name>
+      <character_index>0</character_index>
+      <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -656,7 +656,7 @@
       <trigger>4</trigger>
       <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>4</animation_type>
+      <animation_type>3</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>

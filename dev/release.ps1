@@ -27,6 +27,8 @@ if (test-path easyrpg_log.txt) {
   remove-item easyrpg_log.txt
 }
 cp dev/CE_Release.png CharSet/CE_Debug.png
+cp dev/CE_Loot01_release.png CharSet/CE_Loot01.png
+cp dev/CE_Loot02_release.png CharSet/CE_Loot02.png
 
 mkdir build
 cp -R _Extras build/

@@ -8654,22 +8654,10 @@
         <parameters>0 2065 2065 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12410</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22410</code>
-        <indent>0</indent>
-        <string>Geheimnis: Geheimladen</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 778 778 0 0 1 0</parameters>
+        <parameters>0 1468 1468 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -10503,6 +10491,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>440</save_count>
+  <save_count>442</save_count>
  </Map>
 </LMU>
