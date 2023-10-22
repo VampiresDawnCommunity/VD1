@@ -550,12 +550,6 @@
         <string></string>
         <parameters></parameters>
        </EventCommand>
-       <EventCommand>
-        <code>12320</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
       </event_commands>
      </EventPage>
     </pages>
@@ -2281,7 +2275,13 @@
         <code>11330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>10001 8 0 0 14</parameters>
+        <parameters>10001 8 0 0 14 37</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -2377,6 +2377,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>199</save_count>
+  <save_count>207</save_count>
  </Map>
 </LMU>
