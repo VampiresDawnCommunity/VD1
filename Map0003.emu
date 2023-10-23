@@ -115,7 +115,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 562 562 0 0 100 0</parameters>
+        <parameters>0 562 562 0 0 101 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -687,6 +687,12 @@
         <parameters>1</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2418 2418 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
@@ -715,6 +721,12 @@
         <indent>2</indent>
         <string>Ich mag VD2!</string>
         <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2419 2419 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -765,6 +777,12 @@
         <parameters>3</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2420 2420 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
@@ -774,13 +792,19 @@
         <code>10220</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 990 990 0 0 5 0</parameters>
+        <parameters>0 990 990 0 0 4 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
         <parameters>0 992 992 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 999 999 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -5561,6 +5585,6 @@ $r EasyRPG RTP (CC0 &amp; CC-By VictorSena)&#xe001;&#xe001;</string>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>733</save_count>
+  <save_count>736</save_count>
  </Map>
 </LMU>
