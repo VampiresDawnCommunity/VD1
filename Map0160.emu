@@ -1090,7 +1090,7 @@
        <EventCommand>
         <code>10140</code>
         <indent>6</indent>
-        <string>... mich !/... male am besten \n[\v[577]] !/... male am besten \n[\v[578]] !/... male am besten \n[\v[579]] </string>
+        <string>... mich !/... male am besten \n[\v[577]] !/... male am besten \n[\v[578]] !/... male am besten \n[\v[579]] !</string>
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
@@ -1150,7 +1150,7 @@
        <EventCommand>
         <code>20140</code>
         <indent>6</indent>
-        <string>... male am besten \n[\v[579]] </string>
+        <string>... male am besten \n[\v[579]] !</string>
         <parameters>3</parameters>
        </EventCommand>
        <EventCommand>
@@ -2836,6 +2836,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>133</save_count>
+  <save_count>135</save_count>
  </Map>
 </LMU>

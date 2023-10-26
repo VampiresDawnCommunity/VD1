@@ -831,6 +831,84 @@
         <code>12010</code>
         <indent>2</indent>
         <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 10 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
         <parameters>3 50 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
@@ -1046,14 +1124,14 @@
        <EventCommand>
         <code>20110</code>
         <indent>6</indent>
-        <string>\.\.Dafür bekommt Ihr zwei Punkte !</string>
+        <string>\.\.Dafür bekommt Ihr \v[438] Punkte !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>6</indent>
         <string></string>
-        <parameters>0 9 9 1 0 2 0</parameters>
+        <parameters>0 9 9 1 1 438 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -1268,7 +1346,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>4</indent>
-        <string>Versuche, bekommt Ihr zwei Punkte.</string>
+        <string>Versuche, bekommt Ihr \v[438] Punkte.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -2523,6 +2601,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>279</save_count>
+  <save_count>281</save_count>
  </Map>
 </LMU>

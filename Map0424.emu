@@ -3502,34 +3502,10 @@
         <parameters>242 9 9</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
+        <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[11]Illusionsmagier:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Gratulation !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Dafür bekommt ihr neun Punkte !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 9 9 1 0 9 0</parameters>
+        <parameters>0 747 747 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6537,6 +6513,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>104</save_count>
+  <save_count>106</save_count>
  </Map>
 </LMU>
