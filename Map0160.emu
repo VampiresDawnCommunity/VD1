@@ -566,202 +566,160 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 580 580 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 576 576 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 577 577 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 578 578 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 579 579 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>5 5 0 0 0 1</parameters>
+        <parameters>5 13 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10140</code>
+        <code>10220</code>
         <indent>4</indent>
-        <string>... mich !/... male am besten Alaine !/... male am besten Asgar !/... male am besten Aysha!</string>
-        <parameters>0</parameters>
+        <string></string>
+        <parameters>0 577 577 0 0 13 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>20140</code>
+        <code>10</code>
         <indent>4</indent>
-        <string>... mich !</string>
-        <parameters>0</parameters>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>5 2 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>1 577 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 577 577 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 578 578 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>5 5 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>1 577 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 577 577 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 316 1 0 0 1</parameters>
+        <parameters>1 578 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
+        <code>10220</code>
         <indent>6</indent>
         <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 316 316 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
+        <parameters>0 578 578 0 0 5 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -776,58 +734,10 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von dir habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
+        <code>10220</code>
         <indent>6</indent>
         <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
+        <parameters>0 579 579 0 0 5 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -848,226 +758,88 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>20140</code>
+        <code>22011</code>
         <indent>4</indent>
-        <string>... male am besten Alaine !</string>
-        <parameters>1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>5</indent>
         <string></string>
-        <parameters>0 317 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2305 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>7</indent>
-        <string></string>
-        <parameters>0 331 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>7</indent>
-        <string>\&gt;\c[4]Alaine:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>7</indent>
-        <string>\s[4]...\s[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
-        <indent>7</indent>
+        <indent>4</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 1 0 999999 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>5 3 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 577 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters>0 577 577 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
         <indent>6</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>6</indent>
+        <code>22010</code>
+        <indent>5</indent>
         <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>6</indent>
         <string></string>
-        <parameters>0 2305 0 0 0 0</parameters>
+        <parameters>1 578 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>7</indent>
         <string></string>
-        <parameters>0 15 15 1 0 5 0</parameters>
+        <parameters>0 578 578 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 579 579 0 0 3 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -1082,84 +854,6 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 317 317 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von ihr habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10</code>
         <indent>6</indent>
         <string></string>
@@ -1176,540 +870,48 @@
         <indent>5</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 577 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>4</indent>
+        <string>... mich !</string>
+        <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
         <code>20140</code>
         <indent>4</indent>
-        <string>... male am besten Asgar !</string>
-        <parameters>2</parameters>
+        <string>... mich !</string>
+        <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 318 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 318 318 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von ihm habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20140</code>
-        <indent>4</indent>
-        <string>... male am besten Aysha!</string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 1716 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 1716 1716 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von der habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>0 580 580 0 1 576 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -1736,826 +938,796 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10140</code>
+        <code>12010</code>
         <indent>4</indent>
-        <string>... mich !/... male am besten Alaine !/... male am besten Asgar !</string>
+        <string></string>
+        <parameters>1 578 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>5</indent>
+        <string>... mich !/... male am besten \n[\v[577]] !</string>
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
         <code>20140</code>
-        <indent>4</indent>
+        <indent>5</indent>
         <string>... mich !</string>
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 316 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
+        <code>10220</code>
         <indent>6</indent>
         <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 316 316 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
+        <parameters>0 580 580 0 1 576 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
         <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von dir habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20140</code>
-        <indent>4</indent>
-        <string>... male am besten Alaine !</string>
+        <indent>5</indent>
+        <string>... male am besten \n[\v[577]] !</string>
         <parameters>1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 317 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
+        <code>10220</code>
         <indent>6</indent>
         <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 317 317 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
+        <parameters>0 580 580 0 1 577 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
         <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von ihr habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20140</code>
-        <indent>4</indent>
-        <string>... male am besten Asgar !</string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 318 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, nicht bewegen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>10005 8 0 0 21 23 23 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>70</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 315 315 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Fertig !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Das ging aber schnell !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ich bin ja auch ein Profi !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Wo soll ich es hinbringen lassen ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Liefer es zum Schloss Aldaines !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Kein Problem !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Es sollte schon bald bei euch sein !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 318 318 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>1 0 3000</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>6</indent>
-        <string>gold</string>
-        <parameters>14 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Es tut mir leid !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Von ihm habe ich schon ein Bild gemalt !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>6</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>6</indent>
-        <string>Ok, wie du meinst ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>6</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20141</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
         <indent>4</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 579 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>6</indent>
+        <string>... mich !/... male am besten \n[\v[577]] !/... male am besten \n[\v[578]] !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... mich !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 576 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... male am besten \n[\v[577]] !</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 577 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... male am besten \n[\v[578]] !</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 578 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>6</indent>
+        <string>... mich !/... male am besten \n[\v[577]] !/... male am besten \n[\v[578]] !/... male am besten \n[\v[579]] </string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... mich !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 576 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... male am besten \n[\v[577]] !</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 577 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... male am besten \n[\v[578]] !</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 578 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>6</indent>
+        <string>... male am besten \n[\v[579]] </string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters>0 580 580 0 1 579 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>7</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 580 0 11 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 316 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 10005 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 316 316 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>5</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Es tut mir leid !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Von dir habe ich schon ein Bild gemalt !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Ok, wie du meinst ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 580 0 13 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 317 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters>0 331 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>6</indent>
+        <string>\&gt;\c[4]Alaine:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>6</indent>
+        <string>\s[4]...\s[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 10005 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters>0 15 15 1 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>6</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 317 317 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>5</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Es tut mir leid !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Von ihr habe ich schon ein Bild gemalt !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Ok, wie du meinst ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 580 0 2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 318 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 10005 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 318 318 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>5</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Es tut mir leid !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Von ihm habe ich schon ein Bild gemalt !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Ok, wie du meinst ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 580 0 5 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 1716 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>1 10005 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 1716 1716 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>5</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Es tut mir leid !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Von der habe ich schon ein Bild gemalt !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>\.\.Und ich möchte kein Werk duplizieren !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>5</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>5</indent>
+        <string>Ok, wie du meinst ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 580 0 3 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2762,6 +1934,221 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>T</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>18</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>CharabyIllustaddition2</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ok, nicht bewegen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10005 8 0 0 21 23 23 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 315 315 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>70</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 315 315 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Fertig !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das ging aber schnell !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ich bin ja auch ein Profi !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Wo soll ich es hinbringen lassen ?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 329 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 0 3000</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0003">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
           <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
@@ -2803,7 +2190,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0003">
+     <EventPage id="0004">
       <condition>
        <EventPageCondition>
         <flags>
@@ -3449,6 +2836,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>131</save_count>
+  <save_count>133</save_count>
  </Map>
 </LMU>

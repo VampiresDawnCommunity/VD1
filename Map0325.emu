@@ -3774,14 +3774,14 @@
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>5000 Filar, und ich bin euer!</string>
+        <string>25000 Filar, und ich bin euer!</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>3 5000 0 0 0 1</parameters>
+        <parameters>3 25000 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -3817,7 +3817,7 @@
         <code>10310</code>
         <indent>3</indent>
         <string></string>
-        <parameters>1 0 5000</parameters>
+        <parameters>1 0 25000</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -4241,14 +4241,14 @@
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>wünschen, kostet es 5000 Filar.</string>
+        <string>wünschen, kostet es 25000 Filar.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>3 5000 0 0 0 1</parameters>
+        <parameters>3 25000 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -4284,7 +4284,7 @@
         <code>10310</code>
         <indent>3</indent>
         <string></string>
-        <parameters>1 0 5000</parameters>
+        <parameters>1 0 25000</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
@@ -7246,6 +7246,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>206</save_count>
+  <save_count>208</save_count>
  </Map>
 </LMU>

@@ -1454,1072 +1454,1306 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>1 1062 0 0 3 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>ippan01</string>
+        <parameters>2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1062 0 1 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>2</indent>
+        <string>Ansehen/Überspringen</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>2</indent>
+        <string>Ansehen</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>2</indent>
+        <string>Überspringen</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 1967 1967 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>2</indent>
+        <string>Überspringen/Ansehen</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>2</indent>
+        <string>Überspringen</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 1967 1967 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>2</indent>
+        <string>Ansehen</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1967 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Natürlich ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 15 23 23 12 23 23 13 23 23 14 23 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Schön, schön ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 13 23 12 23 15 23 14 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wunderbar !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Und jetzt fang an dich auszuziehen !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wie du möchtest ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 38 23 34 6 107 97 107 117 114 101 1 12 23 13 23 14 23 23 23 15 23 14 23 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Zuerst mein Kopfschmuck ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 23 34 6 107 97 107 117 114 101 2 14 39 23 23 23 23 13 23 12 23 23 23 23 15 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wirklich sehr gut !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Warte, ich nehm es ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 0 23 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 34 6 107 97 107 117 114 101 4 14</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 2 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Und jetzt weiter !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 34 6 107 97 107 117 114 101 3 13 23 23 23 23 14 23 15 23 23 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Das nehm ich auch ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 0 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 34 6 107 97 107 117 114 101 5 14 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 2 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Du bist wirklich ein sehr hübsches</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Mädchen !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Danke !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Aber du siehst auch sehr stark</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>aus ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Hehe ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Ich bin ja auch Mitglied der</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>königlichen Armee !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Oho ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Dann musst du ja wirklich</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>sehr stark sein ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Richtig, richtig ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Wie wärs wenn du deinen</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Umhang ausziehst ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Für dich STARKEN Mann tu</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ich doch alles ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 34 6 107 97 107 117 114 101 6 12 23 13 23 14 23 15 23 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Du bist wirklich eines der</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>hübschesten Mädchen die ich</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>kenne !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 0 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 34 6 107 97 107 117 114 101 7 14 23</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 2 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Und was treibt dich starken Mann</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>hier in diese Gegend ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Das ist alles streng geheim ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Aber dir kann ich es ja sagen !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Ich und ein paar andere Männer</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>des Königs haben vor ein paar Tagen</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>eine merkwürdige Höhle entdeckt !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Eine Höhle ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Uhhh ... spannend !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Ja, diese Höhle liegt versteckt im</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wald südlich dieser Stadt !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Deswegen sind wir gerade hier in</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>der Gegend.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Mein Boss meinte, er gäbe mir</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>heute frei weil, ich die Höhle</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>entdeckt habe !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Deswegen bin ich jetzt hier bei dir !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Was ist denn an dieser Höhle so</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Besonderes ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Eigentlich waren wir auf dem Weg</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>in die Berge zum Überlebenstraining.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Das stärkt den Körper.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Aber dann hab ich durch Zufall diese</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Höhle entdeckt.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wir sind hineingegangen, und haben</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>sie teilweise erforscht.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Dort drin gibt es ekliges Getier !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Ihhhhhhhhhhhh !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Jedenfalls sind wir nach einer Weile</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>auf eine Tür gestoßen ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wir haben versucht, sie aufzubrechen,</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>doch es war vergeblich !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Diese Tür war einfach nicht</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>aufzubekommen. \.\.Jedenfalls</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>hat mir mein Boss erstmal für heute</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>freigegeben. \.\.Ich glaube, die</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>anderen versuchen immer noch,</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>die Tür zu öffnen.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Vielleicht schaffen sie es ja noch.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Aber ich bin erstmal hier bei dir !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Das ist gut !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\.\.Du bist wirklich ein süßer Kerl !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Wie wäre es, wenn wir uns jetzt aufs</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Bett legen ?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Komm nur !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>21 8 0 0 0 35 5 74 117 109 112 49 100 100 50 36 24 0 25 37 14</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>red_w</string>
         <parameters>14 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[7]Mädchen:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Ich warte nur auf dich !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10130</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>ippan01</string>
         <parameters>2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string>Ich komme !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>15 8 0 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>red_w</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Mädchen:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Diesmal gibts für dich keine</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Show, Adult Simon!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>ippan01</string>
+        <parameters>2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[5]Sir Patrick:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>DU VERDAMMTE-</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11060</code>
@@ -5415,6 +5649,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>143</save_count>
+  <save_count>145</save_count>
  </Map>
 </LMU>
