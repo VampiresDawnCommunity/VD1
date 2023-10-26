@@ -339,17 +339,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Object3</character_name>
-      <character_index>6</character_index>
+      <character_name>Castle01</character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
+      <character_pattern>0</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>1</trigger>
       <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -459,8 +459,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Object4</character_name>
-      <character_index>7</character_index>
+      <character_name>Castle01</character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -469,7 +469,7 @@
       <trigger>1</trigger>
       <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
+      <animation_type>4</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
