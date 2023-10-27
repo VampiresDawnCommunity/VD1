@@ -2214,6 +2214,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>VD_Faces01</string>
+        <parameters>5 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>0</indent>
         <string>\&gt;\c[9]Silas Coldfire:\c[0]</string>
@@ -2260,6 +2266,12 @@
         <indent>0</indent>
         <string>Rote Augen, roter Mantel !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>VD_Faces01</string>
+        <parameters>5 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3851,6 +3863,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>144</save_count>
+  <save_count>146</save_count>
  </Map>
 </LMU>
