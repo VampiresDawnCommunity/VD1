@@ -3671,8 +3671,8 @@
        <EventCommand>
         <code>3007</code>
         <indent>1</indent>
-        <string>&#xe001;\c[4]Version \v[563].\v[564]&#xe001;&#xe001;</string>
-        <parameters>117440512 424 3 228 100 0 100 100 100 100 0 0 0 4096 131073 7 0 97 0 0 12</parameters>
+        <string>&#xe001;\c[4]CE Version \v[563].\v[564]&#xe001;&#xe001;</string>
+        <parameters>117440512 424 3 208 100 0 100 100 100 100 0 0 0 4096 131073 7 0 97 0 0 12</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5718,6 +5718,6 @@ $r EasyRPG RTP (CC0 &amp; CC-By VictorSena)&#xe001;&#xe001;</string>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>759</save_count>
+  <save_count>763</save_count>
  </Map>
 </LMU>
