@@ -133,6 +133,10 @@ msgid "Abraxas"
 msgstr ""
 
 msgctxt "actors.name"
+msgid "Vincent"
+msgstr ""
+
+msgctxt "actors.name"
 msgid "Neue Inhalte"
 msgstr "New contents"
 
@@ -537,8 +541,8 @@ msgid "\\c[1]ausgelöst werden."
 msgstr "\\c[1]triggered."
 
 msgctxt "actors.name"
-msgid "EXP-Multiplikator"
-msgstr "EXP-Modifier"
+msgid "EXP-Boost (Monster)"
+msgstr "EXP-Boost (Monsters)"
 
 msgctxt "actors.name"
 msgid "50%"
@@ -557,8 +561,24 @@ msgid "200%"
 msgstr ""
 
 msgctxt "actors.name"
-msgid "300%"
+msgid "250%"
 msgstr ""
+
+msgctxt "actors.name"
+msgid "\\c[1]Multiplikator für die erhaltenen Erfahrungspunkte"
+msgstr "\\c[1]The EXP multiplication to be used when defeating"
+
+msgctxt "actors.name"
+msgid "beim Sieg über Gegner. \\c[1](Bei Overworld-Encountern"
+msgstr "enemies. \\c[1](When using Overworld-encounters,"
+
+msgctxt "actors.name"
+msgid "\\c[1]wird ein Default-Wert von 150% gesetzt)"
+msgstr "\\c[1]a value of 150% will be set as default)"
+
+msgctxt "actors.name"
+msgid "EXP-Boost (Quests)"
+msgstr "EXP-Boost (Quests)"
 
 msgctxt "actors.name"
 msgid "400%"
@@ -929,6 +949,10 @@ msgid "Aysha-Edition"
 msgstr ""
 
 msgctxt "actors.name"
+msgid "VD3-Style"
+msgstr ""
+
+msgctxt "actors.name"
 msgid "Demo"
 msgstr ""
 
@@ -937,12 +961,20 @@ msgid "DoH-Style"
 msgstr ""
 
 msgctxt "actors.name"
-msgid "VD3-Style"
+msgid "Ohne Brille"
+msgstr "No glasses"
+
+msgctxt "actors.name"
+msgid "Ohne Helm"
+msgstr "Without helmet"
+
+msgctxt "actors.name"
+msgid "RTP-Style"
 msgstr ""
 
 msgctxt "actors.name"
-msgid "Ohne Brille"
-msgstr "No glasses"
+msgid "Mit Helm"
+msgstr "With helmet"
 
 msgctxt "actors.name"
 msgid "Schloss Aldaine"
@@ -5878,15 +5910,6 @@ msgid ""
 msgstr ""
 
 msgid ""
-"\\>\\c[\\v[436]]\\n[\\v[816]]:\\c[0]\n"
-"Der Speicherstein funktioniert nur\n"
-"in unverwandelter Gestalt !"
-msgstr ""
-"\\>\\c[\\v[436]]\\n[\\v[816]]:\\c[0]\n"
-"The Savestone only works while in \n"
-"my regular form!"
-
-msgid ""
 "\n"
 "    \\c[8]Verflucht seien die, die es wagen,\n"
 "                   ihre Seele sterben zu lassen ! \\c[0]"
@@ -6549,6 +6572,20 @@ msgstr ""
 
 msgid ""
 "\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
+"Wir sind doch schon verwandelt !"
+msgstr ""
+"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
+"We're already transformed!"
+
+msgid ""
+"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
+"Ich bin doch schon verwandelt !"
+msgstr ""
+"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
+"I'm already transformed!"
+
+msgid ""
+"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
 "Nicht hier !\n"
 "Ich befinde mich auf einer Leiter !"
 msgstr ""
@@ -6563,20 +6600,6 @@ msgstr ""
 "\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
 "Not here! It would cause too much\n"
 "attention!"
-
-msgid ""
-"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
-"Wir sind doch schon verwandelt !"
-msgstr ""
-"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
-"We're already transformed!"
-
-msgid ""
-"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
-"Ich bin doch schon verwandelt !"
-msgstr ""
-"\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
-"I'm already transformed!"
 
 msgid ""
 "\\>\\c[\\v[436]]\\n[\\v[742]]:\\c[0]\n"
@@ -23239,74 +23262,6 @@ msgstr ""
 "     Party-Mgmt"
 
 msgctxt "strpic"
-msgid "      \\c[4]Stadt wählen:\\c[0]"
-msgstr "      \\c[4]Choose a city:\\c[0]"
-
-msgctxt "strpic"
-msgid "Klennar"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Shannar"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Melsan"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Limm"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Lombar"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Herlis"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Thessa"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Uruya"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Asdion"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Iranis"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Esrik"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Isthar"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Asran"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Tradan"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Sanos"
-msgstr ""
-
-msgctxt "strpic"
-msgid "Linar"
-msgstr ""
-
-msgctxt "strpic"
 msgid "      \\c[4]Character Sprites\\c[0]"
 msgstr ""
 
@@ -23348,8 +23303,8 @@ msgid "\\c[12]Valaine-Mod"
 msgstr ""
 
 msgctxt "strpic"
-msgid "      \\c[4]Seite \\v[1027] / \\v[1023]\\c[0]"
-msgstr "      \\c[4]Page \\v[1027] / \\v[1023]\\c[0]"
+msgid "      \\c[4]Seite \\v[1606] / \\v[1603]\\c[0]"
+msgstr "      \\c[4]Page \\v[1606] / \\v[1603]\\c[0]"
 
 msgctxt "actors.name"
 msgid "---"
@@ -23393,12 +23348,52 @@ msgid "[ \\n[23] ]"
 msgstr ""
 
 msgctxt "strpic"
-msgid "\\c[3][ \\v[1040] ]\\c[0]"
+msgid "\\c[3][ \\v[1660] ]\\c[0]"
 msgstr ""
 
 msgctxt "strpic"
-msgid "[ \\v[1040] ]"
+msgid "[ \\v[1660] ]"
 msgstr ""
+
+msgctxt "strpic"
+msgid "      \\c[4]\\n[23]\\c[0]"
+msgstr ""
+
+msgctxt "strpic"
+msgid "\\c[3]\\n[23]"
+msgstr ""
+
+msgctxt "strpic"
+msgid "\\n[23] (\\v[1676])"
+msgstr ""
+
+msgctxt "strpic"
+msgid "\\c[3]\\n[23] (\\v[1676])"
+msgstr ""
+
+msgctxt "strpic"
+msgid "\\n[23] (\\v[1676] \\n[24])"
+msgstr ""
+
+msgctxt "strpic"
+msgid "\\c[3]\\n[23] (\\v[1676] \\n[24])"
+msgstr ""
+
+msgctxt "actors.name"
+msgid "Stadt wählen"
+msgstr "Choose a city"
+
+msgctxt "actors.name"
+msgid "Welcher Preis darf es denn sein?"
+msgstr "What price shall it be?"
+
+msgctxt "actors.name"
+msgid "Welchen Samen pflanzen?"
+msgstr "Plant which seed?"
+
+msgctxt "actors.name"
+msgid "Stk."
+msgstr "x"
 
 msgctxt "strpic"
 msgid " \\v[756] Erfahrung erhalten !"
@@ -23642,6 +23637,23 @@ msgid ""
 "\\>\\c[4]Baumschmuser Skelett:\\c[0]\n"
 "belohnt werdet."
 msgstr "<easyrpg:delete_page>"
+
+msgid ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Sollen wir einen \\n[23]\n"
+"pflanzen?"
+msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Shall we plant a \\n[23]?"
+
+msgid ""
+"Ja\n"
+"Nein\n"
+"Doch etwas anderes..."
+msgstr ""
+"Yes\n"
+"No\n"
+"Something else..."
 
 msgid ""
 "\n"

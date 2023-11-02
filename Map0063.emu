@@ -9898,6 +9898,98 @@
          <EventPageCondition_Flags>
           <switch_a>T</switch_a>
           <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1702</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>712</variable_id>
+        <variable_value>20</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>Actor_Aysha05</character_name>
+      <character_index>3</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0006">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1702</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>712</variable_id>
+        <variable_value>21</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>Actor_Aysha05</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0007">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
           <variable>F</variable>
           <item>F</item>
           <actor>F</actor>
@@ -9937,7 +10029,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0006">
+     <EventPage id="0008">
       <condition>
        <EventPageCondition>
         <flags>
@@ -9983,7 +10075,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0007">
+     <EventPage id="0009">
       <condition>
        <EventPageCondition>
         <flags>
@@ -23402,6 +23494,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>843</save_count>
+  <save_count>845</save_count>
  </Map>
 </LMU>
