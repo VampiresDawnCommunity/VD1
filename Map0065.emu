@@ -30423,477 +30423,6 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0073">
-    <name>FacePics</name>
-    <x>14</x>
-    <y>0</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 995 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2325 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Valnar01_b</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 5616760</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Valnar02_b</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2325 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Valnar03_b</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 5616760</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Valnar04_b</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-     <EventPage id="0002">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 996 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Asgar01</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Asgar02</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-     <EventPage id="0003">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 997 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Alaine01</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Alaine02</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 1852786186</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-     <EventPage id="0004">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 998 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Aysha01</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 998 0 1 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Aysha02</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Face_Aysha03</string>
-        <parameters>2 0 0 50 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
    <Event id="0074">
     <name>EV0074</name>
     <x>4</x>
@@ -34930,7 +34459,7 @@
    </Event>
    <Event id="0097">
     <name>MagielernsystemCtrl</name>
-    <x>9</x>
+    <x>13</x>
     <y>0</y>
     <pages>
      <EventPage id="0001">
@@ -35129,6 +34658,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2286 2286 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12010</code>
         <indent>0</indent>
         <string></string>
@@ -35171,10 +34706,40 @@
         <parameters>0 436 436 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 73 1</parameters>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -35237,10 +34802,40 @@
         <parameters>0 436 436 0 0 3 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 73 2</parameters>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -35303,10 +34898,40 @@
         <parameters>0 436 436 0 0 4 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 13 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 73 3</parameters>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -35369,10 +34994,40 @@
         <parameters>0 436 436 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 73 4</parameters>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11110</code>
@@ -35804,13 +35459,19 @@
         <code>11120</code>
         <indent>0</indent>
         <string></string>
-        <parameters>3 0 120 56 0 70 0 0 100 100 100 100 0 0 8 0</parameters>
+        <parameters>3 0 120 36 0 70 0 0 100 100 100 100 0 0 8 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
         <indent>0</indent>
         <string></string>
-        <parameters>4 0 220 56 0 70 0 0 100 100 100 100 0 5497976 8 1</parameters>
+        <parameters>4 0 142 60 0 70 0 0 100 100 100 100 0 5497976 8 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>CE_IconsMagie</string>
+        <parameters>12 0 251 63 0 100 0 1 100 100 100 100 3 270 0 360 0 0 0 0 0 0 9 2 0 8 0 0 0 97</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -36032,6 +35693,18 @@
         <code>11130</code>
         <indent>2</indent>
         <string></string>
+        <parameters>12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>11</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
         <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
@@ -36087,6 +35760,96 @@
         <indent>2</indent>
         <string></string>
         <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 416 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Soll \n[\v[435]] wirklich alle Zauber vergessen ?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>3</indent>
+        <string>Ja/Nein</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>3</indent>
+        <string>Ja</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>3</indent>
+        <string>Nein</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -36380,6 +36143,18 @@
         <code>11130</code>
         <indent>2</indent>
         <string></string>
+        <parameters>12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>11</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
         <parameters>10</parameters>
        </EventCommand>
        <EventCommand>
@@ -36466,6 +36241,18 @@
         <string></string>
         <parameters></parameters>
        </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>5</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2286 2286 1</parameters>
+       </EventCommand>
       </event_commands>
      </EventPage>
      <EventPage id="0002">
@@ -36526,136 +36313,34 @@
         <parameters>1 435 0 11 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 0 0 0</parameters>
+        <parameters>0 1787 1787 0 0 3 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>zaubervergessen</string>
-        <parameters>7 0 155 140 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 155 140 0 90 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11130</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>8</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1788 1788 0 0 4 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 1 0 0</parameters>
+        <parameters>0 1789 1789 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagie</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtma</string>
-        <parameters>7 0 155 100 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 155 100 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1790 1790 0 0 9 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 2 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagie</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>schattenma</string>
-        <parameters>7 0 152 100 0 65 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 152 100 0 65 0 0 100 100 100 100 0 29962272 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>1 10005 5</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -36673,13 +36358,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Lichtspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36703,13 +36382,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36751,13 +36424,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Lichtspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36781,13 +36448,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36829,13 +36490,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36859,13 +36514,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36907,13 +36556,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36937,13 +36580,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 100 100 100 100 0 100 0 0 0 0 4096 1867776772 190644848 1685221186 7 0 97</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 100 100 100 100 0 100 0 0 0 0 4096 1867776772 190644848 1685221186 7 0 97</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -36985,13 +36622,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37015,13 +36646,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37063,13 +36688,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 30195712</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 30195712</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37093,13 +36712,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37141,13 +36754,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 5497976</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37171,13 +36778,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 30262164</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 30262164</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37219,13 +36820,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37249,13 +36844,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37297,13 +36886,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37327,13 +36910,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37375,13 +36952,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37405,13 +36976,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37462,202 +37027,34 @@
         <parameters>1 435 0 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 0 0 0</parameters>
+        <parameters>0 1787 1787 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>zaubervergessen</string>
-        <parameters>7 0 155 140 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 155 140 0 90 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11130</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>8</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1788 1788 0 0 4 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 1 0 0</parameters>
+        <parameters>0 1789 1789 0 0 6 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagie</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Eis</string>
-        <parameters>7 0 163 109 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 163 109 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1790 1790 0 0 9 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 2 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagie</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>schattenma</string>
-        <parameters>7 0 152 109 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 152 109 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 416 0 3 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Schattenmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagie</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HLTod</string>
-        <parameters>7 0 158 109 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 158 109 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>1 10005 5</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -37675,13 +37072,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37705,13 +37096,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37735,13 +37120,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37783,13 +37162,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37813,13 +37186,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37843,13 +37210,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37891,13 +37252,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37921,13 +37276,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37951,13 +37300,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -37999,13 +37342,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38029,13 +37366,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38059,13 +37390,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38107,13 +37432,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38137,13 +37456,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38167,13 +37480,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38215,13 +37522,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 31653888</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 31653888</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38245,13 +37546,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38275,13 +37570,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38323,13 +37612,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38353,13 +37636,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38383,13 +37660,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38431,13 +37702,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38461,13 +37726,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38491,13 +37750,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38539,13 +37792,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38569,13 +37816,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38599,13 +37840,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38647,13 +37882,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38677,13 +37906,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>schattenspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38707,13 +37930,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -38764,202 +37981,34 @@
         <parameters>1 435 0 13 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 0 0 0</parameters>
+        <parameters>0 1787 1787 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>feuermagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>zaubervergessen</string>
-        <parameters>7 0 155 140 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 155 140 0 90 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11130</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>8</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1788 1788 0 0 5 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 1 0 0</parameters>
+        <parameters>0 1789 1789 0 0 6 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>feuermagie</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>feuer</string>
-        <parameters>7 0 158 110 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 158 110 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1790 1790 0 0 9 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 2 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>feuermagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagie</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>statusma</string>
-        <parameters>7 0 160 111 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 160 111 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 416 0 3 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>feuermagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HTmagie</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>HLTod</string>
-        <parameters>7 0 158 109 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 158 109 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>1 10005 5</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -38977,13 +38026,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 5497976</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39007,13 +38050,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Statusspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39037,13 +38074,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39085,13 +38116,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39115,13 +38140,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39145,13 +38164,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39193,13 +38206,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39223,13 +38230,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 5497976</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39253,13 +38254,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 5497976</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39301,13 +38296,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39331,13 +38320,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39361,13 +38344,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39409,13 +38386,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39439,13 +38410,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39469,13 +38434,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39517,13 +38476,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39547,13 +38500,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39577,13 +38524,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39625,13 +38566,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39655,13 +38590,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39685,13 +38614,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39733,13 +38656,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39763,13 +38680,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39793,13 +38704,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39841,13 +38746,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39871,13 +38770,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39901,13 +38794,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39949,13 +38836,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>feuerspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -39979,13 +38860,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40009,13 +38884,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>HLspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40066,202 +38935,34 @@
         <parameters>1 435 0 5 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 0 0 0</parameters>
+        <parameters>0 1787 1787 0 0 3 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>zaubervergessen</string>
-        <parameters>7 0 155 140 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 155 140 0 90 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11130</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>8</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1788 1788 0 0 5 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 1 0 0</parameters>
+        <parameters>0 1789 1789 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagie</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtma</string>
-        <parameters>7 0 158 110 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 158 110 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
+        <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters></parameters>
+        <parameters>0 1790 1790 0 0 9 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
+        <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>1 416 0 2 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagie</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagiesw</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>statusma</string>
-        <parameters>7 0 160 111 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 160 111 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 416 0 3 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>lichtmagiesw</string>
-        <parameters>5 0 70 100 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Statusmagiesw</string>
-        <parameters>6 0 250 99 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>eismagie</string>
-        <parameters>9 0 160 80 0 30 0 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>2</indent>
-        <string>Eis</string>
-        <parameters>7 0 158 109 0 70 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>7 0 158 109 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>1 10005 5</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -40279,13 +38980,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Lichtspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40309,13 +39004,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Statusspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40339,13 +39028,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch1</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40387,13 +39070,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>Lichtspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40417,13 +39094,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40447,13 +39118,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch2</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40495,13 +39160,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40525,13 +39184,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40555,13 +39208,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch3</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40603,13 +39250,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40633,13 +39274,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40663,13 +39298,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch4</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40711,13 +39340,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40741,13 +39364,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40771,13 +39388,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch5</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 5497976</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 5497976</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40819,13 +39430,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40849,13 +39454,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40879,13 +39478,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch6</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40927,13 +39520,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40957,13 +39544,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -40987,13 +39568,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch7</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41035,13 +39610,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41065,13 +39634,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41095,13 +39658,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch8</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41143,13 +39700,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41173,13 +39724,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41203,13 +39748,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch9</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41251,13 +39790,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>lichtspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41281,13 +39814,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>statusspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41311,13 +39838,7 @@
         <code>11110</code>
         <indent>3</indent>
         <string>eisspruch10</string>
-        <parameters>8 0 160 180 0 80 100 1 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11120</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>8 0 160 180 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
+        <parameters>8 0 160 166 0 80 100 1 100 100 100 100 0 60</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -41342,6 +39863,30 @@
         <indent>1</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 416 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>8 0 160 166 0 80 30 0 100 100 100 100 0 5497976 5 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -47307,6 +45852,683 @@
        </EventCommand>
       </event_commands>
      </EventPage>
+     <EventPage id="0005">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 416 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1791 1791 0 0 4 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 416 0 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1791 1791 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 416 0 2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1791 1791 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 416 0 3 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 1791 1791 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>5</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>6</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>7</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>8</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>9</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>11</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1787 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1791 0 1 5 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1787 1787 1 0 9 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>12 0 251 63 0 80 30 360 100 100 100 100 3 270 2 0 0 0 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1792 1792 0 1 1787 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>CE_IconsMagie</string>
+        <parameters>5 0 226 63 0 100 0 1 100 100 100 100 0 0 0 0 0 0 0 0 0 0 9 2 1 1787 0 0 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1788 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1791 0 2 5 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1788 1788 1 0 9 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>12 0 251 63 0 80 30 360 100 100 100 100 3 90 2 0 0 0 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1792 1792 0 1 1788 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>CE_IconsMagie</string>
+        <parameters>6 0 276 63 0 100 0 1 100 100 100 100 0 0 0 0 0 0 0 0 0 0 9 2 1 1788 0 0 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1789 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1791 0 3 5 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1789 1789 1 0 9 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>12 0 251 63 0 80 30 360 100 100 100 100 3 0 2 0 0 0 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1792 1792 0 1 1789 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>CE_IconsMagie</string>
+        <parameters>9 0 251 38 0 100 0 1 100 100 100 100 0 0 0 0 0 0 0 0 0 0 9 2 1 1789 0 0 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1790 0 0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1791 0 4 5 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1790 1790 1 0 9 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>12 0 251 63 0 80 30 360 100 100 100 100 3 180 2 0 0 0 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1792 1792 0 1 1790 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>CE_IconsMagie</string>
+        <parameters>11 0 251 88 0 100 0 1 100 100 100 100 0 0 0 0 0 0 0 0 0 0 9 2 1 1790 0 0 0 97</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>feuer</string>
+        <parameters>7 0 160 92 0 70 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 70 0 0 100 100 100 100 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>Eis</string>
+        <parameters>7 0 160 92 0 70 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 3 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>lichtma</string>
+        <parameters>7 0 160 92 0 70 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 4 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>schattenma</string>
+        <parameters>7 0 160 92 0 65 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 65 0 0 100 100 100 100 0 29962272 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 5 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>statusma</string>
+        <parameters>7 0 160 92 0 70 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 6 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>HLTod</string>
+        <parameters>7 0 160 92 0 70 100 1 100 100 100 100 0 72659052</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 160 92 0 70 0 0 100 100 100 100 0 5497976 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1792 0 9 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>1</indent>
+        <string>zaubervergessen</string>
+        <parameters>7 0 155 140 0 70 100 1 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>7 0 155 140 0 90 0 0 100 100 100 100 0 5497976 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
     </pages>
    </Event>
    <Event id="0098">
@@ -49389,6 +48611,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1185</save_count>
+  <save_count>1213</save_count>
  </Map>
 </LMU>

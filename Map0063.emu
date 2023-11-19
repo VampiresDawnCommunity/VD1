@@ -82,16 +82,16 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10860</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>71 0 3 5</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
         <parameters>0 3 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10860</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>71 0 3 5</parameters>
        </EventCommand>
        <EventCommand>
         <code>12320</code>
@@ -12561,7 +12561,7 @@
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
-      <layer>0</layer>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -12607,7 +12607,7 @@
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>0</trigger>
-      <layer>0</layer>
+      <layer>1</layer>
       <overlap_forbidden>F</overlap_forbidden>
       <animation_type>0</animation_type>
       <move_speed>3</move_speed>
@@ -13539,6 +13539,24 @@
         <indent>0</indent>
         <string></string>
         <parameters>59 0 3 6</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11030</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>30 30 100 100 50 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 116 116 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -23494,6 +23512,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>845</save_count>
+  <save_count>849</save_count>
  </Map>
 </LMU>
