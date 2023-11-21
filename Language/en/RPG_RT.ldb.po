@@ -5861,6 +5861,30 @@ msgid "!!!!!!!!"
 msgstr ""
 
 msgctxt "states.name"
+msgid "Brennt"
+msgstr "Burning"
+
+msgctxt "states.message_actor"
+msgid "%S brennt !"
+msgstr "%S is burning !"
+
+msgctxt "states.message_enemy"
+msgid "%S brennt !"
+msgstr "%S is burning !"
+
+msgctxt "states.message_already"
+msgid "%S brennt bereits !"
+msgstr "%S is already burning !"
+
+msgctxt "states.message_affected"
+msgid "%S brennt lichterloh !"
+msgstr "%S is burning fiercely !"
+
+msgctxt "states.message_recovery"
+msgid "%S hat aufgehört zu brennen !"
+msgstr "%S is no longer burning !"
+
+msgctxt "states.name"
 msgid "TEST"
 msgstr ""
 

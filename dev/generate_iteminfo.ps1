@@ -17,7 +17,7 @@ foreach ($itemNode in $xml.LDB.Database.items.ChildNodes) {
 	
 	if ($name.length -gt 0 ) {
 	
-		$newNode = [xml]"<EventCommand><code>12010</code><indent>0</indent><string></string><parameters>1 857 0 $($id) 0 0</parameters></EventCommand>"
+		$newNode = [xml]"<EventCommand><code>12010</code><indent>0</indent><string></string><parameters>1 736 0 $($id) 0 0</parameters></EventCommand>"
 		$commands.AppendChild($xml.ImportNode($newNode.EventCommand, $true))
 	
 		if ($name.startswith("$")) {

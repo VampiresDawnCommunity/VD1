@@ -730,12 +730,12 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 816 0 0 3 0</parameters>
+        <parameters>1 1546 0 0 3 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>1</indent>
-        <string>\&gt;\c[\v[436]]\n[\v[816]]:\c[0]</string>
+        <string>\&gt;\c[\v[436]]\n[\v[1546]]:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -761,12 +761,6 @@
         <indent>1</indent>
         <string>Ja.</string>
         <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 742 742 0 1 816 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -2343,7 +2337,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 664 664 0 0 5 0</parameters>
+        <parameters>0 731 731 0 0 5 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -2453,6 +2447,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>216</save_count>
+  <save_count>218</save_count>
  </Map>
 </LMU>
