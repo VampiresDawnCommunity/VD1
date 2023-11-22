@@ -2768,6 +2768,30 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1968 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>13</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>Cold11</string>
@@ -4668,6 +4692,12 @@
         <indent>0</indent>
         <string>\.\.JETZT REICHT ES !!!</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12110</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>13</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -8087,6 +8117,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>334</save_count>
+  <save_count>336</save_count>
  </Map>
 </LMU>

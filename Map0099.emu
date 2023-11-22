@@ -3676,6 +3676,12 @@
         <parameters>1 1062 0 1 0 1</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 499 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10140</code>
         <indent>2</indent>
         <string>Anhören/Überspringen</string>
@@ -3686,6 +3692,12 @@
         <indent>2</indent>
         <string>Anhören</string>
         <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3770,6 +3782,12 @@
         <indent>2</indent>
         <string>Anhören</string>
         <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5458,6 +5476,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>12410</code>
+        <indent>1</indent>
+        <string>TODO: dynamisches aussaugen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>1</indent>
         <string>\&gt;\c[3]Asgar:\c[0]</string>
@@ -5990,6 +6014,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -33788,6 +33818,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>915</save_count>
+  <save_count>920</save_count>
  </Map>
 </LMU>
