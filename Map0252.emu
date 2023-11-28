@@ -4683,10 +4683,46 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
+        <code>10220</code>
         <indent>0</indent>
-        <string>Face_Valnar01_b</string>
-        <parameters>2 1 399 400 0 100 100 0 100 100 100 100 0 5616760</parameters>
+        <string></string>
+        <parameters>0 436 436 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 1 399 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 1 400 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -4922,10 +4958,46 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
+        <code>10220</code>
         <indent>0</indent>
-        <string>Face_Valnar01_b</string>
-        <parameters>2 1 399 400 0 100 100 0 100 100 100 100 0 5616760</parameters>
+        <string></string>
+        <parameters>0 436 436 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 1 399 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 1 400 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -5155,10 +5227,46 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>11110</code>
+        <code>10220</code>
         <indent>0</indent>
-        <string>Face_Valnar01_b</string>
-        <parameters>2 1 399 400 0 100 100 0 100 100 100 100 0 5616760</parameters>
+        <string></string>
+        <parameters>0 436 436 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 1 399 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 1 400 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 365 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -7356,104 +7464,8 @@
      </EventPage>
     </pages>
    </Event>
-   <Event id="0024">
-    <name>FacePic</name>
-    <x>8</x>
-    <y>0</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>F</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>1</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>0</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 988 0 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Valnar01_b</string>
-        <parameters>2 1 399 400 0 100 100 0 100 100 100 100 0 5616760</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>1</indent>
-        <string>Face_Valnar02_b</string>
-        <parameters>2 1 399 400 0 100 100 0 100 100 100 100 0 60</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>189</save_count>
+  <save_count>196</save_count>
  </Map>
 </LMU>
