@@ -5462,7 +5462,7 @@
     </pages>
    </Event>
    <Event id="0055">
-    <name>EV0055</name>
+    <name>Falle</name>
     <x>17</x>
     <y>8</y>
     <pages>
@@ -5512,6 +5512,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>Flame2</string>
@@ -5551,7 +5557,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5599,7 +5605,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5624,6 +5630,12 @@
         <indent>0</indent>
         <string>\.\.Vielleicht müssen sie alle leuchten ?</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6506,118 +6518,10 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11550</code>
-        <indent>0</indent>
-        <string>Flame2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>77 10001 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10460</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 0 1 0 10 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>10001 8 0 0 24 2 25</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2183 2183 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Autsch !!!!</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>So kommen wir hier nicht weiter ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Irgendwie müssen diese</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Feuerfallen deaktiviert werden ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 331 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[4]Alaine:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Das hat ganz sicher etwas mit</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>diesen Statuen zu tun ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Vielleicht müssen sie alle leuchten ?</string>
-        <parameters></parameters>
+        <parameters>1 55 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6720,118 +6624,10 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11550</code>
-        <indent>0</indent>
-        <string>Flame2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>77 10001 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10460</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 0 1 0 10 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>10001 8 0 0 24 2 25</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2183 2183 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Autsch !!!!</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>So kommen wir hier nicht weiter ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Irgendwie müssen diese</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Feuerfallen deaktiviert werden ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 331 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[4]Alaine:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Das hat ganz sicher etwas mit</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>diesen Statuen zu tun ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Vielleicht müssen sie alle leuchten ?</string>
-        <parameters></parameters>
+        <parameters>1 55 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -6934,118 +6730,10 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11550</code>
-        <indent>0</indent>
-        <string>Flame2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>77 10001 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10460</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 0 1 0 10 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>10001 8 0 0 24 2 25</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2183 2183 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Autsch !!!!</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>So kommen wir hier nicht weiter ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Irgendwie müssen diese</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Feuerfallen deaktiviert werden ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 331 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[4]Alaine:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Das hat ganz sicher etwas mit</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>diesen Statuen zu tun ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Vielleicht müssen sie alle leuchten ?</string>
-        <parameters></parameters>
+        <parameters>1 55 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -7148,118 +6836,10 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>11550</code>
-        <indent>0</indent>
-        <string>Flame2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>77 10001 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10460</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 0 1 0 10 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>10001 8 0 0 24 2 25</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2183 2183 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Autsch !!!!</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>So kommen wir hier nicht weiter ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Irgendwie müssen diese</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Feuerfallen deaktiviert werden ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 331 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>\&gt;\c[4]Alaine:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>Das hat ganz sicher etwas mit</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>diesen Statuen zu tun ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>\.\.Vielleicht müssen sie alle leuchten ?</string>
-        <parameters></parameters>
+        <parameters>1 55 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -8667,7 +8247,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -12957,6 +12537,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>170</save_count>
+  <save_count>172</save_count>
  </Map>
 </LMU>

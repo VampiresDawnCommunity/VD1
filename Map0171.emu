@@ -556,7 +556,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -580,7 +580,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -616,7 +616,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -835,7 +835,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -859,7 +859,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -895,7 +895,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4229,7 +4229,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -4318,7 +4318,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4348,7 +4348,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4396,7 +4396,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -4477,16 +4477,10 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12410</code>
-        <indent>0</indent>
-        <string>ZufluchtOverride OFF</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
+        <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 795 800 0 0 0 0</parameters>
+        <parameters>0 179 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -4510,7 +4504,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4588,7 +4582,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5180,7 +5174,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 291 0</parameters>
+        <parameters>0 288 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5258,7 +5252,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 291 0</parameters>
+        <parameters>0 288 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5278,6 +5272,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>196</save_count>
+  <save_count>198</save_count>
  </Map>
 </LMU>

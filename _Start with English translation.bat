@@ -1,1 +1,0 @@
-Player.exe --language en

@@ -680,17 +680,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>VD_Chests</character_name>
-      <character_index>3</character_index>
+      <character_name></character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>4</trigger>
-      <layer>1</layer>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -733,17 +733,17 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>VD_Chests</character_name>
-      <character_index>3</character_index>
+      <character_name></character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
       <trigger>4</trigger>
-      <layer>1</layer>
+      <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -2078,6 +2078,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>101</save_count>
+  <save_count>103</save_count>
  </Map>
 </LMU>

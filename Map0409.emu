@@ -349,13 +349,19 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 2183 2183 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -374,6 +380,12 @@
         <indent>0</indent>
         <string>weiter !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -479,13 +491,19 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 2183 2183 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -504,6 +522,12 @@
         <indent>0</indent>
         <string>weiter !</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -11747,6 +11771,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>150</save_count>
+  <save_count>152</save_count>
  </Map>
 </LMU>

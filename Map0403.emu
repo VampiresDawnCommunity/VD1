@@ -2737,6 +2737,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -2759,6 +2765,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 60 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -5250,6 +5262,12 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11550</code>
         <indent>0</indent>
         <string>Monster1</string>
@@ -5339,6 +5357,12 @@
         <string></string>
         <parameters>0 1419 1419 0</parameters>
        </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
+       </EventCommand>
       </event_commands>
      </EventPage>
      <EventPage id="0002">
@@ -5391,6 +5415,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>143</save_count>
+  <save_count>145</save_count>
  </Map>
 </LMU>

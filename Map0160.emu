@@ -395,7 +395,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -485,7 +485,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -551,7 +551,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1283,7 +1283,7 @@
         <code>12330</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1343,7 +1343,7 @@
         <code>12330</code>
         <indent>6</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1457,7 +1457,7 @@
         <code>12330</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1571,7 +1571,7 @@
         <code>12330</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1685,7 +1685,7 @@
         <code>12330</code>
         <indent>5</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1811,7 +1811,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2044,7 +2044,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2098,7 +2098,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2728,7 +2728,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2834,8 +2834,2264 @@
      </EventPage>
     </pages>
    </Event>
+   <Event id="0011">
+    <name>EV0011</name>
+    <x>4</x>
+    <y>5</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>0</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 19.000 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 19000 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 19000</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 786 786 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>786</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0012">
+    <name>EV0012</name>
+    <x>10</x>
+    <y>5</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 9999 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 9999 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 9999</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 784 784 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>784</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0013">
+    <name>EV0013</name>
+    <x>13</x>
+    <y>5</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>0</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 5432 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 3000 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 5432</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 781 781 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>781</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0014">
+    <name>EV0014</name>
+    <x>17</x>
+    <y>6</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>0</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 100.000 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 100000 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 100000</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 782 782 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>782</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0015">
+    <name>EV0015</name>
+    <x>3</x>
+    <y>8</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 25.000 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 25000 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 25000</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 785 785 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>785</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0016">
+    <name>EV0016</name>
+    <x>10</x>
+    <y>11</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>T</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>800</switch_a_id>
+        <switch_b_id>2304</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Extras03</character_name>
+      <character_index>3</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>4</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das habe ich mal so nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>gemalt. Möchtet ihr es haben?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Nur 54.000 Filar! </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 54000 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !/Nein, nicht jetzt ...</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Klar, warum nicht !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sehr gut !!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Wohin geht es?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Liefer es zum Schloss Aldaines !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kein Problem !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\.Es sollte schon bald bei euch sein !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 0 54000</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 783 783 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>Nein, nicht jetzt ...</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Das ist uns leider zu teuer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string>gold</string>
+        <parameters>14 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[7]Künstlerin:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Macht ja nichts !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr könnt jederzeit wiederkommen !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>783</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
+      <character_pattern>2</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+    </pages>
+   </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>135</save_count>
+  <save_count>140</save_count>
  </Map>
 </LMU>

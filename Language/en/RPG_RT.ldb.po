@@ -9,8 +9,8 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 msgctxt "actors.name"
-msgid "Valnar D."
-msgstr "Valnar"
+msgid "Valnar"
+msgstr ""
 
 msgctxt "actors.title"
 msgid "Krieger"
@@ -74,10 +74,6 @@ msgstr "Mage"
 
 msgctxt "actors.name"
 msgid "Golem"
-msgstr ""
-
-msgctxt "actors.name"
-msgid "Valnar"
 msgstr ""
 
 msgctxt "actors.name"
@@ -159,6 +155,14 @@ msgstr ""
 msgctxt "actors.name"
 msgid "P-Mumie"
 msgstr ""
+
+msgctxt "actors.name"
+msgid "Carol"
+msgstr ""
+
+msgctxt "actors.title"
+msgid "Hexe"
+msgstr "Witch"
 
 msgctxt "skills.name"
 msgid "------Feuer-----"
@@ -1712,6 +1716,10 @@ msgctxt "skills.name"
 msgid "Rundumschlag"
 msgstr ""
 
+msgctxt "skills.description"
+msgid "Schwertschlag trifft alle Gegner."
+msgstr ""
+
 msgctxt "skills.using_message1"
 msgid "%S holt mächtig aus!"
 msgstr ""
@@ -1864,12 +1872,64 @@ msgctxt "skills.using_message1"
 msgid "%S wirft Unaussprechliches!"
 msgstr ""
 
+msgctxt "skills.name"
+msgid "Dryadensphäre"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Hoher Giftschaden."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft Dryadensphäre! "
+msgstr ""
+
 msgctxt "skills.description"
 msgid "Valnar greift alle Gegner an. "
 msgstr ""
 
 msgctxt "skills.using_message1"
 msgid "%S fährt durch Gegnerreihen!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Rundumrasur"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Frosttodsphäre"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Hoher Eisschaden."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft Frosttod."
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Knochenschmelzsphäre"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Hoher Feuerschaden. "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft Knochenschmelzer."
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Reinglanzsphäre"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Hoher Lichtschaden."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft Reinglanz."
 msgstr ""
 
 msgctxt "skills.name"
@@ -2105,6 +2165,18 @@ msgid "%S fließt schwarzes HEXENBLUT"
 msgstr ""
 
 msgctxt "skills.name"
+msgid "Herzloser Hass"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Purer Hass trifft alle Gegner. (180, evntl. Fluch)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S ruft herzlosen Hass!"
+msgstr ""
+
+msgctxt "skills.name"
 msgid "-ER Special Skills-"
 msgstr ""
 
@@ -2210,6 +2282,222 @@ msgstr " lunges forward!"
 
 msgctxt "skills.name"
 msgid "--Mumie--"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "-- ER TMs #2 --"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Zinlóaz"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Ein mächtiger Rundum-Zauber auf einen Gegner."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S tut äh, was genau...?"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Eisexplosion"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Trifft einen Gegner, Eis, Feuer (G-Schaden: 140)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S verschmilzt Elemente!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Regenbogen-Stern"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Absorbiert HP aller Gegner, Ch. a. Verwirrung. "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S vermischt Elemente!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Starke Flut"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Trifft alle Gegner, Eis, Feuer (G-Schaden: 170)"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Hexengold"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Böswilliges Licht umhüllt alle Gegner. (177, Läh.)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S ruft böswilliges Licht!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Beaysheu-art"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Die Kunst der machtvollen Arkana. "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wird schon irgendeinen Sinn"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Vampirflüche"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Wirft Zustände auf alle Gegner! "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S webt vampirale Flüche!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Tornadonadel"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "100 FESTschaden. Senkt Verteidigung! "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid " durchbohrt mit Winden!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Kräftebrechung"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Senkt alle Eigenschaften eines Gegners um 50!"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S senkt Kräfte des Gegners!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "--Carol--"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Hexenfinger"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Mit dem Finger durch den Feind! (G-Schaden: 120)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S legt Finger in Wunde!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Hexenmond"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Taucht Gegner in Hexenlicht. (G-Schaden: 180)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S färbt den Mond!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Swestaheaz!"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Ach Carol.............. (G-Schaden: 222)"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S ruft Swesta!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Rundum-Carol"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Was soll ich dazu sagen? "
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S ist SAUER!!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Muskelschweiß"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Das hält keiner aus..."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S hebt die Achseln!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Swestaheaz Redux!!"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Ach Carol.............. (G-Schaden: 277)"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "GLUBSCH"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S glubscht sich einen weg!"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Schwarzmondsphäre"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Hoher Dunkelschaden."
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft Schwarzmond."
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Spinnenstunk"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wedelt mit Spinnenstunk"
+msgstr ""
+
+msgctxt "skills.name"
+msgid "Hexenknall"
+msgstr ""
+
+msgctxt "skills.using_message1"
+msgid "%S wirft einen Hexenknall!"
 msgstr ""
 
 msgctxt "items.name"
@@ -4065,6 +4353,14 @@ msgid "Ein mysteriöses Zauberbuch"
 msgstr ""
 
 msgctxt "items.name"
+msgid "Herzloser Hass"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Herzloser Hass'. "
+msgstr ""
+
+msgctxt "items.name"
 msgid "Schweinsnasensalbe"
 msgstr ""
 
@@ -4129,6 +4425,14 @@ msgid "Giftschaden, alle Gegner. "
 msgstr ""
 
 msgctxt "items.name"
+msgid "Dryadenstein"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Alle Werte +2"
+msgstr ""
+
+msgctxt "items.name"
 msgid "Orichalcus-Staub"
 msgstr ""
 
@@ -4153,7 +4457,11 @@ msgid "Alle Werte +4"
 msgstr ""
 
 msgctxt "items.name"
-msgid "-- Switch Items --"
+msgid "Dryadensphäre"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Hoher Giftschaden, alle Gegner. "
 msgstr ""
 
 msgctxt "items.name"
@@ -4289,6 +4597,14 @@ msgid "Schützt zu 85 % vor all. negat. Zustä., +10 Werte"
 msgstr ""
 
 msgctxt "items.name"
+msgid "Filaya-Maya"
+msgstr ""
+
+msgctxt "items.description"
+msgid "100 % Sch. v. all. Zuständen, +120 INT."
+msgstr ""
+
+msgctxt "items.name"
 msgid "Siegel der Zy'na"
 msgstr ""
 
@@ -4350,6 +4666,22 @@ msgstr "$o Soul Fragment"
 
 msgctxt "items.description"
 msgid "Ermöglicht das Tragen großer Mengen an Seelen."
+msgstr ""
+
+msgctxt "items.name"
+msgid "$o Silberrucksack"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Füllt das Inventar mit Silber aus dem Lager"
+msgstr ""
+
+msgctxt "items.name"
+msgid "$o Sonnenuhr"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Sagt dir, ob es Tag oder Nacht ist"
 msgstr ""
 
 msgctxt "items.name"
@@ -4835,6 +5167,298 @@ msgstr "Valnar's Armor"
 msgctxt "items.description"
 msgid "Schutz vor gelähmt und verwirrt, +213 DEF"
 msgstr "Protects from paralyze and confused, +213 DEF"
+
+msgctxt "items.name"
+msgid "-- ER Update --"
+msgstr ""
+
+msgctxt "items.name"
+msgid "$o Liebesbrief"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Ziemlich krakelig. Da war jemand nervös. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Reinglanzsphäre"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Hoher Lichtschaden, alle Gegner. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Frosttodsphäre"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Hoher Eisschaden, alle Gegner."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Knochenschmelzsphäre"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Hoher Feuerschaden, alle Gegner. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Schwarzmondsphäre"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Hoher Dunkelschaden, alle Gegner. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenbohnen"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Widerlich. (max. MP + 50 % LP)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexentrunk"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Ekelerregend. (max. LP + 50 % MP)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenschreck"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Wird jede Hexe zu ihrer Mami ängstigen."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Drachen-Seelenstein"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Ein Seelenstein aus Drachenseelen. 77x stark."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Geistermilch"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Absolut ekelerregend, aber erzielt hohe Preise. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "--Neue TMs--"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Eis-Explosion"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Eisexplosion'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Regenbogen-Stern"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Regenbogen-Stern'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Starke Flut"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Zaubertafel. Lehrt 'Starke Flut'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "R-Tafel: Hexengold"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Hexengold.' Nur Frauen. Licht."
+msgstr ""
+
+msgctxt "items.name"
+msgid "--Hexen-Stuff--"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenhut"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Ist der nicht putzig? (+66 VER)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexen-Juwel"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Farblos (+45 DEF, +ALLE DEF-Attribute, kein Fluch)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenhaar-Band"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Düster. (+55 INT, kein krit. Schaden, kein Fluch)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexen-Aufsatz"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Für die Waffe. (+45 INT, +45 ATT, kein Fluch)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "-- ??? ---"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Orkenschleim"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Toll, was?"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Engels-Träne"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Die mächtigste Heilung aller Zeiten."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Rune: Zinlóaz"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Zinlóaz'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Rune: Beaysheu-art"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Beaysheu-art'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Gottesblut"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Das mächtigste Blutmittel des Planeten."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Rune: Kräftebrechung"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Kräftebrechung'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Rune: Tornadonadel"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Tornadonadel'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Rune: Vampirflüche"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Lehrt Zauber 'Vampirflüche'. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenjuwel."
+msgstr ""
+
+msgctxt "items.description"
+msgid "Kann geschluckt werden. Werte +24. Nur Hexen. "
+msgstr ""
+
+msgctxt "items.name"
+msgid "Blutphiole+"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Ein kleines Gefäß voll Blut (+25 Blut)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Blutflasche+"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Eine Flasche voll Blut (+60 Blut)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Bluttrank+"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Eine große Flasche voll Blut (+120 Blut)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Blutelixier+"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Hexenknall"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Da will man nicht in der Nähe sein."
+msgstr ""
+
+msgctxt "items.name"
+msgid "Spinnenstunk"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Yikes!"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Froschwarze"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Erhöht die maximale Lebenskapazität (+6 max. LP)"
+msgstr ""
+
+msgctxt "items.name"
+msgid "Antikrankheitstrunk"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Kuriert alle Zustände"
+msgstr ""
 
 msgctxt "enemies.name"
 msgid "Hauptmann"
@@ -5433,6 +6057,10 @@ msgid "- SE Bosse -"
 msgstr ""
 
 msgctxt "enemies.name"
+msgid "(ER-Endgame)"
+msgstr ""
+
+msgctxt "enemies.name"
 msgid "-- Aysha Edition --"
 msgstr ""
 
@@ -5509,6 +6137,10 @@ msgid "König der Orks"
 msgstr ""
 
 msgctxt "enemies.name"
+msgid "Nichts"
+msgstr ""
+
+msgctxt "enemies.name"
 msgid "Salzregent"
 msgstr ""
 
@@ -5565,6 +6197,26 @@ msgid "Zombie-Elite"
 msgstr ""
 
 msgctxt "enemies.name"
+msgid "Zy'na-Sklavin"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Herzlose"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Herzlose Hülle"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Herzlosenherz"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Herzhülle"
+msgstr ""
+
+msgctxt "enemies.name"
 msgid "--- Valaine ---"
 msgstr ""
 
@@ -5615,6 +6267,98 @@ msgstr "Incubus"
 msgctxt "enemies.name"
 msgid "Phönix"
 msgstr "Phoenix"
+
+msgctxt "enemies.name"
+msgid "Lamilah"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "-- ER #2 ---"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Königsjäger"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Witwenmacherin"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Grünkappe"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Narbauge"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Blindfuchs"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Bartwuchs"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Schwarzkappe"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Hexenwächter"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Hexenjünger"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Erika"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Unheimlicher Opa"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Carol"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Pilaya"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Pilaya2"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Die Glooms draußen"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Gloom"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Fieser Vampir"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Fieserer Vampir"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Swesta enttäuschen"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Sir Patrick"
+msgstr ""
+
+msgctxt "enemies.name"
+msgid "Lümmel"
+msgstr ""
 
 msgctxt "states.name"
 msgid "Starre"
@@ -5887,6 +6631,26 @@ msgstr "%S is no longer burning !"
 msgctxt "states.name"
 msgid "TEST"
 msgstr ""
+
+msgctxt "states.name"
+msgid "Gefroren"
+msgstr ""
+
+msgctxt "states.message_actor"
+msgid "%S ist gefroren!"
+msgstr "%S is frozen !"
+
+msgctxt "states.message_enemy"
+msgid "%S ist gefroren!"
+msgstr "%S is frozen !"
+
+msgctxt "states.message_already"
+msgid "%S ist bereits gefroren!"
+msgstr "%S is already  frozen !"
+
+msgctxt "states.message_recovery"
+msgid "%S ist aufgetaut!"
+msgstr "%S is no longer frozen !"
 
 msgctxt "terms.encounter"
 msgid "%S erscheint !"

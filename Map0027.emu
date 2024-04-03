@@ -631,13 +631,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -1986,13 +1986,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -2207,13 +2207,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -5181,7 +5181,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 334 0</parameters>
+        <parameters>0 409 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6449,6 +6449,12 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 209 209 1</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11030</code>
         <indent>0</indent>
         <string></string>
@@ -6458,13 +6464,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -6515,10 +6521,46 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10810</code>
+        <code>12010</code>
         <indent>0</indent>
         <string></string>
+        <parameters>1 1071 0 2 4 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>1</indent>
+        <string></string>
         <parameters>90 9 13</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>90 47 12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11910</code>
@@ -7707,6 +7749,12 @@
         <parameters>11</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>People1</string>
+        <parameters>6 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>0</indent>
         <string>\&gt;\c[2]Alter Mann:\c[0]</string>
@@ -7734,7 +7782,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -7746,7 +7794,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 308 0</parameters>
+        <parameters>0 305 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -8693,7 +8741,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -8747,7 +8795,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -9265,22 +9313,58 @@
         <parameters>0 1645 1645 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10810</code>
+        <code>12010</code>
         <indent>3</indent>
+        <string></string>
+        <parameters>1 1071 0 2 4 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>4</indent>
         <string></string>
         <parameters>90 9 13</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>90 47 12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 282 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -9448,13 +9532,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -9624,27 +9708,9 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2302 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12410</code>
-        <indent>1</indent>
-        <string>PATCH: 6ED82F598F6E40A386AAC14BD9A664E6</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
         <indent>0</indent>
-        <string></string>
+        <string>PATCH: 6ED82F598F6E40A386AAC14BD9A664E6</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -9891,13 +9957,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -10309,7 +10375,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Ach, Opa, da fällt mir noch was ein ...</string>
+        <string>Ach, Opa, da fällt mir noch was ein...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -10741,13 +10807,13 @@
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>Augen verflucht? \.\.Sollte der Zauber</string>
+        <string>Augen verflucht? \.\.Sollte der Zauber dann</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>dann nicht mittlerweile verflogen sein, </string>
+        <string>nicht mittlerweile verflogen sein, </string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -11252,7 +11318,7 @@
         <code>12330</code>
         <indent>4</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -11444,7 +11510,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -12302,7 +12368,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12422,7 +12488,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12554,7 +12620,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12644,7 +12710,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -13124,7 +13190,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -13148,7 +13214,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -14364,7 +14430,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10610</code>
@@ -14406,7 +14472,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -16973,19 +17039,19 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Und so wuchs der Zorn Jaynas</string>
+        <string>Und so wuchs der Zorn Jaynas gegenüber</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>gegenüber Valnar und Alaine aufgrund</string>
+        <string>Valnar und Alaine aufgrund der</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>der Tatsache, dass diese ihr niemals</string>
+        <string>Tatsache, dass diese ihr niemals die</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -16997,19 +17063,19 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>die "Wahrheit" über die Vampire</string>
+        <string>"Wahrheit" über die Vampire erzählt</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>erzählt hatten. So nannte es jedenfalls</string>
+        <string>hatten. So nannte es jedenfalls Asgar.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Asgar. Natürlich erzählte er ihr nur</string>
+        <string>Natürlich erzählte er ihr nur Lügen,</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -17021,13 +17087,13 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Lügen, doch die naive junge Jayna</string>
+        <string>doch die naive junge Jayna verlor</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>verlor das Gespür für die Wahrheit ...</string>
+        <string>das Gespür für die Wahrheit ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -21582,7 +21648,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -22461,7 +22527,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -22485,7 +22551,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -23228,7 +23294,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 308 0</parameters>
+        <parameters>0 305 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -23485,7 +23551,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Sie sprachen zuerst über ihre Zukunft. \.\.</string>
+        <string>Sie sprachen zuerst über ihre Zukunft.\.\.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -24683,7 +24749,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -24696,6 +24762,42 @@
         <indent>1</indent>
         <string></string>
         <parameters>0 594 594 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2197 2197 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 18 18 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 18 18 0 0 40 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -24731,6 +24833,12 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
+        <parameters>0 2132 2132 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
         <parameters>0 2123 2123 1</parameters>
        </EventCommand>
        <EventCommand>
@@ -24757,6 +24865,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>915</save_count>
+  <save_count>930</save_count>
  </Map>
 </LMU>

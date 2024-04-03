@@ -263,7 +263,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -400,7 +400,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1266,7 +1266,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1344,7 +1344,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1438,7 +1438,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>dead people</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1484,7 +1484,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_dead people</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1583,7 +1583,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>dead people</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1629,7 +1629,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_dead people</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1728,7 +1728,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>dead people</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1774,7 +1774,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_dead people</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1873,7 +1873,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>dead people</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1919,7 +1919,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_dead people</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -2050,7 +2050,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2212,7 +2212,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2299,6 +2299,12 @@
         <parameters>0 1122 1122 1 0 4 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1128 1128 1 0 4 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -2308,7 +2314,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2432,7 +2438,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2510,7 +2516,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2679,6 +2685,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>111</save_count>
+  <save_count>113</save_count>
  </Map>
 </LMU>

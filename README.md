@@ -13,14 +13,17 @@ This refactor of the game is based on the tools & player engine provided by the 
    * New content in Asgars castle
    * New Endgame & Postgame
    * German translation of the Aysha bonus content
+   * Tons of new content specifically designed for this new 'Community Edition'
++ **Valaine Mod** by **ValnarsZimmerKatze** & **SnowyDoe**
+   * [Info & Download for the original](https://vampiresdawn.tumblr.com/post/692100372503871488/valaine-mod-vampires-dawn-1)
++ An in-engine re-imagination of [Valnars Nightmare](http://arthure.bplaced.net/CGL/Valnar.html) (originally designed & programmed by **TrunX**)
 + Improved MP3 Tracks by **Zippo_the_mad_mechanic**
 + Graphical improvements from **Makoto/Atavarias**
-+ Several mods made by **TrunX**
-+ Technical overhaul, bugfixing & new features by **Käsekumpel**
-+ Planned: **Valaine Mod** by **ValnarsZimmerKatze** & **SnowyDoe**
++ Several mods made by **TrunX** & **TrueMG**
++ Tons of gameplay customization options
++ Some new preview content for a planned new mod by **Spatzenfärber**
++ Technical overhaul, bugfixing & new features by **Spatzenfärber**
 
 
 ## Info for developers
 + **TODO**
-+ Resource Pack (up to Build #83): [Download from external hoster](https://mega.nz/file/MEQSCAqS#HvevOOLVdH3VgiucgeAIlQ9WT3pp--zsqdiv8rOAjQo)
-+ Resource Pack (starting with Build #84): [Download from external hoster](https://mega.nz/file/0F5XxZ4I#e-AlofAPRoA2MU-z6O7Pgei2PVRLjA70EsIfLynp1dY)

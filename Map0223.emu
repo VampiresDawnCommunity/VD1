@@ -3286,13 +3286,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 287 0</parameters>
+        <parameters>0 282 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 289 0</parameters>
+        <parameters>0 286 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -4393,6 +4393,12 @@
         <parameters>0 3 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>11330</code>
         <indent>0</indent>
         <string></string>
@@ -4420,7 +4426,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 305 0</parameters>
+        <parameters>0 320 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10120</code>
@@ -4432,7 +4438,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4456,7 +4462,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4486,7 +4492,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4528,7 +4534,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4564,7 +4570,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4589,6 +4595,12 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 262 262 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2138 2138 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -4944,19 +4956,13 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 335 0</parameters>
+        <parameters>0 323 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12410</code>
-        <indent>0</indent>
-        <string>ZufluchtOverride OFF</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
+        <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 795 800 0 0 0 0</parameters>
+        <parameters>0 179 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5004,7 +5010,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5058,7 +5064,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5136,7 +5142,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5208,7 +5214,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5268,7 +5274,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5532,7 +5538,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5628,7 +5634,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5682,7 +5688,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5736,7 +5742,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5784,7 +5790,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5826,7 +5832,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5934,7 +5940,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5970,7 +5976,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6126,7 +6132,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6396,7 +6402,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6462,7 +6468,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6522,7 +6528,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6630,7 +6636,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6678,7 +6684,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6768,7 +6774,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6846,7 +6852,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -6930,7 +6936,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -6948,7 +6954,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -6978,7 +6984,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7044,7 +7050,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7074,7 +7080,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -7092,7 +7098,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -7146,7 +7152,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7170,7 +7176,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7206,7 +7212,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7236,7 +7242,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7260,7 +7266,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7290,7 +7296,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7326,7 +7332,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7344,7 +7350,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7380,7 +7386,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7653,7 +7659,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -7734,7 +7740,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8128,7 +8134,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8158,7 +8164,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8200,7 +8206,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8248,7 +8254,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8278,7 +8284,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8314,7 +8320,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8374,7 +8380,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8410,7 +8416,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8446,7 +8452,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8553,7 +8559,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8595,7 +8601,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -8649,7 +8655,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -9125,7 +9131,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -9206,7 +9212,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -9709,7 +9715,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -9751,7 +9757,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10049,7 +10055,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>4</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -10079,7 +10085,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10120,7 +10126,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>4</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -10150,7 +10156,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10300,7 +10306,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>5</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -10356,7 +10362,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>5</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -10597,7 +10603,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10615,7 +10621,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10686,7 +10692,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10704,7 +10710,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10884,7 +10890,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -10955,7 +10961,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -11221,7 +11227,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 181 0</parameters>
+        <parameters>0 555 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -11633,7 +11639,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -11704,7 +11710,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12029,7 +12035,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12100,7 +12106,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12600,7 +12606,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12681,7 +12687,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12855,7 +12861,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12879,7 +12885,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -12915,7 +12921,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 225 0</parameters>
+        <parameters>0 625 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -12927,7 +12933,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -12939,7 +12945,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 330 0</parameters>
+        <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -13181,8 +13187,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>orkkoenig</character_name>
-      <character_index>2</character_index>
+      <character_name>ER_CastleSummons11</character_name>
+      <character_index>1</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -13205,7 +13211,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 210 0</parameters>
+        <parameters>0 632 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13287,8 +13293,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Sahuagin</character_name>
-      <character_index>3</character_index>
+      <character_name>ER_CastleSummons11</character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -13311,7 +13317,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 211 0</parameters>
+        <parameters>0 633 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13393,8 +13399,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>HunterzHeroes</character_name>
-      <character_index>0</character_index>
+      <character_name>ER_CastleSummons11</character_name>
+      <character_index>2</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -13417,7 +13423,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 212 0</parameters>
+        <parameters>0 634 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13492,7 +13498,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>6</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -13538,7 +13544,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>6</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -13591,8 +13597,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Geist</character_name>
-      <character_index>4</character_index>
+      <character_name>ER_CastleSummons11</character_name>
+      <character_index>3</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -13615,7 +13621,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 213 0</parameters>
+        <parameters>0 635 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13721,7 +13727,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 214 0</parameters>
+        <parameters>0 638 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13827,7 +13833,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 215 0</parameters>
+        <parameters>0 639 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -13933,7 +13939,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 216 0</parameters>
+        <parameters>0 640 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -14043,7 +14049,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 217 0</parameters>
+        <parameters>0 641 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -14149,7 +14155,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 205 0</parameters>
+        <parameters>0 637 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -14432,8 +14438,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>HunterzHeroes</character_name>
-      <character_index>1</character_index>
+      <character_name>ER_CastleSummons11</character_name>
+      <character_index>6</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -14456,7 +14462,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 218 0</parameters>
+        <parameters>0 642 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -14562,7 +14568,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 219 0</parameters>
+        <parameters>0 643 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -14804,7 +14810,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 239 0</parameters>
+        <parameters>0 25 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -15626,7 +15632,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 239 0</parameters>
+        <parameters>0 25 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -16149,10 +16155,16 @@
         <parameters>31 31 31 31 5 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10810</code>
+        <code>10610</code>
+        <indent>0</indent>
+        <string>Magierzimmer</string>
+        <parameters>23</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>65 25 19</parameters>
+        <parameters>0 25 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11330</code>
@@ -16394,7 +16406,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 220 0</parameters>
+        <parameters>0 644 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -16738,7 +16750,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -16784,7 +16796,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -17028,7 +17040,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>5</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -17068,7 +17080,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17109,7 +17121,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>5</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -17149,7 +17161,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17491,7 +17503,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17527,7 +17539,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17635,7 +17647,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17713,7 +17725,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17839,7 +17851,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17869,7 +17881,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -17947,7 +17959,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 331 0</parameters>
+        <parameters>0 406 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -18385,7 +18397,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -18431,7 +18443,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -18484,7 +18496,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -18530,7 +18542,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -18583,10 +18595,10 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>1</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_direction>0</character_direction>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -18629,10 +18641,10 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>1</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>0</character_pattern>
+      <character_direction>0</character_direction>
+      <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
       <move_frequency>3</move_frequency>
@@ -18682,7 +18694,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>0</character_pattern>
@@ -18728,7 +18740,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>0</character_pattern>
@@ -18781,7 +18793,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -18827,7 +18839,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -18880,7 +18892,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>2</character_index>
       <character_direction>2</character_direction>
       <character_pattern>0</character_pattern>
@@ -18926,7 +18938,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>2</character_index>
       <character_direction>2</character_direction>
       <character_pattern>0</character_pattern>
@@ -18979,9 +18991,9 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
-      <character_index>6</character_index>
-      <character_direction>0</character_direction>
+      <character_name>Blutiges01</character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
       <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -19025,9 +19037,9 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
-      <character_index>6</character_index>
-      <character_direction>0</character_direction>
+      <character_name>Blutiges01_z</character_name>
+      <character_index>0</character_index>
+      <character_direction>3</character_direction>
       <character_pattern>2</character_pattern>
       <translucent>F</translucent>
       <move_type>0</move_type>
@@ -19078,7 +19090,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>2</character_pattern>
@@ -19124,7 +19136,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>2</character_pattern>
@@ -19177,7 +19189,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>5</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -19223,7 +19235,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>5</character_index>
       <character_direction>0</character_direction>
       <character_pattern>2</character_pattern>
@@ -19276,7 +19288,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -19322,7 +19334,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -19375,7 +19387,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -19421,7 +19433,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>1</character_pattern>
@@ -19474,7 +19486,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -19520,7 +19532,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>0</character_pattern>
@@ -19573,7 +19585,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19619,7 +19631,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19672,7 +19684,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19718,7 +19730,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19771,7 +19783,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19817,7 +19829,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -19870,7 +19882,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -19916,7 +19928,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -20015,7 +20027,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -20061,7 +20073,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -24675,6 +24687,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>495</save_count>
+  <save_count>511</save_count>
  </Map>
 </LMU>

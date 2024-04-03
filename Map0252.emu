@@ -848,7 +848,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -914,7 +914,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1123,7 +1123,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1176,7 +1176,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1222,7 +1222,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -1363,7 +1363,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -1441,7 +1441,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1492,214 +1492,10 @@
         <parameters>3 30 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10210</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>4</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>4</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>4</indent>
-        <string>Hier bitte ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10310</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters>1 0 30</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>4</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>4</indent>
-        <string>Gegen wen wollt Ihr antreten ?</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters>0 2182 2182 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters>0 329 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>4</indent>
-        <string>\&gt;\c[2]Valnar:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>4</indent>
-        <string>Hm ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10140</code>
-        <indent>4</indent>
-        <string>... erstmal gegen Willo !/... ich probier Karlos !/... ohne Gnade Rikus !</string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20140</code>
-        <indent>4</indent>
-        <string>... erstmal gegen Willo !</string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>5</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Na dann nimm auf dem linken</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Stuhl platz ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 736 736 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20140</code>
-        <indent>4</indent>
-        <string>... ich probier Karlos !</string>
-        <parameters>1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>5</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Na dann nimm auf dem linken</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Stuhl platz ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 737 737 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20140</code>
-        <indent>4</indent>
-        <string>... ohne Gnade Rikus !</string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>5</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Na dann nimm auf dem linken</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>5</indent>
-        <string>Stuhl platz ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters>0 738 738 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>5</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20141</code>
-        <indent>4</indent>
-        <string></string>
-        <parameters></parameters>
+        <parameters>1 10005 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -1723,7 +1519,7 @@
         <code>12330</code>
         <indent>4</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1822,328 +1618,10 @@
         <parameters>2</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10130</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Aber sicher !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>\.\.Also, ihr könnt gegen drei</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Gegner kämpfen.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Da wäre zuerst Wallo,, der Verlierer !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>10005 8 0 0 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>13 8 0 0 2</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 27 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>10</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Er gewinnt fast nie, deswegen</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>nennt man ihn den Verlierer.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>13 8 0 0 0 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>17 8 0 0 2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>10</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Dann wäre da noch Karlos,</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>der Schmied.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>\.\.Er verdient sich hier nebenbei</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>paar Filar extra ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>\.\.Er hat schon mehr Kraft als</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Willo.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>17 8 0 0 0 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Aber unser richtiger Muskelberg</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>ist Rikus, der Armzerquetscher.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>18 8 0 0 2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>10</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Wenn er kämpft, bricht er dem</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Gegner öfters den Arm, also das</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>nur als Warnung vorweg.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>18 8 0 0 0 14</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Für den Sieg gegen Wallo gibt</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>es einen Punkt, für einen Sieg</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>gegen Karlos 5 Punkte und für einen</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Sieg gegen Rikus gibt es sogar 15</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Punkte. Aber das hat bisher noch</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>keiner geschafft.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Ein Kampf kostet 30 Filar,</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>und ihr müsst ganz einfach</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>stärker drücken als der Gegner.</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>          (Je schneller die Enter-Taste</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>           gedrückt wird, umso stärker</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>                drückt Valnar ...)</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>3</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>3</indent>
-        <string>Das wäre es eigentlich ...</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>10005 8 0 0 14</parameters>
+        <parameters>1 10005 3</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -2179,7 +1657,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2233,7 +1711,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2362,6 +1840,1300 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>T</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>18</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>!Raven Chara!</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>5</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Hier bitte ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10310</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 0 30</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Gegen wen wollt Ihr antreten ?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Hm ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 594 0 2 4 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>... erstmal gegen Willo !/... ich probier Karlos !/... ohne Gnade Rikus !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... erstmal gegen Willo !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 736 736 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... ich probier Karlos !</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 737 737 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... ohne Gnade Rikus !</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 738 738 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>1</indent>
+        <string>... erstmal gegen Willo !/... ich probier Karlos !/... ohne Gnade Rikus !/... C-C-C.... Clare...?</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... erstmal gegen Willo !</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 736 736 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... ich probier Karlos !</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 737 737 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... ohne Gnade Rikus !</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Na dann nimm auf dem linken</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Stuhl platz ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 738 738 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>1</indent>
+        <string>... C-C-C.... Clare...?</string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Uhh... und du bist dir da ganz sicher,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Kumpel? Hast du deine Memoiren </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>geschrieben? Spinner...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 529 529 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0003">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>T</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>18</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>!Raven Chara!</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>5</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 594 0 2 4 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Aber sicher !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Also, ihr könnt gegen drei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Gegner kämpfen.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Aber sicher !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Also, ihr könnt gegen vier</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Gegner kämpfen.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Da wäre zuerst Willo, der Verlierer !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10005 8 0 0 12</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>13 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Er gewinnt fast nie, deswegen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>nennt man ihn den Verlierer.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>13 8 0 0 0 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>17 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Dann wäre da noch Karlos,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>der Schmied.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Er verdient sich hier nebenbei</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>paar Filar extra ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Er hat schon mehr Kraft als</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Willo.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>17 8 0 0 0 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Aber unser richtiger Muskelberg</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>ist Rikus, der Armzerquetscher.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>18 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Wenn er kämpft, bricht er dem</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Gegner öfters den Arm, also das</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>nur als Warnung vorweg.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>18 8 0 0 0 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 594 0 2 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>24 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Zum Schluss </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>'TITENARM' Clare. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Sie ist für eure Arme so etwas</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>wie die Verkörperung des Todes. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Ihr Gesicht ist unschuldig, doch</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>ihr Biceps ist grausam. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>24 8 0 0 0 14</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 439 439 0 0 15 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 440 440 0 0 30 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 439 439 0 0 10 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 440 440 0 0 20 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 439 439 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 440 440 0 0 15 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 438 0 1 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Für den Sieg gegen Willo gibt</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>es einen Punkt, für einen Sieg</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>gegen Karlos \v[439] Punkte und für einen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Für den Sieg gegen Willo gibt</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>es \v[438] Punkte, für einen Sieg</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>gegen Karlos \v[439] Punkte und für einen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Sieg gegen Rikus gibt es sogar \v[440]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Punkte. Aber das hat bisher noch</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>keiner geschafft.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 594 0 2 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 30 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 25 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Für Clare gibt es \v[438], aber sein wir </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>ehrlich, eher finde ich einen Mann</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>als dass ihr Clare besiegt. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11550</code>
+        <indent>1</indent>
+        <string>ER_FiesaLacho</string>
+        <parameters>100 150 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>20</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ein Kampf kostet 30 Filar,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>und ihr müsst ganz einfach</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>stärker drücken als der Gegner.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>          (Je schneller die Enter-Taste</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>           gedrückt wird, umso stärker</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>                drückt Valnar ...)</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Das wäre es eigentlich ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10005 8 0 0 14</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
           <switch_a>T</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
@@ -2424,353 +3196,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2117 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Setzt euch auf den linken Stuhl</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>bitte !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>\.\.Dann gehts los !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2120 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10320</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 0 136 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 21 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2119 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 731 731 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-     <EventPage id="0003">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>737</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>!Raven Chara!</character_name>
-      <character_index>1</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>5</move_frequency>
-      <trigger>0</trigger>
-      <layer>1</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2103 2103 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 722 722 0 0 362 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 723 723 0 0 220 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 40 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2117 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10130</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>1</indent>
-        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>Setzt euch auf den linken Stuhl</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>bitte !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>1</indent>
-        <string>\.\.Dann gehts los !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2120 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10320</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 0 136 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 21 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2119 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 731 731 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-     <EventPage id="0004">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>738</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name>!Raven Chara!</character_name>
-      <character_index>1</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>5</move_frequency>
-      <trigger>0</trigger>
-      <layer>1</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2103 2103 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 722 722 0 0 362 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 723 723 0 0 220 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -2890,6 +3316,549 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
+        <switch_a_id>737</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>!Raven Chara!</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>5</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2103 2103 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 722 722 0 0 362 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 723 723 0 0 220 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 261 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2117 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Setzt euch auf den linken Stuhl</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>bitte !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Dann gehts los !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2120 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10320</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 136 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 21 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2119 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 731 731 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0006">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>738</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>!Raven Chara!</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>5</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2103 2103 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 722 722 0 0 362 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 723 723 0 0 220 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 261 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2117 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Setzt euch auf den linken Stuhl</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>bitte !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Dann gehts los !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2120 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10320</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 136 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 21 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2119 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 731 731 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0007">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>529</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>!Raven Chara!</character_name>
+      <character_index>1</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>5</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2103 2103 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 722 722 0 0 362 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 723 723 0 0 220 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 261 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2117 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Ihr wollt gegen </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>'TITANENARM-CLARE' antreten?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Wahnsinnige..............</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Setzt euch auf den linken Stuhl</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>bitte !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>\.\.Dann gehts los !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2120 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10320</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 0 136 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 21 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2119 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 731 731 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0008">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
         <switch_a_id>731</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
@@ -2955,7 +3924,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3037,7 +4006,7 @@
        </EventCommand>
       </event_commands>
      </EventPage>
-     <EventPage id="0006">
+     <EventPage id="0009">
       <condition>
        <EventPageCondition>
         <flags>
@@ -3062,7 +4031,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -3083,7 +4052,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0007">
+     <EventPage id="0010">
       <condition>
        <EventPageCondition>
         <flags>
@@ -3108,7 +4077,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -3129,7 +4098,7 @@
       </move_route>
       <event_commands></event_commands>
      </EventPage>
-     <EventPage id="0008">
+     <EventPage id="0011">
       <condition>
        <EventPageCondition>
         <flags>
@@ -3340,6 +4309,30 @@
         <indent>1</indent>
         <string>Naja, wenn Ihr nicht wollt ...</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 529 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 529 529 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -3566,7 +4559,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -3632,7 +4625,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3841,7 +4834,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3894,7 +4887,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -3940,7 +4933,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -4081,7 +5074,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -4147,7 +5140,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4356,7 +5349,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4415,7 +5408,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>Blutiges</character_name>
+      <character_name>Blutiges01</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -4461,7 +5454,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>z_Blutiges</character_name>
+      <character_name>Blutiges01_z</character_name>
       <character_index>0</character_index>
       <character_direction>1</character_direction>
       <character_pattern>1</character_pattern>
@@ -4650,7 +5643,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4722,7 +5715,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 365 0</parameters>
+        <parameters>0 368 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -4925,7 +5918,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -4997,7 +5990,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 365 0</parameters>
+        <parameters>0 368 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -5200,7 +6193,7 @@
         <code>12330</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5266,7 +6259,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 365 0</parameters>
+        <parameters>0 368 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11120</code>
@@ -5351,6 +6344,281 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 742 742 0</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>529</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>1</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 739 739 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 399 399 0 0 120 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 400 400 0 0 40 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 381 381 0 0 200 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 382 382 0 0 40 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10001 8 0 0 36 24 0 25 37 13</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>24 8 0 0 2 1 2 2 2 3 3 36 24 0 25 15 37</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1702 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2184 2184 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 407 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>1</indent>
+        <string>\&gt;\c[2]Aysha:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>Bitte brich ihm nicht</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>1</indent>
+        <string>den Arm, Clare...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 436 436 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1785 1785 0 0 11 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1782 1782 0 1 399 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1783 1783 0 1 400 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1784 1784 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1786 1786 0 0 100 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 368 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2 1 399 400 0 100 0 0 100 100 100 100 0 0 20 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>Clares</string>
+        <parameters>1 1 381 382 0 100 100 0 100 100 100 100 0 60</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1 381 382 0 100 0 0 100 100 100 100 0 14874688 20 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11110</code>
+        <indent>0</indent>
+        <string>zeiger</string>
+        <parameters>3 0 160 40 0 100 100 1 100 100 100 100 2 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>3 0 160 40 0 100 0 0 100 100 100 100 2 1 20 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11520</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2000</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>14 8 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 27 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>ACHTUNG !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>3 ...\.\. 2 ... \.\.1 ... \.\.LOS !!!!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>0</indent>
+        <string>VD2_Battle02</string>
+        <parameters>0 100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 530 530 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -5710,7 +6978,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5755,33 +7023,165 @@
         <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>2</indent>
         <string></string>
         <parameters>0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10110</code>
+        <code>12010</code>
         <indent>2</indent>
+        <string></string>
+        <parameters>1 438 0 1 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
         <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string>Gratulation !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string>\.\.Ich schreibe euch einen Punkt</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string>auf eure Karte.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Gratulation !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>\.\.Ich schreibe euch \v[438] Punkte</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>auf eure Karte.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -5794,7 +7194,7 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 9 9 1 0 1 0</parameters>
+        <parameters>0 9 9 1 1 438 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5902,7 +7302,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -5932,7 +7332,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6195,7 +7595,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6240,6 +7640,84 @@
         <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 15 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 10 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 5 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>2</indent>
         <string></string>
@@ -6260,7 +7738,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>2</indent>
-        <string>\.\.Ich schreibe euch 5 Punkte auf</string>
+        <string>\.\.Ich schreibe euch \v[438] Punkte auf</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6279,7 +7757,7 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 9 9 1 0 5 0</parameters>
+        <parameters>0 9 9 1 1 438 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6387,7 +7865,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6662,7 +8140,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6713,6 +8191,84 @@
         <parameters>14 8 0 0 15</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 30 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 20 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 15 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>2</indent>
         <string></string>
@@ -6739,7 +8295,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>2</indent>
-        <string>15 Punkte auf die Karte !</string>
+        <string>\v[438] Punkte auf die Karte !</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -6752,7 +8308,7 @@
         <code>10220</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 9 9 1 0 15 0</parameters>
+        <parameters>0 9 9 1 1 438 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -6866,7 +8422,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 332 0</parameters>
+        <parameters>0 407 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -6951,6 +8507,575 @@
         <indent>2</indent>
         <string></string>
         <parameters>0 742 742 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 739 739 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>4</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>530</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>4</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 399 399 2 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 381 381 2 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>2 1 399 400 0 100 0 0 100 100 100 100 0 5497976 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11120</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1 381 382 0 100 0 0 100 100 100 100 0 5497976 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 399 0 195 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>ER_Chara01</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\S[2]Bravo. Das Einzige, </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>das stärker ist als dein Herz,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>ist dein Arm, offenbar. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>2</indent>
+        <string>Thessa</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1702 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 407 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>\&gt;\c[2]Aysha:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Dass er sogar Clare besiegt...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Valnar ist echt der Geilste. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>24 8 0 0 24 36 2 25 1 1 0 0 0 3 0 14 37</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10001 8 0 0 24 36 2 25 37 13</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>14 8 0 0 15</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2378 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 50 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2379 0 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 30 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 438 438 0 0 25 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ich fasse es nicht........</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\. Was... ist gerade passiert?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Hier... \v[438] Punkte.......</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>..............</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\.\. Arschloch. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>14 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 9 9 1 1 438 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 530 530 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 529 529 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 739 739 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 381 0 125 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string>ER_Chara01</string>
+        <parameters>13 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>\S[2]Es tut mir so leid...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Ich bin sicher, ich hatte nur </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Glück... nicht aufgeben. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>2</indent>
+        <string>Thessa</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 33 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 1702 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2186 2186 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 407 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>\&gt;\c[2]Aysha:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Diese gottverdammte Lusche...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>24 8 0 0 24 36 2 25 1 1 0 0 0 3 0 14 37</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>10001 8 0 0 36 24 2 25 37</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>14 8 0 0 15</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>2</indent>
+        <string>\&gt;\c[11]Verwalterin beim Armdrücken:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>2</indent>
+        <string>Sucks to be you. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>14 8 0 0 2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 530 530 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 529 529 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -7462,10 +9587,683 @@
        </EventCommand>
       </event_commands>
      </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>530</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>12210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11610</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>401 1 0 1 1 0 1 1 1 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 401 0 5 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 399 399 1 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 381 381 1 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 399 0 195 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 381 0 125 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12220</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+    </pages>
+   </Event>
+   <Event id="0024">
+    <name>Clare</name>
+    <x>11</x>
+    <y>4</y>
+    <pages>
+     <EventPage id="0001">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>594</variable_id>
+        <variable_value>2</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Chara01</character_name>
+      <character_index>7</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>ER_Chara01</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Hallo, Herr Zauberer. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Hallo, werte Freunde des</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Zauberers. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 405 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[3]Asgar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>CLARE?!</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Was tust DU hier? </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>ER_Chara01</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Hihi, Ihr solltet mich nicht</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>unterschätzen. \.\. Ich habe das</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Glück, ein wenig kräftig zu sein.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]So verdiene ich mir</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>hier etwas hinzu, um mein</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Essen selbst bezahlen zu </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]können. Und natürlich</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>bringe ich dem netten Stier </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>manchmal etwas Süßes mit.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Ich glaube, er würde</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>an so etwas selbst nie denken. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 405 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[3]Asgar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Du bist wirklich zu rein für diese</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Welt.. und für Ronak. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>ER_Chara01</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Ich trage nur meinen</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Teil bei, Herr Zauberer. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Sprecht mit Zhara, falls </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Ihr oder Eure Freunde</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>es gegen mich versuchen möchten.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 527 527 0</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0002">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>527</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Chara01</character_name>
+      <character_index>7</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10130</code>
+        <indent>0</indent>
+        <string>ER_Chara01</string>
+        <parameters>12 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[7]Clare:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\S[2]Wollt ihr gegen mich </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Armdrücken, sprecht mit Zhara. </string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0003">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>731</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Chara01</character_name>
+      <character_index>7</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>3</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>11010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 528 528 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11020</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2182 2182 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 405 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>\&gt;\c[3]Asgar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Ich habe Clare ins Schloss geschickt. </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>\.\.Hoffentlich vermisst sie den </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>Verdienst nicht zu sehr. </string>
+        <parameters></parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0004">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>528</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>4</move_frequency>
+      <trigger>0</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>2</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
     </pages>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>196</save_count>
+  <save_count>218</save_count>
  </Map>
 </LMU>

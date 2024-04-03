@@ -699,7 +699,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 40 0</parameters>
+        <parameters>0 261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
@@ -777,7 +777,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -825,7 +825,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -891,7 +891,7 @@
         <code>12330</code>
         <indent>4</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -940,6 +940,12 @@
         <indent>5</indent>
         <string></string>
         <parameters>-1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2123 2123 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -996,6 +1002,12 @@
         <parameters>-1</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2123 2123 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10810</code>
         <indent>5</indent>
         <string></string>
@@ -1048,6 +1060,12 @@
         <indent>5</indent>
         <string></string>
         <parameters>-1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>5</indent>
+        <string></string>
+        <parameters>0 2123 2123 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10810</code>
@@ -1299,7 +1317,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1371,7 +1389,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1425,7 +1443,7 @@
         <code>12330</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 329 0</parameters>
+        <parameters>0 404 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -2148,6 +2166,71 @@
        <EventPageCondition>
         <flags>
          <EventPageCondition_Flags>
+          <switch_a>T</switch_a>
+          <switch_b>F</switch_b>
+          <variable>F</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>744</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>1</variable_id>
+        <variable_value>0</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name></character_name>
+      <character_index>0</character_index>
+      <character_direction>2</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>3</move_frequency>
+      <trigger>3</trigger>
+      <layer>0</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>0</animation_type>
+      <move_speed>3</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 744 744 1</parameters>
+       </EventCommand>
+      </event_commands>
+     </EventPage>
+     <EventPage id="0005">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
           <switch_a>F</switch_a>
           <switch_b>F</switch_b>
           <variable>F</variable>
@@ -2188,6 +2271,18 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>10210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2123 2123 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>2</parameters>
+       </EventCommand>
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
@@ -2236,18 +2331,12 @@
         <string></string>
         <parameters>0 747 747 1</parameters>
        </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2206 2206 1</parameters>
-       </EventCommand>
       </event_commands>
      </EventPage>
     </pages>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>190</save_count>
+  <save_count>199</save_count>
  </Map>
 </LMU>

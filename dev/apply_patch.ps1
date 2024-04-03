@@ -11,7 +11,7 @@ $settings.Encoding = $utf8
 $edbFile = "RPG_RT.edb"
 $emtFile = "RPG_RT.emt"
 
-$patchFile = "patches.xml"
+$patchFile = "_patch/patches.xml"
 
 
 $patchXml = [xml](Get-Content -Path $patchFile -Encoding UTF8)

@@ -82,30 +82,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1082 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>10001 8 0 0 29</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -115,7 +91,7 @@
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 562 562 0 0 107 0</parameters>
+        <parameters>0 562 562 0 0 134 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -382,6 +358,30 @@
         <parameters>0 2223 2223 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 1 0 1337 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2226 2226 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10</code>
         <indent>1</indent>
         <string></string>
@@ -467,6 +467,54 @@
        </EventCommand>
        <EventCommand>
         <code>22210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2238 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>1</indent>
+        <string>Because this is a custom menu, we need to manually reset the translation by changing maps back and forth</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10810</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>571 9 10</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>1 2241 2300 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2238 2238 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
@@ -560,6 +608,30 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1082 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>10001 8 0 0 29</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
        <EventCommand>
         <code>10610</code>
         <indent>0</indent>
@@ -669,16 +741,142 @@
         <parameters>0 1927 1927 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12330</code>
+        <code>10120</code>
         <indent>3</indent>
+        <string></string>
+        <parameters>1 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>           \c[5]- Hinweis zum Spielstart -\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>    Mit der gewählten Option startet das Spiel</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>   standardmäßig ohne aktivierte Zusatzinhalte,</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>  in einer Form, die weitestgehend der Original-</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>         \c[5]- Hinweis zum Spielstart -\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string> Version von \c[2]Vampires Dawn\c[0] ("Vanilla") entspricht.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string> </string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string> (Bis auf technische Verbesserungen und Bugfixes)</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>1 2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>       Mit \c[2]"Vanilla VD"\c[0] fortfahren?</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>3</indent>
+        <string>Fortfahren/Mod-Einstellungen bearbeiten/Zurück zum Titelbildschirm</string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>3</indent>
+        <string>Fortfahren</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>4</indent>
         <string></string>
         <parameters>0 7 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12120</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>3</indent>
+        <string>Mod-Einstellungen bearbeiten</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12220</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>3</indent>
+        <string>Zurück zum Titelbildschirm</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12510</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -703,12 +901,6 @@
         <indent>3</indent>
         <string></string>
         <parameters>0 1062 1062 0 0 1 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>0 7 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -744,7 +936,31 @@
         <code>10220</code>
         <indent>3</indent>
         <string></string>
+        <parameters>0 1073 1073 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2346 2346 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2352 2352 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
         <parameters>0 1062 1062 0 0 2 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 1072 1072 0 0 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -757,12 +973,6 @@
         <indent>3</indent>
         <string></string>
         <parameters>0 1483 1483 0 0 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>0 7 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -795,6 +1005,30 @@
         <parameters>0 1069 1069 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2346 2346 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2352 2352 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 1062 1062 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 1072 1072 0 0 1 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10220</code>
         <indent>3</indent>
         <string></string>
@@ -811,12 +1045,6 @@
         <indent>3</indent>
         <string></string>
         <parameters>0 999 999 0 0 2 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>3</indent>
-        <string></string>
-        <parameters>0 7 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -877,6 +1105,126 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 2 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>            \c[5]Schwierigkeitsgrad wählen:</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10140</code>
+        <indent>0</indent>
+        <string>Leicht/Normal/Schwer</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Leicht</string>
+        <parameters>0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2378 2378 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2379 2379 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2380 2380 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Normal</string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2378 2378 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2379 2379 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2380 2380 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20140</code>
+        <indent>0</indent>
+        <string>Schwer</string>
+        <parameters>2</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2378 2378 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2379 2379 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2380 2380 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20141</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 7 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10120</code>
@@ -990,7 +1338,7 @@
         <code>10120</code>
         <indent>0</indent>
         <string></string>
-        <parameters>1 1 0 0</parameters>
+        <parameters>1 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1158,7 +1506,7 @@
         <code>10120</code>
         <indent>2</indent>
         <string></string>
-        <parameters>1 2 0 0</parameters>
+        <parameters>1 1 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1290,7 +1638,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 307 0</parameters>
+        <parameters>0 322 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -1326,7 +1674,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 286 0</parameters>
+        <parameters>0 281 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10330</code>
@@ -1464,6 +1812,12 @@
         <indent>2</indent>
         <string>        \c[4]New Game+\c[0] wieder ändern.</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1 2 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -1637,7 +1991,7 @@
         <code>12330</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 307 0</parameters>
+        <parameters>0 322 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -1757,7 +2111,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 308 0</parameters>
+        <parameters>0 305 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -1769,7 +2123,7 @@
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 335 0</parameters>
+        <parameters>0 323 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -3142,7 +3496,7 @@
         <code>10210</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 2243 2243 0</parameters>
+        <parameters>0 2228 2228 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12220</code>
@@ -3194,6 +3548,78 @@
        </EventCommand>
        <EventCommand>
         <code>22210</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 2228 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2237 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2237 2237 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12410</code>
+        <indent>2</indent>
+        <string>Show translation menu on first startup ...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>5005</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2238 2238 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2242 2242 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 2244 2244 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
@@ -3274,7 +3700,7 @@
         <code>12010</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 2243 0 0 0 1</parameters>
+        <parameters>0 2228 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -3442,7 +3868,7 @@
         <code>12010</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2243 0 0 0 1</parameters>
+        <parameters>0 2228 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
@@ -3601,10 +4027,10 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>10610</code>
+        <code>12330</code>
         <indent>0</indent>
-        <string>Special Special Edition!</string>
-        <parameters>23</parameters>
+        <string></string>
+        <parameters>0 341 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>3007</code>
@@ -3774,7 +4200,7 @@
         <code>10210</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 2243 2243 1</parameters>
+        <parameters>0 2228 2228 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -3816,7 +4242,7 @@
         <code>12010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 2243 0 0 0 1</parameters>
+        <parameters>0 2228 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -4101,100 +4527,6 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2287 2287 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2290 2290 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 1602 1602 0 0 11 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 1630 1630 0 0 160 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 1631 1631 0 0 32 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 1605 1605 0 0 1 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1440 0 0 3 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 1605 1605 0 1 1440 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 349 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>0</indent>
-        <string>&#xe001;&#xe001;&#xe001;</string>
-        <parameters>16777216 420 32 32 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 256 192 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>0</indent>
-        <string>&#xe001;Vampires Dawn: Reign of Blood
-Soundtrack
-Special Edition
-Englische Übersetzung
-Aysha-Mod
-Everlasting Reign
-Valaine-Mod
-TrunX' Mods
-MP3 Upgrade
-Grafische Überarbeitungen
-Betatester&#xe001;&#xe001;</string>
-        <parameters>16777216 431 32 32 100 0 100 100 100 100 0 0 0 4096 262145 7 0 97 256 192 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11110</code>
-        <indent>0</indent>
-        <string>CE_SelectionCreditScreen</string>
-        <parameters>427 1 1630 1631 0 100 0 1 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 97</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>11020</code>
         <indent>0</indent>
         <string></string>
@@ -4204,205 +4536,43 @@ Betatester&#xe001;&#xe001;</string>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 350 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11610</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1617 0 0 1 1 0 1 1 1 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12110</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 351 0</parameters>
+        <parameters>0 370 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12010</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string></string>
-        <parameters>1 1617 0 6 0 0</parameters>
+        <parameters>1 1674 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11550</code>
-        <indent>2</indent>
-        <string>A_Claw2</string>
-        <parameters>100 100 50</parameters>
+        <code>10210</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2246 2246 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>11010</code>
-        <indent>2</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>19</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11410</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10210</code>
-        <indent>2</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 2245 2245 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10</code>
-        <indent>2</indent>
+        <indent>1</indent>
         <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 1617 0 5 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11550</code>
-        <indent>2</indent>
-        <string>A_Claw2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>19</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10220</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 1440 1440 0 1 1605 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2247 2247 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 352 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2291 0 0 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2291 2291 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22210</code>
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12330</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 353 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12110</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2246 2246 1</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -4690,26 +4860,32 @@ Zurück&#xe001;&#xe001;</string>
         <parameters>100 100 50</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10220</code>
+        <code>12010</code>
         <indent>3</indent>
+        <string></string>
+        <parameters>0 2226 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>4</indent>
         <string></string>
         <parameters>0 1439 1439 0 0 2 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string>MANIACS:</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>3007</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string>&#xe001;\c[2]Hinweis:\c[0]
 Die Version 0.8 des EasyRPG-Players beinhaltet
 leider noch kein Skript-Kommando, um die Sprache
@@ -4725,19 +4901,19 @@ werden:
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>0 2261 2261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
-        <parameters>0 372 0</parameters>
+        <parameters>0 369 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>3007</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string>&#xe001;\c[2]Note:\c[0]
 Version 0.8 of the EasyRPG-Player's interpreter
 doesn't yet include a script command that would
@@ -4753,15 +4929,69 @@ Windows:
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>3</indent>
+        <indent>4</indent>
         <string></string>
         <parameters>0 2261 2261 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 369 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
         <indent>3</indent>
         <string></string>
-        <parameters>0 372 0</parameters>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11950</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>7</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 2238 2238 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 2242 2242 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>0 2244 2244 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12120</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters>3</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>4</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -4965,640 +5195,6 @@ Windows:
      </EventPage>
     </pages>
    </Event>
-   <Event id="0012">
-    <name>EV0012</name>
-    <x>5</x>
-    <y>10</y>
-    <pages>
-     <EventPage id="0001">
-      <condition>
-       <EventPageCondition>
-        <flags>
-         <EventPageCondition_Flags>
-          <switch_a>T</switch_a>
-          <switch_b>F</switch_b>
-          <variable>F</variable>
-          <item>F</item>
-          <actor>F</actor>
-          <timer>F</timer>
-          <timer2>F</timer2>
-         </EventPageCondition_Flags>
-        </flags>
-        <switch_a_id>2247</switch_a_id>
-        <switch_b_id>1</switch_b_id>
-        <variable_id>1</variable_id>
-        <variable_value>0</variable_value>
-        <item_id>1</item_id>
-        <actor_id>1</actor_id>
-        <timer_sec>0</timer_sec>
-        <timer2_sec>0</timer2_sec>
-        <compare_operator>1</compare_operator>
-       </EventPageCondition>
-      </condition>
-      <character_name></character_name>
-      <character_index>0</character_index>
-      <character_direction>2</character_direction>
-      <character_pattern>1</character_pattern>
-      <translucent>F</translucent>
-      <move_type>0</move_type>
-      <move_frequency>3</move_frequency>
-      <trigger>4</trigger>
-      <layer>0</layer>
-      <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>0</animation_type>
-      <move_speed>3</move_speed>
-      <move_route>
-       <MoveRoute>
-        <move_commands></move_commands>
-        <repeat>T</repeat>
-        <skippable>F</skippable>
-       </MoveRoute>
-      </move_route>
-      <event_commands>
-       <EventCommand>
-        <code>11130</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>420 2 449</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 1 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Vanilla VD</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Vampires Dawn: Reign of Blood\c[0]
-Original-Spiel erstellt von:
-\c[4]Alexander "Marlex" Koch\c[0]
-
-Offizielle Website:
-\c[4]https://vampiresdawn.de\c[0]
-
-Fan-Website &amp; Discord:
-\c[4]https://vampiresdawn.org\c[0]&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 160 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 2 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Soundtrack</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Hinweis:\c[0]
-Eine ausführliche Dokumentation der verwendeten
-Musikstücke befindet sich im Spielordner unter:
- \c[1]\\_Documentation\\Soundtrack.mhtml\c[0]
-
-Die aktuellste Version dieses Dokuments kann
-auf \c[4]https://makerpendium.de\c[0] abgerufen werden.&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 128 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 3 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Special Edition</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Special Edition\c[0]
-Erstellt von: \c[4]Plasquar\c[0]
-
-\c[3]Auf Wunsch von Plasquar aus der Community Edition
-entfernt.\c[0]&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 96 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 4 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Englische Übersetzung</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Englische Übersetzung\c[0]
- Original-Spiel übersetzt von: \c[4]kj150\c[0]
- Inhalte der Valaine-Mod:
-   \c[4]ValnarsZimmerKatze\c[0] &amp; \c[4]SnowyDoe\c[0]
- Zusätzliche Inhalte: \c[4]Käsekumpel\c[0]
-
-\c[2]Nicht übersetzt in Version 1.0:\c[0]
- \c[1]Special Edition\c[0]
- \c[1]Everlasting Reign\c[0]&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 160 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 5 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Aysha-Mod</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Aysha-Mod\c[0]
- aka. \c[1]"Aysha Edition"\c[0]
- Erstellt von: \c[4]kj150\c[0]
- Deutsche Übersetzung: \c[4]Yoraiko\c[0]
-
-Ermöglicht das Freischalten eines alternativen
-Spielpfades, welcher neue Szenen, Quests,
-ein lebendiges Tradan und 2 neue Enden beinhaltet.&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 144 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 6 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Everlasting Reign</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Everlasting Reign\c[0]
- \c[1]"Special Mega Aysha Everlasting Reign Edition"\c[0]
- Erstellt von: \c[4]Yoraiko\c[0]
-
-Beinhaltet neue freischaltbare Charaktere für
-das Schloss, einige Komfort-Updates wie
-zB. einen Pfadeschaffer, einen alternativen
-Endgame-Level, sowie mehrere Postgame-Orte
-&amp; Bosse.&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 160 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 7 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Valaine-Mod</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Valaine-Mod\c[0]
- Erstellt von: \c[4]ValnarsZimmerKatze\c[0] &amp; \c[4]SnowyDoe\c[0]
- (englische &amp; deutsche Version)
-
-Beinhaltet die neue Stadt \c[1]Linar\c[0], zahlreiche neue
-Side-Quests, sowie eine komplett neue Questline,
-welche Alaines Vergangenheit beleuchtet.
-Neue freischaltbare Szenen + Dialoge zwischen
-Valnar &amp; Alaine. Zudem ein alternatives böses
-Ende und eine erweitertes kanonisches Ende.&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 176 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 8 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>TrunX´ Mods</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Mods von TrunX\c[0]
-Hier noch einmal ein herzliches Danke an \c[4]TrunX\c[0],
-der die Community immer wieder mit neuen Mods
-bereichert.
-
-Enthalten sind als Teil von \c[2]Everlasting Reign\c[0] :
-$r Speichern im Sarg
-$r Valnars Zimmerkatze (Fluchtcounter-Reset)
-$r Begehbare Speisekammer
-
-Weitere werden in zukünftigen Versionen folgen!&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 9 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>MP3 Upgrade</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]MP3 Upgrade\c[0]
-Die MP3-Remasters der originalen MIDI-Dateien
-wurden von Zippo_The_Mad_Mechanic abgemischt.&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 64 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 10 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Grafische Überarbeitungen</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Grafische Überarbeitungen\c[0]
-Einige übearbeiteten Sprites wurden von
-\c[4]Makoto (Atavarias)\c[0] zur freien Verwendung im
-VD-Forum bereitgestellt.
-
-Weiters wurden einige Grafiken von \c[4]Käsekumpel\c[0]
-beigesteuert, von denen eine Vielzahl auf Edits
-verschiedenster Quellen basieren:
-$r Aus den Ressourcen von VD1 &amp; anderer VD-Teile
-$r Shirorajiya (http://hi79.web.fc2.com/)
-$r EasyRPG RTP (CC0 &amp; CC-By VictorSena)&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1605 0 11 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>Betatester</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>3007</code>
-        <indent>1</indent>
-        <string>&#xe001;\c[2]Betatester\c[0]
- \c[1]Vampires Dawn - Reign of Blood\c[0] :
-  \c[4]Ranmaru\c[0] (als DarkSoul), \c[4]PhoenixFlame\c[0], \c[4]Strife\c[0],
-  \c[4]Raziel\c[0], \c[4]DarkKing\c[0], \c[4]Kynetic\c[0], \c[4]Square\c[0], \c[4]GSandSDS\c[0]
-
- \c[1]"Special Mega Aysha Everlasting Reign Edition"\c[0] :
-  \c[4]Käsekumpel\c[0], \c[4]Hambikatze\c[0], \c[4]Salzregent\c[0]
-
- \c[1]Community Edition\c[0] :
-  \c[4]Nictus\c[0], \c[4]Yoraiko\c[0], \c[4]ValnarsZimmerKatze\c[0], 
-  \c[4]DannyEightyFive\c[0], \c[4]Hambikatze\c[0]&#xe001;&#xe001;</string>
-        <parameters>0 420 160 120 100 0 100 100 100 100 0 0 0 256 262145 7 0 97 320 192 12</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11020</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>19</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11610</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1617 0 0 1 1 0 1 1 1 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 1617 0 5 5 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12220</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11610</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1617 0 0 1 1 0 1 1 1 1</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12110</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>2</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12010</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>1 1617 0 5 1 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11550</code>
-        <indent>2</indent>
-        <string>A_Claw2</string>
-        <parameters>100 100 50</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11010</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>19</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>11410</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>0 2246 2246 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12120</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>2</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12110</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>3</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10210</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2247 2247 1</parameters>
-       </EventCommand>
-      </event_commands>
-     </EventPage>
-    </pages>
-   </Event>
    <Event id="0013">
     <name>SkinVincent</name>
     <x>12</x>
@@ -5700,6 +5296,6 @@ $r EasyRPG RTP (CC0 &amp; CC-By VictorSena)&#xe001;&#xe001;</string>
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>765</save_count>
+  <save_count>827</save_count>
  </Map>
 </LMU>
