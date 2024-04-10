@@ -1530,22 +1530,40 @@
         <parameters>26</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10220</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 2006 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
         <string></string>
         <parameters>0 3041 3041 0 0 172 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 3042 3042 0 0 173 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
-        <indent>0</indent>
+        <indent>1</indent>
         <string></string>
         <parameters>0 791 791 0 0 24 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -2577,6 +2595,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>111</save_count>
+  <save_count>113</save_count>
  </Map>
 </LMU>

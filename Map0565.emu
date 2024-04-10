@@ -2989,6 +2989,12 @@
         <code>10210</code>
         <indent>6</indent>
         <string></string>
+        <parameters>0 2417 2417 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>6</indent>
+        <string></string>
         <parameters>0 2015 2015 0</parameters>
        </EventCommand>
        <EventCommand>
@@ -3120,8 +3126,8 @@
        <EventCommand>
         <code>10130</code>
         <indent>0</indent>
-        <string>RAINBOWS</string>
-        <parameters>0 0 0</parameters>
+        <string>ER_Summons04</string>
+        <parameters>1 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
@@ -3177,6 +3183,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>38</save_count>
+  <save_count>42</save_count>
  </Map>
 </LMU>

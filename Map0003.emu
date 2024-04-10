@@ -85,13 +85,13 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2225 2225 0</parameters>
+        <parameters>0 2225 2225 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 562 562 0 0 134 0</parameters>
+        <parameters>0 562 562 0 0 137 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -204,7 +204,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>1</indent>
-        <string>      führen.                       \c[2]~Käsekumpel</string>
+        <string>      führen.                       \c[2]~Spatzenfärber</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -1149,6 +1149,30 @@
         <parameters>0 2380 2380 1</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>4 115 1 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10320</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 0 115 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10</code>
         <indent>1</indent>
         <string></string>
@@ -1225,36 +1249,6 @@
         <indent>0</indent>
         <string></string>
         <parameters>0 7 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10120</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>1 1 0 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10110</code>
-        <indent>0</indent>
-        <string>         \c[5]- Hinweis zum Einstellungs-Menü -\c[0]</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string> Um detaillierte Beschreibungen für die einzelnen   </string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>   Spieleinstellungen zu erhalten, die $s-Taste</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>20110</code>
-        <indent>0</indent>
-        <string>betätigen, während die oberste Zeile markiert ist.</string>
-        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11550</code>
@@ -1398,6 +1392,36 @@
         <code>20141</code>
         <indent>0</indent>
         <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10120</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>1 1 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>0</indent>
+        <string>                    \c[5]- Hinweis -\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>  Einige Einstellungen, sowie das Aussehen des</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>   Schlosses, können später (nach dem Intro) am</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>0</indent>
+        <string>    Dach von Asgars  Schloss angepasst werden.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3197,7 +3221,7 @@
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 2289 0 0 0 0</parameters>
+        <parameters>0 2266 0 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -3245,7 +3269,7 @@
         <code>12010</code>
         <indent>2</indent>
         <string></string>
-        <parameters>0 2289 1 0 0 0</parameters>
+        <parameters>0 2266 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -5296,6 +5320,6 @@ Windows:
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>827</save_count>
+  <save_count>833</save_count>
  </Map>
 </LMU>

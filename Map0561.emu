@@ -4858,6 +4858,12 @@
         <parameters>5 11 0 0 0 1</parameters>
        </EventCommand>
        <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2325 2325 2</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>3</indent>
         <string></string>
@@ -4874,6 +4880,12 @@
         <indent>3</indent>
         <string>\|</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2325 2325 2</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -5541,6 +5553,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>54</save_count>
+  <save_count>56</save_count>
  </Map>
 </LMU>

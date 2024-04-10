@@ -59,6 +59,8 @@ cp dev/CE_Release.png CharSet/CE_Debug.png
 cp dev/CE_Loot01_release.png CharSet/CE_Loot01.png
 cp dev/CE_Loot02_release.png CharSet/CE_Loot02.png
 
+python -m mkdocs build -f dev/vdce-docs/mkdocs.yml -d ../../_Documentation/
+
 mkdir build
 cp -R _Extras build/
 cp -R _Documentation build/
