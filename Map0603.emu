@@ -181,7 +181,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Meta</character_name>
+      <character_name>ER_Meta01</character_name>
       <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
@@ -219,7 +219,7 @@
         <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>705</variable_id>
-        <variable_value>101</variable_value>
+        <variable_value>103</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
         <timer_sec>0</timer_sec>
@@ -325,7 +325,7 @@
         <switch_a_id>1</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>705</variable_id>
-        <variable_value>102</variable_value>
+        <variable_value>104</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
         <timer_sec>0</timer_sec>
@@ -357,7 +357,7 @@
     </pages>
    </Event>
    <Event id="0005">
-    <name>Spatzenfärber</name>
+    <name>Fake-Käsekumpel</name>
     <x>14</x>
     <y>9</y>
     <pages>
@@ -386,8 +386,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Meta</character_name>
-      <character_index>4</character_index>
+      <character_name>ER_Meta01</character_name>
+      <character_index>5</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -425,6 +425,52 @@
         <switch_b_id>1</switch_b_id>
         <variable_id>705</variable_id>
         <variable_value>101</variable_value>
+        <item_id>1</item_id>
+        <actor_id>1</actor_id>
+        <timer_sec>0</timer_sec>
+        <timer2_sec>0</timer2_sec>
+        <compare_operator>1</compare_operator>
+       </EventPageCondition>
+      </condition>
+      <character_name>ER_Meta01</character_name>
+      <character_index>6</character_index>
+      <character_direction>1</character_direction>
+      <character_pattern>1</character_pattern>
+      <translucent>F</translucent>
+      <move_type>0</move_type>
+      <move_frequency>8</move_frequency>
+      <trigger>0</trigger>
+      <layer>1</layer>
+      <overlap_forbidden>F</overlap_forbidden>
+      <animation_type>3</animation_type>
+      <move_speed>5</move_speed>
+      <move_route>
+       <MoveRoute>
+        <move_commands></move_commands>
+        <repeat>T</repeat>
+        <skippable>F</skippable>
+       </MoveRoute>
+      </move_route>
+      <event_commands></event_commands>
+     </EventPage>
+     <EventPage id="0003">
+      <condition>
+       <EventPageCondition>
+        <flags>
+         <EventPageCondition_Flags>
+          <switch_a>F</switch_a>
+          <switch_b>F</switch_b>
+          <variable>T</variable>
+          <item>F</item>
+          <actor>F</actor>
+          <timer>F</timer>
+          <timer2>F</timer2>
+         </EventPageCondition_Flags>
+        </flags>
+        <switch_a_id>1</switch_a_id>
+        <switch_b_id>1</switch_b_id>
+        <variable_id>705</variable_id>
+        <variable_value>102</variable_value>
         <item_id>1</item_id>
         <actor_id>1</actor_id>
         <timer_sec>0</timer_sec>
@@ -485,7 +531,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Meta</character_name>
+      <character_name>ER_Meta01</character_name>
       <character_index>7</character_index>
       <character_direction>0</character_direction>
       <character_pattern>0</character_pattern>
@@ -853,8 +899,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Meta</character_name>
-      <character_index>5</character_index>
+      <character_name>ER_Meta02</character_name>
+      <character_index>0</character_index>
       <character_direction>2</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -906,7 +952,7 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>ER_Meta</character_name>
+      <character_name>ER_Meta01</character_name>
       <character_index>6</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
@@ -2836,7 +2882,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Spatzenfärber?</string>
+        <string>Fake-Käsekumpel?</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -2909,12 +2955,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -2945,12 +2991,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -2974,7 +3020,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3029,12 +3075,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3058,7 +3104,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3107,12 +3153,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3136,7 +3182,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3160,7 +3206,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3184,7 +3230,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3257,12 +3303,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3286,7 +3332,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3359,12 +3405,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3419,12 +3465,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3448,7 +3494,7 @@
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3497,12 +3543,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3551,12 +3597,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3617,12 +3663,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3659,12 +3705,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3688,7 +3734,7 @@
        <EventCommand>
         <code>20110</code>
         <indent>0</indent>
-        <string>Und dass ich mich Spatzenfärber nicht</string>
+        <string>Und dass ich mich Fake-Käsekumpel nicht</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3707,12 +3753,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3749,12 +3795,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3797,12 +3843,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3839,12 +3885,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3911,12 +3957,12 @@
         <code>10130</code>
         <indent>0</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>0</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3959,12 +4005,12 @@
         <code>10130</code>
         <indent>1</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>1</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3986,9 +4032,15 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>10220</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 705 705 0 0 101 0</parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10110</code>
         <indent>1</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -3996,6 +4048,12 @@
         <indent>1</indent>
         <string>Kwe kwe kwe!</string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11410</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>5</parameters>
        </EventCommand>
        <EventCommand>
         <code>11210</code>
@@ -4301,7 +4359,7 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 705 705 0 0 101 0</parameters>
+        <parameters>0 705 705 0 0 103 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -4337,7 +4395,7 @@
         <code>10220</code>
         <indent>1</indent>
         <string></string>
-        <parameters>0 705 705 0 0 102 0</parameters>
+        <parameters>0 705 705 0 0 104 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>11410</code>
@@ -4349,12 +4407,12 @@
         <code>10130</code>
         <indent>1</indent>
         <string>ER_Meta</string>
-        <parameters>5 0 0</parameters>
+        <parameters>10 0 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10110</code>
         <indent>1</indent>
-        <string>\&gt;\c[12]Spatzenfärber:\c[0]</string>
+        <string>\&gt;\c[12]Fake-Käsekumpel:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -9367,6 +9425,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>23</save_count>
+  <save_count>31</save_count>
  </Map>
 </LMU>

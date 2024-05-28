@@ -85,7 +85,7 @@
         <code>10210</code>
         <indent>0</indent>
         <string></string>
-        <parameters>0 2225 2225 1</parameters>
+        <parameters>0 2225 2225 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -3589,40 +3589,58 @@
         <parameters>0 2237 1 0 0 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10210</code>
+        <code>12010</code>
         <indent>2</indent>
+        <string></string>
+        <parameters>0 2226 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
         <string></string>
         <parameters>0 2237 2237 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12410</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string>Show translation menu on first startup ...</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>5005</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>0 2238 2238 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>0 2242 2242 1</parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
-        <indent>2</indent>
+        <indent>3</indent>
         <string></string>
         <parameters>0 2244 2244 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10</code>
@@ -5320,6 +5338,6 @@ Windows:
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>833</save_count>
+  <save_count>835</save_count>
  </Map>
 </LMU>
