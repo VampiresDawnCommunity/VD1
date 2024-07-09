@@ -13,6 +13,12 @@ $contents = $contents.Replace("<parameters>0 2225 2225 0</parameters>", "<parame
 
 ./lcf2xml.exe "Map0003.emu"
 
+./lcf2xml.exe "RPG_RT.ldb"
+$contents = [System.IO.File]::ReadAllText("RPG_RT.edb")
+$contents = $contents.Replace("<parameters>0 562 562 0 0 " + $versionString + " 0</parameters>", "<parameters>0 562 562 0 0 " + $newBuild + " 0</parameters>")
+[System.IO.File]::WriteAllText("RPG_RT.edb", $contents)
+./lcf2xml.exe "RPG_RT.edb"
+
 rm *.emu
 
 ./lcf2xml.exe "RPG_RT.ldb"

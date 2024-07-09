@@ -11,6 +11,8 @@ msgstr ""
 msgctxt "actors.name"
 msgid "Valnar"
 msgstr ""
+"\\>\\c[2]Valnar:\\c[0]\n"
+"Yes, why?"
 
 msgctxt "actors.title"
 msgid "Krieger"
@@ -1366,7 +1368,7 @@ msgstr "%S stings!"
 
 msgctxt "skills.name"
 msgid "Schwerer Schlag"
-msgstr ""
+msgstr "Heavy Blow"
 
 msgctxt "skills.name"
 msgid "Sonnenstrahl"
@@ -1418,7 +1420,7 @@ msgstr "%S breathes fire!"
 
 msgctxt "skills.name"
 msgid "Pesthauch"
-msgstr ""
+msgstr "Blight"
 
 msgctxt "skills.using_message1"
 msgid "%S haucht ekligen Gestank !"
@@ -1450,7 +1452,7 @@ msgstr "%S casts Confusion!"
 
 msgctxt "skills.name"
 msgid "Klingenregen"
-msgstr ""
+msgstr "Blade Storm"
 
 msgctxt "skills.using_message1"
 msgid "%S zaubert Klingenregen !"
@@ -1542,7 +1544,7 @@ msgstr ""
 
 msgctxt "skills.name"
 msgid "Blutstarre"
-msgstr ""
+msgstr "Blood Freeze"
 
 msgctxt "skills.using_message1"
 msgid "%S zaubert Blutstarre !"
@@ -1574,7 +1576,7 @@ msgstr "%S butchers about!"
 
 msgctxt "skills.name"
 msgid "Kalter Griff"
-msgstr ""
+msgstr "Cold Grip"
 
 msgctxt "skills.using_message1"
 msgid "%S zaubert Kalter Griff !"
@@ -2499,6 +2501,46 @@ msgstr ""
 msgctxt "skills.using_message1"
 msgid "%S wirft einen Hexenknall!"
 msgstr ""
+
+msgctxt "skills.name"
+msgid "--Valaine Update--"
+msgstr ""
+
+msgctxt "skills.description"
+msgid "Scharfe Klingen bringen alle Gegner zum Bluten"
+msgstr "Sharp blades make all enemies bleed"
+
+msgctxt "skills.using_message1"
+msgid " zaubert Klingenregen!"
+msgstr "casts Blade Storm!"
+
+msgctxt "skills.description"
+msgid "Ein starker Zauber, der alle Gegner schädigt"
+msgstr "A powerful spell that damages all enemies"
+
+msgctxt "skills.using_message1"
+msgid " zaubert Blutstarre!"
+msgstr "casts Blood Freeze!"
+
+msgctxt "skills.description"
+msgid "Verwirrt und lähmt alle Gegner"
+msgstr "Confuses and paralyzes all enemies"
+
+msgctxt "skills.using_message1"
+msgid " zaubert Kalter Griff!"
+msgstr "casts Cold Grip!"
+
+msgctxt "skills.description"
+msgid "Macht alle Gegner blind und stumm"
+msgstr "Silences and blinds all enemies"
+
+msgctxt "skills.using_message1"
+msgid " haucht ekligen Gestank!"
+msgstr "breathes a disgusting stench!"
+
+msgctxt "skills.description"
+msgid "Verletzt und bringt einen Gegner zum Bluten"
+msgstr "Damages and causes an enemy to bleed"
 
 msgctxt "items.name"
 msgid "Schmerzmittel"
@@ -4949,6 +4991,14 @@ msgid "Rot mit vielen schwarzen Venen"
 msgstr "Red with many black veins."
 
 msgctxt "items.name"
+msgid "Mitternachtssamen"
+msgstr "Midnight Seed"
+
+msgctxt "items.description"
+msgid "Schwarz wie die Nacht."
+msgstr "Black as the night."
+
+msgctxt "items.name"
 msgid "-----Garden------"
 msgstr ""
 
@@ -5167,6 +5217,14 @@ msgstr "Valnar's Armor"
 msgctxt "items.description"
 msgid "Schutz vor gelähmt und verwirrt, +213 DEF"
 msgstr "Protects from paralyze and confused, +213 DEF"
+
+msgctxt "items.name"
+msgid "Magische Kiste"
+msgstr "Magic Crate"
+
+msgctxt "items.description"
+msgid "Für genau 20 magische Hasen."
+msgstr "For exactly 20 magic Bunnies."
 
 msgctxt "items.name"
 msgid "-- ER Update --"
@@ -5429,6 +5487,14 @@ msgid "Blutelixier+"
 msgstr ""
 
 msgctxt "items.name"
+msgid "Hexen-Schlagring"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Zauberstäbe? Bitte. (+33 ANG)"
+msgstr ""
+
+msgctxt "items.name"
 msgid "Hexenknall"
 msgstr ""
 
@@ -5459,6 +5525,70 @@ msgstr ""
 msgctxt "items.description"
 msgid "Kuriert alle Zustände"
 msgstr ""
+
+msgctxt "items.name"
+msgid "--Valaine Update--"
+msgstr ""
+
+msgctxt "items.description"
+msgid "Erstschlag, +230 ANG, +10 INT, verursacht Verwirrt"
+msgstr "First Strike, +230 ATK, +10 INT, causes Confusion"
+
+msgctxt "items.description"
+msgid "Doppelschlag, verursacht Lähmung, +210 ANG"
+msgstr "Double attack, causes Paraylze, +210 ATK"
+
+msgctxt "items.description"
+msgid "+220 ANG, +20 GES, verursacht Blind und Fluch."
+msgstr "+220 ATK, +20 AGI, causes Blind and Curse"
+
+msgctxt "items.name"
+msgid "Klingenregen"
+msgstr "Blade Storm"
+
+msgctxt "items.description"
+msgid "Lehrt den Zauber \"Klingenregen\""
+msgstr "Teaches the spell \"Blade Storm\""
+
+msgctxt "items.name"
+msgid "Blutstarre"
+msgstr "Blood Freeze"
+
+msgctxt "items.description"
+msgid "Lehrt den Zauber \"Blutstarre\" (Alaine oder Asgar)"
+msgstr "Teaches the spell \"Blood Freeze\" (Alaine or Asgar)"
+
+msgctxt "items.name"
+msgid "Kalter Griff"
+msgstr "Cold Grip"
+
+msgctxt "items.description"
+msgid "Lehrt den Zauber \"Kalter Griff\" (Nur Asgar)"
+msgstr "Teaches the spell \"Cold Grip\" (Asgar only)"
+
+msgctxt "items.name"
+msgid "Pesthauch"
+msgstr "Blight"
+
+msgctxt "items.description"
+msgid "Lehrt den Zauber \"Pesthauch\" (Nur Alaine)"
+msgstr "Teaches the spell \"Blight\" (Alaine only)"
+
+msgctxt "items.name"
+msgid "Schwerer Schlag"
+msgstr "Heavy Blow"
+
+msgctxt "items.description"
+msgid "Lehrt den Zauber \"Schwerer Schlag\" (Nur Valnar)"
+msgstr "Teaches the spell \"Heavy Blow\" (Valnar only)"
+
+msgctxt "items.name"
+msgid "Ring der Klauen"
+msgstr "Ring of Claws"
+
+msgctxt "items.description"
+msgid "Erhöht Angriff um 30 und macht immun geg. Lähmung."
+msgstr "Increases Attack by 30 + immune against Paralyze"
 
 msgctxt "enemies.name"
 msgid "Hauptmann"
@@ -6269,8 +6399,8 @@ msgid "Phönix"
 msgstr "Phoenix"
 
 msgctxt "enemies.name"
-msgid "Lamilah"
-msgstr ""
+msgid "Gefallener Engel"
+msgstr "Fallen Angel"
 
 msgctxt "enemies.name"
 msgid "-- ER #2 ---"

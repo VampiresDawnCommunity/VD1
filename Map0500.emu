@@ -1737,10 +1737,46 @@
       </move_route>
       <event_commands>
        <EventCommand>
-        <code>10610</code>
+        <code>12010</code>
         <indent>0</indent>
+        <string></string>
+        <parameters>0 492 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
         <string>IcePalace</string>
         <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10610</code>
+        <indent>1</indent>
+        <string>VA_Calm</string>
+        <parameters>26</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10220</code>
@@ -3414,6 +3450,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>105</save_count>
+  <save_count>107</save_count>
  </Map>
 </LMU>
