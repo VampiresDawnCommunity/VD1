@@ -106,16 +106,16 @@ foreach ($commonEventPatch in $patchXml.LuciferPatch.DatabasePatches.CommonEvent
 	}
 }
 
-#foreach ($commonEvent in $patchXml.LuciferPatch.Database.CommonEvents.CommonEvent) {
-#	$commonEventEDB = $xmlEDB.LDB.Database.commonevents.CommonEvent | where {$_.id -eq $commonEvent.commonevent_id }
-#	
-#	$commonEventEDB.name = $commonEvent.event_name
-#	
-#	for ($i = 0; $i -lt $commonEvent.event_commands.EventCommand.Count; $i++) {
-#		$cmd = $commonEvent.event_commands.EventCommand[$i]
-#		$commonEventEDB['event_commands'].AppendChild($xmlEDB.ImportNode($cmd.Clone(), $true))
-#	}
-#}
+foreach ($commonEvent in $patchXml.LuciferPatch.Database.CommonEvents.CommonEvent) {
+	$commonEventEDB = $xmlEDB.LDB.Database.commonevents.CommonEvent | where {$_.id -eq $commonEvent.commonevent_id }
+	
+	$commonEventEDB.name = $commonEvent.event_name
+	
+	for ($i = 0; $i -lt $commonEvent.event_commands.EventCommand.Count; $i++) {
+		$cmd = $commonEvent.event_commands.EventCommand[$i]
+		$commonEventEDB['event_commands'].AppendChild($xmlEDB.ImportNode($cmd.Clone(), $true))
+	}
+}
 
 foreach ($switch in $patchXml.LuciferPatch.Database.Switches.Switch) {
 	$switchEDB = $xmlEDB.LDB.Database.switches.Switch | where {$_.id -eq $switch.id }
@@ -127,6 +127,34 @@ foreach ($variable in $patchXml.LuciferPatch.Database.Variables.Variable) {
 	$variableEDB = $xmlEDB.LDB.Database.variables.Variable | where {$_.id -eq $variable.id }
 	
 	$variableEDB.name = $variable.name
+}
+
+foreach ($replacementNode in $patchXml.LuciferPatch.Database.Skills.Skill) {
+	$existingNode = $xmlEDB.LDB.Database.Skills.Skill | where {$_.id -eq $replacementNode.id }
+	
+	$newNode = $xmlEDB.ImportNode($replacementNode, $true)
+	$xmlEDB.LDB.Database.Skills.ReplaceChild($newNode, $existingNode)
+}
+
+foreach ($replacementNode in $patchXml.LuciferPatch.Database.Items.Item) {
+	$existingNode = $xmlEDB.LDB.Database.Items.Item | where {$_.id -eq $replacementNode.id }
+	
+	$newNode = $xmlEDB.ImportNode($replacementNode, $true)
+	$xmlEDB.LDB.Database.Items.ReplaceChild($newNode, $existingNode)
+}
+
+foreach ($replacementNode in $patchXml.LuciferPatch.Database.Enemies.Enemy) {
+	$existingNode = $xmlEDB.LDB.Database.Enemies.Enemy | where {$_.id -eq $replacementNode.id }
+	
+	$newNode = $xmlEDB.ImportNode($replacementNode, $true)
+	$xmlEDB.LDB.Database.Enemies.ReplaceChild($newNode, $existingNode)
+}
+
+foreach ($replacementNode in $patchXml.LuciferPatch.Database.Troops.Troop) {
+	$existingNode = $xmlEDB.LDB.Database.Troops.Troop | where {$_.id -eq $replacementNode.id }
+	
+	$newNode = $xmlEDB.ImportNode($replacementNode, $true)
+	$xmlEDB.LDB.Database.Troops.ReplaceChild($newNode, $existingNode)
 }
 
 remove-item $edbFile

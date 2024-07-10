@@ -21797,7 +21797,7 @@
     </pages>
    </Event>
    <Event id="0329">
-    <name>!!!!!!!!!!!!!!!!!!!!</name>
+    <name>SE-CheatBaum</name>
     <x>16</x>
     <y>61</y>
     <pages>
@@ -21815,7 +21815,7 @@
           <timer2>F</timer2>
          </EventPageCondition_Flags>
         </flags>
-        <switch_a_id>2236</switch_a_id>
+        <switch_a_id>2302</switch_a_id>
         <switch_b_id>1</switch_b_id>
         <variable_id>1</variable_id>
         <variable_value>0</variable_value>
@@ -21826,8 +21826,8 @@
         <compare_operator>1</compare_operator>
        </EventPageCondition>
       </condition>
-      <character_name>CE_Debug</character_name>
-      <character_index>2</character_index>
+      <character_name></character_name>
+      <character_index>0</character_index>
       <character_direction>3</character_direction>
       <character_pattern>1</character_pattern>
       <translucent>F</translucent>
@@ -21836,7 +21836,7 @@
       <trigger>0</trigger>
       <layer>0</layer>
       <overlap_forbidden>F</overlap_forbidden>
-      <animation_type>3</animation_type>
+      <animation_type>0</animation_type>
       <move_speed>3</move_speed>
       <move_route>
        <MoveRoute>
@@ -21845,7 +21845,14 @@
         <skippable>F</skippable>
        </MoveRoute>
       </move_route>
-      <event_commands></event_commands>
+      <event_commands>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 571 0</parameters>
+       </EventCommand>
+      </event_commands>
      </EventPage>
     </pages>
    </Event>
@@ -109232,6 +109239,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>2316</save_count>
+  <save_count>2318</save_count>
  </Map>
 </LMU>
