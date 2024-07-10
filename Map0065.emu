@@ -3892,6 +3892,30 @@
         <parameters>49</parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1965 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>12330</code>
         <indent>0</indent>
         <string></string>
@@ -9488,12 +9512,6 @@
         <parameters>0 585 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>10120</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2 1 0</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12330</code>
         <indent>1</indent>
         <string></string>
@@ -9528,12 +9546,6 @@
         <indent>1</indent>
         <string></string>
         <parameters>0 586 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10120</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -9576,12 +9588,6 @@
         <indent>1</indent>
         <string></string>
         <parameters>0 587 0</parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10120</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters>0 2 1 0</parameters>
        </EventCommand>
        <EventCommand>
         <code>12330</code>
@@ -9678,6 +9684,12 @@
         <indent>0</indent>
         <string></string>
         <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 29 0</parameters>
        </EventCommand>
       </event_commands>
      </EventPage>
@@ -10529,6 +10541,30 @@
       </move_route>
       <event_commands>
        <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1965 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 499 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10210</code>
         <indent>0</indent>
         <string></string>
@@ -10583,63 +10619,27 @@
         <parameters>0 405 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>12010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters>0 2302 1 0 0 1</parameters>
-       </EventCommand>
-       <EventCommand>
         <code>10110</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string>\&gt;\c[3]Asgar:\c[0]</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string>Das ist ein Seelenassimilator.</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string>\.\.Hier kannst du Seelen mit</string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>20110</code>
-        <indent>1</indent>
+        <indent>0</indent>
         <string>dir selber verschmelzen lassen !</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22010</code>
-        <indent>0</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>12410</code>
-        <indent>1</indent>
-        <string>PATCH: 486C3410F49A4EC4ADB3FFBB5CB49081</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>10</code>
-        <indent>1</indent>
-        <string></string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
-        <code>22011</code>
-        <indent>0</indent>
-        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -10859,16 +10859,34 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
-        <code>12410</code>
-        <indent>0</indent>
-        <string>PATCH: F0261472FA504D5A9582C1F1E173CA2E</string>
-        <parameters></parameters>
-       </EventCommand>
-       <EventCommand>
         <code>12110</code>
         <indent>0</indent>
         <string></string>
         <parameters>11</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1965 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>10210</code>
@@ -11036,6 +11054,30 @@
        </MoveRoute>
       </move_route>
       <event_commands>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1965 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 499 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
        <EventCommand>
         <code>10210</code>
         <indent>0</indent>
@@ -11574,6 +11616,30 @@
         <code>20110</code>
         <indent>0</indent>
         <string>Zauberbücher !</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>0</indent>
+        <string></string>
+        <parameters>0 1965 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 500 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>0</indent>
+        <string></string>
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
@@ -24226,6 +24292,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>1400</save_count>
+  <save_count>1408</save_count>
  </Map>
 </LMU>
