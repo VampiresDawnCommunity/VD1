@@ -570,6 +570,96 @@
         <parameters></parameters>
        </EventCommand>
        <EventCommand>
+        <code>12010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters>0 2305 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12010</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters>0 296 0 0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10130</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 0 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>\&gt;\c[7]Junge Frau:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>Hihi, du kannst jederzeit wieder</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>vorbeikommen.</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10210</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 2183 2183 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12330</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters>0 404 0</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10110</code>
+        <indent>3</indent>
+        <string>\&gt;\c[2]Valnar:\c[0]</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>20110</code>
+        <indent>3</indent>
+        <string>...</string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>12310</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>3</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
         <code>10130</code>
         <indent>1</indent>
         <string></string>
@@ -2493,6 +2583,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>89</save_count>
+  <save_count>93</save_count>
  </Map>
 </LMU>
