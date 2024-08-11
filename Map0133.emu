@@ -338,10 +338,46 @@
         <parameters>0 305 0</parameters>
        </EventCommand>
        <EventCommand>
-        <code>11510</code>
+        <code>12010</code>
         <indent>1</indent>
+        <string></string>
+        <parameters>0 2314 1 0 0 1</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>2</indent>
         <string>Inn1</string>
         <parameters>0 100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22010</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>11510</code>
+        <indent>2</indent>
+        <string>Inn1_R</string>
+        <parameters>0 100 100 50</parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>10</code>
+        <indent>2</indent>
+        <string></string>
+        <parameters></parameters>
+       </EventCommand>
+       <EventCommand>
+        <code>22011</code>
+        <indent>1</indent>
+        <string></string>
+        <parameters></parameters>
        </EventCommand>
        <EventCommand>
         <code>11030</code>
@@ -13159,6 +13195,6 @@
    </Event>
   </events>
   <save_count_2k3e>0</save_count_2k3e>
-  <save_count>666</save_count>
+  <save_count>668</save_count>
  </Map>
 </LMU>
