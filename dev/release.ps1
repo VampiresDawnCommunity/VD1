@@ -94,6 +94,7 @@ cp RPG_RT.ini build/
 cp EasyRPG.ini build/
 cp Player.exe build/
 cp easyrpg.soundfont build/
+rm -r build/Music/mp3/
 
 rm RPG_RT_.ldb
 
