@@ -16,6 +16,9 @@ $contents = $contents.Replace("<parameters>0 2225 2225 0</parameters>", "<parame
 ./lcf2xml.exe "RPG_RT.ldb"
 $contents = [System.IO.File]::ReadAllText("RPG_RT.edb")
 $contents = $contents.Replace("<parameters>0 562 562 0 0 " + $versionString + " 0</parameters>", "<parameters>0 562 562 0 0 " + $newBuild + " 0</parameters>")
+$contents = $contents.Replace("_use_rpg2k_battle_system>F</", "_use_rpg2k_battle_system>T</")
+$contents = $contents.Replace("_battle_use_rpg2ke_strings>F</", "_battle_use_rpg2ke_strings>T</")
+$contents = $contents.Replace("_use_rpg2k_battle_commands>F</", "_use_rpg2k_battle_commands>T</")
 [System.IO.File]::WriteAllText("RPG_RT.edb", $contents)
 ./lcf2xml.exe "RPG_RT.edb"
 
