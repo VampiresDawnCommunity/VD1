@@ -19,6 +19,8 @@ $contents = $contents.Replace("<parameters>0 562 562 0 0 " + $versionString + " 
 $contents = $contents.Replace("_use_rpg2k_battle_system>F</", "_use_rpg2k_battle_system>T</")
 $contents = $contents.Replace("_battle_use_rpg2ke_strings>F</", "_battle_use_rpg2ke_strings>T</")
 $contents = $contents.Replace("_use_rpg2k_battle_commands>F</", "_use_rpg2k_battle_commands>T</")
+$contents = $contents.Replace("<encounter></encounter>", "<encounter>%S erscheint !</encounter>")
+$contents = $contents.Replace("<escape_success></escape_success>", "<escape_success>Ihr flieht in Schande ...</escape_success>")
 [System.IO.File]::WriteAllText("RPG_RT.edb", $contents)
 ./lcf2xml.exe "RPG_RT.edb"
 
