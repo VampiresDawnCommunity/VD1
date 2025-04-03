@@ -1,0 +1,2174 @@
+{
+    "base": {
+        "aldaine": {
+            "id": 1,
+            "name": "Schloss Aldaine",
+            "map_ids": [0],
+            "loot": {
+                "chests_s": 1,
+                "chests_f": 3
+            },
+            "secrets": {
+                "chests_s": 1,
+                "hidden_s": 13,
+                "hidden_m": 5,
+                "ghosts": 3,
+                "elras": 2
+            },
+            "special_edition": {
+                "secrets": {
+                    "hidden_s": 1
+                }
+            },
+            "everlasting_reign": {
+                "loot": {
+                    "chests_f": 5
+                },
+                "secrets": {
+                    "hidden_s": 1,
+                    "seeds": 4
+                }
+            }
+        },
+        "tranak": {
+            "id": 2,
+            "name": "Schloss Tranak",
+            "map_ids": [220, 221, 222, 223, 224],
+            "people": {
+                "shannar": 1
+            },
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_m": 8,
+                "hidden_g": 1,
+                "hidden_f": 6,
+                "ghosts": 1,
+                "elras": 2,
+                "other": 6
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "chests_f": 1,
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "abraxas": {
+            "id": 3,
+            "name": "Abraxas' Turm",
+            "map_ids": [202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219],
+            "loot": {
+                "chests_s": 12,
+                "chests_m": 18,
+                "chests_g": 1
+            },
+            "secrets": {
+                "chests_m": 21,
+                "chests_g": 3,
+                "chests_f": 1,
+                "hidden_m": 2,
+                "hidden_g": 1,
+                "ghosts": 1,
+                "elras": 4,
+                "other": 1
+            },
+            "special_edition": {
+                "map_ids": [465],
+                "secrets": {
+                    "hidden_m": 2,
+                    "other": 2
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 2,
+                    "staub": 3,
+                    "other": 2
+                }
+            }
+        },
+        "ustra": {
+            "id": 4,
+            "name": "Pyramide",
+            "map_ids": [404, 405, 406, 407, 408, 409, 410, 411, 412, 413],
+            "loot": {
+                "chests_s": 12,
+                "chests_m": 4,
+                "chests_g": 1
+            },
+            "secrets": {
+                "chests_m": 7,
+                "chests_g": 2,
+                "hidden_s": 13,
+                "hidden_m": 11,
+                "hidden_f": 2,
+                "ghosts": 1,
+                "elras": 1,
+                "other": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "chests_f": 1,
+                    "hidden_m": 1
+                }
+            },
+            "aysha_in_party": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "people": {
+                    "castle": 7
+                },
+                "loot": {
+                    "chests_m": 3
+                },
+                "secrets": {
+                    "seeds": 3,
+                    "staub": 3
+                }
+            }
+        },
+        "kda": {
+            "id": 6,
+            "name": "Kinder der Apokalypse",
+            "map_ids": [201],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "other": 4
+            },
+            "everlasting_reign": {
+                "map_ids": [570, 578, 579, 580],
+                "secrets": {
+                    "hidden_s": 1,
+                    "seeds": 2
+                }
+            }
+        },
+        "endgame": {
+            "id": 8,
+            "name": "Ätherebene",
+            "variant_varid": 774,
+            "variants": [{
+                    "variant_value": 1,
+                    "map_ids": [234],
+                    "loot": {
+                        "chests_m": 4
+                    }
+                }, {
+                    "variant_value": 2,
+                    "map_ids": [235],
+                    "loot": {
+                        "chests_m": 4
+                    }
+                }, {
+                    "variant_value": 3,
+                    "map_ids": [236],
+                    "loot": {
+                        "chests_m": 4
+                    }
+                }, {
+                    "variant_value": 4,
+                    "map_ids": [237],
+                    "loot": {
+                        "chests_m": 4
+                    }
+                }, {
+                    "variant_value": 5,
+                    "map_ids": [449, 450, 451],
+                    "exclusive_to": "everlasting_reign",
+                    "loot": {
+                        "chests_m": 1,
+                        "chests_f": 3
+                    },
+                    "secrets": {
+                        "seeds": 1,
+                        "staub": 2
+                    }
+                }
+            ]
+        }
+    },
+    "main_quest": {
+        "shivering_woods": {
+            "id": 11,
+            "name": "Schauerwald",
+            "map_ids": [16, 17, 18, 19, 20, 21],
+            "is_hidden": 1,
+            "secrets": {
+                "ghosts": 1
+            },
+            "ce_reenterable": true,
+            "everlasting_reign": {
+                "people": {
+                    "castle": 1
+                }
+            }
+        },
+        "grave": {
+            "id": 12,
+            "name": "Grab",
+            "map_ids": [23, 24, 25],
+            "ce_reenterable": true,
+            "is_hidden": 1,
+            "special_edition": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "magic_mountains1": {
+            "id": 13,
+            "name": "Magiegebirge (1)",
+            "map_ids": [122, 123, 124, 125],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 7,
+                "chests_m": 1
+            },
+            "secrets": {
+                "chests_m": 1,
+                "hidden_s": 1,
+                "hidden_m": 2,
+                "ghosts": 1
+            },
+            "ce_reenterable": true
+        },
+        "magic_mountains2": {
+            "id": 14,
+            "name": "Magiegebirge (2)",
+            "map_ids": [128, 129, 130, 131],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 4,
+                "chests_m": 1
+            },
+            "secrets": {
+                "chests_m": 1,
+                "hidden_s": 2,
+                "hidden_m": 3,
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            },
+            "ce_reenterable": true
+        },
+        "magic_mountains3": {
+            "id": 15,
+            "name": "Magiegebirge (3)",
+            "map_ids": [185, 186, 187, 188, 189, 190, 191, 192, 193, 194],
+            "is_hidden": 1,
+            "level": 31,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 1,
+                "chests_f": 1
+            },
+            "secrets": {
+                "chests_m": 3,
+                "hidden_s": 2,
+                "hidden_m": 4,
+                "hidden_g": 2,
+                "ghosts": 2,
+                "elras": 4
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 2
+                }
+            }
+        },
+        "vampire_hideout": {
+            "id": 16,
+            "name": "Vampirversteck",
+            "map_ids": [195, 196, 197],
+            "is_hidden": 1,
+            "level": 32,
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "chests_s": 2,
+                "chests_m": 2,
+                "hidden_m": 2,
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "shadow_woods": {
+            "id": 17,
+            "name": "Schattenwald",
+            "map_ids": [179, 180, 181, 182, 183, 184],
+            "is_hidden": 1,
+            "level": 25,
+            "loot": {
+                "chests_s": 6,
+                "chests_m": 7
+            },
+            "secrets": {
+                "chests_m": 5,
+                "hidden_s": 2,
+                "hidden_m": 5,
+                "hidden_g": 1,
+                "ghosts": 2,
+                "elras": 2
+            },
+            "special_edition": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 2,
+                    "staub": 5
+                },
+                "valaine": {
+                    "secrets": {
+                        "other": 1
+                    }
+                }
+            }
+        },
+        "asran_dungeon": {
+            "id": 18,
+            "name": "Asran-Dungeon",
+            "map_ids": [226, 227, 228, 229, 230, 231],
+            "level": 41,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 2,
+                "chests_g": 1
+            },
+            "secrets": {
+                "chests_m": 5,
+                "hidden_m": 2,
+                "hidden_g": 1,
+                "elras": 1
+            },
+            "special_edition": {
+                "map_ids": [466, 467, 468, 469],
+                "secrets": {
+                    "chests_f": 2,
+                    "hidden_m": 1,
+                    "hidden_f": 4,
+                    "elras": 2
+                },
+                "everlasting_reign": {
+                    "secrets": {
+                        "seeds": 1,
+                        "staub": 1
+                    }
+                }
+            },
+            "aysha_in_party": {
+                "secrets": {
+                    "elras": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "tradan_dungeon": {
+            "id": 19,
+            "name": "Tradan-Gruft",
+            "map_ids": [171, 172, 173, 174, 175, 176],
+            "level": 17,
+            "loot": {
+                "chests_s": 4,
+                "chests_m": 4
+            },
+            "secrets": {
+                "chests_s": 2,
+                "chests_m": 3,
+                "elras": 1
+            },
+            "aysha_in_party": {
+                "map_ids": [496],
+                "everlasting_reign": {
+                    "loot": {
+                        "chests_m": 1
+                    },
+                    "secrets": {
+                        "elras": 1
+                    }
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 2
+                }
+            }
+        }
+    },
+    "cities": {
+        "klennar": {
+            "id": 21,
+            "name": "Klennar",
+            "map_ids": [78, 79, 80, 81, 82, 83, 84, 85, 86, 132, 133, 134, 135, 136],
+            "secrets": {
+                "chests_s": 1,
+                "chests_m": 1,
+                "hidden_s": 9,
+                "hidden_f": 2,
+                "other": 1
+            }
+        },
+        "shannar": {
+            "id": 22,
+            "name": "Shannar",
+            "map_ids": [150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 414],
+            "secrets": {
+                "hidden_s": 3,
+                "hidden_m": 2,
+                "ghosts": 1,
+                "locations": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "aysha_in_party": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "map_ids": [572, 573],
+                "people": {
+                    "castle": 1
+                },
+                "secrets": {
+                    "hidden_s": 2,
+                    "hidden_m": 1,
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "melsan": {
+            "id": 23,
+            "name": "Melsan",
+            "map_ids": [99, 100, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117],
+            "secrets": {
+                "chests_s": 5,
+                "hidden_s": 10,
+                "elras": 1,
+                "locations": 1,
+                "other": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "other": 1
+                }
+            }
+        },
+        "limm": {
+            "id": 24,
+            "name": "Limm",
+            "map_ids": [141, 143, 144, 145, 146, 147, 148, 149],
+            "secrets": {
+                "hidden_s": 8,
+                "hidden_m": 2
+            },
+            "valaine": {
+                "map_ids": [430, 431, 432],
+                "secrets": {
+                    "chests_f": 1,
+                    "hidden_f": 2
+                }
+            }
+        },
+        "lombar": {
+            "id": 25,
+            "name": "Lombar",
+            "map_ids": [161, 162, 266, 267, 268, 269, 270, 271, 415],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "hidden_s": 6,
+                "hidden_m": 1,
+                "locations": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "hidden_s": 1
+                }
+            },
+            "everlasting_reign": {
+                "people": {
+                    "shannar": 1
+                }
+            }
+        },
+        "herlis": {
+            "id": 26,
+            "name": "Herlis",
+            "map_ids": [163, 260, 261, 262, 263, 264, 265, 416],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "hidden_s": 7,
+                "hidden_m": 3,
+                "locations": 1
+            }
+        },
+        "thessa": {
+            "id": 27,
+            "name": "Thessa",
+            "map_ids": [164, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253],
+            "secrets": {
+                "hidden_s": 8,
+                "hidden_m": 1
+            }
+        },
+        "uruya": {
+            "id": 28,
+            "name": "Uruya",
+            "map_ids": [165, 177, 178, 255, 256, 257, 258, 259, 417],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "chests_s": 1,
+                "hidden_s": 3,
+                "hidden_m": 3,
+                "hidden_g": 1,
+                "ghosts": 1,
+                "locations": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            },
+            "preview": {
+                "people": {
+                    "shannar": 1
+                }
+            }
+        },
+        "asdion": {
+            "id": 29,
+            "name": "Asdion",
+            "map_ids": [65, 166, 198, 199, 200, 272, 273, 274, 275, 276, 419],
+            "people": {
+                "shannar": 2
+            },
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "secrets": {
+                "chests_m": 1,
+                "chests_g": 1,
+                "hidden_s": 2,
+                "hidden_m": 3,
+                "ghosts": 1,
+                "locations": 1
+            },
+            "special_edition": {
+                "map_ids": [464],
+                "secrets": {
+                    "chests_m": 2,
+                    "hidden_s": 1
+                }
+            }
+        },
+        "iranis": {
+            "id": 30,
+            "name": "Iranis",
+            "map_ids": [167, 277, 278, 279, 280, 281, 282, 283, 284, 285, 420],
+            "secrets": {
+                "hidden_s": 6,
+                "hidden_m": 3,
+                "hidden_f": 1,
+                "locations": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "hidden_s": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "hidden_s": 1
+                },
+                "valaine": {
+                    "secrets": {
+                        "other": 1
+                    }
+                }
+            }
+        },
+        "esrik": {
+            "id": 31,
+            "name": "Esrik",
+            "map_ids": [168, 293, 294, 295, 296, 297, 298, 299],
+            "secrets": {
+                "hidden_s": 5
+            },
+            "special_edition": {
+                "secrets": {
+                    "hidden_s": 2
+                }
+            },
+            "everlasting_reign": {
+                "people": {
+                    "castle": 1
+                },
+                "secrets": {
+                    "hidden_s": 1
+                }
+            },
+            "valaine": {
+                "map_ids": [556],
+                "secrets": {
+                    "hidden_f": 2
+                }
+            }
+        },
+        "isthar": {
+            "id": 32,
+            "name": "Isthar",
+            "map_ids": [169, 286, 287, 288, 289, 290, 291, 292, 421],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "chests_s": 1,
+                "hidden_s": 5,
+                "hidden_m": 5,
+                "locations": 1
+            }
+        },
+        "asran": {
+            "id": 33,
+            "name": "Asran",
+            "map_ids": [225, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318],
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "hidden_s": 7,
+                "hidden_m": 3,
+                "hidden_g": 1,
+                "hidden_f": 1,
+                "ghosts": 1,
+                "other": 1
+            },
+            "special_edition": {
+                "map_ids": [470],
+                "secrets": {
+                    "hidden_s": 2,
+                    "hidden_f": 4
+                }
+            },
+            "everlasting_reign": {
+                "people": {
+                    "castle": 1
+                }
+            },
+            "valaine": {
+                "map_ids": [553],
+                "secrets": {
+                    "hidden_f": 3
+                }
+            }
+        },
+        "tradan": {
+            "id": 34,
+            "name": "Tradan",
+            "variant_varid": 775,
+            "variants": [{
+                    "variant_value": 1,
+                    "map_ids": [170, 300, 301, 302, 303, 304],
+                    "level": 16,
+                    "secrets": {
+                        "chests_s": 1,
+                        "hidden_s": 10,
+                        "hidden_m": 2,
+                        "other": 1
+                    },
+                    "special_edition": {
+                        "secrets": {
+                            "hidden_s": 1
+                        }
+                    }
+                }, {
+                    "variant_value": 2,
+                    "map_ids": [490, 491, 492, 493, 494, 495],
+                    "exclusive_to": "aysha_in_party",
+                    "people": {
+                        "shannar": 1
+                    },
+                    "secrets": {
+                        "chests_s": 1,
+                        "hidden_s": 10,
+                        "hidden_m": 2,
+                        "other": 1
+                    },
+                    "special_edition": {
+                        "secrets": {
+                            "hidden_s": 1
+                        }
+                    }
+                }
+            ]
+        },
+        "strandladen": {
+            "id": 35,
+            "name": "Strandladen",
+            "map_ids": [386, 388],
+            "secrets": {
+                "hidden_s": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "hidden_s": 2
+                }
+            }
+        },
+        "se_sanos": {
+            "id": 36,
+            "name": "Sanos",
+            "map_ids": [479, 480, 481, 482, 483],
+            "is_hidden": 1,
+            "exclusive_to": "special_edition",
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "hidden_s": 2,
+                "hidden_m": 5
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "se_arena": {
+            "id": 37,
+            "name": "Arena",
+            "map_ids": [461, 462],
+            "is_hidden": 1,
+            "exclusive_to": "special_edition",
+            "people": {
+                "shannar": 1
+            },
+            "secrets": {
+                "chests_m": 1,
+                "chests_f": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "va_linar": {
+            "id": 38,
+            "name": "Linar",
+            "map_ids": [514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524],
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 5,
+                "hidden_f": 17
+            }
+        },
+        "va_circus": {
+            "id": 39,
+            "name": "Zirkus",
+            "map_ids": [552],
+            "is_hidden": 1,
+            "exclusive_to": "valaine"
+        },
+        "_melsan_port": {
+            "id": 41,
+            "name": "Melsan (Hafen)",
+            "map_ids": [0],
+            "exclusive_to": "___"
+        },
+        "_shannar_port": {
+            "id": 42,
+            "name": "Shannar (Hafen)",
+            "map_ids": [0],
+            "exclusive_to": "___"
+        }
+    },
+    "mines": {
+        "mine1": {
+            "id": 81,
+            "name": "Mine 1",
+            "map_ids": [92, 96],
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 36,
+                    "limit": 20
+                }
+            ]
+        },
+        "mine2": {
+            "id": 82,
+            "name": "Mine 2",
+            "map_ids": [97],
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 37,
+                    "limit": 10
+                }
+            ],
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "mine3": {
+            "id": 83,
+            "name": "Mine 3",
+            "map_ids": [101],
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 38,
+                    "limit": 15
+                }
+            ],
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "mine4": {
+            "id": 84,
+            "name": "Mine 4",
+            "map_ids": [102],
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 39,
+                    "limit": 20
+                }
+            ]
+        },
+        "mine5": {
+            "id": 85,
+            "name": "Mine 5",
+            "map_ids": [103],
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 40,
+                    "limit": 15
+                }
+            ],
+            "secrets": {
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "se_mine": {
+            "id": 86,
+            "name": "Geheime Mine",
+            "map_ids": [472, 473],
+            "is_hidden": 1,
+            "exclusive_to": "special_edition",
+            "details": [{
+                    "name": "Arbeiter",
+                    "var": 442,
+                    "limit": 5
+                }
+            ],
+            "secrets": {
+                "chests_m": 1
+            }
+        }
+    },
+    "ships": {
+        "ship1": {
+            "id": 71,
+            "name": "Schiff 1",
+            "map_ids": [359, 360],
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_s": 2,
+                "hidden_m": 1,
+                "elras": 1
+            }
+        },
+        "ship2": {
+            "id": 72,
+            "name": "Schiff 2",
+            "map_ids": [361, 362],
+            "secrets": {
+                "hidden_s": 1,
+                "hidden_m": 4
+            }
+        },
+        "ship3": {
+            "id": 73,
+            "name": "Schiff 3",
+            "map_ids": [363, 364],
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_s": 2,
+                "hidden_m": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "ship4": {
+            "id": 74,
+            "name": "Schiff 4",
+            "map_ids": [365, 366],
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_s": 1,
+                "hidden_m": 3,
+                "hidden_g": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "er_herzlose": {
+            "id": 75,
+            "name": "Herzlose",
+            "map_ids": [563, 564],
+            "exclusive_to": "everlasting_reign",
+            "secrets": {
+                "other": 1
+            }
+        }
+    },
+    "side_quest": {
+        "golbar": {
+            "id": 101,
+            "name": "Golbars Versteck",
+            "map_ids": [138],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "limm_ruins": {
+            "id": 102,
+            "name": "Limm-Ruine",
+            "map_ids": [323, 324, 325],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "chests_m": 7,
+                "chests_g": 1,
+                "ghosts": 2,
+                "elras": 1,
+                "other": 1
+            },
+            "everlasting_reign": {
+                "people": {
+                    "castle": 1
+                },
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "bracelet_cave": {
+            "id": 103,
+            "name": "Armband-Höhle",
+            "map_ids": [326, 327],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 2,
+                "chests_m": 2,
+                "chests_f": 1,
+                "hidden_m": 2,
+                "hidden_g": 1,
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                },
+                "valaine": {
+                    "secrets": {
+                        "other": 1
+                    }
+                }
+            }
+        },
+        "brother_house": {
+            "id": 104,
+            "name": "Haus des Bruders",
+            "map_ids": [328, 329],
+            "is_hidden": 1,
+            "secrets": {
+                "hidden_m": 1
+            }
+        },
+        "herbs": {
+            "id": 105,
+            "name": "Kräuterplatz",
+            "map_ids": [333],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "witch_house": {
+            "id": 106,
+            "name": "Hexenhaus",
+            "map_ids": [334, 335],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 1,
+                "hidden_g": 1,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "uruya_cave": {
+            "id": 107,
+            "name": "Uruya-Höhle",
+            "map_ids": [336, 337],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "chests_m": 3,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "barkeeper": {
+            "id": 108,
+            "name": "Barkeeper",
+            "map_ids": [346],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 1
+            }
+        },
+        "cult_woods": {
+            "id": 109,
+            "name": "Sektenwald",
+            "map_ids": [338],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 2,
+                "chests_m": 1,
+                "chests_g": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 2
+                }
+            }
+        },
+        "herlis_cave": {
+            "id": 110,
+            "name": "Herlis-Höhle",
+            "map_ids": [330, 331],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "chests_m": 2,
+                "chests_g": 1,
+                "hidden_m": 1,
+                "hidden_g": 1,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "asdion_woods": {
+            "id": 111,
+            "name": "Asdion-Wald",
+            "map_ids": [367, 368],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 4,
+                "chests_m": 1
+            },
+            "secrets": {
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 3
+                }
+            }
+        },
+        "butterfly": {
+            "id": 112,
+            "name": "Schmetterlingswiese",
+            "is_hidden": 1,
+            "map_ids": [357],
+            "secrets": {
+                "chests_s": 2,
+                "seeds": 1,
+                "elras": 1
+            }
+        },
+        "witches_woods": {
+            "id": 113,
+            "name": "Hexenwald",
+            "map_ids": [399, 400, 401],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "people": {
+                    "castle": 1
+                },
+                "secrets": {
+                    "staub": 2
+                }
+            }
+        },
+        "treasure_woods": {
+            "id": 114,
+            "name": "Schatzwald",
+            "map_ids": [322],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 3,
+                "chests_g": 1,
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "se_sanos_dungeon": {
+            "id": 123,
+            "name": "Sanos-Dungeon",
+            "map_ids": [485, 486],
+            "is_hidden": 1,
+            "exclusive_to": "special_edition",
+            "secrets": {
+                "chests_m": 2,
+                "hidden_g": 1
+            }
+        },
+        "se_asdion_beach": {
+            "id": 124,
+            "name": "Asdion-Strand",
+            "map_ids": [463],
+            "is_hidden": 1,
+            "exclusive_to": "special_edition",
+            "secrets": {
+                "chests_m": 2
+            }
+        },
+        "va_katze": {
+            "id": 130,
+            "name": "Katze House",
+            "map_ids": [455],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "hidden_f": 2
+            }
+        },
+        "va_witches_house": {
+            "id": 131,
+            "name": "Hexenhaus",
+            "map_ids": [427, 428],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "va_beach_cave": {
+            "id": 132,
+            "name": "Strandhöhle",
+            "map_ids": [502, 503],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 2
+            }
+        },
+        "va_ice_palace": {
+            "id": 133,
+            "name": "Eispalast",
+            "map_ids": [489, 497, 498, 499, 500],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 1,
+                "hidden_f": 4
+            }
+        },
+        "va_desert_temple": {
+            "id": 134,
+            "name": "Wüstentempel",
+            "map_ids": [525, 527, 528, 529, 530, 531],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 4,
+                "hidden_f": 7,
+                "other": 7
+            }
+        },
+        "va_pirates": {
+            "id": 135,
+            "name": "Piratenstrand",
+            "map_ids": [532, 533, 534, 535, 536, 537, 538, 539],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 2,
+                "hidden_f": 5
+            }
+        },
+        "va_earth_temple": {
+            "id": 136,
+            "name": "Erdtempel",
+            "map_ids": [540, 541],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_f": 1,
+                "ghosts": 1
+            },
+            "exclusive_to": "valaine"
+        },
+        "va_air_fragment": {
+            "id": 137,
+            "name": "Luftfragment",
+            "map_ids": [544, 545, 546, 547, 548],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_f": 4,
+                "hidden_f": 1,
+                "ghosts": 1,
+                "other": 5
+            },
+            "exclusive_to": "valaine"
+        },
+        "va_volcano": {
+            "id": 138,
+            "name": "Vulkan",
+            "map_ids": [549, 550, 551],
+            "is_hidden": 1,
+            "exclusive_to": "valaine",
+            "secrets": {
+                "chests_f": 1,
+                "hidden_f": 1
+            }
+        },
+        "va_linar_cave": {
+            "id": 139,
+            "name": "Linar-Höhle",
+            "map_ids": [509, 510, 511, 512, 513],
+            "exclusive_to": "valaine",
+            "secrets": {
+                "hidden_f": 2
+            }
+        },
+        "er_witches_beach": {
+            "id": 140,
+            "name": "Hexenstrand",
+            "map_ids": [574, 575, 576, 577],
+            "is_hidden": 1,
+            "exclusive_to": "everlasting_reign",
+            "people": {
+                "castle": 2
+            },
+            "loot": {
+                "chests_m": 1,
+                "chests_g": 5
+            },
+            "secrets": {
+                "chests_m": 2,
+                "hidden_g": 4,
+                "elras": 1,
+                "staub": 3
+            },
+            "valaine": {
+                "secrets": {
+                    "other": 1
+                }
+            }
+        }
+    },
+    "shrines": {
+        "earth": {
+            "id": 115,
+            "name": "Erdschrein",
+            "map_ids": [321],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "fire": {
+            "id": 116,
+            "name": "Feuergebirge",
+            "map_ids": [350, 351, 352],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_s": 2,
+                "hidden_m": 3,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 2
+                }
+            }
+        },
+        "light": {
+            "id": 117,
+            "name": "Lichtschrein",
+            "map_ids": [332],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 1
+            }
+        },
+        "air": {
+            "id": 118,
+            "name": "Luftschrein",
+            "map_ids": [347, 348, 349],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 2,
+                "chests_m": 2,
+                "hidden_s": 1,
+                "hidden_m": 3,
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 3
+                }
+            }
+        },
+        "water": {
+            "id": 119,
+            "name": "Wasserschrein",
+            "map_ids": [353, 354, 355, 356],
+            "loot": {
+                "chests_s": 3,
+                "chests_m": 1,
+                "chests_g": 1
+            },
+            "secrets": {
+                "chests_m": 1,
+                "hidden_m": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "shadow": {
+            "id": 141,
+            "name": "Schattenschrein",
+            "map_ids": [319, 320]
+        }
+    },
+    "postgame": {
+        "er_bea": {
+            "id": 125,
+            "name": "???",
+            "map_ids": [487, 488, 441, 442, 443],
+            "is_hidden": 1,
+            "exclusive_to": "everlasting_reign",
+            "loot": {
+                "chests_f": 1
+            },
+            "secrets": {
+                "seeds": 3,
+                "staub": 2,
+                "other": 2
+            },
+            "valaine": {
+                "secrets": {
+                    "other": 1
+                }
+            }
+        },
+        "er_jinnai": {
+            "id": 126,
+            "name": "???",
+            "map_ids": [444, 445, 446],
+            "exclusive_to": "everlasting_reign",
+            "secrets": {
+                "seeds": 1,
+                "elras": 1,
+                "staub": 2,
+                "other": 1
+            }
+        },
+        "er_meta": {
+            "id": 127,
+            "name": "Metawald",
+            "map_ids": [440],
+            "is_hidden": 1,
+            "exclusive_to": "everlasting_reign",
+            "secrets": {
+                "elras": 1,
+                "staub": 1,
+                "other": 2
+            }
+        },
+        "er_meta_dungeon": {
+            "id": 142,
+            "name": "Meta-Dungeon",
+            "map_ids": [590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603],
+            "exclusive_to": "everlasting_reign",
+            "loot": {
+                "chests_f": 4
+            }
+        }
+    },
+    "other": {
+        "ice_cave1": {
+            "id": 201,
+            "name": "Eishöhle",
+            "map_ids": [340],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "ghosts": 1,
+                "hidden_m": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                },
+                "valaine": {
+                    "secrets": {
+                        "other": 1
+                    }
+                }
+            }
+        },
+        "ice_cave2": {
+            "id": 202,
+            "name": "Eishöhle",
+            "map_ids": [342],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_g": 1
+            },
+            "secrets": {
+                "hidden_s": 1,
+                "hidden_m": 3,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 2
+                }
+            }
+        },
+        "ice_cave3": {
+            "id": 203,
+            "name": "Eishöhle",
+            "map_ids": [343],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 3
+            },
+            "secrets": {
+                "hidden_m": 3
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1,
+                    "staub": 1
+                }
+            }
+        },
+        "ice_cave4": {
+            "id": 204,
+            "name": "Eishöhle",
+            "is_hidden": 1,
+            "map_ids": [344],
+            "loot": {
+                "chests_m": 1
+            },
+            "secrets": {
+                "hidden_m": 1,
+                "hidden_g": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "ice_cave5": {
+            "id": 205,
+            "name": "Eishöhle",
+            "is_hidden": 1,
+            "map_ids": [345],
+            "loot": {
+                "chests_m": 2,
+                "chests_g": 1
+            },
+            "secrets": {
+                "hidden_s": 1,
+                "hidden_m": 3,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 2
+                }
+            }
+        },
+        "beach1": {
+            "id": 206,
+            "name": "Strand",
+            "map_ids": [378],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 3
+            }
+        },
+        "beach2": {
+            "id": 207,
+            "name": "Strand",
+            "map_ids": [387],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            }
+        },
+        "beach3": {
+            "id": 208,
+            "name": "Strand",
+            "map_ids": [391],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 2
+            },
+            "secrets": {
+                "elras": 1
+            }
+        },
+        "beach4": {
+            "id": 209,
+            "name": "Strand",
+            "map_ids": [396],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "beach5": {
+            "id": 210,
+            "name": "Strand",
+            "map_ids": [397],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            }
+        },
+        "grass1": {
+            "id": 211,
+            "name": "Rasen",
+            "map_ids": [379],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 3
+            },
+            "secrets": {
+                "ghosts": 1,
+                "elras": 1
+            }
+        },
+        "grass2": {
+            "id": 212,
+            "name": "Rasen",
+            "map_ids": [390],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "grass3": {
+            "id": 213,
+            "name": "Rasen",
+            "map_ids": [393],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 1
+            },
+            "secrets": {
+                "ghosts": 1
+            }
+        },
+        "grass4": {
+            "id": 214,
+            "name": "Rasen",
+            "map_ids": [439],
+            "is_hidden": 1,
+            "secrets": {
+                "other": 1
+            }
+        },
+        "desert1": {
+            "id": 215,
+            "name": "Wüste",
+            "map_ids": [380],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "desert2": {
+            "id": 216,
+            "name": "Wüste",
+            "map_ids": [381],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 3
+            },
+            "secrets": {
+                "ghosts": 1
+            }
+        },
+        "desert3": {
+            "id": 217,
+            "name": "Wüste",
+            "map_ids": [382],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "desert4": {
+            "id": 218,
+            "name": "Wüste",
+            "map_ids": [383],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "ghosts": 1
+            }
+        },
+        "desert5": {
+            "id": 219,
+            "name": "Wüste",
+            "map_ids": [384],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "desert6": {
+            "id": 220,
+            "name": "Wüste",
+            "map_ids": [385],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 1,
+                "chests_f": 1
+            },
+            "secrets": {
+                "elras": 1
+            }
+        },
+        "ice_cliff1": {
+            "id": 221,
+            "name": "Schneeklippe",
+            "map_ids": [402],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 2,
+                "chests_g": 1
+            },
+            "secrets": {
+                "ghosts": 2,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "ice_cliff2": {
+            "id": 222,
+            "name": "Schneeklippe",
+            "map_ids": [403],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 1,
+                "chests_g": 1
+            },
+            "secrets": {
+                "ghosts": 1,
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods1": {
+            "id": 223,
+            "name": "Wald",
+            "map_ids": [369],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "chests_m": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods2": {
+            "id": 224,
+            "name": "Wald",
+            "map_ids": [370, 374],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 4
+            },
+            "secrets": {
+                "hidden_s": 1,
+                "hidden_m": 1,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods3": {
+            "id": 225,
+            "name": "Wald",
+            "map_ids": [371],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 2
+            },
+            "secrets": {
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods4": {
+            "id": 226,
+            "name": "Wald",
+            "map_ids": [372],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "special_edition": {
+                "secrets": {
+                    "other": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "woods5": {
+            "id": 227,
+            "name": "Wald",
+            "map_ids": [373],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "secrets": {
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "woods6": {
+            "id": 228,
+            "name": "Wald",
+            "map_ids": [375],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 3
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods7": {
+            "id": 229,
+            "name": "Wald",
+            "map_ids": [376],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1
+            },
+            "secrets": {
+                "elras": 1,
+                "other": 1
+            }
+        },
+        "woods8": {
+            "id": 230,
+            "name": "Wald",
+            "map_ids": [377],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods9": {
+            "id": 231,
+            "name": "Wald",
+            "map_ids": [389],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 1
+            },
+            "secrets": {
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods10": {
+            "id": 232,
+            "name": "Wald",
+            "map_ids": [392],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 1,
+                "chests_g": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods11": {
+            "id": 233,
+            "name": "Wald",
+            "map_ids": [394],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "seeds": 1
+                }
+            }
+        },
+        "woods12": {
+            "id": 234,
+            "name": "Wald",
+            "map_ids": [395],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 2,
+                "chests_m": 2
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "woods13": {
+            "id": 235,
+            "name": "Wald",
+            "map_ids": [398],
+            "is_hidden": 1,
+            "loot": {
+                "chests_s": 1,
+                "chests_m": 2
+            },
+            "special_edition": {
+                "secrets": {
+                    "ghosts": 1
+                }
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "small_woods": {
+            "id": 120,
+            "name": "Kleiner Wald",
+            "map_ids": [358],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 2
+            },
+            "secrets": {
+                "elras": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                },
+                "valaine": {
+                    "secrets": {
+                        "other": 1
+                    }
+                }
+            }
+        },
+        "haunted_woods": {
+            "id": 121,
+            "name": "Eisgespensterwald",
+            "map_ids": [339],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_m": 2,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "haunted_sea": {
+            "id": 122,
+            "name": "Gespenstersee",
+            "map_ids": [341],
+            "is_hidden": 1,
+            "secrets": {
+                "chests_s": 1,
+                "chests_m": 1,
+                "ghosts": 1
+            },
+            "everlasting_reign": {
+                "secrets": {
+                    "staub": 1
+                }
+            }
+        },
+        "er_asran_river": {
+            "id": 128,
+            "name": "Asran-Fluss",
+            "map_ids": [447],
+            "is_hidden": 1,
+            "exclusive_to": "everlasting_reign",
+            "loot": {
+                "chests_f": 1
+            },
+            "secrets": {
+                "staub": 1
+            },
+            "valaine": {
+                "secrets": {
+                    "other": 1
+                }
+            }
+        },
+        "er_grind": {
+            "id": 129,
+            "name": "Grindwald",
+            "map_ids": [526],
+            "is_hidden": 1,
+            "loot": {
+                "chests_m": 2
+            },
+            "exclusive_to": "everlasting_reign"
+        }
+    }
+}
