@@ -49,12 +49,9 @@ $writer = [System.Xml.XmlWriter]::Create("RPG_RT.edb", $settings)
 $xmlEDB.Save($writer)
 $writer.Close()
 
-((Get-Content -path RPG_RT.edb -Raw) -replace "<string>NEWLINE</string>","<string>`n</string>") | Set-Content -Path RPG_RT_.edb
-
-./lcf2xml.exe RPG_RT_.edb
+./lcf2xml.exe RPG_RT.edb
 
 rm RPG_RT.edb
-rm RPG_RT_.edb
 
 if (test-path lcf2xml.exe) {
   remove-item lcf2xml.exe
@@ -95,15 +92,13 @@ cp -R System build/
 cp -R Text build/
 cp -R Title build/
 cp *.lmu build/
-cp RPG_RT_.ldb build/RPG_RT.ldb
+cp RPG_RT.ldb build/RPG_RT.ldb
 cp RPG_RT.lmt build/
 cp RPG_RT.ini build/
 cp EasyRPG.ini build/
 cp Player.exe build/
 cp easyrpg.soundfont build/
 rm -r build/Music/mp3/
-
-rm RPG_RT_.ldb
 
 #cp debug.bat build/
 
